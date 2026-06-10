@@ -10,7 +10,7 @@ async function loadLecture() {
 
   // Determine exam folder from id prefix
   const exam = id.split('-')[0]; // mid1, mid2, final
-  const slug = id.split('-').slice(2).join('-');
+  const slug = id.split('-').slice(1).join('-');
 
   try {
     const res = await fetch(`data/${exam}/${slug}.json`);
