@@ -1,0 +1,553 @@
+{
+  "id": "final-02",
+  "slug": "protein-synthesis-inhibitors",
+  "title": "Protein Synthesis Inhibitors",
+  "exam": "final",
+  "topics": [
+    "tetracyclines",
+    "aminoglycosides",
+    "macrolides",
+    "clindamycin",
+    "chloramphenicol",
+    "linezolid",
+    "metronidazole"
+  ],
+  "summary": "مثبطات تخليق البروتين تعمل على الريبوسومات البكتيرية إما على الوحدة 30S (Tetracyclines, Aminoglycosides) أو الوحدة 50S (Macrolides, Clindamycin, Chloramphenicol, Linezolid). معظمها جراثيم-ثابتة (bacteriostatic) ما عدا الأمينوغليكوزيدات التي هي جراثيم-قاتلة (bactericidal). تنقسم المضادات الحيوية حسب نمط القتل إلى تركيز-معتمد (Concentration-dependent مثل الأمينوغليكوزيدات) ووقت-معتمد (Time-dependent مثل البنسلينات والسيفالوسبورينات والماكروليدات والكليندامايسين والليزوليد). السمية الكلوية والسمعية من أهم التأثيرات الجانبية المشتركة في هذه المجموعة.",
+  "key_drugs": [
+    {
+      "name": "Tetracycline",
+      "class": "Tetracycline",
+      "note": "30S، جراثيم-ثابت، طيف واسع، تلوين الأسنان"
+    },
+    {
+      "name": "Doxycycline",
+      "class": "Tetracycline",
+      "note": "امتصاص كامل، يُفضّل في قصور الكلى، يُطرح في الصفراء"
+    },
+    {
+      "name": "Minocycline",
+      "class": "Tetracycline",
+      "note": "يعبر BBB جزئياً، يسبب دوخة وطنين"
+    },
+    {
+      "name": "Tigecycline",
+      "class": "Glycylcycline (Tetracycline derivative)",
+      "note": "IV فقط، واسع الطيف، لا يغطي Pseudomonas/Proteus/Providencia (3Ps)"
+    },
+    {
+      "name": "Streptomycin",
+      "class": "Aminoglycoside",
+      "note": "السل (TB) والطاعون، عضلي"
+    },
+    {
+      "name": "Gentamicin",
+      "class": "Aminoglycoside",
+      "note": "طيلاريميا، تآزر مع Beta-lactam في التهاب الشغاف"
+    },
+    {
+      "name": "Tobramycin",
+      "class": "Aminoglycoside",
+      "note": "فعّال ضد Pseudomonas"
+    },
+    {
+      "name": "Amikacin",
+      "class": "Aminoglycoside",
+      "note": "مقاوم للإنزيمات المعطّلة، للحالات المقاومة"
+    },
+    {
+      "name": "Neomycin",
+      "class": "Aminoglycoside",
+      "note": "موضعي فقط أو فموي لتحضير الأمعاء، لا يُعطى حقناً"
+    },
+    {
+      "name": "Erythromycin",
+      "class": "Macrolide",
+      "note": "50S، بديل البنسلين في الحساسية، خطر cholestatic jaundice"
+    },
+    {
+      "name": "Clarithromycin",
+      "class": "Macrolide",
+      "note": "فعّال ضد H.pylori وH.influenzae"
+    },
+    {
+      "name": "Azithromycin",
+      "class": "Macrolide",
+      "note": "أطول T1/2، مرة يومياً، Chlamydia urogenital"
+    },
+    {
+      "name": "Clindamycin",
+      "class": "Lincosamide",
+      "note": "50S، اللاهوائيات وعدوى العظام، خطر C.diff"
+    },
+    {
+      "name": "Chloramphenicol",
+      "class": "Chloramphenicol",
+      "note": "50S، Gray Baby Syndrome، aplastic anemia"
+    },
+    {
+      "name": "Linezolid",
+      "class": "Oxazolidinone",
+      "note": "50S (23S rRNA)، يثبط MAO، neuropathy مع > 28 يوم"
+    },
+    {
+      "name": "Metronidazole (Flagyl)",
+      "class": "Nitroimidazole",
+      "note": "يكسر DNA، G- اللاهوائيات والطفيليات، طعم معدني"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "STAG-N: الأمينوغليكوزيدات",
+      "body": "S = Streptomycin\nT = Tobramycin\nA = Amikacin\nG = Gentamicin\nN = Neomycin\nتذكّر: كأنك تقود قطيع (STAG) من الجراثيم نحو الهلاك!",
+      "covers": [
+        "Streptomycin",
+        "Tobramycin",
+        "Amikacin",
+        "Gentamicin",
+        "Neomycin"
+      ],
+      "source_ref": "MONOMIMCS/protein-synthesis"
+    },
+    {
+      "type": "story",
+      "title": "Time kills the Pretty Cool Microbes, Like Crazy",
+      "body": "المضادات الوقت-معتمدة (Time-dependent):\nP = Penicillins\nC = Cephalosporins\nM = Macrolides\nL = Linezolid\nC = Clindamycin\nهذه المضادات تحتاج وقتاً لتقتل، زيادة الجرعة لا تزيد الفعالية.",
+      "covers": [
+        "Erythromycin",
+        "Clarithromycin",
+        "Azithromycin",
+        "Clindamycin",
+        "Linezolid"
+      ],
+      "source_ref": "MONOMIMCS/protein-synthesis"
+    },
+    {
+      "type": "visual",
+      "title": "Gray Baby - الطفل الرمادي والكلورامفينيكول",
+      "body": "تخيّل طفلاً حديث الولادة يتحول تدريجياً للون الرمادي بعد اخذ كلورامفينيكول.\nالسبب: الكبد لديه glucuronyl transferase ضعيف، فيتراكم الدواء ويضرب النخاع العظمي والدورة الدموية.\nالصورة: طفل رمادي نائم = لا تعطِ Chloramphenicol لحديثي الولادة أبداً.",
+      "covers": [
+        "Chloramphenicol"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "3Ps التي لا يغطيها Tigecycline",
+      "body": "Tigecycline واسع الطيف جداً... لكنه يخاف من الـ 3Ps:\nP = Pseudomonas aeruginosa\nP = Proteus species\nP = Providencia species\nتذكّر: 'تايغر يصطاد كل شيء إلا الـ 3 حيوانات المحمية PPP'",
+      "covers": [
+        "Tigecycline"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "ON: سمية الأمينوغليكوزيدات",
+      "body": "الأمينوغليكوزيدات تسبب:\nO = Ototoxicity (سمية سمعية - قد تكون دائمة)\nN = Nephrotoxicity (سمية كلوية - عكوسة)\nتذكّر: الأمينوغليكوزيدات تطفئ (OFF) السمع والكلى!",
+      "covers": [
+        "Streptomycin",
+        "Gentamicin",
+        "Tobramycin",
+        "Amikacin"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "مواقع التثبيط: Buy AT 30s, CCEL at 50s",
+      "body": "30S: Aminoglycosides + Tetracyclines (AT). 50S: Clindamycin, Chloramphenicol, Erythromycin, Linezolid (CCEL).",
+      "covers": [
+        "30S inhibitors",
+        "50S inhibitors",
+        "Aminoglycosides",
+        "Tetracyclines",
+        "Macrolides",
+        "Linezolid"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "Aminoglycosides: STAG-N + Mean GNATS caNNOT kill anaerobes",
+      "body": "الأدوية: Streptomycin, Tobramycin, Amikacin, Gentamicin, Neomycin. لا تقتل اللاهوائيات (تحتاج O2 للدخول إلى الخلية). السُّميّة (NNOT): Nephrotoxicity, Neuromuscular blockade, Ototoxicity, Teratogen.",
+      "covers": [
+        "Streptomycin",
+        "Tobramycin",
+        "Amikacin",
+        "Gentamicin",
+        "Neomycin",
+        "Nephrotoxicity",
+        "Ototoxicity",
+        "Neuromuscular blockade",
+        "Teratogenicity",
+        "Anaerobes"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "المعتمدة على الزمن: Time kills the Pretty Cool Microbes, Like Crazy",
+      "body": "Time-dependent killing: Penicillins, Cephalosporins, Macrolides (Pretty Cool Microbes) + Clindamycin, Linezolid (Like Crazy). يقابلها concentration-dependent مثل الأمينوغليكوزيدات والكوينولونات.",
+      "covers": [
+        "Time-dependent killing",
+        "Penicillins",
+        "Cephalosporins",
+        "Macrolides",
+        "Clindamycin",
+        "Linezolid"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما آلية عمل التتراسيكلينات؟",
+      "back": "ترتبط بشكل عكوس بالوحدة 30S الريبوسومية وتمنع ارتباط tRNA بمعقد mRNA-ribosome، مما يثبط تخليق البروتين. جراثيم-ثابتة (bacteriostatic)."
+    },
+    {
+      "front": "لماذا يُفضّل Doxycycline في قصور الكلى بين التتراسيكلينات؟",
+      "back": "لأنه يُطرح عبر الصفراء إلى البراز وليس عبر الكلى، على عكس بقية التتراسيكلينات."
+    },
+    {
+      "front": "ما تأثير التتراسيكلينات على الأطفال والجنين؟",
+      "back": "تترسب في العظام والأسنان النامية (ترتبط بالكالسيوم) → تلوين الأسنان وتشوه العظام. ممنوعة للأطفال < 8 سنوات وللحوامل."
+    },
+    {
+      "front": "ما الفرق بين الأمينوغليكوزيدات والتتراسيكلينات في آلية 30S؟",
+      "back": "التتراسيكلينات: ارتباط عكوس بـ 30S، bacteriostatic. الأمينوغليكوزيدات: ارتباط غير عكوس بـ 30S، تسبب قراءة خاطئة لـ mRNA وتكسّر ribosomes، bactericidal."
+    },
+    {
+      "front": "ما نمط قتل الأمينوغليكوزيدات؟ وما فائدة ذلك؟",
+      "back": "Concentration-dependent killing: كلما زاد التركيز زاد القتل. مع Post-antibiotic effect يسمح بالجرعة اليومية الواحدة (less toxicity + less cost)."
+    },
+    {
+      "front": "لماذا لا يُعطى Neomycin بالحقن؟",
+      "back": "شديد السمية الكلوية جداً عند الاستخدام الجهازي. يُستخدم موضعياً أو فموياً لتحضير الأمعاء قبل جراحة القولون."
+    },
+    {
+      "front": "ما مضاعفة الأمينوغليكوزيدات على الجهاز العصبي العضلي؟",
+      "back": "Neuromuscular paralysis بسبب الرفع السريع للتركيز أو مع حاصرات عصبية عضلية. خطر خاص في Myasthenia gravis. يُعالج بـ Calcium gluconate أو Neostigmine."
+    },
+    {
+      "front": "ما الفرق بين Erythromycin وAzithromycin؟",
+      "back": "Azithromycin: أطول T1/2 (جرعة يومية واحدة)، أفضل ضد H.influenzae وChlamydia urogenital. Erythromycin: أقصر T1/2، بديل البنسلين في الحساسية، يسبب cholestatic jaundice."
+    },
+    {
+      "front": "ما التأثير الجانبي الخطير المرتبط بالماكروليدات على القلب؟",
+      "back": "إطالة QT interval (QT prolongation) مما يزيد خطر اضطرابات نظم القلب."
+    },
+    {
+      "front": "ما آلية عمل الكليندامايسين؟ وأهم استخداماته؟",
+      "back": "يرتبط بالوحدة 50S ويثبط الترجمة (bacteriostatic). يُستخدم ضد: G+ والجراثيم اللاهوائية (Bacteroides fragilis) وعدوى العظام (نفاذية جيدة للعظم)."
+    },
+    {
+      "front": "ما خطر الكليندامايسين المرتبط بـ C. difficile؟",
+      "back": "الكليندامايسين من أعلى المضادات الحيوية خطورةً لإحداث C.difficile infection (CDI/pseudomembranous colitis) ويحمل تحذير Boxed Warning."
+    },
+    {
+      "front": "ما Gray Baby Syndrome؟ ولماذا يحدث؟",
+      "back": "تراكم Chloramphenicol في حديثي الولادة بسبب نقص glucuronyl transferase في الكبد → كبت النخاع العظمي وزرقة → مظهر 'رمادي'. قد يكون مميتاً."
+    },
+    {
+      "front": "ما التحذير الخطير الرئيسي لـ Linezolid عند الاستخدام المطوّل؟",
+      "back": "Irreversible peripheral neuropathy وأعصاب بصرية (optic neuritis → عمى) عند الاستخدام > 28 يوماً. أيضاً يثبط MAO → serotonin syndrome."
+    },
+    {
+      "front": "ما الفرق بين Demeclocycline واستخداماتها المميزة؟",
+      "back": "Demeclocycline = تتراسيكلين يُستخدم لعلاج SIADH (متلازمة الإفراز غير الملائم لـ ADH) لأنه يثبط فعل ADH على الكلى."
+    },
+    {
+      "front": "ما هو Metronidazole وآلية عمله؟",
+      "back": "Metronidazole (Flagyl) نيتروإيميدازول يكسر DNA البكتيري والطفيلي. فعّال ضد G- اللاهوائيات والطفيليات (Giardia, Trichomonas, Entamoeba). أهم تأثير جانبي: طعم معدني."
+    },
+    {
+      "front": "لماذا لا تُستخدم الأمينوغليكوزيدات في التهاب السحايا؟",
+      "back": "لأنها لا تعبر الحاجز الدموي الدماغي (BBB) بتركيزات كافية حتى عند التهاب السحايا."
+    },
+    {
+      "front": "ما استخدام Streptomycin المميز؟",
+      "back": "السل (Tuberculosis) والطاعون (Plague) والبروسيلا، يُعطى عضلياً (IM)."
+    },
+    {
+      "front": "ما الأطعمة التي يجب تجنبها مع التتراسيكلينات؟",
+      "back": "الحليب، الجبن، وكل ما يحتوي Ca++, Mg++, Al+++, Iron لأنها تكوّن chelates غير قابلة للامتصاص مع التتراسيكلينات."
+    },
+    {
+      "front": "ما الفرق بين الماكروليدات وكيف تُطرح من الجسم؟",
+      "back": "تُطرح الماكروليدات عبر الكبد (hepatic) وليس الكلى. تثبط CYP450 مما يسبب تفاعلات دوائية. Azithromycin له أطول T1/2."
+    },
+    {
+      "front": "ما آلية عمل Linezolid وما الفرق عن بقية مثبطات 50S؟",
+      "back": "Linezolid يرتبط بـ 23S rRNA في الوحدة 50S ويثبط تكوين مركب الابتداء 70S. هذه نقطة ارتباط فريدة تختلف عن Chloramphenicol والماكروليدات."
+    },
+    {
+      "front": "أي مثبطات تخليق البروتين تعمل على 30S؟",
+      "back": "الأمينوغليكوزيدات والتتراسيكلينات.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "أي مثبطات تعمل على 50S؟",
+      "back": "الماكروليدات، Clindamycin، Chloramphenicol، Linezolid."
+    },
+    {
+      "front": "لماذا الأمينوغليكوزيدات قاتلة وتحتاج O2؟",
+      "back": "تحتاج نقلاً هوائياً للدخول → لا تعمل على اللاهوائيات؛ قتل معتمد على التركيز.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما سُمّيات الأمينوغليكوزيدات؟",
+      "back": "كلوية، سمعية/دهليزية، حصار عصبي عضلي، ماسخة (STAG-N → NNOT)."
+    },
+    {
+      "front": "ما سُمّية Chloramphenicol؟",
+      "back": "فقر دم لا تنسجي ومتلازمة الطفل الرمادي (grey baby).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما سُمّية التتراسيكلين المميّزة؟",
+      "back": "تصبّغ الأسنان وتثبيط نمو العظام؛ تُمنع بالحمل والأطفال."
+    },
+    {
+      "front": "ما آلية الماكروليدات (Erythromycin)؟",
+      "back": "ترتبط بـ 50S وتمنع الانتقال (translocation)؛ موقفة للنمو."
+    },
+    {
+      "front": "ما ميزة Linezolid؟",
+      "back": "فعّال ضد MRSA وVRE؛ خطر تثبيط نقوي ومتلازمة سيروتونين."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "طفل عمره 5 سنوات يحتاج علاج عدوى Chlamydia. أي المضادات الحيوية ممنوع إعطاؤه؟",
+      "options": [
+        "Azithromycin",
+        "Erythromycin",
+        "Tetracycline",
+        "Clarithromycin"
+      ],
+      "answer": 2,
+      "explanation": "Tetracycline ممنوع للأطفال أقل من 8 سنوات بسبب ترسبه في العظام والأسنان النامية مما يسبب تلوناً وتشوهات."
+    },
+    {
+      "q": "ما التتراسيكلين الوحيد المفضّل في مرضى قصور الكلى؟",
+      "options": [
+        "Tetracycline",
+        "Minocycline",
+        "Doxycycline",
+        "Demeclocycline"
+      ],
+      "answer": 2,
+      "explanation": "Doxycycline يُطرح عبر الصفراء (feces) وليس عبر الكلى، لذلك هو الوحيد الآمن في قصور الكلى."
+    },
+    {
+      "q": "مريض يتلقى Aminoglycoside وظهرت عليه شلل عضلي تدريجي. ما العلاج الصحيح؟",
+      "options": [
+        "Atropine",
+        "Epinephrine",
+        "Calcium gluconate",
+        "Vitamin K"
+      ],
+      "answer": 2,
+      "explanation": "Calcium gluconate أو Neostigmine يعكسان الحصار العصبي العضلي الناتج عن الأمينوغليكوزيدات."
+    },
+    {
+      "q": "ما الأمينوغليكوزيد الذي يُستخدم فموياً لتحضير الأمعاء قبل الجراحة؟",
+      "options": [
+        "Gentamicin",
+        "Streptomycin",
+        "Amikacin",
+        "Neomycin"
+      ],
+      "answer": 3,
+      "explanation": "Neomycin شديد السمية الكلوية جهازياً، لذلك يُعطى فموياً (لا يُمتص) أو موضعياً فقط."
+    },
+    {
+      "q": "مريضة حامل مصابة بعدوى Chlamydia. ما المضاد الحيوي الأنسب؟",
+      "options": [
+        "Tetracycline",
+        "Doxycycline",
+        "Erythromycin",
+        "Minocycline"
+      ],
+      "answer": 2,
+      "explanation": "Erythromycin هو الخيار الأمثل للـ Chlamydia في الحمل. التتراسيكلينات ممنوعة في الحمل بسبب تأثيرها على عظام وأسنان الجنين."
+    },
+    {
+      "q": "أي الأدوية التالية يسبب Gray Baby Syndrome؟",
+      "options": [
+        "Erythromycin",
+        "Clindamycin",
+        "Chloramphenicol",
+        "Linezolid"
+      ],
+      "answer": 2,
+      "explanation": "Chloramphenicol يتراكم في حديثي الولادة بسبب نقص glucuronyl transferase → Gray Baby Syndrome مع كبت نخاع وزرقة."
+    },
+    {
+      "q": "مريض يتناول Linezolid منذ 6 أسابيع. ما المضاعفة الأكثر قلقاً؟",
+      "options": [
+        "Nephrotoxicity",
+        "Hepatotoxicity",
+        "Irreversible peripheral neuropathy",
+        "QT prolongation"
+      ],
+      "answer": 2,
+      "explanation": "Linezolid مع الاستخدام > 28 يوماً يسبب neuropathy محيطية لا عكوسة وأعصاب بصرية قد تؤدي للعمى."
+    },
+    {
+      "q": "ما الـ 3Ps التي لا يغطيها Tigecycline؟",
+      "options": [
+        "Pneumonia, Plague, Pertussis",
+        "Pseudomonas, Proteus, Providencia",
+        "Peptostreptococcus, Prevotella, Porphyromonas",
+        "Pasteurella, Propionibacterium, Peptostreptococcus"
+      ],
+      "answer": 1,
+      "explanation": "Tigecycline لا يغطي الـ 3Ps: Pseudomonas, Proteus, Providencia رغم طيفه الواسع جداً."
+    },
+    {
+      "q": "ما الفرق الرئيسي بين نمط قتل الأمينوغليكوزيدات والبنسلينات؟",
+      "options": [
+        "الأمينوغليكوزيدات وقت-معتمدة، البنسلينات تركيز-معتمدة",
+        "الأمينوغليكوزيدات تركيز-معتمدة مع PAE، البنسلينات وقت-معتمدة بلا PAE",
+        "كلاهما تركيز-معتمد",
+        "كلاهما وقت-معتمد"
+      ],
+      "answer": 1,
+      "explanation": "الأمينوغليكوزيدات: concentration-dependent مع post-antibiotic effect (PAE) يسمح بجرعة يومية واحدة. البنسلينات: time-dependent بلا PAE تقريباً."
+    },
+    {
+      "q": "أي الماكروليدات هو الخيار الأول لـ urogenital Chlamydia infection؟",
+      "options": [
+        "Erythromycin",
+        "Clarithromycin",
+        "Azithromycin",
+        "Telithromycin"
+      ],
+      "answer": 2,
+      "explanation": "Azithromycin هو الخيار الأول لـ Chlamydia urogenital بفضل T1/2 الطويل جداً والجرعة الواحدة الكافية للعلاج."
+    },
+    {
+      "q": "الأمينوغليكوزيدات لا تعمل على اللاهوائيات لأنها:",
+      "options": [
+        "كبيرة جداً",
+        "تحتاج نقلاً هوائياً (O2)",
+        "موقفة للنمو",
+        "تُحطّم بالحمض"
+      ],
+      "answer": 1,
+      "explanation": "دخولها يعتمد على الأكسجين.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "متلازمة الطفل الرمادي ترتبط بـ:",
+      "options": [
+        "Gentamicin",
+        "Chloramphenicol",
+        "Doxycycline",
+        "Erythromycin"
+      ],
+      "answer": 1,
+      "explanation": "نقص استقلابه عند الولدان.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "Linezolid مفيد بشكل خاص ضد:",
+      "options": [
+        "سالبة الغرام",
+        "MRSA وVRE",
+        "الفطريات",
+        "اللاهوائيات فقط"
+      ],
+      "answer": 1,
+      "explanation": "يغطي موجبة الغرام المقاومة.",
+      "difficulty": "medium"
+    }
+  ],
+  "classification": {
+    "title": "Protein synthesis inhibitors",
+    "groups": [
+      {
+        "name": "30S subunit",
+        "drugs": [
+          "Aminoglycosides (Gentamicin, Amikacin, Tobramycin, Streptomycin, Neomycin)",
+          "Tetracyclines (Doxycycline)"
+        ]
+      },
+      {
+        "name": "50S subunit",
+        "drugs": [
+          "Macrolides (Erythromycin, Azithromycin)",
+          "Clindamycin",
+          "Chloramphenicol",
+          "Linezolid"
+        ]
+      }
+    ]
+  },
+  "high_yield": [
+    {
+      "point": "Aminoglycosides قاتلة، معتمدة على التركيز (concentration-dependent)، تحتاج O2 للدخول → لا تعمل على اللاهوائيات.",
+      "tag": "mechanism"
+    },
+    {
+      "point": "سُمّية Aminoglycosides: كلوية + سمعية/دهليزية + حصار عصبي عضلي + ماسخة للجنين.",
+      "tag": "adverse"
+    },
+    {
+      "point": "Chloramphenicol → فقر دم لا تنسجي + متلازمة الطفل الرمادي (Grey baby).",
+      "tag": "adverse"
+    },
+    {
+      "point": "معظم مثبطات تخليق البروتين موقفة للنمو (bacteriostatic) ما عدا الأمينوغليكوزيدات (قاتلة).",
+      "tag": "mechanism"
+    }
+  ],
+  "comparison_tables": [
+    {
+      "title": "30S vs 50S inhibitors",
+      "columns": [
+        "",
+        "30S",
+        "50S"
+      ],
+      "rows": [
+        [
+          "الأدوية",
+          "Aminoglycosides, Tetracyclines",
+          "Macrolides, Clindamycin, Chloramphenicol, Linezolid"
+        ],
+        [
+          "قاتل/موقف",
+          "Aminoglycosides قاتلة؛ Tetracyclines موقفة",
+          "موقفة غالباً"
+        ]
+      ]
+    },
+    {
+      "title": "Bactericidal vs Bacteriostatic",
+      "columns": [
+        "قاتلة (Cidal)",
+        "موقفة (Static)"
+      ],
+      "rows": [
+        [
+          "Aminoglycosides",
+          "Tetracyclines"
+        ],
+        [
+          "β-lactams",
+          "Macrolides"
+        ],
+        [
+          "Vancomycin",
+          "Clindamycin / Chloramphenicol"
+        ],
+        [
+          "Fluoroquinolones",
+          "Sulfonamides"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "id": "mid2-07",
+  "slug": "gout",
+  "title": "Drugs Used in the Treatment of Gout",
+  "exam": "mid2",
+  "topics": [
+    "Gout",
+    "Uric Acid",
+    "Xanthine Oxidase Inhibitors",
+    "Uricosurics",
+    "Colchicine",
+    "NSAIDs",
+    "Corticosteroids",
+    "IL-1 Inhibitors"
+  ],
+  "summary": "النقرس هو التهاب مؤلم في المفاصل ناتج عن ترسب بلورات يورات الصوديوم، ويصيب غالباً مفصل إبهام القدم. يُعالج النقرس الحاد بمضادات الالتهاب غير الستيرويدية (NSAIDs) أو الكولشيسين أو الكورتيكوستيرويدات. أما العلاج طويل الأمد فيهدف إلى تخفيض مستوى حمض اليوريك في الدم إلى ما دون 6 ملغ/ديسيلتر باستخدام مثبطات إنزيم أوكسيديز الزانثين كالأللوبيورينول أو الفيبوكسوستات، أو العوامل اليوريكوزورية كالبروبينيسيد. في الحالات الشديدة المقاومة، يُستخدم البيغلوتيكاز وريدياً لتحويل حمض اليوريك إلى ألانتوين أكثر قابلية للذوبان.",
+  "key_drugs": [
+    {
+      "name": "Indomethacin / Naproxen",
+      "class": "NSAIDs",
+      "note": "خط أول في النقرس الحاد - تثبط تخليق البروستاغلاندين"
+    },
+    {
+      "name": "Colchicine",
+      "class": "Anti-gout",
+      "note": "تثبط تكوين الأنابيب الدقيقة وبالتالي تمنع هجرة العدلات - أفضل في أول 24 ساعة"
+    },
+    {
+      "name": "Prednisone",
+      "class": "Corticosteroid",
+      "note": "عند وجود تعارض مع NSAIDs أو الكولشيسين"
+    },
+    {
+      "name": "Allopurinol",
+      "class": "Xanthine Oxidase Inhibitor (XOI)",
+      "note": "خط أول في العلاج طويل الأمد - يخفض إنتاج حمض اليوريك"
+    },
+    {
+      "name": "Febuxostat",
+      "class": "Xanthine Oxidase Inhibitor (XOI)",
+      "note": "بديل Allopurinol - يرفع خطر الأحداث القلبية الوعائية"
+    },
+    {
+      "name": "Probenecid",
+      "class": "Uricosuric Agent",
+      "note": "يثبط ناقل URAT1 في الأنابيب الكلوية - يزيد إفراز حمض اليوريك"
+    },
+    {
+      "name": "Pegloticase",
+      "class": "Uricase Agent",
+      "note": "للحالات المقاومة - يحوّل حمض اليوريك إلى ألانتوين - يُعطى وريدياً كل أسبوعين"
+    },
+    {
+      "name": "Canakinumab / Anakinra",
+      "class": "IL-1 Inhibitor",
+      "note": "يُثبط الانترلوكين-1 - للحالات التي يتعارض فيها العلاج التقليدي"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "علاج النقرس الحاد: CIA",
+      "body": "C = Colchicine\nI = Indomethacin (NSAIDs)\nA = (Cortico)steroids\nالترتيب: NSAIDs أولاً، ثم Colchicine، ثم Steroids عند الحاجة",
+      "covers": [
+        "Colchicine",
+        "Indomethacin",
+        "Prednisone"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "الأللوبيورينول: 'عدو اليورات'",
+      "body": "تخيّل إنزيم Xanthine Oxidase كـ'مصنع' ينتج حمض اليوريك - الأللوبيورينول يُوقف هذا المصنع تماماً. Allopurinol = 'يوقف الإنتاج'. تذكّر: كلمة 'Allo' تعني 'ضد' = ضد اليوريك.",
+      "covers": [
+        "Allopurinol",
+        "Febuxostat"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "Probenecid يفتح 'باب' الكلية",
+      "body": "تخيّل الكلية كسجن، وحمض اليوريك سجين. Probenecid يفتح الباب ويطرد السجين خارجاً في البول. كل مرة تسمع Probenecid تذكّر: 'يطرد اليوريك من الكلية'.",
+      "covers": [
+        "Probenecid"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "Pegloticase: محوّل اليوريك",
+      "body": "Pegloticase = Peg (وتد) + loticase. كأنك تُبدّل شكل حمض اليوريك بضغطة - من مادة صعبة الإذابة إلى ألانتوين سهل الإفراز. يُعطى وريداً كل أسبوعين للحالات الشديدة المقاومة.",
+      "covers": [
+        "Pegloticase"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "تأثيرات Colchicine الجانبية: DNA",
+      "body": "D = Diarrhea (إسهال - الأكثر شيوعاً)\nN = Nausea/Vomiting (غثيان وقيء)\nA = Aplasia (كبت نقي العظم)\nتذكّر: Colchicine تؤثر على الخلايا السريعة الانقسام",
+      "covers": [
+        "Colchicine"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما هو تعريف النقرس (Gout)؟",
+      "back": "التهاب مؤلم في المفاصل ناتج عن ترسب بلورات يورات الصوديوم (Monosodium Urate Crystals)، يُشخَّص بفحص بلورات في السائل الزليلي"
+    },
+    {
+      "front": "ما هو المفصل الأكثر إصابة بالنقرس الحاد؟",
+      "back": "مفصل إبهام القدم الأول (First Metatarsophalangeal Joint)"
+    },
+    {
+      "front": "ما الفرق بين النقرس الأولي والثانوي؟",
+      "back": "الأولي: عوامل جينية وأيضية (90%) - الثانوي: أمراض أخرى أو أدوية (كمدرات البول)"
+    },
+    {
+      "front": "ما آلية عمل Colchicine؟",
+      "back": "تثبط تكوين الأنابيب الدقيقة (Microtubule Formation) وبالتالي تمنع هجرة العدلات إلى موقع الالتهاب"
+    },
+    {
+      "front": "متى يكون Colchicine الأكثر فاعلية؟",
+      "back": "في أول 24 ساعة من بدء نوبة النقرس الحاد"
+    },
+    {
+      "front": "ما الآثار الجانبية الشائعة لـ Colchicine؟",
+      "back": "إسهال (Diarrhea)، غثيان وقيء، كبت نقي العظم (Bone Marrow Suppression)"
+    },
+    {
+      "front": "ما الهدف من العلاج طويل الأمد (ULT) للنقرس؟",
+      "back": "تخفيض حمض اليوريك في الدم إلى أقل من 6 ملغ/ديسيلتر لمنع ترسب البلورات وإذابة التوفي"
+    },
+    {
+      "front": "ما آلية عمل Allopurinol و Febuxostat؟",
+      "back": "تثبطان إنزيم Xanthine Oxidase مما يقلل تحويل Hypoxanthine وXanthine إلى حمض اليوريك"
+    },
+    {
+      "front": "ما الآثار الجانبية الخطيرة لـ Allopurinol؟",
+      "back": "طفح جلدي قد يتطور إلى متلازمة Stevens-Johnson، تسمم كبدي، اضطراب GI"
+    },
+    {
+      "front": "لماذا يُفضَّل Febuxostat على Allopurinol في بعض الحالات؟",
+      "back": "عند عدم تحمّل Allopurinol أو عدم فاعليته - لكن Febuxostat يرفع خطر الأحداث القلبية الوعائية"
+    },
+    {
+      "front": "ما آلية عمل Probenecid؟",
+      "back": "يثبط ناقل URAT1 في الأنابيب الكلوية مما يقلل إعادة امتصاص حمض اليوريك ويزيد إفرازه في البول"
+    },
+    {
+      "front": "ما الآثار الجانبية لـ Probenecid؟",
+      "back": "حصوات الكلى (Uric Acid Kidney Stones)، اضطراب GI، طفح جلدي"
+    },
+    {
+      "front": "ما آلية عمل Pegloticase؟",
+      "back": "إنزيم Uricase مؤتلف يحوّل حمض اليوريك إلى Allantoin الأكثر ذوباناً وسهولة في الإفراز"
+    },
+    {
+      "front": "لمن يُستخدم Pegloticase؟",
+      "back": "للنقرس المزمن الشديد المقاوم للعلاج، للمرضى الذين لا يستجيبون أو لا يتحملون Allopurinol/Febuxostat"
+    },
+    {
+      "front": "ما طريقة إعطاء Pegloticase وما أهم آثاره الجانبية؟",
+      "back": "وريدي (IV infusion) كل أسبوعين - الآثار: ردود فعل تسريب، صدمة تأقية (Anaphylaxis) تتطلب مراقبة"
+    },
+    {
+      "front": "متى تُستخدم مثبطات IL-1 (Canakinumab/Anakinra) في النقرس؟",
+      "back": "عندما تكون NSAIDs والكولشيسين والكورتيكوستيرويدات متعارضة أو غير فعالة أو غير محتملة"
+    },
+    {
+      "front": "ما الفرق بين علاج النقرس الحاد والمزمن؟",
+      "back": "الحاد: NSAIDs/Colchicine/Steroids لوقف النوبة - المزمن: ULT (Allopurinol/Febuxostat/Probenecid) لمنع النوبات مستقبلاً"
+    },
+    {
+      "front": "ما هي Tophi في النقرس؟",
+      "back": "عقيدات تحت الجلد تتكوّن من بلورات يورات الصوديوم في مصفوفة من الدهون والبروتينات - تظهر في النقرس المزمن"
+    },
+    {
+      "front": "ما سبب النقرس (Gout)؟",
+      "back": "ترسّب بلورات حمض اليوريك في المفاصل بسبب فرط اليوريك (إنتاج زائد أو طرح ناقص)."
+    },
+    {
+      "front": "ما آلية Colchicine؟",
+      "back": "يثبّط بلمرة الأنابيب الدقيقة → يقلل هجرة العدلات وبلعمتها للبلورات.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما العرض الجانبي الأبرز لـ Colchicine؟",
+      "back": "الإسهال والاضطراب الهضمي."
+    },
+    {
+      "front": "ما آلية Allopurinol؟",
+      "back": "يثبّط xanthine oxidase → يقلل إنتاج حمض اليوريك.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "لماذا لا نبدأ Allopurinol أثناء النوبة الحادة؟",
+      "back": "قد يفاقم/يطيل النوبة بتحريك اليوريك."
+    },
+    {
+      "front": "ما هو Rasburicase؟",
+      "back": "إنزيم urate oxidase يحوّل اليوريك لمادة قابلة للذوبان - في متلازمة انحلال الورم."
+    },
+    {
+      "front": "ما تداخل Allopurinol المهم؟",
+      "back": "يثبّط استقلاب Azathioprine/6-MP → سُمّية (خفّض جرعتهما)."
+    },
+    {
+      "front": "ما آلية Probenecid؟",
+      "back": "uricosuric يثبّط إعادة امتصاص اليوريك الكلوي → يزيد طرحه."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "مريض يُعاني من نوبة نقرس حادة منذ 12 ساعة. ما هو أفضل علاج في هذه الحالة؟",
+      "options": [
+        "Allopurinol",
+        "Colchicine",
+        "Probenecid",
+        "Pegloticase"
+      ],
+      "answer": 1,
+      "explanation": "Colchicine أكثر فاعلية عند إعطائه في أول 24 ساعة من النوبة الحادة. يثبط هجرة العدلات بتثبيط تكوين الأنابيب الدقيقة."
+    },
+    {
+      "q": "ما آلية عمل Allopurinol في علاج النقرس المزمن؟",
+      "options": [
+        "يزيد إفراز حمض اليوريك في الكلية",
+        "يثبط إنزيم Xanthine Oxidase",
+        "يحوّل حمض اليوريك إلى Allantoin",
+        "يثبط الانترلوكين-1"
+      ],
+      "answer": 1,
+      "explanation": "Allopurinol يثبط إنزيم Xanthine Oxidase مما يمنع تحويل Hypoxanthine وXanthine إلى حمض اليوريك، فيقل إنتاجه."
+    },
+    {
+      "q": "مريض بنقرس مزمن لا يتحمل Allopurinol. ما البديل الأنسب لتخفيض حمض اليوريك؟",
+      "options": [
+        "Colchicine",
+        "Probenecid",
+        "Febuxostat",
+        "Prednisone"
+      ],
+      "answer": 2,
+      "explanation": "Febuxostat مثبط آخر لـ Xanthine Oxidase يُستخدم بديلاً عند عدم تحمّل Allopurinol أو عدم فاعليته."
+    },
+    {
+      "q": "ما الآثار الجانبية المميزة لـ Colchicine؟",
+      "options": [
+        "ارتفاع ضغط الدم وتورم القدمين",
+        "الإسهال والغثيان وكبت نقي العظم",
+        "حصوات كلوية وطفح جلدي",
+        "صدمة تأقية وردود فعل تسريب"
+      ],
+      "answer": 1,
+      "explanation": "Colchicine تسبب بشكل رئيسي: إسهال (Diarrhea)، غثيان وقيء، وكبت نقي العظم (Bone Marrow Suppression) في الجرعات الكبيرة."
+    },
+    {
+      "q": "أي الأدوية التالية يعمل بتثبيط ناقل URAT1 في الأنابيب الكلوية؟",
+      "options": [
+        "Allopurinol",
+        "Febuxostat",
+        "Probenecid",
+        "Pegloticase"
+      ],
+      "answer": 2,
+      "explanation": "Probenecid (عامل يوريكوزوري) يثبط ناقل URAT1 مما يقلل إعادة امتصاص حمض اليوريك ويزيد إفرازه البولي."
+    },
+    {
+      "q": "مريضة بنقرس مزمن شديد مقاوم لـ Allopurinol وFebuxostat. ما الخيار العلاجي؟",
+      "options": [
+        "Probenecid فموياً",
+        "Colchicine بجرعة مضاعفة",
+        "Pegloticase وريدياً",
+        "Canakinumab تحت الجلد"
+      ],
+      "answer": 2,
+      "explanation": "Pegloticase (IV) مخصص للنقرس الشديد المقاوم الذي لا يستجيب للعلاجات القياسية. يُعطى كل أسبوعين ويحوّل حمض اليوريك إلى Allantoin."
+    },
+    {
+      "q": "ما الهدف العلاجي لمستوى حمض اليوريك في الدم عند مرضى النقرس تحت العلاج؟",
+      "options": [
+        "أقل من 8 ملغ/ديسيلتر",
+        "أقل من 6 ملغ/ديسيلتر",
+        "أقل من 10 ملغ/ديسيلتر",
+        "أقل من 4 ملغ/ديسيلتر"
+      ],
+      "answer": 1,
+      "explanation": "الهدف هو تخفيض حمض اليوريك إلى أقل من 6 ملغ/ديسيلتر (أقل من 5 في الحالات الشديدة) لمنع ترسب البلورات وإذابة التوفي."
+    },
+    {
+      "q": "ما الآثار الجانبية الخطيرة لـ Allopurinol؟",
+      "options": [
+        "انسداد رئوي ونزيف",
+        "متلازمة Stevens-Johnson وتسمم كبدي",
+        "صدمة تأقية وردود فعل تسريب",
+        "اختلال عصبي وهشاشة عظام"
+      ],
+      "answer": 1,
+      "explanation": "Allopurinol قد يسبب طفح جلدي يتطور إلى متلازمة Stevens-Johnson الخطيرة، إضافة إلى تسمم كبدي واضطراب GI."
+    },
+    {
+      "q": "في أي حالة تُستخدم الكورتيكوستيرويدات في علاج النقرس الحاد؟",
+      "options": [
+        "كخط أول دائماً",
+        "عندما تكون NSAIDs والكولشيسين متعارضة أو غير مناسبة",
+        "فقط في النقرس الثانوي",
+        "مع Allopurinol لتعزيز الفاعلية"
+      ],
+      "answer": 1,
+      "explanation": "الكورتيكوستيرويدات تُستخدم عند وجود تعارض أو عدم تحمّل NSAIDs والكولشيسين. قد تكون تحقنة داخل المفصل (intra-articular) أو جهازية."
+    },
+    {
+      "q": "مريض بنقرس يبدأ علاج ULT. لماذا يُعطى Colchicine وقائياً في البداية؟",
+      "options": [
+        "لتحفيز إفراز حمض اليوريك",
+        "لمنع نوبات النقرس التي قد تحدث عند بدء ULT",
+        "لتعزيز فاعلية Allopurinol",
+        "لتقليل الآثار الجانبية لـ Probenecid"
+      ],
+      "answer": 1,
+      "explanation": "عند بدء ULT يحدث تذبذب في مستوى حمض اليوريك مما قد يُحرّض نوبات حادة. يُعطى Colchicine (0.5-1 ملغ/يومياً) وقائياً لمدة 3-6 أشهر."
+    },
+    {
+      "q": "Colchicine يعمل بـ:",
+      "options": [
+        "تثبيط xanthine oxidase",
+        "تثبيط بلمرة الأنابيب الدقيقة",
+        "زيادة طرح اليوريك",
+        "تثبيط COX"
+      ],
+      "answer": 1,
+      "explanation": "يمنع هجرة العدلات.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "لا يُبدأ Allopurinol أثناء النوبة الحادة لأنه:",
+      "options": [
+        "يرفع الضغط",
+        "قد يفاقم/يطيل النوبة",
+        "يسبب إسهالاً",
+        "يثبّط الصفائح"
+      ],
+      "answer": 1,
+      "explanation": "تحريك اليوريك يفاقم النوبة.",
+      "difficulty": "medium"
+    }
+  ],
+  "high_yield": [
+    {
+      "point": "النوبة الحادة: NSAIDs أو Colchicine أو الجلوكوكورتيكويد. لا تبدأ خافضات اليوريك أثناء النوبة.",
+      "tag": "indication"
+    },
+    {
+      "point": "Colchicine يثبّط البلمرة الأنبوبية الدقيقة (microtubules) → يقلل هجرة العدلات.",
+      "tag": "mechanism"
+    },
+    {
+      "point": "Allopurinol و Febuxostat يثبّطان xanthine oxidase (يقللان إنتاج اليوريك).",
+      "tag": "mechanism"
+    },
+    {
+      "point": "Probenecid uricosuric يزيد طرح اليوريك (يُمنع مع حصوات/قصور كلوي).",
+      "tag": "mechanism"
+    },
+    {
+      "point": "Allopurinol + Azathioprine/6-MP → سُمّية (يثبّط استقلابهما).",
+      "tag": "interaction"
+    }
+  ],
+  "comparison_tables": [
+    {
+      "title": "علاج النوبة الحادة مقابل المزمن",
+      "columns": [
+        "",
+        "حاد",
+        "مزمن (وقائي)"
+      ],
+      "rows": [
+        [
+          "الأدوية",
+          "NSAIDs, Colchicine, Steroids",
+          "Allopurinol, Febuxostat, Probenecid"
+        ],
+        [
+          "الهدف",
+          "تسكين الالتهاب",
+          "خفض اليوريك"
+        ],
+        [
+          "متى يبدأ",
+          "فوراً",
+          "بعد انتهاء النوبة"
+        ]
+      ]
+    },
+    {
+      "title": "Allopurinol vs Probenecid",
+      "columns": [
+        "",
+        "Allopurinol",
+        "Probenecid"
+      ],
+      "rows": [
+        [
+          "الآلية",
+          "يثبّط xanthine oxidase",
+          "uricosuric (يزيد الطرح)"
+        ],
+        [
+          "ينقص الإنتاج/يزيد الطرح",
+          "ينقص الإنتاج",
+          "يزيد الطرح"
+        ],
+        [
+          "موانع",
+          "—",
+          "حصوات كلوية، قصور كلوي"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "id": "final-05",
+  "slug": "antiparasitic",
+  "title": "Antiparasitic Drugs",
+  "exam": "final",
+  "topics": [
+    "protozoa",
+    "helminths",
+    "ectoparasites",
+    "malaria",
+    "giardia",
+    "amoebiasis",
+    "anthelmintics"
+  ],
+  "summary": "الادوية المضادة للطفيليات تشمل ثلاث مجموعات: ادوية الاوليات (Protozoa) مثل Metronidazole للـ Giardia والـ Entamoeba وادوية الملاريا، وادوية الديدان الطفيلية (Helminths) مثل Albendazole وIvermectin وPraziquantel، وادوية الطفيليات الخارجية (Ectoparasites) مثل Permethrin. Metronidazole دواء شامل للبكتيريا اللاهوائية والطفيليات الاولية ويسبب تفاعل مشابه للـ Disulfiram مع الكحول. Albendazole يعمل بتثبيط تكوين الانابيب الدقيقة مما يحرم الطفيل من الجلوكوز ويؤدي الى موته.",
+  "key_drugs": [
+    {
+      "name": "Metronidazole",
+      "class": "Nitroimidazole",
+      "note": "Prodrug activated in anaerobes; treats Giardia, Entamoeba, anaerobes; disulfiram-like with alcohol"
+    },
+    {
+      "name": "Artemisinin (Artemether)",
+      "class": "Antimalarial - Sesquiterpene",
+      "note": "Free radical formation via iron activation; first-line for P. falciparum"
+    },
+    {
+      "name": "Chloroquine",
+      "class": "Antimalarial - Quinoline",
+      "note": "Inhibits heme detoxification; resistance common in P. falciparum"
+    },
+    {
+      "name": "Pyrimethamine",
+      "class": "Antimalarial - Antifolate",
+      "note": "Inhibits folate synthesis; used in prophylaxis; bone marrow suppression"
+    },
+    {
+      "name": "Albendazole",
+      "class": "Benzimidazole anthelmintic",
+      "note": "Inhibits microtubule formation; broad-spectrum for intestinal and tissue worms"
+    },
+    {
+      "name": "Mebendazole",
+      "class": "Benzimidazole anthelmintic",
+      "note": "Same MOA as Albendazole; mainly for intestinal worms"
+    },
+    {
+      "name": "Ivermectin",
+      "class": "Avermectin",
+      "note": "Enhances GABA → parasite paralysis; for Strongyloides, Onchocerca, ectoparasites"
+    },
+    {
+      "name": "Praziquantel",
+      "class": "Anthelmintic",
+      "note": "Increases calcium permeability → muscle contraction/paralysis; for Schistosoma, tapeworms"
+    },
+    {
+      "name": "Permethrin",
+      "class": "Pyrethroid ectoparasiticide",
+      "note": "Disrupts sodium channels → neurotoxicity in parasites; first-line for scabies and lice"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "story",
+      "title": "Metro = طريق بلا هواء",
+      "body": "Metronidazole = 'Metro' يسير في طريق بلا هواء (anaerobic). في الكائنات اللاهوائية يتحول الى جذور حرة (free radicals) تحطم DNA فتقتلها. الكائنات الهوائية (كخلايانا) لا تفعّله لذا هو آمن نسبيا.",
+      "covers": [
+        "Metronidazole"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "GEM - طفيليات الاوليات وعلاجها",
+      "body": "G = Giardia → Metronidazole (greasy stool)\nE = Entamoeba → Metronidazole + luminal agent (bloody stool)\nM = Malaria → Artemisinin-based combination (cyclic fever)",
+      "covers": [
+        "Metronidazole",
+        "Artemisinin (Artemether)"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "Albendazole يجوع الدودة",
+      "body": "تخيل دودة جائعة (deprived of glucose). Albendazole يكسر انابيبها الدقيقة (microtubules) اللازمة لامتصاص الجلوكوز. بدون طاقة (ATP) تموت الدودة جوعا. الصورة: دودة تشبك يديها على بطنها الخاوي.",
+      "covers": [
+        "Albendazole",
+        "Mebendazole"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "Praziquantel يسبب تشنج",
+      "body": "Praziquantel = 'برازي يكانتل' يفتح قنوات الكالسيوم في الدودة (Schistosoma/Tapeworm) فتدخل كميات هائلة من Ca++ تسبب تقلصا عضليا شديدا وشللا ثم موت الطفيل.",
+      "covers": [
+        "Praziquantel"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "SNAP - علاج الديدان حسب المكان",
+      "body": "S = Stay in gut (intestinal worms) → Albendazole\nN = Nematodes → Albendazole/Ivermectin\nA = All tissues (Echinococcus liver cysts) → Albendazole\nP = Parasites in blood/vessels (Schistosoma) → Praziquantel",
+      "covers": [
+        "Albendazole",
+        "Ivermectin",
+        "Praziquantel"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "كيف يعمل Metronidazole؟",
+      "back": "Prodrug يتفعّل في الكائنات اللاهوائية ليكوّن جذورا حرة تحطم DNA وتسبب موت الخلية."
+    },
+    {
+      "front": "لماذا Metronidazole لا يقضي على الاكياس اللمعية للـ Entamoeba وحده؟",
+      "back": "Metronidazole لا يقضي على cysts اللمعية (intestinal) بشكل موثوق، لذا يضاف اليه دواء لمعي مثل Paromomycin."
+    },
+    {
+      "front": "ما هو التفاعل الخطير لـ Metronidazole مع الكحول؟",
+      "back": "تفاعل مشابه لـ Disulfiram: غثيان، تقيؤ، احمرار، الم صدر عند شرب الكحول."
+    },
+    {
+      "front": "ما هو آلية عمل Artemisinin في علاج الملاريا؟",
+      "back": "الحديد الموجود داخل الطفيل يفعّل Artemisinin ليكوّن جذورا حرة تتلف بروتينات وأغشية الطفيل."
+    },
+    {
+      "front": "ما هو آلية عمل Chloroquine في الملاريا؟",
+      "back": "يثبط تحويل Heme السامة الى Hemozoin (غير سام) فتتراكم الـ Heme وتقتل الطفيل."
+    },
+    {
+      "front": "ما هو علاج الاختيار لـ P. falciparum؟",
+      "back": "Artemisinin-based combination therapy (ACT)."
+    },
+    {
+      "front": "كيف يعمل Albendazole/Mebendazole؟",
+      "back": "يثبطان تكوين الانابيب الدقيقة (microtubules) في الطفيل مما يمنع امتصاص الجلوكوز وينضب الطاقة (ATP) ويقتله."
+    },
+    {
+      "front": "ما هي الحالات التي يستخدم فيها Albendazole؟",
+      "back": "Enterobiasis (pinworm)، Ascariasis، Hookworm، Hydatid disease (Echinococcus) في الكبد والرئة."
+    },
+    {
+      "front": "كيف يعمل Ivermectin؟",
+      "back": "يزيد نفاذية قنوات GABA المرتبطة بـ Chloride مما يسبب شللا وموت الطفيل."
+    },
+    {
+      "front": "ما هي استخدامات Ivermectin؟",
+      "back": "Strongyloidiasis، Onchocerciasis، الجرب الشديد والقمل المقاوم للعلاج."
+    },
+    {
+      "front": "كيف يعمل Praziquantel؟",
+      "back": "يزيد نفاذية غشاء الطفيل للكالسيوم مما يسبب تقلصا عضليا وشللا وموت الطفيل."
+    },
+    {
+      "front": "ما هو علاج Schistosomiasis؟",
+      "back": "Praziquantel - لان Schistosoma يسكن الاوعية الدموية ويحتاج دواء يصل الى الانسجة."
+    },
+    {
+      "front": "ما هو آلية عمل Permethrin؟",
+      "back": "يعطل قنوات الصوديوم (sodium channels) في الطفيل مسببا سمية عصبية وموته."
+    },
+    {
+      "front": "ما هو العلاج الاول للجرب (Scabies) والقمل (Lice)؟",
+      "back": "Permethrin الموضعي هو الخيار الاول. Ivermectin الفموي للحالات الشديدة او المقاومة."
+    },
+    {
+      "front": "ما الفرق بين الطفيليات الاولية اللمعية والنسيجية وعلاجها؟",
+      "back": "اللمعية (في الامعاء فقط): ادوية لمعية. النسيجية (تغزو الانسجة): Metronidazole. بعض الحالات تحتاج كليهما."
+    },
+    {
+      "front": "ما هي الاعراض المميزة للتفريق بين Giardia وEntamoeba وMalaria؟",
+      "back": "Giardia: براز دهني كريه الرائحة، بدون حمى. Entamoeba: براز دموي (Amoebic dysentery). Malaria: حمى دورية (cyclic)."
+    },
+    {
+      "front": "ما يميز Albendazole في الـ pharmacokinetics عن Mebendazole؟",
+      "back": "Albendazole يتوزع في الانسجة (دماغ، كبد، رئة، عضل) بشكل افضل. امتصاصه يتحسن مع الوجبة الدسمة."
+    },
+    {
+      "front": "كيف تُصنّف الطفيليات؟",
+      "back": "أوليات (Protozoa: Giardia, Entamoeba, Plasmodium)، ديدان (Helminths)، طفيليات خارجية (Ectoparasites).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما الذي يحدد اختيار الدواء المضاد للطفيليات؟",
+      "back": "نوع الطفيلي وموقع العدوى (لمعي luminal مقابل نسيجي tissue)."
+    },
+    {
+      "front": "ما استخدام Metronidazole الطفيلي؟",
+      "back": "داء الأميبا والجيارديا والمشعرات (أوليات لاهوائية)."
+    },
+    {
+      "front": "ما استخدام Albendazole/Mebendazole؟",
+      "back": "الديدان الأسطوانية (nematodes)؛ تثبّط بلمرة الأنابيب الدقيقة للدودة."
+    },
+    {
+      "front": "ما استخدام Praziquantel؟",
+      "back": "الديدان المسطحة (cestodes/trematodes) كالبلهارسيا."
+    },
+    {
+      "front": "ما استخدام Ivermectin؟",
+      "back": "داء كلابية الذنب والإسكارس والجرب والقمل."
+    },
+    {
+      "front": "ما أدوية الملاريا؟",
+      "back": "Chloroquine, Mefloquine, Primaquine (للأطوار الكبدية), Artemisinins, Quinine."
+    },
+    {
+      "front": "ما استخدام Permethrin؟",
+      "back": "الجرب والقمل (طفيليات خارجية - موضعي)."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "مريضة تشكو من براز دموي مع تشخيص Entamoeba histolytica invasive. ما هو العلاج الامثل؟",
+      "options": [
+        "Metronidazole وحده",
+        "Metronidazole + luminal agent (Paromomycin)",
+        "Albendazole",
+        "Praziquantel"
+      ],
+      "answer": 1,
+      "explanation": "Amoebiasis النسيجية تحتاج Metronidazole للطور النسيجي ودواء لمعي مثل Paromomycin للقضاء على الاكياس اللمعية."
+    },
+    {
+      "q": "ما الاثر الجانبي المميز لـ Metronidazole عند شرب الكحول؟",
+      "options": [
+        "Nephrotoxicity",
+        "Disulfiram-like reaction (nausea, vomiting, flushing)",
+        "Bone marrow depression",
+        "Peripheral neuropathy"
+      ],
+      "answer": 1,
+      "explanation": "Metronidazole يسبب تفاعلا مشابها للـ Disulfiram مع الكحول يتمثل بغثيان وتقيؤ واحمرار وتسرع قلب."
+    },
+    {
+      "q": "مسافر عاد من افريقيا بحمى دورية. التشخيص ملاريا P. falciparum. ما العلاج الاول؟",
+      "options": [
+        "Chloroquine",
+        "Pyrimethamine",
+        "Artemisinin-based combination therapy (ACT)",
+        "Metronidazole"
+      ],
+      "answer": 2,
+      "explanation": "ACT (العلاج المركب على اساس Artemisinin) هو العلاج الاول لـ P. falciparum بسبب انتشار المقاومة لـ Chloroquine."
+    },
+    {
+      "q": "ما هو آلية عمل Albendazole؟",
+      "options": [
+        "يزيد نفاذية الكالسيوم",
+        "يثبط تكوين microtubules مانعا امتصاص الجلوكوز",
+        "يكوّن جذورا حرة تتلف DNA",
+        "يثبط GABA receptor"
+      ],
+      "answer": 1,
+      "explanation": "Albendazole يثبط تكوين الانابيب الدقيقة في الطفيل مما يمنعه من امتصاص الجلوكوز وينضب طاقته."
+    },
+    {
+      "q": "طفل عنده حكة حول الشرج ليلا. الاكثر ترجيحا؟",
+      "options": [
+        "Schistosoma",
+        "Enterobius (pinworm)",
+        "Echinococcus",
+        "Strongyloides"
+      ],
+      "answer": 1,
+      "explanation": "الحكة الشرجية الليلية علامة مميزة لـ Enterobiasis (pinworm). العلاج: Albendazole."
+    },
+    {
+      "q": "مريض عنده اكياس في الكبد تشخيصها Echinococcus (Hydatid disease). ما العلاج؟",
+      "options": [
+        "Praziquantel",
+        "Ivermectin",
+        "Albendazole",
+        "Metronidazole"
+      ],
+      "answer": 2,
+      "explanation": "Albendazole يصل الى الانسجة بشكل جيد (كبد، رئة، دماغ) ويستخدم في Hydatid disease."
+    },
+    {
+      "q": "Praziquantel دواء اختيار لأي من التالي؟",
+      "options": [
+        "Giardia",
+        "Pinworm",
+        "Schistosomiasis",
+        "Malaria"
+      ],
+      "answer": 2,
+      "explanation": "Praziquantel هو DOC لـ Schistosomiasis (التي تسكن الاوعية الدموية) ولـ tapeworms."
+    },
+    {
+      "q": "ما هو العلاج الاول للجرب الشديد المقاوم؟",
+      "options": [
+        "Permethrin موضعي",
+        "Ivermectin فموي",
+        "Albendazole",
+        "Praziquantel"
+      ],
+      "answer": 1,
+      "explanation": "Permethrin الموضعي هو الاول للجرب العادي، لكن الحالات الشديدة او المقاومة تحتاج Ivermectin فموي."
+    },
+    {
+      "q": "كيف يعمل Ivermectin؟",
+      "options": [
+        "يثبط microtubule formation",
+        "يزيد نفاذية الكالسيوم",
+        "يعزز GABA-mediated chloride influx مسببا شلل الطفيل",
+        "يكوّن جذورا حرة"
+      ],
+      "answer": 2,
+      "explanation": "Ivermectin يعزز نفاذية قنوات GABA المرتبطة بالـ Chloride فيسبب شلل وموت الطفيل."
+    },
+    {
+      "q": "مريض عنده فقر دم بنقص الحديد وكانت نتيجة فحص البراز ايجابية للديدان. ما الاكثر ترجيحا واعلاجه؟",
+      "options": [
+        "Ascaris - Praziquantel",
+        "Hookworm - Albendazole",
+        "Schistosoma - Ivermectin",
+        "Pinworm - Metronidazole"
+      ],
+      "answer": 1,
+      "explanation": "فقر الدم بنقص الحديد مع ديدان يشير الى Hookworm التي تمص الدم. العلاج هو Albendazole."
+    },
+    {
+      "q": "Praziquantel فعّال ضد:",
+      "options": [
+        "الأوليات",
+        "الديدان المسطحة",
+        "البكتيريا",
+        "الفطريات"
+      ],
+      "answer": 1,
+      "explanation": "cestodes/trematodes كالبلهارسيا.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "Metronidazole يُستخدم في:",
+      "options": [
+        "الملاريا",
+        "داء الأميبا والجيارديا",
+        "الديدان الأسطوانية",
+        "الجرب"
+      ],
+      "answer": 1,
+      "explanation": "أوليات لاهوائية.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "الطور الكبدي للملاريا يُعالج بـ:",
+      "options": [
+        "Chloroquine",
+        "Primaquine",
+        "Mefloquine",
+        "Artemisinin"
+      ],
+      "answer": 1,
+      "explanation": "Primaquine يقضي على الأطوار الكبدية النائمة.",
+      "difficulty": "medium"
+    }
+  ]
+}

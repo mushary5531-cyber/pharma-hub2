@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>فهرس الأدوية | Pharma Memory Hub</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<nav class="navbar">
+  <a class="navbar-brand" href="index.html"><span>💊</span> Pharma Memory Hub</a>
+  <div class="nav-links">
+    <a class="nav-link" href="index.html">الرئيسية</a>
+    <a class="nav-link" href="exam.html">امتحان</a>
+    <a class="nav-link" href="highyield.html">High-Yield</a>
+  </div>
+</nav>
+
+<div class="lecture-page">
+  <div class="lecture-header">
+    <a class="back-btn" href="index.html">← رجوع</a>
+    <h1>💊 فهرس الأدوية</h1>
+    <div class="meta"><span id="drugCount">جاري التحميل…</span></div>
+  </div>
+  <div class="search-bar" style="margin-bottom:20px">
+    <input type="text" id="drugSearch" placeholder="ابحث عن دواء أو صنف…" autocomplete="off">
+    <span class="search-icon">🔍</span>
+  </div>
+  <div class="summary-box">
+    <table class="key-drugs-table">
+      <thead><tr><th>الدواء</th><th>الصنف</th><th>المحاضرة</th></tr></thead>
+      <tbody id="drugBody"></tbody>
+    </table>
+  </div>
+</div>
+
+<script src="assets/js/drugs.js"></script>
+</body>
+</html>

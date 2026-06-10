@@ -1,0 +1,524 @@
+{
+  "id": "final-06",
+  "slug": "antiviral",
+  "title": "Antiviral Drugs",
+  "exam": "final",
+  "topics": [
+    "influenza",
+    "herpes",
+    "CMV",
+    "hepatitis",
+    "HIV/AIDS",
+    "HAART",
+    "antiretrovirals"
+  ],
+  "summary": "الادوية المضادة للفيروسات تشمل: ادوية الانفلونزا مثل Oseltamivir وAmantadine، وادوية الهيرباس مثل Acyclovir وGanciclovir، وادوية الالتهاب الكبدي مثل Interferon وLamivudine، وادوية الايدز (HAART) التي تجمع NRTIs مع NNRTIs او Protease Inhibitors. Acyclovir prodrug يتفعّل بانزيمات الفيروس انتقائيا ويثبط DNA polymerase الفيروسية. HAART تجمع ادوية بآليات مختلفة لتقليل المقاومة وتحقيق قمع فيروسي عميق مع استعادة المناعة.",
+  "key_drugs": [
+    {
+      "name": "Oseltamivir",
+      "class": "Neuraminidase inhibitor",
+      "note": "Oral prodrug; inhibits neuraminidase; effective influenza A&B; GIT side effects"
+    },
+    {
+      "name": "Zanamivir",
+      "class": "Neuraminidase inhibitor",
+      "note": "Inhaled/intranasal; avoid in severe asthma"
+    },
+    {
+      "name": "Amantadine",
+      "class": "Viral uncoating inhibitor",
+      "note": "Influenza A only; crosses BBB causing CNS effects; teratogenic"
+    },
+    {
+      "name": "Rimantadine",
+      "class": "Viral uncoating inhibitor",
+      "note": "Influenza A only; does NOT cross BBB; fewer CNS effects; longer t1/2"
+    },
+    {
+      "name": "Ribavirin",
+      "class": "Guanosine analogue",
+      "note": "Broad spectrum DNA & RNA viruses; teratogenic; hemolytic anemia"
+    },
+    {
+      "name": "Acyclovir",
+      "class": "Nucleoside analogue (Herpes)",
+      "note": "Prodrug activated by viral thymidine kinase; DOC for HSV encephalitis; crystalluria risk"
+    },
+    {
+      "name": "Valacyclovir",
+      "class": "Prodrug of Acyclovir",
+      "note": "Better oral bioavailability; converts to acyclovir in body"
+    },
+    {
+      "name": "Ganciclovir",
+      "class": "Nucleoside analogue (CMV)",
+      "note": "DOC for CMV; myelosuppression; teratogenic/carcinogenic"
+    },
+    {
+      "name": "Interferon",
+      "class": "Immunomodulator/Antiviral",
+      "note": "Hepatitis C + genital warts; induces antiviral enzymes; multiple SE"
+    },
+    {
+      "name": "Lamivudine",
+      "class": "NRTI (HBV/HIV)",
+      "note": "Inhibits HBV DNA polymerase and HIV reverse transcriptase"
+    },
+    {
+      "name": "Zidovudine (AZT)",
+      "class": "NRTI (HIV)",
+      "note": "First antiretroviral; myelosuppression; used in pregnancy to prevent perinatal HIV"
+    },
+    {
+      "name": "Nevirapine",
+      "class": "NNRTI (HIV)",
+      "note": "Prevent mother-to-child HIV transmission; Stevens-Johnson syndrome risk"
+    },
+    {
+      "name": "Ritonavir",
+      "class": "Protease Inhibitor (booster)",
+      "note": "Used as pharmacokinetic booster via CYP3A inhibition; not as standalone PI"
+    },
+    {
+      "name": "Enfuvirtide",
+      "class": "Fusion inhibitor (Entry inhibitor)",
+      "note": "Blocks HIV entry; SC injection; injection site reactions"
+    },
+    {
+      "name": "Raltegravir",
+      "class": "Integrase inhibitor",
+      "note": "Inhibits HIV DNA integration into host genome"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "story",
+      "title": "Acyclovir: المفتاح الخاص بالفيروس",
+      "body": "Acyclovir مثل مفتاح لا يعمل الا في قفل الفيروس. اولا يفعّله انزيم thymidine kinase الموجود فقط في خلايا مصابة بالهيرباس. بعدها يصبح سلاحا يثبط DNA polymerase الفيروسية ويوقف تمدد سلسلة DNA. خلايانا السليمة لا تفعّله فلا يضرها.",
+      "covers": [
+        "Acyclovir",
+        "Valacyclovir"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "HAART = 4 خطوط دفاع ضد HIV",
+      "body": "N = NRTIs (Nucleoside RT inhibitors: Zidovudine, Lamivudine)\nN = NNRTIs (Non-nucleoside RT inhibitors: Nevirapine, Efavirenz)\nP = Protease Inhibitors (navirs: Ritonavir, Indinavir)\nE = Entry/Fusion inhibitors (Enfuvirtide)\nI = Integrase inhibitors (Raltegravir)",
+      "covers": [
+        "Zidovudine (AZT)",
+        "Nevirapine",
+        "Ritonavir",
+        "Enfuvirtide",
+        "Raltegravir"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "Oseltamivir يحبس الفيروس",
+      "body": "Neuraminidase مقص الفيروس الذي يقطع نفسه من الخلية ليصيب خلايا جديدة. Oseltamivir ('أوسيل') يمسك المقص ويوقفه، فيظل الفيروس محبوسا في الخلية ولا ينتشر. يجب اخذه خلال 24-48 ساعة من بدء الاعراض.",
+      "covers": [
+        "Oseltamivir",
+        "Zanamivir"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "Amantadine يسكر باب التغليف",
+      "body": "تخيل فيروس الانفلونزا A كصندوق مغلق (viral coat). Amantadine يضع قفلا (blocks uncoating) على الباب فلا يستطيع الفيروس الخروج من غلافه والدخول للخلية. لانه يخترق BBB يسبب اثارا في المخ (insomnia, ataxia, convulsions).",
+      "covers": [
+        "Amantadine",
+        "Rimantadine"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "GRIM - اثار Ganciclovir",
+      "body": "G = Ganciclovir DOC for CMV\nR = Retinal detachment (intraocular implants)\nI = Immunosuppression (myelosuppression - neutropenia)\nM = Mutagenic/teratogenic (carcinogenic potential)",
+      "covers": [
+        "Ganciclovir"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "كيف يعمل Oseltamivir وZanamivir؟",
+      "back": "يثبطان انزيم Neuraminidase في الانفلونزا A وB مما يمنع خروج الفيروسات الجديدة من الخلية المصابة وانتشارها."
+    },
+    {
+      "front": "ما الفرق بين Amantadine وRimantadine في الـ CNS effects؟",
+      "back": "Amantadine يخترق BBB فيسبب اثارا مركزية (insomnia, ataxia, convulsions). Rimantadine لا يخترق BBB ولذا اثاره المركزية اقل."
+    },
+    {
+      "front": "لماذا Ribavirin ممنوع في الحمل؟",
+      "back": "لانه ماسخ (teratogenic) وطافر (mutagenic). ايضا يسبب فقر دم انحلالي dose-dependent لانه يتراكم في كريات الدم الحمراء."
+    },
+    {
+      "front": "ما هو DOC لـ HSV encephalitis؟",
+      "back": "Acyclovir IV هو دواء الاختيار لالتهاب دماغ الهيرباس."
+    },
+    {
+      "front": "كيف يعمل Acyclovir بشكل انتقائي ضد الفيروس؟",
+      "back": "يتفعّل فقط بواسطة thymidine kinase الفيروسية الموجودة في الخلايا المصابة بالهيرباس، ثم يثبط viral DNA polymerase ويوقف تمدد DNA."
+    },
+    {
+      "front": "ما هي Crystalluria وكيف تمنع مع Acyclovir؟",
+      "back": "ترسب بلورات Acyclovir في الكلى مسببة خلل وظيفي. تمنع بضمان ترطيب كافي وحقن IV بطيء."
+    },
+    {
+      "front": "ما هو DOC لـ CMV في المرضى ذوي المناعة المنخفضة؟",
+      "back": "Ganciclovir (IV) للـ CMV pneumonia وretinitis في immunocompromised. ايضا يستخدم وقائيا في زرع الاعضاء."
+    },
+    {
+      "front": "ما هو اهم اثر جانبي لـ Ganciclovir؟",
+      "back": "Myelosuppression (خاصة neutropenia). تزداد عند الدمج مع Zidovudine او Azathioprine."
+    },
+    {
+      "front": "كيف يعمل Interferon كدواء مضاد للفيروسات؟",
+      "back": "يحث على تصنيع انزيمات في الخلية المضيفة تثبط ترجمة mRNA الفيروسي الى بروتينات وتوقف تكاثر الفيروس."
+    },
+    {
+      "front": "ما هو HAART وما تركيبته؟",
+      "back": "Highly Active Antiretroviral Therapy: يجمع عادة NRTI + NRTI مع NNRTI او Protease Inhibitor. يحقق قمعا فيروسيا عميقا واستعادة المناعة."
+    },
+    {
+      "front": "كيف تعمل NRTIs؟",
+      "back": "تتفسفر الى triphosphate يثبط HIV reverse transcriptase تنافسيا وينهي تمدد سلسلة DNA الفيروسية."
+    },
+    {
+      "front": "ما هي الاثار الجانبية المشتركة للـ NRTIs؟",
+      "back": "معظمها (ما عدا Lamivudine وAbacavir) قد يسبب lactic acidosis وتضخم كبد (hepatomegaly) قاتل."
+    },
+    {
+      "front": "ما هو استخدام Zidovudine في الحمل؟",
+      "back": "يعطى للام الحامل اثناء الوضع ولحديث المولود 3 ايام لمنع انتقال HIV من الام للطفل (perinatal transmission)."
+    },
+    {
+      "front": "ما هو خطر Nevirapine الرئيسي؟",
+      "back": "Stevens-Johnson syndrome وToxic Epidermal Necrolysis. ينصح بزيادة الجرعة تدريجيا خلال 14 يوما. ايضا hepatotoxicity قاتل."
+    },
+    {
+      "front": "لماذا يستخدم Ritonavir بجرعة صغيرة مع PI اخر؟",
+      "back": "Ritonavir مثبط قوي لـ CYP3A مما يرفع مستوى الـ PI الاخر ويطيل فترة فاعليته ويقلل مقاومته - يسمى pharmacokinetic booster."
+    },
+    {
+      "front": "كيف يعمل Enfuvirtide؟",
+      "back": "Fusion inhibitor يمنع HIV من الاندماج مع غشاء الخلية المضيفة ودخولها. يعطى SC."
+    },
+    {
+      "front": "ما هو الاثر الجانبي المميز لـ Protease Inhibitors؟",
+      "back": "اضطرابات GI، ارتفاع Triglycerides وLDL، مقاومة الانسولين، اعادة توزيع الدهون (Cushingoid appearance). تفاعلات دوائية خطيرة عبر CYP."
+    },
+    {
+      "front": "ما الفرق بين NRTIs وNNRTIs في آلية العمل؟",
+      "back": "NRTIs تحتاج تفسفر لتفعيلها وتثبط RT تنافسيا. NNRTIs لا تحتاج تفسفر وترتبط مباشرة بموقع قريب من RT. لا مقاومة متقاطعة بينهما."
+    },
+    {
+      "front": "ما آلية Oseltamivir/Zanamivir؟",
+      "back": "مثبطات neuraminidase تمنع تحرر الفيريونات؛ فعّالة على إنفلونزا A وB.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "متى يجب بدء Oseltamivir؟",
+      "back": "خلال 24–48 ساعة من بدء الأعراض؛ Oseltamivir طليعة دواء فموية."
+    },
+    {
+      "front": "ما آلية Amantadine؟",
+      "back": "يثبّط نزع غلاف الفيروس (uncoating)؛ إنفلونزا A فقط؛ آثار عصبية مركزية."
+    },
+    {
+      "front": "ما آلية Acyclovir؟",
+      "back": "يُفعَّل بـ thymidine kinase الفيروسي → يثبّط DNA polymerase؛ انتقائي للخلايا المصابة.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما سُمّية Acyclovir؟",
+      "back": "سُمّية كلوية (حافظ على الإماهة)."
+    },
+    {
+      "front": "ما آلية Ribavirin؟",
+      "back": "نظير غوانوزين يثبّط تضاعف فيروسات RNA وDNA؛ ماسخ ومسبب فقر دم انحلالي."
+    },
+    {
+      "front": "ما علاج التهاب الكبد C الحديث؟",
+      "back": "DAAs (مثبطات NS3/4A '-previr' وNS5A وNS5B) غالباً ± Ribavirin؛ الإنترفيرون صار نادراً.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما أصناف مضادات HIV؟",
+      "back": "NRTI (Zidovudine)، NNRTI، مثبطات البروتياز، مثبطات الإنتغريز."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "ما هو آلية عمل Oseltamivir في الانفلونزا؟",
+      "options": [
+        "يمنع اندماج الفيروس بالخلية",
+        "يثبط Neuraminidase مانعا خروج الفيروسات الجديدة",
+        "يمنع تفكيك الغلاف الفيروسي",
+        "يثبط DNA polymerase الفيروسية"
+      ],
+      "answer": 1,
+      "explanation": "Oseltamivir وZanamivir يثبطان Neuraminidase مما يمنع الفيروس من مغادرة الخلية المصابة وإصابة خلايا جديدة."
+    },
+    {
+      "q": "مريض انفلونزا A عنده مشاكل كلوية. ايهما افضل: Amantadine ام Rimantadine؟",
+      "options": [
+        "Amantadine لانه يطرح عبر الكبد",
+        "Rimantadine لانه يستقلب كبديا ولا يعتمد على الكلى",
+        "كلاهما سواء",
+        "Amantadine لانه اقوى"
+      ],
+      "answer": 1,
+      "explanation": "Rimantadine يستقلب كبديا بشكل واسع وله t1/2 اطول، بينما Amantadine يطرح بالبول لذا يحذر مع الفشل الكلوي."
+    },
+    {
+      "q": "دواء الاختيار لـ HSV encephalitis؟",
+      "options": [
+        "Ganciclovir",
+        "Valacyclovir",
+        "Acyclovir IV",
+        "Ribavirin"
+      ],
+      "answer": 2,
+      "explanation": "Acyclovir IV هو DOC لالتهاب الدماغ بالهيرباس (HSV encephalitis). يتوزع جيدا ويعبر BBB."
+    },
+    {
+      "q": "ما هو DOC لـ CMV retinitis في مريض AIDS؟",
+      "options": [
+        "Acyclovir",
+        "Ganciclovir",
+        "Foscarnet",
+        "Ribavirin"
+      ],
+      "answer": 1,
+      "explanation": "Ganciclovir هو DOC لـ CMV في المرضى ذوي المناعة المنخفضة (CMV pneumonia وretinitis)."
+    },
+    {
+      "q": "ام حامل مصابة بـ HIV. ما الدواء المستخدم لمنع انتقال الفيروس لجنينها؟",
+      "options": [
+        "Nevirapine فقط",
+        "Zidovudine للام ثم للوليد",
+        "Ribavirin",
+        "Interferon"
+      ],
+      "answer": 1,
+      "explanation": "Zidovudine يعطى للام اثناء الوضع وللمولود لمدة 3 ايام لمنع انتقال HIV perinatal. Nevirapine بديل."
+    },
+    {
+      "q": "ما هو الاثر الجانبي الاكثر شيوعا لـ Ganciclovir؟",
+      "options": [
+        "Nephrotoxicity",
+        "Myelosuppression (neutropenia)",
+        "Hepatotoxicity",
+        "Crystalluria"
+      ],
+      "answer": 1,
+      "explanation": "Myelosuppression وخاصة neutropenia هي الاثر الجانبي الاهم لـ Ganciclovir وتزداد مع Zidovudine."
+    },
+    {
+      "q": "ما الذي يميز NNRTIs عن NRTIs في العمل؟",
+      "options": [
+        "NNRTIs تحتاج تفسفر لتفعيلها",
+        "NNRTIs ترتبط مباشرة بـ RT دون الحاجة لتفسفر",
+        "NNRTIs تثبط Protease",
+        "لا فرق بينهما"
+      ],
+      "answer": 1,
+      "explanation": "NNRTIs ترتبط مباشرة بموقع قريب من HIV-1 reverse transcriptase دون الحاجة لتفسفر، بعكس NRTIs."
+    },
+    {
+      "q": "مريض يأخذ HAART، ظهر عليه Cushingoid appearance وارتفاع TG. ما المجموعة الاكثر احتمالا؟",
+      "options": [
+        "NRTIs",
+        "NNRTIs",
+        "Protease Inhibitors (navirs)",
+        "Integrase inhibitors"
+      ],
+      "answer": 2,
+      "explanation": "Protease Inhibitors تسبب اعادة توزيع الدهون (Cushingoid) وارتفاع TG وLDL ومقاومة الانسولين."
+    },
+    {
+      "q": "لماذا يضاف Ritonavir بجرعة صغيرة لـ PI اخر في HAART؟",
+      "options": [
+        "لتحسين نشاطه المضاد للفيروسات مباشرة",
+        "كـ pharmacokinetic booster بتثبيط CYP3A يرفع مستوى الـ PI الاخر",
+        "لتقليل السمية الكلوية",
+        "لانه الاقوى في المجموعة"
+      ],
+      "answer": 1,
+      "explanation": "Ritonavir مثبط قوي لـ CYP3A4 يرفع مستوى الـ PI الاخر (pharmacokinetic booster) مما يسمح بجرعات اقل وفترات اطول ويقلل مقاومة."
+    },
+    {
+      "q": "Ribavirin ممنوع في الحمل بسبب؟",
+      "options": [
+        "Nephrotoxicity",
+        "Teratogenicity وmutagenicity",
+        "Bone marrow depression فقط",
+        "CNS toxicity"
+      ],
+      "answer": 1,
+      "explanation": "Ribavirin contraindicated في الحمل بسبب teratogenicity وmutagenicity الموثقة."
+    },
+    {
+      "q": "Oseltamivir يثبّط:",
+      "options": [
+        "DNA polymerase",
+        "Neuraminidase",
+        "Integrase",
+        "Protease"
+      ],
+      "answer": 1,
+      "explanation": "يمنع تحرر الفيريونات.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "Acyclovir انتقائي لأنه يُفعَّل بـ:",
+      "options": [
+        "كيناز خلوي فقط",
+        "thymidine kinase فيروسي",
+        "الكبد",
+        "الكلية"
+      ],
+      "answer": 1,
+      "explanation": "الإنزيم الفيروسي يفسفره أولاً.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "الـ DAAs '-previr' تثبّط:",
+      "options": [
+        "NS5A",
+        "NS3/4A protease",
+        "neuraminidase",
+        "reverse transcriptase"
+      ],
+      "answer": 1,
+      "explanation": "مثبطات بروتياز NS3/4A.",
+      "difficulty": "medium"
+    }
+  ],
+  "classification": {
+    "title": "Antivirals",
+    "groups": [
+      {
+        "name": "Anti-influenza",
+        "drugs": [
+          "Oseltamivir / Zanamivir (neuraminidase inhibitors)",
+          "Amantadine / Rimantadine (uncoating inhibitors)"
+        ]
+      },
+      {
+        "name": "Broad / RNA",
+        "drugs": [
+          "Ribavirin (guanosine analogue)"
+        ]
+      },
+      {
+        "name": "Anti-herpes",
+        "drugs": [
+          "Acyclovir",
+          "Valacyclovir",
+          "Ganciclovir",
+          "Foscarnet"
+        ]
+      },
+      {
+        "name": "Anti-hepatitis",
+        "drugs": [
+          "Interferon",
+          "Lamivudine",
+          "Adefovir",
+          "Entecavir",
+          "Tenofovir"
+        ]
+      },
+      {
+        "name": "Anti-HIV",
+        "drugs": [
+          "NRTI (Zidovudine)",
+          "NNRTI",
+          "Protease inhibitors",
+          "Integrase inhibitors"
+        ]
+      }
+    ]
+  },
+  "high_yield": [
+    {
+      "point": "Oseltamivir prodrug فموي فعّال؛ يجب البدء خلال 48 ساعة من الأعراض.",
+      "tag": "indication"
+    },
+    {
+      "point": "Acyclovir يُفعَّل بإنزيم thymidine kinase الفيروسي → انتقائي للخلايا المصابة؛ سُمّية كلوية.",
+      "tag": "mechanism"
+    },
+    {
+      "point": "Amantadine يثبّط نزع الغلاف (uncoating)؛ آثار عصبية مركزية + ماسخ.",
+      "tag": "adverse"
+    },
+    {
+      "point": "التهاب الكبد C: Interferon-β + Ribavirin (أو DAAs الحديثة).",
+      "tag": "indication"
+    },
+    {
+      "point": "Ribavirin ماسخ ومُسبب لفقر دم انحلالي → ممنوع بالحمل.",
+      "tag": "adverse"
+    }
+  ],
+  "comparison_tables": [
+    {
+      "title": "Acyclovir vs Ganciclovir",
+      "columns": [
+        "",
+        "Acyclovir",
+        "Ganciclovir"
+      ],
+      "rows": [
+        [
+          "الاستخدام",
+          "HSV, VZV",
+          "CMV"
+        ],
+        [
+          "السُّميّة",
+          "كلوية",
+          "تثبيط نقي العظم"
+        ],
+        [
+          "التفعيل",
+          "Thymidine kinase",
+          "فسفرة فيروسية/خلوية"
+        ]
+      ]
+    },
+    {
+      "title": "Neuraminidase inhibitors vs Uncoating inhibitors",
+      "columns": [
+        "",
+        "Neuraminidase inh.",
+        "Uncoating inh."
+      ],
+      "rows": [
+        [
+          "الأمثلة",
+          "Oseltamivir, Zanamivir",
+          "Amantadine, Rimantadine"
+        ],
+        [
+          "الطيف",
+          "Influenza A & B",
+          "Influenza A فقط"
+        ],
+        [
+          "الآلية",
+          "منع تحرّر الفيريونات",
+          "منع نزع الغلاف"
+        ]
+      ]
+    }
+  ]
+}

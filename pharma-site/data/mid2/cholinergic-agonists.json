@@ -1,0 +1,370 @@
+{
+  "id": "mid2-02",
+  "slug": "cholinergic-agonists",
+  "title": "Cholinergic Agonists (ناهضات الكولين)",
+  "exam": "mid2",
+  "topics": [
+    "Muscarinic Receptors",
+    "Nicotinic Receptors",
+    "Direct Acting Agonists",
+    "Indirect Acting (ChE Inhibitors)",
+    "Organophosphorus Toxicity",
+    "Myasthenia Gravis"
+  ],
+  "summary": "ناهضات الكولين تنقسم إلى مباشرة (تعمل على مستقبلات M و N مباشرة) وغير مباشرة (مثبطات الكولينستريز). المستقبلات الموسكارينية (M1-M3) تتحكم في أعضاء الجهاز الهضمي والقلب والعين والغدد. مثبطات الكولينستريز القابلة للعكس (Neostigmine, Pyridostigmine) تُعالج الوهن العضلي الشديد. مركبات الفوسفور العضوي (Organophosphates) مثبطات لا رجعة فيها تسبب تسمما حادًا يُعالج بـ Atropine وPralidoxime.",
+  "key_drugs": [
+    {
+      "name": "Acetylcholine (ACh)",
+      "class": "Direct M+N Agonist",
+      "note": "غير انتقائي، يُحلَّل سريعًا، استخدام محدود"
+    },
+    {
+      "name": "Bethanechol",
+      "class": "Direct M Agonist",
+      "note": "انتقائي للمثانة والجهاز الهضمي، مقاوم للكولينستريز"
+    },
+    {
+      "name": "Pilocarpine",
+      "class": "Direct M Agonist (Natural)",
+      "note": "لعلاج الجلوكوما وجفاف الفم"
+    },
+    {
+      "name": "Carbachol",
+      "class": "Direct M+N Agonist",
+      "note": "مقاوم للكولينستريز، للجلوكوما"
+    },
+    {
+      "name": "Neostigmine",
+      "class": "Reversible ChE Inhibitor",
+      "note": "لا يعبر BBB، للوهن العضلي وانتهاء مفعول المرخيات"
+    },
+    {
+      "name": "Pyridostigmine",
+      "class": "Reversible ChE Inhibitor",
+      "note": "طويل المفعول، الخط الأول للوهن العضلي"
+    },
+    {
+      "name": "Physostigmine",
+      "class": "Reversible ChE Inhibitor",
+      "note": "يعبر BBB، لعلاج تسمم الأتروبين"
+    },
+    {
+      "name": "Edrophonium",
+      "class": "Reversible ChE Inhibitor",
+      "note": "قصير المفعول جدًا، للتشخيص فقط"
+    },
+    {
+      "name": "Donepezil",
+      "class": "Reversible ChE Inhibitor (CNS)",
+      "note": "لعلاج الزهايمر"
+    },
+    {
+      "name": "Pralidoxime (PAM)",
+      "class": "Cholinesterase Reactivator",
+      "note": "ترياق تسمم الفوسفور العضوي"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "DUMBELS: أعراض تسمم الفوسفور العضوي الموسكارينية",
+      "body": "D = Defecation (إسهال)\nU = Urination (تبول)\nM = Miosis (تضييق الحدقة)\nB = Bronchospasm + Bradycardia (تشنج شعبي + بطء قلب)\nE = Emesis (قيء)\nL = Lacrimation (دموع)\nS = Salivation (لعاب)\nهذه الأعراض الموسكارينية تُعالج بـ Atropine",
+      "covers": [
+        "Organophosphates"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "MATH: أعراض الفوسفور العضوي النيكوتينية",
+      "body": "M = Muscle tremors/fasciculations (رعاش عضلي)\nA = Adrenal hyperactivity (فرط نشاط الكظر)\nT = Tachycardia (تسرع القلب)\nH = Hypertension (ارتفاع ضغط الدم)\nهذه أعراض النيكوتين لا تستجيب للأتروبين",
+      "covers": [
+        "Organophosphates"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "Neostigmine vs Physostigmine: الحاجز الدماغي",
+      "body": "Neo = 'نيو يبقى خارج': Neostigmine لا يعبر BBB، يعمل على الجهاز العضلي الهيكلي والهضمي فقط. Physo = 'فيزو يدخل الجو': Physostigmine يعبر BBB ويصل الدماغ لعلاج تسمم Atropine.",
+      "covers": [
+        "Neostigmine",
+        "Physostigmine"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "Bethanechol: كرة المثانة",
+      "body": "تخيل كرة تدفع المثانة والأمعاء للأمام: Bethanechol يُحرك المثانة والجهاز الهضمي (انتقائي لـ M3)، مقاوم للكولينستريز، يُستخدم للاحتباس البولي وشلل الأمعاء.",
+      "covers": [
+        "Bethanechol"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "علاج تسمم الفوسفور: PAD",
+      "body": "P = Pralidoxime (PAM): يُعيد تنشيط الكولينستريز (أسرع ما يمكن قبل التقادم)\nA = Atropine (جرعات كبيرة): لحصار الآثار الموسكارينية\nD = Diazepam: للتشنجات\nبالترتيب: أولًا حافظ على التنفس، ثم PAD",
+      "covers": [
+        "Pralidoxime (PAM)",
+        "Atropine"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما نوعا مستقبلات الكولين الرئيسيان؟",
+      "back": "Muscarinic (M1-M3) و Nicotinic (Nn, Nm)"
+    },
+    {
+      "front": "ما المستقبل المسؤول عن بطء القلب؟",
+      "back": "M2 على العقدة الجيبية والأذينية"
+    },
+    {
+      "front": "ما المستقبل المسؤول عن إفراز حمض المعدة؟",
+      "back": "M1"
+    },
+    {
+      "front": "ما المستقبل المسؤول عن تضيق الحدقة (Miosis)؟",
+      "back": "M3 على العضلة العاصرة للقزحية"
+    },
+    {
+      "front": "ما الفرق بين Direct وIndirect Cholinergic Agonists؟",
+      "back": "Direct يُنشط المستقبلات مباشرة، Indirect يثبط الكولينستريز فيزيد ACh"
+    },
+    {
+      "front": "لماذا يُفضل Bethanechol لعلاج الاحتباس البولي؟",
+      "back": "انتقائي لـ M3 في المثانة، مقاوم للتحلل، لا يؤثر على القلب"
+    },
+    {
+      "front": "ما استخدام Pilocarpine؟",
+      "back": "علاج الجلوكوما (تضييق الحدقة وتصريف السائل) وجفاف الفم (Sjogren)"
+    },
+    {
+      "front": "ما الفرق بين Neostigmine وEdrophonium؟",
+      "back": "Edrophonium قصير المفعول جدًا للتشخيص، Neostigmine طويل المفعول للعلاج"
+    },
+    {
+      "front": "ما آلية عمل Donepezil في الزهايمر؟",
+      "back": "مثبط عكوس للكولينستريز يزيد ACh في الدماغ لتحسين الذاكرة"
+    },
+    {
+      "front": "ما آلية الوفاة في تسمم الفوسفور العضوي؟",
+      "back": "فشل تنفسي: شلل العضلات التنفسية + تثبيط مركز التنفس + إفرازات برونشية مفرطة"
+    },
+    {
+      "front": "ما أول خطوة في علاج تسمم الفوسفور العضوي؟",
+      "back": "الحفاظ على التنفس والدورة الدموية (Airway, Breathing, Circulation)"
+    },
+    {
+      "front": "لماذا يجب إعطاء Pralidoxime بسرعة في التسمم؟",
+      "back": "لأن الفوسفور العضوي يرتبط بالإنزيم بشكل دائم (Aging) مع الوقت ولا يمكن تنشيطه"
+    },
+    {
+      "front": "ما الآثار الجانبية العامة لناهضات الكولين؟",
+      "back": "تعرق، تضييق حدقة، لعاب، بطء قلب، تشنج برونشي، إسهال، تبول"
+    },
+    {
+      "front": "ما المستقبل الذي يتحكم في انقباض العضلة الهيكلية؟",
+      "back": "Nm (Nicotinic muscle) في الوصلة العصبية العضلية"
+    },
+    {
+      "front": "ما مرض الوهن العضلي الشديد (Myasthenia Gravis)؟",
+      "back": "مرض مناعي ذاتي: أجسام مضادة ضد مستقبلات Nm مما يسبب ضعفًا عضليًا قابلًا للتعب"
+    },
+    {
+      "front": "أي دواء يُستخدم للوهن العضلي كخط أول؟",
+      "back": "Pyridostigmine (مثبط ChE عكوس طويل المفعول)"
+    },
+    {
+      "front": "لماذا لا يُعطى ACh جهازيًا كدواء؟",
+      "back": "غير انتقائي (M+N)، يُحلَّل سريعًا بالكولينستريز، امتصاصه الفموي ضعيف جدًا"
+    },
+    {
+      "front": "ما تأثير تثبيط ChE على القلب؟",
+      "back": "بطء القلب وإبطاء التوصيل الأذيني البطيني (عبر M2)"
+    },
+    {
+      "front": "ما الفرق بين الناهضات الكولينية المباشرة وغير المباشرة؟",
+      "back": "المباشرة ترتبط بمستقبل ACh مباشرة (Bethanechol، Pilocarpine)؛ غير المباشرة تثبّط الكولينستراز فترفع ACh (Neostigmine، Physostigmine).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما الفرق بين True و Pseudo cholinesterase؟",
+      "back": "True (AChE): في النهايات العصبية، نوعية لـ ACh، أساسية للحياة. Pseudo (plasma ChE): في البلازما/الكبد، غير نوعية، تحلّل succinylcholine.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما استخدام Bethanechol؟",
+      "back": "احتباس البول غير الانسدادي وارتخاء المثانة/الأمعاء بعد الجراحة."
+    },
+    {
+      "front": "ما الفرق بين Neostigmine و Physostigmine؟",
+      "back": "Physostigmine يعبر BBB (مفيد مركزياً)؛ Neostigmine لا يعبر (محيطي - الوهن العضلي).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما استخدام Neostigmine؟",
+      "back": "الوهن العضلي الوبيل (myasthenia gravis) وعكس حصار العضلات اللامستقطب."
+    },
+    {
+      "front": "ما هي تأثيرات الفسفور العضوي (Organophosphates)؟",
+      "back": "تثبيط لا رجعي للكولينستراز → فرط كوليني (SLUDGE)؛ المضاد: Atropine + Pralidoxime."
+    },
+    {
+      "front": "ما معنى SLUDGE؟",
+      "back": "Salivation, Lacrimation, Urination, Defecation, GI distress, Emesis - أعراض فرط التنبيه المسكاريني.",
+      "tag": "high-yield"
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "مريض بعد عملية جراحية يعاني من احتباس بولي وشلل الأمعاء. ما الدواء الأنسب؟",
+      "options": [
+        "Atropine",
+        "Bethanechol",
+        "Neostigmine",
+        "Pilocarpine"
+      ],
+      "answer": 1,
+      "explanation": "Bethanechol ناهض مباشر انتقائي لـ M3 في المثانة والجهاز الهضمي، مقاوم للكولينستريز."
+    },
+    {
+      "q": "مريض عمره 75 سنة يعاني من تدهور معرفي وفقدان ذاكرة. ما الدواء المناسب؟",
+      "options": [
+        "Edrophonium",
+        "Donepezil",
+        "Atropine",
+        "Bethanechol"
+      ],
+      "answer": 1,
+      "explanation": "Donepezil مثبط عكوس للكولينستريز يزيد ACh في الدماغ، الخط الأول لعلاج الزهايمر."
+    },
+    {
+      "q": "مزارع يعاني من لعاب مفرط وتعرق وبطء قلب وتضييق حدقة وتشنج برونشي. ما أول علاج؟",
+      "options": [
+        "Pralidoxime فقط",
+        "Atropine وPralidoxime",
+        "Diazepam فقط",
+        "Neostigmine"
+      ],
+      "answer": 1,
+      "explanation": "تسمم بمبيدات الفوسفور العضوي يُعالج بـ Atropine (لحصار المسكارين) + Pralidoxime (لتنشيط الكولينستريز)."
+    },
+    {
+      "q": "ما أعراض الفوسفور العضوي الموسكارينية (DUMBELS)؟",
+      "options": [
+        "إسهال، تبول، تضييق حدقة، تشنج برونشي، قيء، دموع، لعاب",
+        "رعاش، تسرع قلب، ارتفاع ضغط",
+        "غيبوبة وتشنجات فقط",
+        "جفاف الفم واحتباس البول"
+      ],
+      "answer": 0,
+      "explanation": "DUMBELS = Defecation, Urination, Miosis, Bronchospasm, Emesis, Lacrimation, Salivation."
+    },
+    {
+      "q": "أي مثبطات الكولينستريز يعبر BBB ويُستخدم لعكس تسمم Atropine؟",
+      "options": [
+        "Neostigmine",
+        "Pyridostigmine",
+        "Physostigmine",
+        "Edrophonium"
+      ],
+      "answer": 2,
+      "explanation": "Physostigmine أمين ثلاثي يعبر BBB ويُعالج تسمم Atropine المركزي."
+    },
+    {
+      "q": "أي مما يلي هو الاستخدام الوحيد لـ Edrophonium؟",
+      "options": [
+        "علاج الوهن العضلي طويل الأمد",
+        "تشخيص الوهن العضلي (Tensilon Test)",
+        "علاج الزهايمر",
+        "علاج تسمم الفوسفور"
+      ],
+      "answer": 1,
+      "explanation": "Edrophonium قصير المفعول جدًا (5 دقائق) لذا يُستخدم فقط في التشخيص (Tensilon Test)."
+    },
+    {
+      "q": "ما مستقبل الكولين المسؤول عن تقلص جدار القصبات الهوائية؟",
+      "options": [
+        "M1",
+        "M2",
+        "M3",
+        "Nm"
+      ],
+      "answer": 2,
+      "explanation": "M3 على العضلات الملساء يسبب تقلص الشعب الهوائية والجهاز الهضمي والمثانة."
+    },
+    {
+      "q": "ما آلية عمل مثبطات ChE غير العكوسة (الفوسفور العضوي)؟",
+      "options": [
+        "تحصر مستقبلات M مباشرة",
+        "ترتبط بالكولينستريز بشكل دائم فتزيد ACh",
+        "تُنشط مستقبلات N",
+        "تثبط إفراز ACh"
+      ],
+      "answer": 1,
+      "explanation": "الفوسفور العضوي يرتبط تساهميًا بموقع الأستيل في إنزيم AChE مما يمنعه من تحليل ACh بشكل دائم."
+    },
+    {
+      "q": "في مرض الوهن العضلي، ما نوع الأجسام المضادة المسببة للمرض؟",
+      "options": [
+        "ضد مستقبلات M1",
+        "ضد مستقبلات Nm في الوصلة العصبية العضلية",
+        "ضد الكولينستريز",
+        "ضد مستقبلات Nn في العقد"
+      ],
+      "answer": 1,
+      "explanation": "الوهن العضلي مرض مناعي ذاتي: IgG ضد مستقبلات Nm في الوصلة العصبية العضلية."
+    },
+    {
+      "q": "لماذا لا يُعطى Acetylcholine فمويًا؟",
+      "options": [
+        "لأنه يسبب ارتفاع ضغط الدم",
+        "لأنه رباعي الأمين وأمتصاصه ضعيف ويُحلَّل سريعًا",
+        "لأنه يسبب الإدمان",
+        "لأنه يثبط الكولينستريز"
+      ],
+      "answer": 1,
+      "explanation": "ACh رباعي الأمين (quaternary) يُمتص بصعوبة من الجهاز الهضمي ويُحلَّل سريعًا بالكولينستريز."
+    },
+    {
+      "q": "Physostigmine يختلف عن Neostigmine بأنه:",
+      "options": [
+        "لا يعبر BBB",
+        "يعبر BBB",
+        "ناهض مباشر",
+        "يحصر النيكوتيني فقط"
+      ],
+      "answer": 1,
+      "explanation": "Physostigmine ثالثي يعبر الحاجز الدموي الدماغي.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "المضاد لتسمم الفسفور العضوي:",
+      "options": [
+        "Naloxone",
+        "Atropine + Pralidoxime",
+        "Flumazenil",
+        "Vitamin K"
+      ],
+      "answer": 1,
+      "explanation": "Atropine للأعراض المسكارينية وPralidoxime يعيد تنشيط الإنزيم.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pilocarpine يُستخدم في:",
+      "options": [
+        "ارتفاع الضغط",
+        "الزرق (glaucoma)",
+        "الربو",
+        "الإمساك"
+      ],
+      "answer": 1,
+      "explanation": "ناهض مسكاريني يخفض ضغط العين.",
+      "difficulty": "medium"
+    }
+  ]
+}

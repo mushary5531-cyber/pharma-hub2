@@ -1,0 +1,429 @@
+{
+  "id": "mid1-08",
+  "slug": "toxicology",
+  "title": "Introduction to Toxicology",
+  "exam": "mid1",
+  "topics": [
+    "toxicology definitions",
+    "dose-response",
+    "toxicokinetics",
+    "toxicodynamics",
+    "toxidromes",
+    "antidotes",
+    "decontamination",
+    "heavy metals",
+    "organophosphates"
+  ],
+  "summary": "علم السموم (Toxicology) يدرس التأثيرات الضارة للمواد الكيميائية على الكائنات الحية، ويشمل آليات السمية والتشخيص والعلاج. العلاقة بين الجرعة والاستجابة محورية: 'الجرعة هي التي تصنع السم'. تُصنَّف التأثيرات السمية وفق عدة آليات منها نقص الأكسجين الخلوي وتثبيط الإنزيمات وتكوين الجذور الحرة. العلاج يقوم على ABCDE، وإزالة التلوث، وإعطاء الترياق المناسب.",
+  "key_drugs": [
+    {
+      "name": "Naloxone",
+      "class": "Opioid Antidote",
+      "note": "ترياق التسمم بالأفيونات - يُعاكس تثبيط التنفس"
+    },
+    {
+      "name": "Atropine + Pralidoxime",
+      "class": "Organophosphate Antidote",
+      "note": "ترياق مبيدات الحشرات (الأورغانوفوسفات) - الأتروبين يحصر مستقبلات M والبرالدوكسيم يُعيد تنشيط AChE"
+    },
+    {
+      "name": "N-acetylcysteine",
+      "class": "Acetaminophen Antidote",
+      "note": "ترياق الباراسيتامول - يُعيد تكوين الغلوتاثيون لتحييد NAPQI"
+    },
+    {
+      "name": "Hydroxocobalamin",
+      "class": "Cyanide Antidote",
+      "note": "ترياق السيانيد - يرتبط به ويُحوِّله إلى سيانوكوبالامين غير سام"
+    },
+    {
+      "name": "Deferoxamine",
+      "class": "Iron Antidote",
+      "note": "ترياق الحديد - يُخيِّل أيونات الحديد الحرة"
+    },
+    {
+      "name": "Digoxin Fab",
+      "class": "Digoxin Antidote",
+      "note": "أجسام مضادة تُعادل الديجوكسين في حالات التسمم الشديد"
+    },
+    {
+      "name": "Activated Charcoal",
+      "class": "Decontamination agent",
+      "note": "يمتز معظم الأدوية والسموم في الجهاز الهضمي ويمنع امتصاصها"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "AMPLE - تاريخ المريض المتسمم",
+      "body": "A = Allergies (الحساسية)\nM = Medications (الأدوية الحالية)\nP = Past medical history (التاريخ المرضي)\nL = Last meal (آخر وجبة)\nE = Events leading to exposure (ظروف التعرض)\nإضافة: التوقيت والكمية وهل كان عمداً أم حادثاً.",
+      "covers": [
+        "History taking in poisoning"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "ABCDE - نهج علاج التسمم",
+      "body": "A = Airway (المجرى الهوائي)\nB = Breathing (التنفس)\nC = Circulation (الدورة الدموية)\nD = Disability (الوعي والعجز العصبي)\nE = Exposure history (تاريخ التعرض)\nهذا الترتيب ثابت في كل حالة تسمم.",
+      "covers": [
+        "Clinical toxicology management"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "قصة الترياقات - من يُنقذ من؟",
+      "body": "نالو (Naloxone) ينقذ من نام (Opioids).\nأتروبين وبرالدوكسيم ينقذان من الفوسفور (Organophosphates).\nنايتيل (N-acetylcysteine) ينقذ الكبد من سُمِّ الباراسيتامول (NAPQI).\nهيدروكسوكوبالامين ينقذ من السيانيد.\nديفيروكسامين ينقذ من الحديد.\nFab ينقذ من الديجوكسين.",
+      "covers": [
+        "Naloxone",
+        "Atropine",
+        "N-acetylcysteine",
+        "Hydroxocobalamin",
+        "Deferoxamine",
+        "Digoxin Fab"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "صورة ذهنية للجرعة والاستجابة",
+      "body": "تخيّل منحنى S (سيجمويد): في البداية تزداد الجرعة بلا أثر (threshold). بعد العتبة كل زيادة صغيرة تُحدث تأثيراً كبيراً (slope شديد = نافذة علاجية ضيقة = خطر تسمم). الدواء ذو الـ LD50 المنخفض أشد سمية لأنه يقتل بجرعة صغيرة.",
+      "covers": [
+        "Dose-response relationship"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "FLAP - آليات السمية الخلوية",
+      "body": "F = Free radicals (جذور حرة - مثل الباراكوات)\nL = Lipid membrane disruption (تدمير الغشاء الخلوي)\nA = Anoxia/Hypoxia (نقص الأكسجين - مثل CO وسيانيد)\nP = Protein/enzyme inhibition (تثبيط الإنزيمات - مثل الأورغانوفوسفات)\nإضافة: Immune-mediated و Genotoxicity.",
+      "covers": [
+        "Mechanisms of toxicity"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "عرِّف LD50.",
+      "back": "الجرعة التي تُسبب وفاة 50% من حيوانات التجربة في دراسات السمية. كلما انخفضت LD50 كان المادة أشد سمية."
+    },
+    {
+      "front": "ما الفرق بين Toxin و Toxicant؟",
+      "back": "Toxin: سم طبيعي تنتجه كائنات حية (نباتات، حيوانات، فطريات). Toxicant: مادة كيميائية صناعية أو بيئية."
+    },
+    {
+      "front": "ما معنى NOAEL وLOAEL؟",
+      "back": "NOAEL = أعلى جرعة لا تُسبب أي تأثير ضار ملحوظ. LOAEL = أقل جرعة تُسبب أول تأثير ضار ملحوظ."
+    },
+    {
+      "front": "ما آلية سمية أول أكسيد الكربون (CO)؟",
+      "back": "يرتبط بالهيموجلوبين بألفة أعلى من الأكسجين مما يُسبب نقص توصيل الأكسجين للأنسجة (cellular hypoxia)."
+    },
+    {
+      "front": "ما آلية سمية السيانيد (Cyanide)؟",
+      "back": "يثبط إنزيم cytochrome c oxidase في السلسلة التنفسية بالميتوكوندريا مما يوقف الفسفرة التأكسدية وإنتاج ATP."
+    },
+    {
+      "front": "ما آلية سمية الأورغانوفوسفات (Organophosphates)؟",
+      "back": "تثبيط لا عكسي لإنزيم acetylcholinesterase مما يُراكم أسيتيلكولين في الوصلات العصبية العضلية والمشابك العصبية."
+    },
+    {
+      "front": "ما المستقل السام للباراسيتامول وما ترياقه؟",
+      "back": "المستقل السام هو NAPQI الذي يُسبب نخر الكبد. الترياق هو N-acetylcysteine الذي يُعيد تكوين الغلوتاثيون."
+    },
+    {
+      "front": "ما المعدن الثقيل الذي يتراكم في العظام؟",
+      "back": "الرصاص (Lead) يتراكم في العظام ويحل محل الكالسيوم، مما يُسبب سمية طويلة الأمد."
+    },
+    {
+      "front": "ما Toxidrome؟",
+      "back": "مجموعة من الأعراض والعلامات المميزة التي تنتج عن نوع معين من السموم، تساعد في التشخيص السريري السريع."
+    },
+    {
+      "front": "اذكر طرق إزالة التلوث (Decontamination) في التسمم.",
+      "back": "الفحم النشط (Activated charcoal)، غسيل المعدة (Gastric lavage - نادر)، ري الأمعاء الكاملة (Whole bowel irrigation)، غسيل الجلد والعين، إزالة المصدر."
+    },
+    {
+      "front": "ما التعريف الدقيق للعلاقة بين الجرعة والاستجابة؟",
+      "back": "مفهوم أساسي نادى به باراسيلسوس: 'الجرعة هي التي تصنع السم'. أي مادة يمكن أن تكون سامة بجرعة كافية."
+    },
+    {
+      "front": "ما هي فروع علم السموم الستة؟",
+      "back": "السريرية، الجنائية، البيئية، المهنية، التنظيمية، التحليلية"
+    },
+    {
+      "front": "ما آلية تحقيق التخلص المعزز من السموم بتقليب البول؟",
+      "back": "تقليب البول ببيكربونات الصوديوم يزيد pH البول مما يُحوِّل الأحماض الضعيفة (أسبرين، فينوباربيتال) إلى شكلها المتأين غير القابل لإعادة الامتصاص."
+    },
+    {
+      "front": "لماذا يُعدّ الميثانول (Methanol) أشد سمية من الإيثانول؟",
+      "back": "الميثانول يُستقلب في الكبد إلى فورمالدهايد ثم حمض الفورميك السام الذي يُسبب حماض استقلابي وعمى ووفاة."
+    },
+    {
+      "front": "ما التقييم المعملي الأساسي في حالات التسمم؟",
+      "back": "CBC، تحليل غازات الدم (ABG)، أسمولالية المصل، شاشة السموم، ECG، مستويات محددة (باراسيتامول، ساليسيلات، ليثيوم، ديجوكسين)"
+    },
+    {
+      "front": "ما ترياق تسمم الحديد وآلية عمله؟",
+      "back": "ديفيروكسامين (Deferoxamine) يُخيِّل أيونات الحديد الحرة مكوِّناً معقداً يُطرح بالبول."
+    },
+    {
+      "front": "ما آلية تراكم الإيثيلين غليكول في الجسم؟",
+      "back": "يُستقلب إلى حمض الأكساليك الذي يترسب في الكلى كأكسالات الكالسيوم مما يُسبب فشلاً كلوياً حاداً."
+    },
+    {
+      "front": "عرّف Toxicology",
+      "back": "علم دراسة الآثار الضارة للمواد الكيميائية على الكائنات الحية (علم السموم)."
+    },
+    {
+      "front": "ما هو LD50؟",
+      "back": "الجرعة التي تقتل 50% من حيوانات الاختبار - مقياس للسُّميّة الحادة.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما معنى مقولة 'The dose makes the poison'؟",
+      "back": "لباراسيلسوس: أي مادة قد تكون سامة حسب الجرعة؛ السُّميّة تعتمد على الجرعة."
+    },
+    {
+      "front": "ما هي NOAEL و LOAEL؟",
+      "back": "NOAEL: أعلى جرعة بلا تأثير ضار ملحوظ. LOAEL: أقل جرعة بأول تأثير ضار."
+    },
+    {
+      "front": "اذكر فروع علم السموم",
+      "back": "السريري، الشرعي، البيئي، المهني، التنظيمي، التحليلي."
+    },
+    {
+      "front": "ما العوامل المؤثرة على السُّميّة؟",
+      "back": "الجرعة والمدة والطريق، العمر والجينات والأمراض المصاحبة، الحالة الغذائية، التداخلات الدوائية."
+    },
+    {
+      "front": "المضاد النوعي لتسمم الباراسيتامول؟",
+      "back": "N-acetylcysteine (يعوّض الجلوتاثيون).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "المضاد النوعي لتسمم الحديد؟",
+      "back": "Deferoxamine."
+    },
+    {
+      "front": "المضاد النوعي لتسمم الفوسفات العضوية (Organophosphates)؟",
+      "back": "Atropine + Pralidoxime.",
+      "tag": "high-yield"
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "أي مما يلي هو الترياق الصحيح لتسمم الأفيونات (Opioids)؟",
+      "options": [
+        "Atropine",
+        "N-acetylcysteine",
+        "Naloxone",
+        "Deferoxamine"
+      ],
+      "answer": 2,
+      "explanation": "النالوكسون (Naloxone) مضاد للمستقبلات الأفيونية (mu-opioid receptor antagonist) يُعكس التثبيط التنفسي والوعي المخفَّض الناجم عن الأفيونات."
+    },
+    {
+      "q": "ما المستقل السام الذي يتشكل من الباراسيتامول في حالات الجرعة الزائدة؟",
+      "options": [
+        "Formic acid",
+        "NAPQI",
+        "Oxalic acid",
+        "Free radicals only"
+      ],
+      "answer": 1,
+      "explanation": "NAPQI (N-acetyl-p-benzoquinone imine) هو المستقل السام للباراسيتامول الذي يُسبب نخر الكبد عند استنفاد الغلوتاثيون."
+    },
+    {
+      "q": "مريض تعرض لرش مبيدات حشرية ويعاني من إفرازات غزيرة وتشنجات وتقبض حدقة العين. ما الترياق؟",
+      "options": [
+        "Naloxone",
+        "Atropine + Pralidoxime",
+        "N-acetylcysteine",
+        "Hydroxocobalamin"
+      ],
+      "answer": 1,
+      "explanation": "الأعراض تدل على تسمم بالأورغانوفوسفات (inhibition of AChE). العلاج: الأتروبين يحصر مستقبلات M، والبرالدوكسيم يُعيد تنشيط AChE قبل 'الشيخوخة'."
+    },
+    {
+      "q": "أي المعادن الثقيلة يتراكم في العظام ويحل محل الكالسيوم؟",
+      "options": [
+        "Mercury (زئبق)",
+        "Arsenic (زرنيخ)",
+        "Lead (رصاص)",
+        "Cadmium (كادميوم)"
+      ],
+      "answer": 2,
+      "explanation": "الرصاص (Lead) يُشبه الكالسيوم كيميائياً فيترسب في العظام والأسنان، مما يُسبب سمية طويلة الأمد ومشاكل عصبية خاصة عند الأطفال."
+    },
+    {
+      "q": "ما الطريق الرئيسي لدخول أول أكسيد الكربون (CO) للجسم؟",
+      "options": [
+        "Dermal (الجلد)",
+        "Ingestion (البلع)",
+        "Inhalation (الاستنشاق)",
+        "Injection (الحقن)"
+      ],
+      "answer": 2,
+      "explanation": "أول أكسيد الكربون غاز يدخل الجسم بالاستنشاق (Inhalation) ويرتبط بالهيموجلوبين مشكِّلاً carboxyhemoglobin."
+    },
+    {
+      "q": "ما المبدأ الأساسي في نهج ABCDE لعلاج التسمم؟",
+      "options": [
+        "البدء بإعطاء الترياق فوراً",
+        "التركيز على تحديد نوع السم أولاً",
+        "تقييم وضمان سلامة المجرى الهوائي والتنفس والدورة الدموية أولاً",
+        "إجراء الفحوصات المعملية قبل أي تدخل"
+      ],
+      "answer": 2,
+      "explanation": "نهج ABCDE يبدأ بضمان سلامة المريض (Airway, Breathing, Circulation) قبل أي شيء آخر، لأن هذه الوظائف حيوية ولو تأخر علاجها قد يموت المريض."
+    },
+    {
+      "q": "ما الاختبار الأهم لتأكيد تسمم الباراسيتامول؟",
+      "options": [
+        "CBC",
+        "مستوى الباراسيتامول في الدم",
+        "تحليل غازات الدم",
+        "مستوى الكرياتينين"
+      ],
+      "answer": 1,
+      "explanation": "قياس مستوى الباراسيتامول في الدم مع تحديد وقت التناول يُحدد الحاجة لإعطاء N-acetylcysteine بناءً على nomogram Rumack-Matthew."
+    },
+    {
+      "q": "أي مما يلي يصف بدقة مفهوم Toxidrome؟",
+      "options": [
+        "اسم لمجموعة من الأدوية السامة",
+        "مجموعة من الأعراض والعلامات المميزة لنوع معين من التسمم",
+        "نوع من الأدوية المضادة للسموم",
+        "طريقة حساب جرعة الترياق"
+      ],
+      "answer": 1,
+      "explanation": "Toxidrome هو نمط مميز من الأعراض والعلامات يدل على نوع التسمم. مثلاً: تقبض الحدقة + بطء القلب + إفرازات = أفيوني أو كوليني."
+    },
+    {
+      "q": "ما وظيفة ترياق Digoxin Fab؟",
+      "options": [
+        "تثبيط امتصاص الديجوكسين من الأمعاء",
+        "ارتباط أجسام مضادة بالديجوكسين الحر لتعادله",
+        "تسريع إفراز الديجوكسين كلوياً",
+        "منافسة الديجوكسين على مستقبلاته"
+      ],
+      "answer": 1,
+      "explanation": "Digoxin Fab عبارة عن شظايا أجسام مضادة ترتبط بالديجوكسين الحر في الدم وتُعادل تأثيره السام على القلب."
+    },
+    {
+      "q": "ما هو الفرق الجوهري بين Toxicokinetics و Toxicodynamics؟",
+      "options": [
+        "Toxicokinetics يدرس آلية السمية، Toxicodynamics يدرس حركة السم",
+        "Toxicokinetics يدرس ما يفعله الجسم بالسم (ADME)، Toxicodynamics يدرس ما يفعله السم بالجسم",
+        "لا فرق بينهما",
+        "Toxicokinetics يُطبَّق فقط على الأدوية الصيدلانية"
+      ],
+      "answer": 1,
+      "explanation": "Toxicokinetics = ما يفعله الجسم بالسم (امتصاص، توزيع، استقلاب، إفراز). Toxicodynamics = ما يفعله السم بالجسم (آلية التأثير على المستقبلات والخلايا)."
+    },
+    {
+      "q": "LD50 هو:",
+      "options": [
+        "الجرعة العلاجية لـ50%",
+        "الجرعة القاتلة لـ50% من الحيوانات",
+        "نصف المؤشر العلاجي",
+        "أقل جرعة سامة"
+      ],
+      "answer": 1,
+      "explanation": "Lethal Dose 50%.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "مضاد تسمم الأفيونات هو:",
+      "options": [
+        "Flumazenil",
+        "Naloxone",
+        "Atropine",
+        "Deferoxamine"
+      ],
+      "answer": 1,
+      "explanation": "Naloxone مضاد مستقبلات الأفيون.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "'الجرعة هي ما يصنع السم' تنسب إلى:",
+      "options": [
+        "Galen",
+        "Paracelsus",
+        "Hippocrates",
+        "Avicenna"
+      ],
+      "answer": 1,
+      "explanation": "باراسيلسوس - مبدأ أساسي في علم السموم.",
+      "difficulty": "medium"
+    }
+  ],
+  "high_yield": [
+    {
+      "point": "Paracetamol overdose → N-acetylcysteine (يعوّض الجلوتاثيون).",
+      "tag": "indication"
+    },
+    {
+      "point": "Opioids → Naloxone؛ Benzodiazepines → Flumazenil.",
+      "tag": "indication"
+    },
+    {
+      "point": "Organophosphates → Atropine + Pralidoxime؛ Iron → Deferoxamine.",
+      "tag": "indication"
+    },
+    {
+      "point": "Methanol/Ethylene glycol → Fomepizole أو Ethanol.",
+      "tag": "indication"
+    }
+  ],
+  "comparison_tables": [
+    {
+      "title": "السموم ومضاداتها (Antidotes)",
+      "columns": [
+        "السم",
+        "المضاد"
+      ],
+      "rows": [
+        [
+          "Paracetamol",
+          "N-acetylcysteine"
+        ],
+        [
+          "Opioids",
+          "Naloxone"
+        ],
+        [
+          "Benzodiazepines",
+          "Flumazenil"
+        ],
+        [
+          "Organophosphates",
+          "Atropine + Pralidoxime"
+        ],
+        [
+          "Iron",
+          "Deferoxamine"
+        ],
+        [
+          "Methanol",
+          "Fomepizole / Ethanol"
+        ],
+        [
+          "Warfarin",
+          "Vitamin K / FFP"
+        ],
+        [
+          "Heparin",
+          "Protamine sulfate"
+        ],
+        [
+          "Digoxin",
+          "Digoxin-specific antibodies"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pharma Memory Hub 💊</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+
+<!-- NAVBAR -->
+<nav class="navbar">
+  <a class="navbar-brand" href="index.html">
+    <span>💊</span> Pharma Memory Hub
+  </a>
+  <div class="nav-links">
+    <a class="nav-link" href="review.html">🔁 مراجعة</a>
+    <a class="nav-link" href="exam.html">📝 امتحان</a>
+    <a class="nav-link" href="highyield.html">⭐ High-Yield</a>
+    <a class="nav-link" href="drugs.html">💊 الأدوية</a>
+  </div>
+</nav>
+
+<!-- STATS BAR -->
+<div class="stats-bar" id="statsBar">
+  <div class="stat-item">
+    <div class="val" id="stat-total">27</div>
+    <div class="lbl">محاضرة</div>
+  </div>
+  <div class="stat-item">
+    <div class="val" id="stat-done">0</div>
+    <div class="lbl">خلّصتها</div>
+  </div>
+  <div class="stat-item">
+    <div class="val" id="stat-cards">0</div>
+    <div class="lbl">بطاقات راجعتها</div>
+  </div>
+  <div class="stat-item">
+    <div class="val" id="stat-quizzes">0</div>
+    <div class="lbl">كويزات أكملتها</div>
+  </div>
+</div>
+
+<!-- DUE TODAY -->
+<a class="due-banner" id="dueBanner" href="review.html" style="display:none">
+  <span class="due-icon">🔁</span>
+  <span id="dueBannerText">مراجعة اليوم</span>
+  <span class="due-go">ابدأ ←</span>
+</a>
+
+<!-- HERO -->
+<div class="hero">
+  <h1>ذاكر الفارما بذكاء 🧠</h1>
+  <p>27 محاضرة → ربط ومنمونيكس + بطاقات Flashcards + كويزات MCQ</p>
+
+  <div class="search-bar">
+    <input type="text" id="searchInput" placeholder="ابحث عن محاضرة أو دواء أو موضوع…" autocomplete="off">
+    <span class="search-icon">🔍</span>
+  </div>
+
+  <div class="filter-row" id="filterRow">
+    <button class="filter-chip exam-mid1 active" data-filter="mid1">MID 1</button>
+    <button class="filter-chip exam-mid2 active" data-filter="mid2">MID 2</button>
+    <button class="filter-chip exam-final active" data-filter="final">Final</button>
+    <button class="filter-chip" data-filter="all" style="display:none">الكل</button>
+  </div>
+</div>
+
+<!-- CONTENT -->
+<main id="main">
+  <!-- MID 1 -->
+  <section class="section" id="mid1">
+    <div class="section-header">
+      <h2>MID 1</h2>
+      <span class="exam-badge badge-mid1">الاختبار الأول</span>
+      <span class="count" id="count-mid1">9 محاضرات</span>
+    </div>
+    <div class="lecture-grid" id="grid-mid1"></div>
+  </section>
+
+  <!-- MID 2 -->
+  <section class="section" id="mid2">
+    <div class="section-header">
+      <h2>MID 2</h2>
+      <span class="exam-badge badge-mid2">الاختبار الثاني</span>
+      <span class="count" id="count-mid2">9 محاضرات</span>
+    </div>
+    <div class="lecture-grid" id="grid-mid2"></div>
+  </section>
+
+  <!-- FINAL -->
+  <section class="section" id="final">
+    <div class="section-header">
+      <h2>Final</h2>
+      <span class="exam-badge badge-final">الاختبار النهائي</span>
+      <span class="count" id="count-final">9 محاضرات</span>
+    </div>
+    <div class="lecture-grid" id="grid-final"></div>
+  </section>
+
+  <div class="empty-state" id="emptyState" style="display:none">
+    <div class="icon">🔍</div>
+    <p>ما لقينا نتائج. جرّب كلمة ثانية.</p>
+  </div>
+</main>
+
+<script src="assets/js/srs.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

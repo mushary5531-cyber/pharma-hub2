@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>مراجعة اليوم | Pharma Memory Hub</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<nav class="navbar">
+  <a class="navbar-brand" href="index.html"><span>💊</span> Pharma Memory Hub</a>
+  <div class="nav-links">
+    <a class="nav-link" href="index.html">الرئيسية</a>
+  </div>
+</nav>
+
+<div class="lecture-page">
+  <div class="lecture-header">
+    <a class="back-btn" href="index.html">← رجوع للرئيسية</a>
+    <h1>🔁 مراجعة اليوم</h1>
+    <div class="meta"><span id="dueMeta">جاري التحميل…</span></div>
+  </div>
+
+  <div id="reviewArea">
+    <div class="flashcard-progress" id="rvProgress"></div>
+    <div class="flashcard-container">
+      <div class="flashcard" id="flashcard" onclick="rvFlip()">
+        <div class="flashcard-face front"><div class="face-label">السؤال</div><div class="face-text" id="rvFront"></div></div>
+        <div class="flashcard-face back"><div class="face-label">الجواب</div><div class="face-text" id="rvBack"></div></div>
+      </div>
+    </div>
+    <p class="flashcard-hint" id="rvSource"></p>
+    <div class="flashcard-controls srs" id="rvControls" style="display:none">
+      <button class="fc-btn again" onclick="rvRate('again')">🔁 مرة ثانية</button>
+      <button class="fc-btn hard" onclick="rvRate('hard')">😓 صعبة</button>
+      <button class="fc-btn good" onclick="rvRate('good')">✅ عرفتها</button>
+      <button class="fc-btn easy" onclick="rvRate('easy')">⚡ سهلة</button>
+    </div>
+  </div>
+
+  <div class="empty-state" id="rvDone" style="display:none">
+    <div class="icon">🎉</div>
+    <p>ما عندك بطاقات مستحقة الآن. ارجع لاحقاً أو ذاكر محاضرة جديدة.</p>
+    <a class="quiz-restart-btn" href="index.html" style="margin-top:16px;display:inline-block">الرئيسية</a>
+  </div>
+</div>
+
+<script src="assets/js/srs.js"></script>
+<script src="assets/js/review.js"></script>
+</body>
+</html>

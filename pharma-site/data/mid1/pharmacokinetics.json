@@ -1,0 +1,396 @@
+{
+  "id": "mid1-05",
+  "slug": "pharmacokinetics",
+  "title": "Pharmacokinetics",
+  "exam": "mid1",
+  "topics": [
+    "Absorption",
+    "Bioavailability",
+    "First-Pass Metabolism",
+    "Distribution",
+    "Plasma Protein Binding",
+    "Volume of Distribution",
+    "Metabolism Phase I & II",
+    "Enzyme Induction & Inhibition",
+    "Elimination",
+    "Half-life",
+    "Loading Dose",
+    "Maintenance Dose"
+  ],
+  "summary": "الحرائك الدوائية (Pharmacokinetics) تدرس ما يفعله الجسم بالدواء عبر أربع مراحل: الامتصاص (Absorption)، التوزيع (Distribution)، الاستقلاب (Metabolism)، والإطراح (Excretion) - ADME. الامتصاص يتأثر بطريقة التناول والتأين والذوبانية الدهنية، بينما التوزيع يعتمد على حجم التوزيع (Vd) والارتباط بالبروتينات البلازمية. يحدث الاستقلاب الكبدي على مرحلتين (Phase I و II)، وقد يتأثر بمحرضات أو مثبطات إنزيمية. تُقاس سرعة الإطراح بنصف العمر (t1/2) الذي يستغرق 4-5 منه للوصول للحالة المستقرة.",
+  "key_drugs": [
+    {
+      "name": "Morphine",
+      "class": "Opioid Analgesic",
+      "note": "يخضع لـ First-pass metabolism كبير، لذلك فاعليته الفموية أقل بكثير من IV"
+    },
+    {
+      "name": "Propranolol",
+      "class": "Beta-blocker",
+      "note": "First-pass metabolism عالي، يحتاج جرعات فموية أعلى لتعادل IV"
+    },
+    {
+      "name": "Nitroglycerin",
+      "class": "Nitrate / Vasodilator",
+      "note": "يُعطى تحت اللسان (Sublingual) لتجنب First-pass metabolism"
+    },
+    {
+      "name": "Warfarin",
+      "class": "Anticoagulant",
+      "note": "ارتباط عالٍ ببروتينات البلازما (>90%)، يتنافس مع Aspirin على الارتباط"
+    },
+    {
+      "name": "Phenytoin",
+      "class": "Antiepileptic",
+      "note": "يسير بـ Zero-order kinetics عند جرعات عالية، t1/2 غير ثابت"
+    },
+    {
+      "name": "Isoniazid (INH)",
+      "class": "Antituberculosis",
+      "note": "يُستقلب بالـ Acetylation - fast vs slow acetylators (Genetic polymorphism)"
+    },
+    {
+      "name": "Rifampin",
+      "class": "Antibiotic / Antituberculosis",
+      "note": "محرض إنزيمي قوي (Enzyme Inducer) لـ CYP - يُقلل تأثير الأدوية الأخرى"
+    },
+    {
+      "name": "Ketoconazole",
+      "class": "Antifungal",
+      "note": "مثبط إنزيمي (Enzyme Inhibitor) - يزيد تركيز الأدوية التي تُستقلب بنفس الإنزيم"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "مراحل الحرائك الدوائية: ADME",
+      "body": "A = Absorption (الامتصاص)\nD = Distribution (التوزيع)\nM = Metabolism (الاستقلاب)\nE = Excretion (الإطراح)\nتذكر: الدواء يمر بـ ADME داخل الجسم",
+      "covers": [
+        "Absorption",
+        "Distribution",
+        "Metabolism",
+        "Excretion"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "الامتصاص: غير مشحون = يُمتص",
+      "body": "تخيل الدواء يريد اجتياز جدار الأمعاء. الجدار كاره للماء (Lipophilic). الدواء المشحون (Ionized) = يحمل حقيبة ثقيلة (Water soluble) - لا يستطيع العبور. الدواء غير المشحون (Unionized) = خفيف (Lipid soluble) - يعبر بسهولة. القاعدة: Unionized = Lipid soluble = More absorbed.",
+      "covers": [
+        "Absorption",
+        "Ionization",
+        "Lipid solubility"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "First-Pass Metabolism: حاجز الكبد",
+      "body": "تخيل دواءً فمويًا يسافر: يُبتلع، يُمتص من الأمعاء، ثم يصطدم بـ 'نقطة تفتيش' الكبد. الكبد يُفكك جزءاً منه قبل أن يصل الدم. النتيجة: Bioavailability < 100%. Morphine وPropranolol يخسران كثيراً عند هذه النقطة. Nitroglycerin يتجاوزها بالطريق تحت اللساني.",
+      "covers": [
+        "First-pass metabolism",
+        "Bioavailability",
+        "Morphine",
+        "Nitroglycerin"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "عوامل تؤثر على توزيع الدواء: PLBR",
+      "body": "P = Plasma protein binding (الارتباط ببروتينات البلازما)\nL = Lipid solubility (الذوبانية الدهنية)\nB = Blood-brain barrier (حاجز الدماغ)\nR = Regional blood flow (تدفق الدم الإقليمي)\nPLBR = كل ما يحدد أين يذهب الدواء",
+      "covers": [
+        "Distribution",
+        "Plasma protein binding",
+        "Lipid solubility",
+        "Blood-brain barrier"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "نصف العمر t1/2: قاعدة الأنصاف",
+      "body": "تخيل 100 جندي دواء في الجسم. بعد t1/2 الأول: يبقى 50. بعد الثاني: 25. بعد الثالث: 12.5. بعد الرابع: 6.25. بعد الخامس: ~3.1. بعد 4-5 نصف عمر: الجيش انتهى تقريباً. نفس المبدأ لـ Steady State: تحتاج 4-5 t1/2 للوصول إليه.",
+      "covers": [
+        "Half-life",
+        "Steady state",
+        "Elimination"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما هي Bioavailability؟ ومتى تكون 100%؟",
+      "back": "هي نسبة الجرعة التي تصل إلى الدوران الجهازي. تكون 100% عند الإعطاء الوريدي (IV) فقط. الطريق الفموي دائماً أقل من 100% بسبب امتصاص ناقص وFirst-pass metabolism."
+    },
+    {
+      "front": "ما هو First-Pass Metabolism وما أهميته السريرية؟",
+      "back": "استقلاب الدواء في الكبد وجدار الأمعاء قبل وصوله للدوران. يُقلل Bioavailability. مثال: Morphine وPropranolol. الحل: طرق بديلة مثل Sublingual (Nitroglycerin)."
+    },
+    {
+      "front": "ما العلاقة بين الـ Ionization والامتصاص؟",
+      "back": "فقط الشكل غير المشحون (Unionized) يُمتص لأنه ذوّاب في الدهون. الشكل المشحون (Ionized) ذوّاب في الماء ولا يخترق الغشاء الخلوي."
+    },
+    {
+      "front": "ما هو Volume of Distribution (Vd)؟ وما معنى قيمة عالية؟",
+      "back": "حجم افتراضي يعكس توزع الدواء في الجسم. Vd = D / C. قيمة عالية = الدواء يتوزع خارج الدم (في الأنسجة). قيمة منخفضة = يبقى في البلازما."
+    },
+    {
+      "front": "ما الفرق بين الشكل الحر والمرتبط للدواء في البلازما؟",
+      "back": "الشكل الحر (Free form): نشط، قابل للانتشار، يُستقلب ويُطرح. الشكل المرتبط (Protein-bound): غير نشط، لا ينتشر، لا يُستقلب ولا يُطرح - يعمل كخزان."
+    },
+    {
+      "front": "لماذا يُسبب Aspirin خطر النزيف عند إعطائه مع Warfarin؟",
+      "back": "Aspirin له قدرة أعلى على الارتباط ببروتينات البلازما، فيُزيح Warfarin من ارتباطه، مما يزيد الجزء الحر من Warfarin ويُعزز تأثيره المضاد للتخثر."
+    },
+    {
+      "front": "ما هي Phase I reactions في الاستقلاب؟",
+      "back": "تفاعلات غير تركيبية: أكسدة، اختزال، تحلل مائي (Oxidation, Reduction, Hydrolysis). تُجري بواسطة إنزيمات Cytochrome P450. تُحوّل الدواء إلى أيض أكثر قطبية."
+    },
+    {
+      "front": "ما هي Phase II reactions في الاستقلاب؟",
+      "back": "تفاعلات اقتران (Conjugation) مع جلوكورونيك، كبريتيك، أو خليك. الأكثر شيوعاً: Glucuronidation. النتيجة: مواد قابلة للذوبان في الماء وسهلة الإطراح الكلوي."
+    },
+    {
+      "front": "ما هو Enzyme Induction وما تأثيره على مستوى الدواء؟",
+      "back": "تحريض إنزيمات الاستقلاب (مثل CYP3A4) يزيد سرعة استقلاب الأدوية المتأثرة، مما يُخفّض مستواها في الدم ويُقلل التأثير العلاجي. مثال: Rifampin يحرّض CYP → يُقلل فاعلية Oral contraceptives."
+    },
+    {
+      "front": "ما هو Enzyme Inhibition وما تأثيره على مستوى الدواء؟",
+      "back": "تثبيط إنزيمات الاستقلاب يُبطئ استقلاب الدواء، مما يرفع تركيزه في الدم ويزيد خطر التسمم. مثال: Ketoconazole يثبط CYP → يرفع مستوى الأدوية المتأثرة."
+    },
+    {
+      "front": "ما هو نصف العمر (t1/2)؟ وكيف يُحسب؟",
+      "back": "الوقت اللازم لانخفاض تركيز الدواء بنسبة 50%. t1/2 = 0.693 × Vd / CL. يحدد سرعة الوصول للحالة المستقرة (Steady State)."
+    },
+    {
+      "front": "كم t1/2 يلزم للوصول لـ Steady State؟",
+      "back": "4-5 نصف عمر للوصول إلى الحالة المستقرة (Steady State) وكذلك للإطراح الكامل."
+    },
+    {
+      "front": "ما الفرق بين First-order و Zero-order kinetics؟",
+      "back": "First-order: سرعة الإطراح تتناسب مع التركيز - نسبة ثابتة تُطرح. t1/2 ثابت. معظم الأدوية.\nZero-order: كمية ثابتة تُطرح بصرف النظر عن التركيز. t1/2 غير ثابت. مثال: Phenytoin, Ethanol."
+    },
+    {
+      "front": "ما معادلة Loading Dose؟",
+      "back": "Loading Dose (LD) = Vd × Target Cp. تُعطى عند الحاجة لتحقيق تركيز علاجي سريع."
+    },
+    {
+      "front": "ما معادلة Maintenance Dose؟",
+      "back": "Maintenance Dose = Css × CL. (Css = Steady state concentration, CL = Clearance). تضمن الحفاظ على التركيز المستقر."
+    },
+    {
+      "front": "ما هي آليات الامتصاص من الجهاز الهضمي؟",
+      "back": "1. Passive diffusion (الأكثر شيوعاً)\n2. Facilitated diffusion\n3. Active transport\n4. Endocytosis"
+    },
+    {
+      "front": "ما تأثير أمراض الكبد على توزيع الدواء؟",
+      "back": "تشمع الكبد الشديد → نقص الألبومين → زيادة الجزء الحر من الأدوية المرتبطة ببروتينات → تأثير دوائي مفرط وآثار سلبية."
+    },
+    {
+      "front": "ما تأثير القصور الكلوي على الدواء؟",
+      "back": "يُقلل إطراح الأدوية عبر الكلى → تراكم الدواء → زيادة خطر التسمم. مثال: Digoxin يتراكم في القصور الكلوي."
+    },
+    {
+      "front": "ما هي مسارات إطراح الدواء من الجسم؟",
+      "back": "الكلى (الأهم)، الصفراء، الرئتان (العوامل المتطايرة)، الأمعاء، حليب الأم. الكلى تُطرح الأدوية عبر: Filtration, Active secretion, Reabsorption."
+    },
+    {
+      "front": "لماذا يحتاج Nitroglycerin إلى الإعطاء تحت اللسان؟",
+      "back": "لأنه لو أُعطي فمويًا سيخضع لـ First-pass metabolism كبير في الكبد مما يُلغي فاعليته. الإعطاء تحت اللسان يُتيح امتصاصه مباشرة في الدوران دون المرور بالكبد."
+    },
+    {
+      "front": "ما مراحل الحركية الدوائية ADME؟",
+      "back": "Absorption, Distribution, Metabolism, Excretion.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما الآلية الأكثر شيوعاً لامتصاص الأدوية؟",
+      "back": "الانتشار السلبي (Passive diffusion) للأدوية الذائبة في الدهون وغير المتأينة."
+    },
+    {
+      "front": "أي صورة من الدواء تُمتص: المتأينة أم غير المتأينة؟",
+      "back": "غير المتأينة (unionized) لأنها ذائبة في الدهون وتعبر الأغشية.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما هو التوافر الحيوي (Bioavailability)؟",
+      "back": "نسبة الجرعة التي تصل الدورة الجهازية بشكل فعّال؛ IV = 100%."
+    },
+    {
+      "front": "ما هو حجم التوزيع Vd؟",
+      "back": "Vd = الجرعة / التركيز البلازمي؛ حجم افتراضي يربط كمية الدواء بتركيزه في البلازما."
+    },
+    {
+      "front": "ما هي التصفية Clearance؟",
+      "back": "حجم البلازما المُنقّى من الدواء في وحدة الزمن؛ تحدد جرعة الصيانة."
+    },
+    {
+      "front": "ما العلاقة بين t½ و Clearance و Vd؟",
+      "back": "t½ = 0.693 × Vd / CL.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما الفرق بين حركية الرتبة صفر والرتبة الأولى؟",
+      "back": "Zero-order: كمية ثابتة تُستقلب/الزمن (مثل الكحول، الأسبرين بجرعات عالية). First-order: نسبة ثابتة تُستقلب/الزمن (معظم الأدوية)."
+    },
+    {
+      "front": "ما طورا استقلاب الدواء في الكبد؟",
+      "back": "Phase I (أكسدة/اختزال/حلمأة عبر CYP450) و Phase II (الاقتران - conjugation مثل glucuronidation)."
+    },
+    {
+      "front": "كيف يؤثر مرض الكبد على PK؟",
+      "back": "نقص الألبومين والتدفق الكبدي والإنزيمات → نقص الاستقلاب والارتباط البروتيني → آثار جانبية."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "ما التعريف الصحيح لـ Bioavailability؟",
+      "options": [
+        "نسبة الدواء المرتبط بالبروتينات",
+        "نسبة الجرعة التي تصل إلى الدوران الجهازي",
+        "سرعة امتصاص الدواء من الأمعاء",
+        "الحجم الافتراضي لتوزع الدواء"
+      ],
+      "answer": 1,
+      "explanation": "Bioavailability = نسبة الجرعة التي تصل إلى الدوران الجهازي. تكون 100% عند IV، وتقل عند الإعطاء الفموي بسبب امتصاص ناقص وFirst-pass metabolism."
+    },
+    {
+      "q": "أي شكل الدواء يُمتص أفضل من الجهاز الهضمي؟",
+      "options": [
+        "الشكل المشحون (Ionized)",
+        "الشكل المرتبط بالبروتينات",
+        "الشكل غير المشحون (Unionized)",
+        "الشكل الذوّاب في الماء"
+      ],
+      "answer": 2,
+      "explanation": "الشكل غير المشحون (Unionized) ذوّاب في الدهون (Lipophilic) ويخترق الأغشية الخلوية بسهولة. الشكل المشحون (Ionized) ذوّاب في الماء ولا يُمتص جيداً."
+    },
+    {
+      "q": "ما السبب الرئيسي لإعطاء Nitroglycerin تحت اللسان وليس فمويًا؟",
+      "options": [
+        "لزيادة سرعة الامتصاص فقط",
+        "لتجنب First-pass metabolism في الكبد",
+        "لأنه غير ذوّاب في الماء",
+        "لأن الجهاز الهضمي يُفككه"
+      ],
+      "answer": 1,
+      "explanation": "Nitroglycerin يخضع لـ First-pass metabolism مكثف في الكبد يُلغي فاعليته لو أُعطي فمويًا. الإعطاء تحت اللسان يتجاوز الكبد ويصل مباشرة للدوران."
+    },
+    {
+      "q": "دواء Vd = 100L يعني:",
+      "options": [
+        "الدواء محصور في البلازما فقط",
+        "الدواء يتوزع في الأنسجة خارج البلازما بنسبة كبيرة",
+        "الدواء مرتبط ببروتينات البلازما بشكل كبير",
+        "الدواء يُطرح بسرعة"
+      ],
+      "answer": 1,
+      "explanation": "Vd عالٍ يعني الدواء يتوزع بشكل واسع خارج الأوعية الدموية في الأنسجة. Vd منخفض (مثل حجم البلازما ~3-5L) يعني بقاء الدواء في الدم."
+    },
+    {
+      "q": "ما Phase I reactions في استقلاب الدواء؟",
+      "options": [
+        "Conjugation مع Glucuronic acid",
+        "Oxidation, Reduction, Hydrolysis",
+        "ربط الدواء بالألبومين",
+        "ترشيح الدواء في الكلى"
+      ],
+      "answer": 1,
+      "explanation": "Phase I = Oxidation, Reduction, Hydrolysis. تُجرى بواسطة إنزيمات Cytochrome P450. تزيد قطبية الدواء ليصبح أكثر قابلية للإطراح."
+    },
+    {
+      "q": "Rifampin يُقلل فاعلية حبوب منع الحمل الفموية بسبب:",
+      "options": [
+        "تثبيط امتصاصها من الأمعاء",
+        "تحريض إنزيمات CYP مما يزيد استقلابها",
+        "ارتباطه بها كيميائياً",
+        "تثبيط الكلى عن إطراحها"
+      ],
+      "answer": 1,
+      "explanation": "Rifampin هو Enzyme Inducer قوي. يُحرّض إنزيمات CYP → يزيد استقلاب حبوب منع الحمل → يُخفض مستواها الدموي → فشل علاجي (حمل غير مرغوب)."
+    },
+    {
+      "q": "دواء يسير بـ Zero-order kinetics، ما التوقع الصحيح؟",
+      "options": [
+        "t1/2 ثابت بغض النظر عن الجرعة",
+        "يمكن الوصول لـ Steady State في 4-5 t1/2",
+        "نسبة ثابتة من الدواء تُطرح لكل وحدة زمن",
+        "كمية ثابتة تُطرح لكل وحدة زمن - t1/2 غير ثابت"
+      ],
+      "answer": 3,
+      "explanation": "Zero-order kinetics: كمية ثابتة تُطرح بصرف النظر عن التركيز (Saturable process). t1/2 غير ثابت. لا يوجد Steady State. مثال: Phenytoin, Ethanol."
+    },
+    {
+      "q": "ما معادلة Loading Dose؟",
+      "options": [
+        "LD = Css × CL",
+        "LD = Vd × Target Cp",
+        "LD = t1/2 × CL",
+        "LD = F × D"
+      ],
+      "answer": 1,
+      "explanation": "Loading Dose = Vd × Target Plasma Concentration. تُعطى لتحقيق تركيز علاجي سريع دون انتظار 4-5 t1/2."
+    },
+    {
+      "q": "مريض لديه قصور كلوي، أي الأدوية الأكثر خطورة من ناحية التراكم؟",
+      "options": [
+        "الأدوية المستقلبة في الكبد",
+        "Digoxin الذي يُطرح أساساً عبر الكلى",
+        "الأدوية المرتبطة بالبروتينات",
+        "الأدوية التي تمر بـ Phase II"
+      ],
+      "answer": 1,
+      "explanation": "Digoxin يُطرح أساساً عبر الكلى. في القصور الكلوي ينخفض إطراحه → يتراكم → يزيد خطر التسمم. يلزم تعديل الجرعة."
+    },
+    {
+      "q": "بعد كم t1/2 يُطرح الدواء بالكامل تقريباً من الجسم؟",
+      "options": [
+        "1-2 t1/2",
+        "2-3 t1/2",
+        "4-5 t1/2",
+        "10 t1/2"
+      ],
+      "answer": 2,
+      "explanation": "بعد 4-5 نصف عمر: 1st=50%, 2nd=75%, 3rd=87.5%, 4th=93.75%, 5th=~97% تُطرح. لذلك 4-5 t1/2 تكفي للإطراح الكامل وكذلك للوصول للـ Steady State."
+    },
+    {
+      "q": "معظم الأدوية تُمتص عبر:",
+      "options": [
+        "النقل النشط",
+        "الانتشار السلبي",
+        "الالتقام الخلوي",
+        "الانتشار الميسّر"
+      ],
+      "answer": 1,
+      "explanation": "الانتشار السلبي هو الآلية الغالبة.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "نصف العمر يُحسب بـ:",
+      "options": [
+        "CL × Vd",
+        "0.693 × Vd / CL",
+        "Vd / الجرعة",
+        "CL / Vd"
+      ],
+      "answer": 1,
+      "explanation": "t½ = 0.693·Vd/CL.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "الكحول يُستقلب بحركية:",
+      "options": [
+        "الرتبة الأولى",
+        "الرتبة صفر",
+        "الرتبة الثانية",
+        "متغيرة عشوائياً"
+      ],
+      "answer": 1,
+      "explanation": "Zero-order: كمية ثابتة بوحدة الزمن.",
+      "difficulty": "medium"
+    }
+  ]
+}

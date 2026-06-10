@@ -1,0 +1,420 @@
+{
+  "id": "mid2-06",
+  "slug": "nsaids",
+  "title": "NSAIDs and Paracetamol",
+  "exam": "mid2",
+  "topics": [
+    "NSAIDs mechanism",
+    "Aspirin",
+    "COX-2 inhibitors",
+    "Paracetamol",
+    "Drug interactions"
+  ],
+  "summary": "مضادات الالتهاب غير الستيرويدية (NSAIDs) تعمل عبر تثبيط إنزيمات COX-1 وCOX-2 مما يقلل تخليق البروستاغلاندينات. الأسبرين يثبط COX بشكل لا عكسي ويُستخدم بجرعات منخفضة كمضاد للتجلط. مثبطات COX-2 الانتقائية كـ Celecoxib تسبب آثاراً معدية أقل لكنها تزيد خطر الاحتشاء. الباراسيتامول مسكن ومخفض للحرارة لكنه ليس مضاداً للالتهاب.",
+  "key_drugs": [
+    {
+      "name": "Aspirin (Acetylsalicylic acid)",
+      "class": "Non-selective COX inhibitor (irreversible)",
+      "note": "low dose: antiplatelet (75-150mg); intermediate: analgesic/antipyretic (300-650mg); high: anti-inflammatory (4-8g)"
+    },
+    {
+      "name": "Ibuprofen",
+      "class": "Non-selective COX inhibitor (reversible)",
+      "note": "first-choice in inflammatory joint disease; best NSAID in children; less GI side effects"
+    },
+    {
+      "name": "Diclofenac",
+      "class": "Non-selective COX inhibitor (reversible)",
+      "note": "best NSAID for dysmenorrhea; more nephrotoxic; less GI irritation than aspirin"
+    },
+    {
+      "name": "Indomethacin",
+      "class": "Non-selective COX inhibitor (reversible)",
+      "note": "most potent but most toxic; closes patent ductus arteriosus; avoid in late pregnancy"
+    },
+    {
+      "name": "Celecoxib",
+      "class": "Selective COX-2 inhibitor",
+      "note": "less GI ulcer risk; nephrotoxic; increases MI risk; skin rash"
+    },
+    {
+      "name": "Paracetamol (Acetaminophen)",
+      "class": "Analgesic/Antipyretic (central)",
+      "note": "NO anti-inflammatory; preferred antipyretic; hepatotoxic in overdose; antidote: N-acetylcysteine"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "GRABS - الآثار الجانبية المشتركة للـ NSAIDs",
+      "body": "G = GI upset and ulceration, R = Renal toxicity (nephrotoxicity), A = Allergy (skin rash, rhinitis, asthma), B = Blood pressure increase (fluid retention, edema), S = Salicylism (chronic aspirin toxicity: dizziness, tinnitus)",
+      "covers": [
+        "Aspirin",
+        "Ibuprofen",
+        "Diclofenac",
+        "Indomethacin"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "قصة الأسبرين مع الصفائح الدموية",
+      "body": "تخيل الأسبرين كسكين يقطع COX للأبد (لا عكسي = Irreversible). الصفيحة الدموية لا نواة لها (anucleated) فلا تستطيع صنع COX جديداً → تأثيره يمتد لـ 7-10 أيام (عمر الصفيحة). البطانة الوعائية عندها نواة → تصنع COX جديداً بسرعة → تعود لتصنيع PGI2.",
+      "covers": [
+        "Aspirin"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "Paracetamol - الكبد في خطر",
+      "body": "تخيل كبداً يعمل بشكل طبيعي مع الباراسيتامول. في جرعة زائدة: مسار الغلوتاثيون (Glutathione) يَنضب → NAPQI (المستقلب السام) يتراكم كالنار → نخر كبدي. الترياق N-acetylcysteine يُجدد الغلوتاثيون ويُطفئ النار.",
+      "covers": [
+        "Paracetamol (Acetaminophen)"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "BRING - موانع الأسبرين",
+      "body": "B = Bleeding disorders, R = Renal problems, I = Infections viral in children (Reye's syndrome), N = NSAID allergy/GI ulcer, G = Gout (low doses increase uric acid)",
+      "covers": [
+        "Aspirin"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "Indomethacin - القوي الخطير",
+      "body": "Indomethacin الأقوى بين الـ NSAIDs لكن أيضاً الأخطر. يُغلق القناة الشريانية (ductus arteriosus) في المواليد (استخدام قانوني) لكنه خطير في نهاية الحمل (يُغلق القناة مبكراً في الجنين). أثاره العصبية (Neurotoxicity) والدموية (aplastic anemia) تجعله للحالات المحدودة فقط.",
+      "covers": [
+        "Indomethacin"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما الفرق الرئيسي بين تثبيط الأسبرين لـ COX وتثبيط الـ NSAIDs الأخرى؟",
+      "back": "الأسبرين: تثبيط لا عكسي (irreversible) بتكوين رابطة تساهمية (acetyl bond). الـ NSAIDs الأخرى: تثبيط عكسي (reversible) ومؤقت لساعات."
+    },
+    {
+      "front": "لماذا تأثير الأسبرين المضاد للصفائح الدموية يمتد 7-10 أيام؟",
+      "back": "الصفائح الدموية خلايا بدون نواة (anucleated) → لا تستطيع تصنيع COX جديداً → التثبيط لا عكسي يمتد طوال عمر الصفيحة (7-10 أيام)."
+    },
+    {
+      "front": "ما الجرعات المختلفة للأسبرين وتأثيراتها؟",
+      "back": "جرعة منخفضة (75-150 mg/d): مضاد للصفائح. جرعة متوسطة (300-650mg/4-6h): مسكن ومخفض حرارة. جرعة عالية (4-8 g/d): مضاد التهاب."
+    },
+    {
+      "front": "ما التفاعل الدوائي الخطير للأسبرين مع الوارفارين (Warfarin)؟",
+      "back": "الساليسيلات ترتبط بالألبومين بقوة → تُزاحم الوارفارين → يرتفع الوارفارين الحر في الدم → زيادة خطر النزيف."
+    },
+    {
+      "front": "ما متلازمة راي (Reye's Syndrome) ومتى تحدث؟",
+      "back": "اعتلال دماغي (encephalopathy) وتلف كبدي خطير عند الأطفال الذين يأخذون الأسبرين خلال عدوى فيروسية (كالإنفلونزا أو الجدري). لذا الأسبرين ممنوع للأطفال أقل من 12 سنة."
+    },
+    {
+      "front": "ما الفرق بين التأثير على حمض البوليك بين الجرعات المنخفضة والعالية من الأسبرين؟",
+      "back": "الجرعة المنخفضة: تُنافس حمض البوليك على الإفراز الكلوي → تقلل إفرازه → ترفع مستواه في الدم (Hyperuricemia → Gout). الجرعة العالية: تزيد إفراز حمض البوليك (Uricosuric effect)."
+    },
+    {
+      "front": "كيف يُعالج التسمم الحاد بالأسبرين؟",
+      "back": "تقليب المعدة + القلونة (Alkalinization of urine بـ NaHCO3) → يزيد تأيين الساليسيلات → يُعزز الإفراز الكلوي → يُسرع التخلص من الدواء."
+    },
+    {
+      "front": "ما أفضل NSAIDs لعسر الطمث (Dysmenorrhea)؟",
+      "back": "Diclofenac أفضل من Ibuprofen وIndomethacin في علاج عسر الطمث."
+    },
+    {
+      "front": "ما الاستخدام الفريد لـ Indomethacin في حديثي الولادة؟",
+      "back": "يُغلق القناة الشريانية السالكة (patent ductus arteriosus) في المواليد عبر تثبيط البروستاغلاندينات التي تُبقيها مفتوحة."
+    },
+    {
+      "front": "ما الميزة الرئيسية لـ Celecoxib على NSAIDs غير الانتقائية؟",
+      "back": "يُثبط COX-2 انتقائياً دون COX-1 → لا يُثبط PGs الواقية للمعدة → خطر أقل للقرحة المعدية والنزيف الهضمي."
+    },
+    {
+      "front": "ما الآثار الجانبية الخطيرة الخاصة بـ Celecoxib؟",
+      "back": "1. سُمية كلوية (Nephrotoxicity). 2. طفح جلدي (Skin rash). 3. زيادة خطر احتشاء عضلة القلب (MI) بسبب تثبيط PGI2 دون تثبيط TXA2."
+    },
+    {
+      "front": "ما آلية عمل الباراسيتامول (Paracetamol) وأين يعمل؟",
+      "back": "آلية عمله الدقيقة غير مؤكدة، لكنه يعمل مركزياً (في الدماغ) لتخفيف الألم والحرارة. لا يُثبط COX بالأنسجة المحيطية بشكل فعّال → لا تأثير مضاد للالتهاب."
+    },
+    {
+      "front": "لماذا يُسبب الجرعة الزائدة من الباراسيتامول تلف الكبد؟",
+      "back": "في الجرعات الطبيعية: الباراسيتامول يُستقلب بأمان. في الجرعة الزائدة: مسار الغلوتاثيون يَنضب → NAPQI (مستقلب سام) يتراكم → نخر كبدي خلال 72 ساعة."
+    },
+    {
+      "front": "ما ترياق تسمم الباراسيتامول ولماذا؟",
+      "back": "N-acetylcysteine (NAC) يُجدد مخزون الغلوتاثيون في الكبد → يُحيّد NAPQI السام → يحمي الكبد من النخر. يجب إعطاؤه مبكراً."
+    },
+    {
+      "front": "في أي الحالات يُفضَّل الباراسيتامول على الأسبرين كمخفض للحرارة؟",
+      "back": "1. الأطفال (خطر Reye's syndrome). 2. قرحة المعدة. 3. اضطرابات النزيف. 4. فرط حمض البوليك (Gout). 5. الحمل. 6. الحساسية من الأسبرين."
+    },
+    {
+      "front": "ما NSAIDs الأفضل تحملاً (أقل آثاراً جانبية) وما الأكثر سمية؟",
+      "back": "الأفضل تحملاً: Ibuprofen (أقل آثار جانبية، يُستخدم في الأطفال). الأكثر سمية: Indomethacin (neurotoxicity، aplastic anemia، ويُستخدم في حالات محدودة فقط)."
+    },
+    {
+      "front": "ما آلية NSAIDs العامة؟",
+      "back": "تثبيط إنزيم COX → نقص تخليق البروستاغلاندينات → تأثير مسكّن وخافض حرارة ومضاد التهاب.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "لماذا يُعطى Aspirin بجرعة منخفضة للوقاية القلبية؟",
+      "back": "يثبّط COX-1 في الصفائح لا رجعياً → يقلل TXA2 → تأثير مضاد للتجلط."
+    },
+    {
+      "front": "ما آثار NSAIDs الكلوية؟",
+      "back": "نقص البروستاغلاندينات الكلوية → نقص التروية → احتباس صوديوم وماء وأذية كلوية."
+    },
+    {
+      "front": "ما هي قرحة NSAIDs؟",
+      "back": "تثبيط COX-1 المعدي → نقص الحماية المخاطية → قرحة ونزف هضمي."
+    },
+    {
+      "front": "ما هو Paracetamol وآليته؟",
+      "back": "مسكّن وخافض حرارة مركزي؛ ضعيف كمضاد التهاب؛ جرعته الزائدة سامة للكبد (المضاد NAC)."
+    },
+    {
+      "front": "ما خطر Celecoxib؟",
+      "back": "انتقائي COX-2 → أقل قرحة لكن خطر قلبي وعائي أعلى."
+    },
+    {
+      "front": "ما هي متلازمة Reye؟",
+      "back": "اعتلال دماغي كبدي عند إعطاء Aspirin للأطفال مع عدوى فيروسية → يُمنع.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "لماذا يُمنع NSAIDs في الثلث الأخير من الحمل؟",
+      "back": "قد يغلق القناة الشريانية (ductus arteriosus) مبكراً."
+    },
+    {
+      "front": "ما الفرق بين Aspirin والـ NSAIDs الأخرى في تثبيط COX؟",
+      "back": "Aspirin يثبّط COX لا رجعياً (تساهمي)؛ الباقي تثبيط عكوس."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "مريض يأخذ جرعة منخفضة من الأسبرين (81 mg/day). ما الهدف الرئيسي من هذا العلاج؟",
+      "options": [
+        "تسكين الألم",
+        "تخفيف الحرارة",
+        "منع تجلط الدم (antiplatelet)",
+        "تقليل الالتهاب"
+      ],
+      "answer": 2,
+      "explanation": "الجرعة المنخفضة من الأسبرين (75-150 mg/d) تُثبط TXA2 في الصفائح بشكل لا عكسي → تمنع تجلط الدم. الجرعات الأعلى مطلوبة للتسكين والتخفيف ومضادة الالتهاب."
+    },
+    {
+      "q": "لماذا لا يُعطى الأسبرين لطفل مصاب بالإنفلونزا؟",
+      "options": [
+        "يُقلل فعالية اللقاح",
+        "يسبب متلازمة راي (Reye's Syndrome)",
+        "يرفع ضغط الدم عند الأطفال",
+        "يُثبط جهاز المناعة"
+      ],
+      "answer": 1,
+      "explanation": "الأسبرين خلال العدوى الفيروسية عند الأطفال (أقل من 12 سنة) يرتبط بمتلازمة راي: اعتلال دماغي وتلف كبدي خطير. يُستخدم الباراسيتامول بدلاً منه."
+    },
+    {
+      "q": "أي الأدوية التالية يُغلق القناة الشريانية السالكة (patent ductus arteriosus) في المواليد؟",
+      "options": [
+        "Aspirin",
+        "Celecoxib",
+        "Ibuprofen",
+        "Indomethacin"
+      ],
+      "answer": 3,
+      "explanation": "Indomethacin يُستخدم لإغلاق القناة الشريانية السالكة في المواليد عبر تثبيط البروستاغلاندينات التي تُبقيها مفتوحة. يجب تجنبه في نهاية الحمل لنفس السبب."
+    },
+    {
+      "q": "مريض يعاني من قرحة معدية ويحتاج لمضاد التهاب للمفاصل. أي الأدوية الأنسب؟",
+      "options": [
+        "Ibuprofen",
+        "Aspirin",
+        "Celecoxib",
+        "Indomethacin"
+      ],
+      "answer": 2,
+      "explanation": "Celecoxib انتقائي لـ COX-2 → لا يُثبط COX-1 → لا يزيل حماية المعدة → أقل خطراً للقرحة. الخيار الأمثل لمن يعاني من قرحة معدية ويحتاج مضاد التهاب."
+    },
+    {
+      "q": "ما الآثار الجانبية الخاصة بـ Celecoxib ولا تنطبق على NSAIDs غير الانتقائية؟",
+      "options": [
+        "سمية كلوية",
+        "زيادة خطر احتشاء القلب + طفح جلدي",
+        "نزيف هضمي",
+        "ارتفاع ضغط الدم"
+      ],
+      "answer": 1,
+      "explanation": "Celecoxib يُثبط PGI2 (vasodilator + antiplatelet) دون تثبيط TXA2 → اختلال التوازن → ميل للتجلط → زيادة خطر MI. الطفح الجلدي أيضاً خاص بـ Celecoxib."
+    },
+    {
+      "q": "مريض تناول جرعة زائدة من الباراسيتامول منذ ساعتين. ما الترياق الأنسب؟",
+      "options": [
+        "Physostigmine",
+        "Naloxone",
+        "N-acetylcysteine",
+        "Sodium bicarbonate"
+      ],
+      "answer": 2,
+      "explanation": "N-acetylcysteine (NAC) يُجدد الغلوتاثيون في الكبد → يُحيّد NAPQI السام → يمنع نخر الكبد. يجب إعطاؤه مبكراً (خلال 8-10 ساعات من التناول) لأفضل نتيجة."
+    },
+    {
+      "q": "أي الأدوية التالية هو الأفضل لعسر الطمث (Dysmenorrhea)؟",
+      "options": [
+        "Aspirin",
+        "Diclofenac",
+        "Indomethacin",
+        "Celecoxib"
+      ],
+      "answer": 1,
+      "explanation": "Diclofenac أفضل من Ibuprofen وIndomethacin في علاج عسر الطمث بسبب فعاليته العالية وآثاره الجانبية المعقولة."
+    },
+    {
+      "q": "لماذا تُقلب معدة المريض وتُقلوَن البول في تسمم الأسبرين؟",
+      "options": [
+        "لزيادة امتصاص الترياق",
+        "لأن قلونة البول تزيد تأيين الساليسيلات وتُسرع إفرازها الكلوي",
+        "لتقليل الحموضة المعدية",
+        "لمنع امتصاص المزيد من الأسبرين في الدم"
+      ],
+      "answer": 1,
+      "explanation": "قلونة البول (NaHCO3) ترفع pH البول → يزيد تأيون الساليسيلات → المواد المتأينة لا تُعاد امتصاصها في الأنابيب الكلوية → تُفرز في البول → تنظيف أسرع."
+    },
+    {
+      "q": "مريض يأخذ جرعات منخفضة من الأسبرين ويشكو من ألم مفاصل. لماذا لا يرفع جرعة الأسبرين لمضاد الالتهاب؟",
+      "options": [
+        "لأن الأسبرين لا يملك تأثيراً مضاداً للالتهاب",
+        "لأن الجرعات العالية تُلغي التأثير المضاد للصفائح وتزيد التجلط",
+        "لأنه يتحول لدواء آخر بجرعة عالية",
+        "لأن الجرعة العالية تسبب نقص حمض البوليك"
+      ],
+      "answer": 1,
+      "explanation": "الجرعات العالية من الأسبرين تُثبط أيضاً PGI2 في الأوعية (إضافة لـ TXA2 في الصفائح) → يختل التوازن → يفقد التأثير المضاد للتجلط. كما تزيد خطر النزيف وآثار جانبية أخرى."
+    },
+    {
+      "q": "أي الأدوية هو الأفضل لتخفيف الحرارة عند طفل عمره 5 سنوات مصاب بفيروس؟",
+      "options": [
+        "Aspirin",
+        "Ibuprofen أو Paracetamol",
+        "Indomethacin",
+        "Celecoxib"
+      ],
+      "answer": 1,
+      "explanation": "الأسبرين ممنوع للأطفال أقل من 12 سنة (خطر Reye's). Ibuprofen أفضل NSAIDs للأطفال والباراسيتامول آمن وفعّال كمخفض للحرارة. كلاهما مناسب."
+    },
+    {
+      "q": "Aspirin يُمنع في الأطفال خوفاً من:",
+      "options": [
+        "قرحة",
+        "متلازمة Reye",
+        "الربو",
+        "الفشل الكلوي"
+      ],
+      "answer": 1,
+      "explanation": "Reye syndrome اعتلال دماغي كبدي.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "Celecoxib مقارنة بالـ NSAIDs غير الانتقائية:",
+      "options": [
+        "أكثر قرحة",
+        "أقل قرحة وأعلى خطر قلبي",
+        "لا يسكّن",
+        "يثبّط الصفائح"
+      ],
+      "answer": 1,
+      "explanation": "انتقائي COX-2.",
+      "difficulty": "medium"
+    }
+  ],
+  "high_yield": [
+    {
+      "point": "Aspirin يثبّط COX بشكل لا رجعي → تأثير مضاد للصفائح يدوم عمر الصفيحة (7–10 أيام).",
+      "tag": "mechanism"
+    },
+    {
+      "point": "Celecoxib انتقائي COX-2 → أقل أذية معدية لكن خطر قلبي وعائي أعلى.",
+      "tag": "adverse"
+    },
+    {
+      "point": "Paracetamol مسكّن/خافض حرارة لكنه ضعيف كمضاد التهاب (لا يثبّط COX طرفياً يُذكر) ولا يسبب أذية معدية.",
+      "tag": "mechanism"
+    },
+    {
+      "point": "Aspirin يُمنع في الأطفال (متلازمة Reye مع العدوى الفيروسية).",
+      "tag": "contraindication"
+    },
+    {
+      "point": "آثار NSAIDs: قرحة معدية، أذية كلوية، احتباس سوائل، تثبيط الصفائح.",
+      "tag": "adverse"
+    }
+  ],
+  "comparison_tables": [
+    {
+      "title": "COX-1 vs COX-2",
+      "columns": [
+        "الخاصية",
+        "COX-1",
+        "COX-2"
+      ],
+      "rows": [
+        [
+          "التعبير",
+          "تأسيسي (دائم)",
+          "مُحرَّض (التهاب)"
+        ],
+        [
+          "الوظيفة",
+          "حماية المعدة، الصفائح، الكلى",
+          "الالتهاب والألم والحرارة"
+        ],
+        [
+          "تثبيطه يسبب",
+          "أذية معدية، نزف",
+          "تقليل الالتهاب"
+        ]
+      ]
+    },
+    {
+      "title": "Non-selective vs COX-2 selective vs Paracetamol",
+      "columns": [
+        "",
+        "Non-selective",
+        "COX-2 selective",
+        "Paracetamol"
+      ],
+      "rows": [
+        [
+          "مضاد التهاب",
+          "نعم",
+          "نعم",
+          "ضعيف جداً"
+        ],
+        [
+          "أذية معدية",
+          "عالية",
+          "أقل",
+          "لا"
+        ],
+        [
+          "خطر قلبي",
+          "متغير",
+          "أعلى",
+          "لا"
+        ],
+        [
+          "مضاد صفائح",
+          "نعم",
+          "لا",
+          "لا"
+        ]
+      ]
+    }
+  ]
+}

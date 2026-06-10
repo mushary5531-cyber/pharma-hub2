@@ -1,0 +1,361 @@
+{
+  "id": "mid1-03",
+  "slug": "route-of-drug-administration",
+  "title": "Routes of Drug Administration",
+  "exam": "mid1",
+  "topics": [
+    "طرق الإعطاء الوريدية والعضلية والتحت جلدية",
+    "الطريق الفموي وتحت اللسان والشدقي",
+    "الطريق الشرجي والمهبلي والموضعي",
+    "الطريق الاستنشاقي والعيني والأذني والأنفي",
+    "الطرق الأخرى: داخل المفصل، داخل القراب الشوكي"
+  ],
+  "summary": "تُقسَّم طرق إعطاء الأدوية إلى Enteral (عبر الجهاز الهضمي: فموي، تحت اللسان، شدقي، شرجي) و Parenteral (خارج الجهاز الهضمي: وريدي، عضلي، تحت جلدي، جلدي، وغيرها). الطريق الوريدي (IV) هو الوحيد الذي يعطي توافراً حيوياً 100% لأنه يُدخل الدواء مباشرة في الدوران. أهم ميزة للطريق تحت اللسان تجنب التأثير الأول للكبد (First-pass metabolism) وسرعة امتصاصه بسبب تدفق الدم الغني. الطريق الفموي هو الأكثر أماناً واقتصاداً لكنه يخضع للتأثير الأول ويتأثر بالإنزيمات الهضمية وحمض المعدة.",
+  "key_drugs": [
+    {
+      "name": "Nitroglycerin",
+      "class": "Antianginal",
+      "note": "مثال على Transdermal patch - إطلاق مستدام جلدياً لعلاج الذبحة الصدرية"
+    },
+    {
+      "name": "Scopolamine",
+      "class": "Antiemetic",
+      "note": "Transdermal patch لعلاج الغثيان"
+    },
+    {
+      "name": "Nicotine patch",
+      "class": "Smoking cessation",
+      "note": "لصقة جلدية للمساعدة على الإقلاع عن التدخين"
+    },
+    {
+      "name": "Propranolol",
+      "class": "Beta-blocker",
+      "note": "الجرعة الفموية أكبر 20-40 مرة من الجرعة الوريدية بسبب First-pass metabolism"
+    },
+    {
+      "name": "Desmopressin",
+      "class": "Antidiuretic hormone analogue",
+      "note": "يُعطى بالطريق الأنفي (Intranasal) لتأثير جهازي"
+    },
+    {
+      "name": "Beclomethasone",
+      "class": "Inhaled corticosteroid",
+      "note": "تُعطى بالاستنشاق لتأثير موضعي في الرئتين"
+    },
+    {
+      "name": "Phenylephrine",
+      "class": "Decongestant",
+      "note": "يُعطى بالطريق الأنفي لتأثير موضعي"
+    },
+    {
+      "name": "Corticosteroids",
+      "class": "Anti-inflammatory",
+      "note": "تُحقن داخل المفصل (Intra-articular) في التهاب المفاصل الروماتويدي"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "طرق الحقن الأربعة الرئيسية - IIIS",
+      "body": "IV = Intravenous = وريدي (100% bioavailability)\nIM = Intramuscular = عضلي (< 100%)\nSC = Subcutaneous = تحت جلدي (< 100%، أبطأ)\nID = Intradermal = داخل الأدمة (للاختبارات)\nتذكر بالترتيب من الأسرع للأبطأ: IV > IM > SC > ID",
+      "covers": [
+        "IV",
+        "IM",
+        "SC",
+        "ID"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "الطريق الفموي والـ First-pass",
+      "body": "تخيل الدواء الفموي كشخص يريد الوصول للمدينة (الدوران الجهازي). لكن عليه أولاً المرور بحاجز الكبد (First-pass metabolism). Propranolol مثلاً يحتاج 20-40 ضعفاً من الجرعة الفموية مقارنة بالوريدية لأن الكبد يهضمه كثيراً. أما تحت اللسان فالطريق مباشر: الدم تحت اللسان يصب مباشرة في الجهازي متجاوزاً الكبد.",
+      "covers": [
+        "Oral",
+        "Sublingual",
+        "First-pass metabolism"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "مزايا IV - REBSPA",
+      "body": "R = Rapid action (فعل سريع)\nE = Emergency use (للطوارئ)\nB = Bypass liver (يتجاوز الكبد)\nS = Suitable for large volumes (مناسب للأحجام الكبيرة)\nP = Proper dose adjustment (ضبط دقيق للجرعة)\nA = Available for unconscious patients (للمريض غير المتعاون)\nعيبه: مرتفع الخطورة، يحتاج معقماً، صعب العكس",
+      "covers": [
+        "IV"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "مقارنة الطرق بالسلم - السرعة",
+      "body": "تخيل سلم السرعة: في الأعلى IV (مباشر في الوريد = أسرع)، ثم Inhalation، ثم Sublingual، ثم IM، ثم SC، وفي القاع Oral و Transdermal (الأبطأ). كلما كان الطريق أقرب للدوران الجهازي مباشرة كلما كان أسرع.",
+      "covers": [
+        "All routes"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "Enteral vs Parenteral",
+      "body": "Enteral = تمر بالأمعاء (Entero = الأمعاء): فموي، تحت اللسان، شدقي، شرجي\nParenteral = تتجاوز الأمعاء (Para = بجانب/خارج): وريدي، عضلي، تحت جلدي، جلدي، استنشاق\nتذكر: Para = تجاوز = حقن بالإبرة وما شابهها",
+      "covers": [
+        "Enteral",
+        "Parenteral"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما الطريق الوحيد الذي يعطي Bioavailability = 100%؟",
+      "back": "الطريق الوريدي (Intravenous - IV) لأنه يُدخل الدواء مباشرة في الدوران"
+    },
+    {
+      "front": "ما الفرق بين IV Bolus و IV Infusion؟",
+      "back": "Bolus: الجرعة كاملة بسرعة = تركيز بلازما مرتفع وتأثير سريع\nInfusion: معدل ثابت مستمر = حجم غير محدود"
+    },
+    {
+      "front": "لماذا لا يُعطى IV للمرضى على مضادات التخثر (Anticoagulants)؟",
+      "back": "الحقن العضلي IM هو الممنوع في هذه الحالة (خطر ورم دموي Hematoma)، ليس IV."
+    },
+    {
+      "front": "ما الحجم الأقصى للحقن تحت الجلد (SC)؟",
+      "back": "حوالي 1 مل"
+    },
+    {
+      "front": "ما الحجم الأقصى للحقن العضلي (IM)؟",
+      "back": "حوالي 2-5 مل"
+    },
+    {
+      "front": "ما مزايا الطريق SC عن IV؟",
+      "back": "مدة تأثير أطول بسبب إطلاق أبطأ للدوران، ومناسب للمستحلبات والمحاليل الزيتية"
+    },
+    {
+      "front": "ما Intradermal administration؟ لماذا نادراً ما يُستخدم للتأثير الجهازي؟",
+      "back": "حقن داخل الأدمة، يُستخدم غالباً للاختبارات (مثل Mantoux لـ TB). نادر جهازياً بسبب ضعف التوزيع في الدوران"
+    },
+    {
+      "front": "ما First-pass metabolism؟ وكيف يؤثر على الجرعة الفموية لـ Propranolol؟",
+      "back": "تحطيم الدواء في الكبد قبل وصوله للدوران الجهازي. Propranolol يحتاج 20-40 ضعفاً من الجرعة الفموية مقارنة بالوريدية"
+    },
+    {
+      "front": "ما مزايا الطريق تحت اللساني (Sublingual) على الفموي؟",
+      "back": "امتصاص أسرع بسبب الأوعية الدموية الغنية، يصب مباشرة في الدوران الجهازي (يتجاوز الكبد)، يتجنب إنزيمات الجهاز الهضمي وحموضته"
+    },
+    {
+      "front": "ما الفرق بين Sublingual و Buccal administration؟",
+      "back": "Sublingual: تحت اللسان\nBuccal: بين الخد واللثة\nكلاهما امتصاص سريع وتجاوز للكبد"
+    },
+    {
+      "front": "ما مزايا الطريق الشرجي (Rectal)؟",
+      "back": "معظم الدواء يتجاوز الكبد، يتجنب إنزيمات الهضم، مناسب للأحجام الكبيرة وحالات التقيؤ أو الغيبوبة والأطفال غير المتعاونين"
+    },
+    {
+      "front": "ما عيب الطريق الشرجي (Rectal)؟",
+      "back": "الامتصاص بطيء وغير منتظم وغالباً غير مكتمل، وقد يُهيج المخاط الشرجي"
+    },
+    {
+      "front": "ما مزايا الاستنشاق (Inhalation)؟",
+      "back": "مناسب للمركبات المتطايرة والغازات والرذاذ، يُعطى ذاتياً، للاستخدام الموضعي أو الجهازي"
+    },
+    {
+      "front": "ما Intrathecal injection؟ أين يُعطى؟",
+      "back": "حقن في الفضاء تحت العنكبوتية (Subarachnoid space) بين الفقرتين L2 و L3"
+    },
+    {
+      "front": "ما الفرق بين Topical و Transdermal؟",
+      "back": "Topical: تأثير موضعي بتركيز عالٍ محلياً مع تأثير جهازي قليل\nTransdermal: يُمتص عبر الجلد للدوران الجهازي للتأثير الجهازي (مثل النيتروجليسرين patch)"
+    },
+    {
+      "front": "ما Intra-articular injection؟ متى يُستخدم؟",
+      "back": "حقن داخل المفصل. يُستخدم مثلاً لحقن Corticosteroids في مفصل مصاب بالتهاب المفاصل الروماتويدي"
+    },
+    {
+      "front": "ما مدة تأثير SC pellets؟",
+      "back": "3-6 أشهر - تُزرع كحبيبات تحت الجلد لإطلاق تدريجي طويل الأمد (مثل هرمونات الستيرويد)"
+    },
+    {
+      "front": "ما التوافر الحيوي للحقن الوريدي IV؟",
+      "back": "100% (الدواء يدخل الدورة مباشرة).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما مزايا الحقن الوريدي IV؟",
+      "back": "تأثير سريع، يناسب الطوارئ وفاقدي الوعي، تجاوز استقلاب الكبد، يناسب الأحجام الكبيرة والأدوية المهيّجة."
+    },
+    {
+      "front": "ما عيوب الحقن الوريدي IV؟",
+      "back": "لا يناسب المعلّقات/الزيوت، صعب التراجع بعد الحقن، يحتاج تعقيماً صارماً، الأعلى خطورة على الوظائف الحيوية."
+    },
+    {
+      "front": "ما ميزة الحقن تحت الجلد S.C؟",
+      "back": "مدة تأثير أطول (تحرر أبطأ)؛ يناسب المعلّقات والزيوت؛ لكن بدء بطيء ولا يناسب المهيّجات أو الأحجام الكبيرة (~1 مل)."
+    },
+    {
+      "front": "ما الحد الأقصى لحجم الحقن العضلي IM؟",
+      "back": "حوالي 2–5 مل؛ يناسب المعلّقات والزيوت والأدوية المهيّجة (يُتجنّب مع مضادات التخثر - خطر ورم دموي)."
+    },
+    {
+      "front": "ما الفرق بين الإعطاء المعوي (enteral) والحقني (parenteral)؟",
+      "back": "Enteral عبر القناة الهضمية (فموي/شرجي)؛ Parenteral خارجها (IV/IM/SC)."
+    },
+    {
+      "front": "ما ميزة الطريق تحت اللسان (Sublingual)؟",
+      "back": "امتصاص سريع وتجاوز استقلاب المرور الأول (first-pass) عبر الكبد.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما هو الـ First-pass metabolism؟",
+      "back": "استقلاب الدواء في الكبد بعد امتصاصه من الأمعاء قبل وصوله للدورة الجهازية → يقلل التوافر الحيوي للأدوية الفموية."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which route of drug administration provides 100% bioavailability?",
+      "options": [
+        "Oral",
+        "Intramuscular",
+        "Intravenous",
+        "Sublingual"
+      ],
+      "answer": 2,
+      "explanation": "IV هو الطريق الوحيد الذي يُدخل الدواء مباشرة في الدوران دون خسائر، لذا Bioavailability = 100%."
+    },
+    {
+      "q": "A drug given sublingually avoids which pharmacological process?",
+      "options": [
+        "Renal excretion",
+        "First-pass metabolism",
+        "Plasma protein binding",
+        "Glomerular filtration"
+      ],
+      "answer": 1,
+      "explanation": "تحت اللسان يصب مباشرة في الدوران الجهازي متجاوزاً الدوران البابي والكبد، فيتجنب First-pass metabolism."
+    },
+    {
+      "q": "Propranolol requires an oral dose 20-40 times larger than its IV dose because of:",
+      "options": [
+        "Poor GI absorption",
+        "Rapid renal excretion",
+        "Extensive first-pass hepatic metabolism",
+        "High plasma protein binding"
+      ],
+      "answer": 2,
+      "explanation": "Propranolol يتعرض لتحطيم واسع في الكبد (First-pass) قبل وصوله للدوران، مما يستدعي جرعات فموية أكبر بكثير."
+    },
+    {
+      "q": "Which route is CONTRAINDICATED in patients on anticoagulant therapy due to risk of hematoma?",
+      "options": [
+        "Intravenous (IV)",
+        "Subcutaneous (SC)",
+        "Intramuscular (IM)",
+        "Sublingual"
+      ],
+      "answer": 2,
+      "explanation": "IM محظور في مرضى مضادات التخثر بسبب خطر تكون ورم دموي (Hematoma) في العضلة."
+    },
+    {
+      "q": "The Mantoux test for TB screening uses which route?",
+      "options": [
+        "Subcutaneous",
+        "Intramuscular",
+        "Intradermal",
+        "Intravenous"
+      ],
+      "answer": 2,
+      "explanation": "Mantoux test = حقن داخل الأدمة (Intradermal) لاختبار رد الفعل المناعي تجاه المتفطرة السلية."
+    },
+    {
+      "q": "What is the maximum injection volume for subcutaneous (SC) administration?",
+      "options": [
+        "1 ml",
+        "5 ml",
+        "10 ml",
+        "Unlimited"
+      ],
+      "answer": 0,
+      "explanation": "الحجم الأقصى للحقن SC حوالي 1 مل. أما IM فحوالي 2-5 مل."
+    },
+    {
+      "q": "Rectal administration is preferred in all of the following EXCEPT:",
+      "options": [
+        "Vomiting patients",
+        "Unconscious patients",
+        "Patients requiring rapid drug action for emergencies",
+        "Pediatric patients who are uncooperative"
+      ],
+      "answer": 2,
+      "explanation": "الطريق الشرجي الامتصاص فيه بطيء وغير منتظم، لذا لا يصلح للطوارئ التي تحتاج تأثيراً سريعاً. IV هو المثالي للطوارئ."
+    },
+    {
+      "q": "Which drug is given transdermally to facilitate smoking cessation?",
+      "options": [
+        "Scopolamine",
+        "Nicotine patch",
+        "Nitroglycerin",
+        "Desmopressin"
+      ],
+      "answer": 1,
+      "explanation": "Nicotine transdermal patch = لصقة النيكوتين الجلدية للمساعدة على الإقلاع عن التدخين."
+    },
+    {
+      "q": "Inhalation route is suitable for all of the following EXCEPT:",
+      "options": [
+        "Volatile compounds",
+        "Gases",
+        "Aerosols",
+        "Large-volume oily solutions"
+      ],
+      "answer": 3,
+      "explanation": "الاستنشاق مناسب للمركبات المتطايرة والغازات والرذاذ. المحاليل الزيتية الكبيرة الحجم غير مناسبة للاستنشاق."
+    },
+    {
+      "q": "Intrathecal injection is administered between which vertebrae?",
+      "options": [
+        "L1 and L2",
+        "L2 and L3",
+        "L3 and L4",
+        "L4 and L5"
+      ],
+      "answer": 1,
+      "explanation": "الحقن داخل القراب الشوكي (Intrathecal) في الفضاء تحت العنكبوتية بين الفقرتين L2 و L3."
+    },
+    {
+      "q": "الطريق ذو التوافر الحيوي 100%:",
+      "options": [
+        "فموي",
+        "IM",
+        "IV",
+        "تحت الجلد"
+      ],
+      "answer": 2,
+      "explanation": "IV يوصل الدواء كاملاً للدورة مباشرة.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "أي طريق يتجاوز استقلاب المرور الأول؟",
+      "options": [
+        "فموي",
+        "تحت اللسان",
+        "شرجي كامل",
+        "داخل المعدة"
+      ],
+      "answer": 1,
+      "explanation": "تحت اللسان يمتص للوريد مباشرة متجاوزاً الكبد.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "الحقن العضلي IM غير مناسب في:",
+      "options": [
+        "الأدوية الزيتية",
+        "المرضى على مضادات التخثر",
+        "الأدوية المهيّجة",
+        "الأحجام المتوسطة"
+      ],
+      "answer": 1,
+      "explanation": "خطر تكوّن ورم دموي (hematoma).",
+      "difficulty": "medium"
+    }
+  ]
+}

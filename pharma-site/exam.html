@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>امتحان محاكي | Pharma Memory Hub</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<nav class="navbar">
+  <a class="navbar-brand" href="index.html"><span>💊</span> Pharma Memory Hub</a>
+  <div class="nav-links">
+    <a class="nav-link" href="index.html">الرئيسية</a>
+    <a class="nav-link" href="highyield.html">High-Yield</a>
+    <a class="nav-link" href="drugs.html">الأدوية</a>
+  </div>
+</nav>
+
+<div class="lecture-page">
+  <div class="lecture-header">
+    <a class="back-btn" href="index.html">← رجوع</a>
+    <h1>📝 امتحان محاكي</h1>
+    <div class="meta"><span>أسئلة عشوائية من كل المحاضرات، مؤقّت، مع تقرير بالنتيجة حسب المحاضرة</span></div>
+  </div>
+
+  <!-- SETUP -->
+  <div class="summary-box" id="examSetup">
+    <h2>إعدادات الامتحان</h2>
+    <div class="exam-setup-row">
+      <label>النطاق:</label>
+      <div class="filter-row">
+        <button class="filter-chip exam-mid1 active" data-scope="mid1">MID 1</button>
+        <button class="filter-chip exam-mid2 active" data-scope="mid2">MID 2</button>
+        <button class="filter-chip exam-final active" data-scope="final">Final</button>
+      </div>
+    </div>
+    <div class="exam-setup-row">
+      <label>عدد الأسئلة:</label>
+      <div class="filter-row">
+        <button class="filter-chip count-chip active" data-count="20">20</button>
+        <button class="filter-chip count-chip" data-count="40">40</button>
+        <button class="filter-chip count-chip" data-count="60">60</button>
+      </div>
+    </div>
+    <p id="poolInfo" style="color:var(--text3);font-size:0.9rem"></p>
+    <button class="quiz-next-btn" id="startExamBtn">ابدأ الامتحان ←</button>
+  </div>
+
+  <!-- RUNNING -->
+  <div id="examRun" style="display:none">
+    <div class="summary-box">
+      <div style="display:flex;justify-content:space-between;align-items:center">
+        <span class="quiz-q-num" id="exNum"></span>
+        <span class="exam-timer" id="exTimer">⏱️ 00:00</span>
+      </div>
+      <div class="quiz-progress-bar"><div class="quiz-progress-fill" id="exProgress"></div></div>
+      <div class="quiz-question" id="exQ"></div>
+      <div class="quiz-options" id="exOptions"></div>
+      <button class="quiz-next-btn" id="exNextBtn">التالي ←</button>
+    </div>
+  </div>
+
+  <!-- RESULT -->
+  <div id="examResult" style="display:none">
+    <div class="quiz-result show">
+      <div class="score" id="exScore"></div>
+      <p id="exVerdict"></p>
+    </div>
+    <div class="summary-box">
+      <h2>📊 النتيجة حسب المحاضرة</h2>
+      <table class="key-drugs-table"><thead><tr><th>المحاضرة</th><th>الصحيح</th><th>النسبة</th></tr></thead>
+      <tbody id="exBreakdown"></tbody></table>
+    </div>
+    <div class="summary-box" id="exReviewBox">
+      <h2>❌ مراجعة الأخطاء</h2>
+      <div id="exReview"></div>
+    </div>
+    <button class="quiz-restart-btn" onclick="location.reload()">🔁 امتحان جديد</button>
+  </div>
+</div>
+
+<script src="assets/js/exam.js"></script>
+</body>
+</html>

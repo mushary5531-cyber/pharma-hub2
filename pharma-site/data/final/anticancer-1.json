@@ -1,0 +1,454 @@
+{
+  "id": "final-07",
+  "slug": "anticancer-1",
+  "title": "Anticancer Drugs (Part 1): Antimetabolites & Antibiotics",
+  "exam": "final",
+  "topics": [
+    "antimetabolites",
+    "antibiotic anticancer",
+    "methotrexate",
+    "6-mercaptopurine",
+    "5-fluorouracil",
+    "bleomycin",
+    "doxorubicin",
+    "cell cycle"
+  ],
+  "summary": "الادوية المضادة للسرطان تعمل على ايقاف انقسام الخلايا السرطانية. تنقسم الى ادوية خاصة بدورة الخلية (CCS) مثل مضادات الاستقلاب والانتيبيوتيك، واخرى غير خاصة (CCNS). مضادات الاستقلاب تشمل الميثوتريكسات و6-ميركابتوبيورين و5-فلورويوراسيل وكلها تتداخل مع تركيب الحمض النووي. الانتيبيوتيك السرطانية مثل البليوميسين والدوكسوروبيسين تعمل مباشرة على الDNA ولكن لكل منها سمية خاصة تميزه.",
+  "key_drugs": [
+    {
+      "name": "Methotrexate (MTX)",
+      "class": "Folate Antagonist / Antimetabolite",
+      "note": "يثبط DHFR، يُنقذ منه باعطاء Leucovorin"
+    },
+    {
+      "name": "6-Mercaptopurine (6-MP)",
+      "class": "Purine Analogue / Antimetabolite",
+      "note": "يتفاعل مع Allopurinol - خفّض الجرعة 25-75%"
+    },
+    {
+      "name": "5-Fluorouracil (5-FU)",
+      "class": "Pyrimidine Analogue / Antimetabolite",
+      "note": "يثبط Thymidylate Synthase، يُعطى مع Leucovorin"
+    },
+    {
+      "name": "Bleomycin",
+      "class": "Antitumor Antibiotic",
+      "note": "السمية الرئوية هي الحد المقيِّد للجرعة"
+    },
+    {
+      "name": "Doxorubicin",
+      "class": "Anthracycline Antibiotic",
+      "note": "سمية قلبية لا رجعة فيها، يحميها Dexrazoxane"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "class": "Alkylating agent",
+      "note": "التهاب مثانة نزفي",
+      "moa": "يربط DNA متصالباً",
+      "adverse": "Hemorrhagic cystitis (اعطِ Mesna)"
+    },
+    {
+      "name": "Cisplatin",
+      "class": "Platinum alkylating",
+      "note": "نيفرو/أوتو",
+      "adverse": "سُمّية كلوية وسمعية، غثيان شديد"
+    },
+    {
+      "name": "Methotrexate",
+      "class": "Antimetabolite (antifolate)",
+      "note": "الإنقاذ بـ Leucovorin",
+      "moa": "تثبيط DHF reductase",
+      "adverse": "كبت نقي، سُمّية كبدية"
+    },
+    {
+      "name": "5-Fluorouracil",
+      "class": "Antimetabolite (pyrimidine)",
+      "note": "كبت نقي، إسهال",
+      "moa": "تثبيط thymidylate synthase"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "MAP = مضادات الاستقلاب الثلاثة",
+      "body": "M = Methotrexate (فولات)\nA = 6-MP Analog (بيورين)\nP = Pyrimidine = 5-FU\nكلها CCS تضرب الDNA",
+      "covers": [
+        "Methotrexate",
+        "6-Mercaptopurine",
+        "5-Fluorouracil"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "ميثوتريكسات والانقاذ",
+      "body": "تخيّل ان MTX هو لص يسرق مفتاح DHFR فتتوقف المصنع (DNA). الانقاذ = Leucovorin يعطي المصنع مفتاح بديل من الباب الخلفي.",
+      "covers": [
+        "Methotrexate"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "6-MP والAllopurinol: خطر التراكم",
+      "body": "Allopurinol يكسر Xanthine Oxidase الذي يهضم 6-MP. اذا اعطيتهما معا، 6-MP يتراكم في الدم كالماء خلف سد مغلق - السمية تضاعفت! خفّض الجرعة.",
+      "covers": [
+        "6-Mercaptopurine"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "قلب الدوكسوروبيسين الاحمر",
+      "body": "تخيّل قلبا احمر اللون (البول يصبح احمر) تحته شرارات كهربائية (Free Radicals) تحرق عضلة القلب. Dexrazoxane = درع حديدي يحمي القلب من الشرار.",
+      "covers": [
+        "Doxorubicin"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "BLOW = سمية البليوميسين",
+      "body": "B = Bleomycin\nL = Lungs (سمية رئوية رئيسية)\nO = OK for bone marrow (نادر ضغط النخاع)\nW = Wounds/Skin (تغيرات جلدية)\nالرئة هي نقطة الضعف!",
+      "covers": [
+        "Bleomycin"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "Chemo Man — سُميّات العلاج الكيميائي",
+      "body": "خريطة الجسم: الرأس/الأعصاب N = Nitrosoureas (عصبي، يعبر BBB). العيون/الأذن C = Cisplatin/Carboplatin (نيفرو/أوتو). القلب D = Doxorubicin/Daunorubicin (سُمّية قلبية). الصدر B = Bleomycin/Busulfan (تليف رئوي). البطن MF = Methotrexate + 5-FU (كبت نقي العظم). المثانة P = cycloPhosphamide (التهاب مثانة نزفي → اعطِ Mesna). الأطراف V = Vinca alkaloids (اعتلال أعصاب طرفي). Tamoxifen → تغيّر حدّة الإبصار.",
+      "covers": [
+        "Doxorubicin cardiotoxicity",
+        "Bleomycin pulmonary fibrosis",
+        "Cisplatin nephrotoxicity",
+        "Cyclophosphamide hemorrhagic cystitis",
+        "Vincristine neuropathy",
+        "Methotrexate",
+        "5-Fluorouracil",
+        "Nitrosoureas",
+        "Tamoxifen"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما الفرق بين CCS و CCNS؟",
+      "back": "CCS (Cell Cycle Specific) = تعمل فقط على الخلايا المنقسمة مثل مضادات الاستقلاب والبليوميسين. CCNS = تعمل على الخلايا النائمة والمنقسمة مثل العوامل الالكيلية."
+    },
+    {
+      "front": "ما آلية عمل Methotrexate؟",
+      "back": "يثبط انزيم Dihydrofolate Reductase (DHFR) مما يوقف تحويل FH2 الى FH4 فيمنع تركيب DNA و RNA والبروتين."
+    },
+    {
+      "front": "ما هو Leucovorin Rescue؟",
+      "back": "اعطاء Leucovorin (Folinic Acid) بعد جرعات MTX العالية لتجاوز الانزيم المثبط وانقاذ الخلايا الطبيعية من الموت."
+    },
+    {
+      "front": "لماذا يجب تخفيض جرعة 6-MP عند اخذ Allopurinol؟",
+      "back": "Allopurinol يثبط Xanthine Oxidase الذي يحلل 6-MP، فيتراكم الدواء وتزيد سميته - خفّض الجرعة 25-75%."
+    },
+    {
+      "front": "ما سمية 5-FU الجلدية الخاصة؟",
+      "back": "Hand-Foot Syndrome: احمرار وتقشر راحتي اليدين وبطن القدمين بعد التسريب الطويل."
+    },
+    {
+      "front": "لماذا يُعطى Leucovorin مع 5-FU؟",
+      "back": "لان Leucovorin يثبّت ارتباط FdUMP بانزيم Thymidylate Synthase مما يزيد فاعلية 5-FU."
+    },
+    {
+      "front": "ما السمية المقيِّدة للجرعة في Bleomycin؟",
+      "back": "السمية الرئوية: من سعال حتى تليف رئوي مميت."
+    },
+    {
+      "front": "ما آلية عمل Doxorubicin؟",
+      "back": "يتداخل بين خيوط DNA (Intercalation) ويثبط Topoisomerase II مما يسبب كسر الخيوط وتوليد جذور حرة."
+    },
+    {
+      "front": "ما الدواء الذي يحمي من سمية Doxorubicin القلبية؟",
+      "back": "Dexrazoxane (مخلِّب للحديد) يقلل توليد الجذور الحرة. ايضا التغليف الليبوزومي يقلل السمية القلبية."
+    },
+    {
+      "front": "ما لون البول مع Doxorubicin؟",
+      "back": "احمر (بسبب صبغة الدواء نفسه - لا علاقة له بالدم)."
+    },
+    {
+      "front": "ما الاعراض الجانبية المشتركة لمعظم ادوية السرطان؟",
+      "back": "غثيان وقيء، اسهال، التهاب الفم (Stomatitis)، تثبيط نخاع العظم (Myelodepression)، سقوط الشعر (Alopecia)."
+    },
+    {
+      "front": "ما الاستخدامات الغير سرطانية لـ MTX؟",
+      "back": "بجرعات منخفضة: علاج التهاب المفاصل الرثياني (Rheumatoid Arthritis) والصداف (Psoriasis)."
+    },
+    {
+      "front": "ما المقصود بـ MDR في السرطان؟",
+      "back": "Multiple Drug Resistance = مقاومة الخلايا السرطانية لاكثر من دواء في آن واحد."
+    },
+    {
+      "front": "ما هو POMP؟",
+      "back": "بروتوكول علاجي مركّب لسرطان الدم يضم: Prednisone, Oncovin (Vincristine), Methotrexate, Purinethol (6-MP)."
+    },
+    {
+      "front": "لماذا تُعطى الادوية السرطانية بالتناوب (Intermittently)؟",
+      "back": "للسماح للخلايا الطبيعية بالتعافي بين الجرعات مع الحفاظ على التاثير على الخلايا السرطانية."
+    },
+    {
+      "front": "ما سمية MTX الكلوية وكيف تُمنع؟",
+      "back": "بجرعات عالية يسبب ضررا كلويا - يُمنع بالترطيب الجيد وتقلوية البول."
+    },
+    {
+      "front": "ما الذي يزيد سمية Doxorubicin القلبية؟",
+      "back": "الاشعاع على الصدر (Thorax Irradiation) وعقار Trastuzumab (جسم مضاد وحيد النسيلة)."
+    },
+    {
+      "front": "ما فئة Bleomycin في دورة الخلية؟",
+      "back": "CCS - Cell Cycle Specific (خاص بدورة الخلية)."
+    },
+    {
+      "front": "ما المقصود بنوعية دورة الخلية؟",
+      "back": "أدوية نوعية (CCS) تقتل في طور محدد (antimetabolites, vinca)؛ غير نوعية (CCNS) تقتل في أي طور (alkylating).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "لماذا الأورام سريعة الانقسام أكثر حساسية للعلاج الكيميائي؟",
+      "back": "لأن معظم الأدوية تستهدف الخلايا المنقسمة؛ خلايا G0 الساكنة أكثر مقاومة."
+    },
+    {
+      "front": "ما آلية العوامل المؤلكلة (Alkylating)؟",
+      "back": "تنقل مجموعات ألكيل إلى N7 من الغوانين → كسر/تشابك سلاسل DNA؛ ماسخة ومسرطنة (CCNS).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما سُمّية Cyclophosphamide المميّزة؟",
+      "back": "التهاب مثانة نزفي من acrolein → الوقاية بالـ Mesna والإماهة."
+    },
+    {
+      "front": "ما سُمّية Cisplatin؟",
+      "back": "سُمّية كلوية وسمعية وغثيان شديد (يُعطى ondansetron + إماهة)."
+    },
+    {
+      "front": "ما آلية Methotrexate وإنقاذه؟",
+      "back": "يثبّط dihydrofolate reductase؛ يُنقذ بـ Leucovorin (folinic acid)."
+    },
+    {
+      "front": "ما آلية 5-Fluorouracil؟",
+      "back": "نظير بيريميدين يثبّط thymidylate synthase؛ كبت نقوي وإسهال."
+    },
+    {
+      "front": "لماذا يُستخدم العلاج التوليفي (combination)؟",
+      "back": "لزيادة القتل وتقليل المقاومة وتوزيع السُّميّة على أعضاء مختلفة."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "أي من التالي يُستخدم لانقاذ المريض من جرعات Methotrexate العالية؟",
+      "options": [
+        "Allopurinol",
+        "Leucovorin",
+        "Dexrazoxane",
+        "Mesna"
+      ],
+      "answer": 1,
+      "explanation": "Leucovorin (Folinic Acid) يتجاوز الانزيم المثبط DHFR ويستعيد تركيب الفولات في الخلايا الطبيعية."
+    },
+    {
+      "q": "مريض يأخذ 6-Mercaptopurine بُدئ له علاج بـ Allopurinol لنقرس. ما الذي يجب فعله؟",
+      "options": [
+        "ايقاف Allopurinol",
+        "مضاعفة جرعة 6-MP",
+        "تخفيض جرعة 6-MP بنسبة 25-75%",
+        "لا يوجد تفاعل بينهما"
+      ],
+      "answer": 2,
+      "explanation": "Allopurinol يثبط Xanthine Oxidase الذي يحلل 6-MP، مما يرفع مستواه وسميته. الحل تخفيض الجرعة."
+    },
+    {
+      "q": "ما السمية المقيِّدة للجرعة (Dose-Limiting Toxicity) في Bleomycin؟",
+      "options": [
+        "سمية كلوية",
+        "سمية قلبية",
+        "سمية رئوية",
+        "سمية عصبية"
+      ],
+      "answer": 2,
+      "explanation": "السمية الرئوية في Bleomycin تتراوح من سعال حتى تليف رئوي مميت وهي الحد الرئيسي للجرعة."
+    },
+    {
+      "q": "آلية عمل Doxorubicin القلبية الضارة تعتمد على:",
+      "options": [
+        "تثبيط DHFR",
+        "توليد جذور حرة عبر تثبيط Topoisomerase II",
+        "تراكم في الرئة",
+        "تثبيط Thymidylate Synthase"
+      ],
+      "answer": 1,
+      "explanation": "الجذور الحرة الناتجة عن تثبيط Topoisomerase II تسبب كسر الخيوط المفردة في DNA عضلة القلب."
+    },
+    {
+      "q": "أي من هذه الادوية يستخدم بجرعات منخفضة لعلاج التهاب المفاصل الرثياني؟",
+      "options": [
+        "Bleomycin",
+        "5-Fluorouracil",
+        "Methotrexate",
+        "Doxorubicin"
+      ],
+      "answer": 2,
+      "explanation": "MTX بجرعات منخفضة له تاثير مضاد للالتهاب يُستخدم في Rheumatoid Arthritis والصداف."
+    },
+    {
+      "q": "ما التفاعل بين 5-FU و Leucovorin؟",
+      "options": [
+        "Leucovorin يقلل فاعلية 5-FU",
+        "Leucovorin يثبّت ارتباط 5-FU بـ Thymidylate Synthase فيزيد فاعليته",
+        "Leucovorin ينقذ من سمية 5-FU",
+        "لا يوجد تفاعل"
+      ],
+      "answer": 1,
+      "explanation": "Leucovorin كإنزيم مشارك يثبّت بنية FdUMP-Thymidylate Synthase مما يزيد من فاعلية التثبيط."
+    },
+    {
+      "q": "Hand-Foot Syndrome من الاعراض المميزة لـ:",
+      "options": [
+        "Methotrexate",
+        "Bleomycin",
+        "5-Fluorouracil",
+        "6-Mercaptopurine"
+      ],
+      "answer": 2,
+      "explanation": "5-FU بعد التسريب الطويل يسبب احمرار وتقشر راحتي اليدين وبطن القدمين (Hand-Foot Syndrome)."
+    },
+    {
+      "q": "ادوية CCS (Cell Cycle Specific) تشمل كل التالي عدا:",
+      "options": [
+        "Methotrexate",
+        "Bleomycin",
+        "Vinca Alkaloids",
+        "Mechlorethamine"
+      ],
+      "answer": 3,
+      "explanation": "Mechlorethamine هو عامل الكيلي CCNS يعمل على الخلايا النائمة والمنقسمة. الباقية كلها CCS."
+    },
+    {
+      "q": "ما الدواء الذي يحمي القلب من سمية Doxorubicin؟",
+      "options": [
+        "Allopurinol",
+        "Mesna",
+        "Dexrazoxane",
+        "Leucovorin"
+      ],
+      "answer": 2,
+      "explanation": "Dexrazoxane مخلِّب للحديد يمنع توليد الجذور الحرة المسببة للسمية القلبية."
+    },
+    {
+      "q": "مقاومة Methotrexate تحدث بسبب:",
+      "options": [
+        "زيادة انتاج DHFR",
+        "نقص انتاج DHFR",
+        "تحلل الدواء بسرعة",
+        "تثبيط Xanthine Oxidase"
+      ],
+      "answer": 0,
+      "explanation": "الخلايا السرطانية تتغلب على MTX بزيادة انتاج DHFR بحيث لا تكفي جرعة الدواء لتثبيطه."
+    },
+    {
+      "q": "العوامل المؤلكلة تُصنّف:",
+      "options": [
+        "نوعية للطور S",
+        "غير نوعية لدورة الخلية (CCNS)",
+        "نوعية للطور M",
+        "لا تؤثر على DNA"
+      ],
+      "answer": 1,
+      "explanation": "تعمل في أي طور.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "الوقاية من التهاب المثانة النزفي بالسيكلوفوسفاميد:",
+      "options": [
+        "Leucovorin",
+        "Mesna والإماهة",
+        "Atropine",
+        "Dexrazoxane"
+      ],
+      "answer": 1,
+      "explanation": "Mesna يعادل الـ acrolein.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "Leucovorin يُستخدم لإنقاذ سُمّية:",
+      "options": [
+        "Cisplatin",
+        "Methotrexate",
+        "5-FU",
+        "Bleomycin"
+      ],
+      "answer": 1,
+      "explanation": "folinic acid يتجاوز حصر DHF reductase.",
+      "difficulty": "medium"
+    }
+  ],
+  "classification": {
+    "title": "Anticancer (الجزء 1)",
+    "groups": [
+      {
+        "name": "Alkylating agents",
+        "drugs": [
+          "Cyclophosphamide",
+          "Busulfan",
+          "Nitrosoureas (Carmustine, Lomustine)",
+          "Cisplatin",
+          "Carboplatin",
+          "Oxaliplatin"
+        ]
+      },
+      {
+        "name": "Antimetabolites",
+        "drugs": [
+          "Methotrexate",
+          "5-Fluorouracil",
+          "Cytarabine",
+          "6-Mercaptopurine"
+        ]
+      }
+    ]
+  },
+  "high_yield": [
+    {
+      "point": "Cyclophosphamide → التهاب مثانة نزفي (acrolein) → الوقاية بـ Mesna والإماهة.",
+      "tag": "adverse"
+    },
+    {
+      "point": "Cisplatin → سُمّية كلوية وسمعية وغثيان شديد → إماهة وamifostine.",
+      "tag": "adverse"
+    },
+    {
+      "point": "Methotrexate يثبّط dihydrofolate reductase؛ الإنقاذ بـ Leucovorin (folinic acid).",
+      "tag": "mechanism"
+    },
+    {
+      "point": "الأدوية النوعية لدورة الخلية (antimetabolites, vinca) مقابل غير النوعية (alkylating).",
+      "tag": "classification"
+    }
+  ],
+  "comparison_tables": [
+    {
+      "title": "نوعية دورة الخلية",
+      "columns": [
+        "Cell-cycle specific",
+        "Non-specific"
+      ],
+      "rows": [
+        [
+          "Antimetabolites (MTX, 5-FU)",
+          "Alkylating agents"
+        ],
+        [
+          "Vinca alkaloids / Taxanes",
+          "Cisplatin / Nitrosoureas"
+        ]
+      ]
+    }
+  ]
+}

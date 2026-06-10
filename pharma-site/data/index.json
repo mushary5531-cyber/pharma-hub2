@@ -1,0 +1,386 @@
+{
+  "lectures": [
+    {
+      "id": "mid1-01",
+      "slug": "introduction-to-pharmacology",
+      "title": "Introduction to Pharmacology",
+      "exam": "mid1",
+      "topics": [
+        "intro",
+        "definitions",
+        "pharmacology-basics"
+      ]
+    },
+    {
+      "id": "mid1-02",
+      "slug": "drug-dosage-forms",
+      "title": "Drug Dosage Forms",
+      "exam": "mid1",
+      "topics": [
+        "dosage-forms",
+        "formulations"
+      ]
+    },
+    {
+      "id": "mid1-03",
+      "slug": "route-of-drug-administration",
+      "title": "Routes of Drug Administration",
+      "exam": "mid1",
+      "topics": [
+        "routes",
+        "administration"
+      ]
+    },
+    {
+      "id": "mid1-04",
+      "slug": "pharmacodynamics",
+      "title": "Pharmacodynamics",
+      "exam": "mid1",
+      "topics": [
+        "pharmacodynamics",
+        "receptors",
+        "dose-response"
+      ]
+    },
+    {
+      "id": "mid1-05",
+      "slug": "pharmacokinetics",
+      "title": "Pharmacokinetics",
+      "exam": "mid1",
+      "topics": [
+        "pharmacokinetics",
+        "ADME",
+        "half-life"
+      ]
+    },
+    {
+      "id": "mid1-06",
+      "slug": "adr",
+      "title": "Adverse Drug Reactions (ADR)",
+      "exam": "mid1",
+      "topics": [
+        "ADR",
+        "side-effects",
+        "toxicity"
+      ]
+    },
+    {
+      "id": "mid1-07",
+      "slug": "drug-drug-interactions",
+      "title": "Drug-Drug Interactions",
+      "exam": "mid1",
+      "topics": [
+        "interactions",
+        "DDI"
+      ]
+    },
+    {
+      "id": "mid1-08",
+      "slug": "toxicology",
+      "title": "Introduction to Toxicology",
+      "exam": "mid1",
+      "topics": [
+        "toxicology",
+        "poisoning",
+        "antidotes"
+      ]
+    },
+    {
+      "id": "mid1-09",
+      "slug": "iv-fluid-therapy",
+      "title": "IV Fluid Therapy",
+      "exam": "mid1",
+      "topics": [
+        "IV-fluids",
+        "electrolytes",
+        "crystalloids",
+        "colloids"
+      ]
+    },
+    {
+      "id": "mid2-01",
+      "slug": "autocoids",
+      "title": "Autocoids",
+      "exam": "mid2",
+      "topics": [
+        "autocoids",
+        "histamine",
+        "serotonin",
+        "bradykinin"
+      ]
+    },
+    {
+      "id": "mid2-02",
+      "slug": "cholinergic-agonists",
+      "title": "Cholinergic Agonists",
+      "exam": "mid2",
+      "topics": [
+        "cholinergic",
+        "agonists",
+        "parasympathomimetics"
+      ]
+    },
+    {
+      "id": "mid2-03",
+      "slug": "eicosanoids",
+      "title": "Eicosanoids",
+      "exam": "mid2",
+      "topics": [
+        "eicosanoids",
+        "prostaglandins",
+        "leukotrienes"
+      ]
+    },
+    {
+      "id": "mid2-04",
+      "slug": "cholinergic-antagonists",
+      "title": "Cholinergic Antagonists",
+      "exam": "mid2",
+      "topics": [
+        "cholinergic",
+        "antagonists",
+        "anticholinergics"
+      ]
+    },
+    {
+      "id": "mid2-05",
+      "slug": "adrenergic-agonists",
+      "title": "Adrenergic Agonists",
+      "exam": "mid2",
+      "topics": [
+        "adrenergic",
+        "agonists",
+        "sympathomimetics"
+      ]
+    },
+    {
+      "id": "mid2-06",
+      "slug": "nsaids",
+      "title": "NSAIDs",
+      "exam": "mid2",
+      "topics": [
+        "NSAIDs",
+        "anti-inflammatory",
+        "COX-inhibitors"
+      ]
+    },
+    {
+      "id": "mid2-07",
+      "slug": "gout",
+      "title": "Gout",
+      "exam": "mid2",
+      "topics": [
+        "gout",
+        "uric-acid",
+        "allopurinol"
+      ]
+    },
+    {
+      "id": "mid2-08",
+      "slug": "dmards",
+      "title": "DMARDs",
+      "exam": "mid2",
+      "topics": [
+        "DMARDs",
+        "rheumatoid-arthritis",
+        "biologics"
+      ]
+    },
+    {
+      "id": "mid2-09",
+      "slug": "adrenergic-receptors",
+      "title": "Adrenergic Receptors",
+      "exam": "mid2",
+      "topics": [
+        "adrenergic",
+        "receptors",
+        "alpha",
+        "beta"
+      ]
+    },
+    {
+      "id": "final-01",
+      "slug": "cell-wall-inhibitors",
+      "title": "Cell Wall Inhibitors",
+      "exam": "final",
+      "topics": [
+        "antibiotics",
+        "cell-wall",
+        "penicillin",
+        "cephalosporin"
+      ]
+    },
+    {
+      "id": "final-02",
+      "slug": "protein-synthesis-inhibitors",
+      "title": "Protein Synthesis Inhibitors",
+      "exam": "final",
+      "topics": [
+        "antibiotics",
+        "protein-synthesis",
+        "aminoglycosides",
+        "macrolides"
+      ]
+    },
+    {
+      "id": "final-03",
+      "slug": "nucleic-acid-inhibitors",
+      "title": "Inhibitors of Nucleic Acid Synthesis",
+      "exam": "final",
+      "topics": [
+        "antibiotics",
+        "quinolones",
+        "fluoroquinolones",
+        "nucleic-acid"
+      ]
+    },
+    {
+      "id": "final-04",
+      "slug": "antifungal",
+      "title": "Antifungal Drugs",
+      "exam": "final",
+      "topics": [
+        "antifungal",
+        "azoles",
+        "amphotericin"
+      ]
+    },
+    {
+      "id": "final-05",
+      "slug": "antiparasitic",
+      "title": "Antiparasitic Drugs",
+      "exam": "final",
+      "topics": [
+        "antiparasitic",
+        "antimalarial",
+        "anthelmintic"
+      ]
+    },
+    {
+      "id": "final-06",
+      "slug": "antiviral",
+      "title": "Antiviral Drugs",
+      "exam": "final",
+      "topics": [
+        "antiviral",
+        "HIV",
+        "herpes",
+        "influenza"
+      ]
+    },
+    {
+      "id": "final-07",
+      "slug": "anticancer-1",
+      "title": "Anticancer Drugs (Part 1)",
+      "exam": "final",
+      "topics": [
+        "anticancer",
+        "chemotherapy",
+        "alkylating",
+        "antimetabolites"
+      ]
+    },
+    {
+      "id": "final-08",
+      "slug": "anticancer-2",
+      "title": "Anticancer Drugs (Part 2)",
+      "exam": "final",
+      "topics": [
+        "anticancer",
+        "targeted-therapy",
+        "immunotherapy"
+      ]
+    },
+    {
+      "id": "final-09",
+      "slug": "hepatitis-c",
+      "title": "Hepatitis C Treatment",
+      "exam": "final",
+      "topics": [
+        "antiviral",
+        "hepatitis-C",
+        "DAAs"
+      ]
+    }
+  ],
+  "topics": [
+    "intro",
+    "definitions",
+    "pharmacology-basics",
+    "dosage-forms",
+    "formulations",
+    "routes",
+    "administration",
+    "pharmacodynamics",
+    "receptors",
+    "dose-response",
+    "pharmacokinetics",
+    "ADME",
+    "half-life",
+    "ADR",
+    "side-effects",
+    "toxicity",
+    "interactions",
+    "DDI",
+    "toxicology",
+    "poisoning",
+    "antidotes",
+    "IV-fluids",
+    "electrolytes",
+    "crystalloids",
+    "colloids",
+    "autocoids",
+    "histamine",
+    "serotonin",
+    "bradykinin",
+    "cholinergic",
+    "agonists",
+    "parasympathomimetics",
+    "eicosanoids",
+    "prostaglandins",
+    "leukotrienes",
+    "antagonists",
+    "anticholinergics",
+    "adrenergic",
+    "sympathomimetics",
+    "NSAIDs",
+    "anti-inflammatory",
+    "COX-inhibitors",
+    "gout",
+    "uric-acid",
+    "allopurinol",
+    "DMARDs",
+    "rheumatoid-arthritis",
+    "biologics",
+    "alpha",
+    "beta",
+    "antibiotics",
+    "cell-wall",
+    "penicillin",
+    "cephalosporin",
+    "protein-synthesis",
+    "aminoglycosides",
+    "macrolides",
+    "quinolones",
+    "fluoroquinolones",
+    "nucleic-acid",
+    "antifungal",
+    "azoles",
+    "amphotericin",
+    "antiparasitic",
+    "antimalarial",
+    "anthelmintic",
+    "antiviral",
+    "HIV",
+    "herpes",
+    "influenza",
+    "anticancer",
+    "chemotherapy",
+    "alkylating",
+    "antimetabolites",
+    "targeted-therapy",
+    "immunotherapy",
+    "hepatitis-C",
+    "DAAs"
+  ]
+}

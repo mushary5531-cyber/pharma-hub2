@@ -1,0 +1,371 @@
+{
+  "id": "mid2-04",
+  "slug": "cholinergic-antagonists",
+  "title": "Cholinergic Antagonists",
+  "exam": "mid2",
+  "topics": [
+    "Antimuscarinic agents",
+    "Atropine",
+    "Atropine substitutes",
+    "Neuromuscular blockers"
+  ],
+  "summary": "مضادات الكولين (Cholinergic Antagonists) هي أدوية تحجب مستقبلات الأسيتيلكولين (Acetylcholine receptors). الأتروبين (Atropine) هو النموذج الأساسي ويحجب المستقبلات المسكارينية بشكل تنافسي عكسي. تشمل استخداماته: تشنجات الجهاز الهضمي، بطء القلب، تسمم المبيدات الفسفورية، وتوسيع حدقة العين. بدائل الأتروبين تشمل الإيبراتروبيوم للرئة، والسوليفيناسين للمثانة، والبنزتروبين لمرض باركنسون.",
+  "key_drugs": [
+    {
+      "name": "Atropine",
+      "class": "Non-selective muscarinic antagonist",
+      "note": "prototype; reversible competitive blocker; crosses BBB"
+    },
+    {
+      "name": "Scopolamine (Hyoscine)",
+      "class": "Natural antimuscarinic",
+      "note": "stronger CNS effect than atropine; used for motion sickness"
+    },
+    {
+      "name": "Ipratropium",
+      "class": "Synthetic inhaled antimuscarinic (non-selective M2/M3)",
+      "note": "bronchodilator; tolerance develops due to M2 blockade"
+    },
+    {
+      "name": "Tiotropium",
+      "class": "Selective M3 blocker (inhaled)",
+      "note": "once daily; no tolerance; COPD maintenance"
+    },
+    {
+      "name": "Solifenacin",
+      "class": "Selective M3 antagonist (uroselective)",
+      "note": "urge incontinence; fewer systemic side effects"
+    },
+    {
+      "name": "Glycopyrrolate",
+      "class": "Quaternary antimuscarinic",
+      "note": "antisecretory in preanesthesia; no CNS effects (4ry ammonium)"
+    },
+    {
+      "name": "Benztropine",
+      "class": "Antiparkinsonian antimuscarinic",
+      "note": "crosses BBB; used for drug-induced Parkinsonism and tremors"
+    },
+    {
+      "name": "Tropicamide",
+      "class": "Synthetic mydriatic-cycloplegic",
+      "note": "shorter acting than atropine (6h); preferred for fundus exam"
+    },
+    {
+      "name": "Cyclopentolate",
+      "class": "Synthetic mydriatic-cycloplegic",
+      "note": "24h action; preferred over atropine in adults"
+    },
+    {
+      "name": "Physostigmine",
+      "class": "Cholinesterase inhibitor (antidote)",
+      "note": "treats atropine poisoning; antagonizes central and peripheral effects"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "ABCDE - تأثيرات الأتروبين المركزية",
+      "body": "A = Antiemetic (M1 trigger zone), B = Basal ganglia antiParkinson (M1), C = Cardiorespiratory stimulation (M2 medulla), D = Delirium/hallucinations (high dose), E = Excitation then CNS depression",
+      "covers": [
+        "Atropine"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "Mad Bat Bone Hare Beet - علامات تسمم الأتروبين",
+      "body": "تخيل مجنوناً (Mad as a hatter = هلاوس)، يطير كالخفاش الأعمى (Blind as a bat = عمى + جفاف العين)، عظامه جافة (Dry as a bone = جفاف الفم والجلد)، يركض كالأرنب في الحرارة (Hot as a hare = حمى)، ووجهه أحمر كالشمندر (Red as a beet = احمرار الجلد)",
+      "covers": [
+        "Atropine"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "IT - بدائل الأتروبين للرئة",
+      "body": "I = Ipratropium (non-selective, tolerance develops, M2 blockade), T = Tiotropium (selective M3, no tolerance, once daily for COPD maintenance)",
+      "covers": [
+        "Ipratropium",
+        "Tiotropium"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "الأتروبين والعين - صورة بصرية",
+      "body": "تخيل عيناً مفتوحة على آخرها (Mydriasis = اتساع الحدقة) مع عدسة مجمدة لا تتحرك (Cycloplegia = شلل التكيف) وضغط داخلي مرتفع يضغط من الداخل (IOP increased). كل هذا يجعل العين جافة لا تبكي (Dry eye = تثبيط الدموع).",
+      "covers": [
+        "Atropine",
+        "Tropicamide",
+        "Cyclopentolate"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "SOB - بدائل الأتروبين للمثانة",
+      "body": "S = Solifenacin, O = Oxybutynin, B = bladder wall relaxation + sphincter contraction → used in nocturnal enuresis and urge incontinence",
+      "covers": [
+        "Solifenacin"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما هو ميكانيكية عمل الأتروبين (Atropine)?",
+      "back": "حجب تنافسي عكسي (reversible competitive blockade) لمستقبلات المسكارين (muscarinic receptors) بشكل غير انتقائي لجميع أنواعها (M1, M2, M3)"
+    },
+    {
+      "front": "لماذا يحدث بطء قلب مؤقت (transient bradycardia) عند إعطاء جرعة منخفضة من الأتروبين؟",
+      "back": "الجرعة المنخفضة تحجب مستقبلات M1 قبل المشبكية (presynaptic M1) في عقدة القلب → زيادة إطلاق ACh → تثبيط مؤقت للقلب قبل أن يسود حجب M2"
+    },
+    {
+      "front": "ما الفرق بين Mydriasis الفعّال والسلبي؟",
+      "back": "السلبي (Passive): الأتروبين يرخي عضلة العاصر الحدقي (constrictor pupillae) → توسع الحدقة. الفعّال (Active): السيمباثوميمتكس تقلص عضلة الموسع (dilator pupillae) عبر α1 → توسع الحدقة"
+    },
+    {
+      "front": "ما هو علاج تسمم الأتروبين؟",
+      "back": "Physostigmine (يعاكس التأثيرات المركزية والطرفية) + Diazepam (للتحكم في الإثارة) + بطانيات التبريد للحمى في الأطفال (ليس الأسبرين)"
+    },
+    {
+      "front": "لماذا يُفضَّل Scopolamine على الأتروبين في دوار الحركة (motion sickness)?",
+      "back": "Scopolamine أقوى تأثيراً على الجهاز العصبي المركزي من الأتروبين وأكثر فعالية في علاج القيء الناتج عن دوار الحركة"
+    },
+    {
+      "front": "لماذا يُفضَّل Atropine على بدائله في الأطفال لعلاج الاستجماتيزم (cycloplegia)?",
+      "back": "عضلة التكيف (ciliary muscle) قوية عند الأطفال وتحتاج إلى حاجب قوي. بدائل الأتروبين ضعيفة التأثير على التكيف مقارنة بالأتروبين"
+    },
+    {
+      "front": "ما الفرق بين Ipratropium و Tiotropium?",
+      "back": "Ipratropium: غير انتقائي (M2+M3)، يحجب M2 فيتطور تحمل (tolerance). Tiotropium: انتقائي M3، لا يحجب M2 فلا يتطور تحمل، يُعطى مرة يومياً للصيانة في COPD"
+    },
+    {
+      "front": "ما هي الأدوية الانتقائية لـ M1 من بدائل الأتروبين ولماذا تُستخدم؟",
+      "back": "Dicyclomine و Pirenzepine: تحجب M1 بشكل انتقائي → تقليل إفراز HCl المعدي → تُستخدم في القرحة الهضمية"
+    },
+    {
+      "front": "لماذا يفضَّل Glycopyrrolate على الأتروبين في التخدير؟",
+      "back": "Glycopyrrolate رباعي الأمونيوم (quaternary ammonium) → لا يعبر الحاجز الدموي الدماغي → لا آثار جانبية على الجهاز العصبي المركزي → مضاد إفراز آمن"
+    },
+    {
+      "front": "ما استخدامات Benztropine في طب الأعصاب؟",
+      "back": "1. علاج الباركنسونية الناتجة عن الأدوية (drug-induced Parkinsonism). 2. مساعد في الباركنسون مع الرعشات (tremors). 3. التحكم في سيلان اللعاب (sialorrhea)"
+    },
+    {
+      "front": "ما هي موانع استخدام الأتروبين؟",
+      "back": "1. الجلوكوما (Glaucoma) - خصوصاً ضيقة الزاوية. 2. ضخامة البروستاتا (enlarged prostate). 3. ارتفاع ضغط العين (increased IOP)"
+    },
+    {
+      "front": "ما الفرق بين Tropicamide و Cyclopentolate في مدة التأثير؟",
+      "back": "Tropicamide: توسع حدقة 6 ساعات. Cyclopentolate: توسع حدقة 24 ساعة. كلاهما يُفضَّل على الأتروبين في الكبار لسهولة عكس التأثير"
+    },
+    {
+      "front": "ما تأثير الأتروبين على القصبات الهوائية؟",
+      "back": "توسيع القصبات (Bronchodilation) بحجب M3 في العضلة الملساء القصبية"
+    },
+    {
+      "front": "ما السبب الرئيسي لتسمم الأتروبين عند الأطفال؟",
+      "back": "الأطفال أكثر حساسية للحمى الناتجة عن الأتروبين (يمنع التعرق) → ارتفاع حرارة خطير (Hyperthermia)"
+    },
+    {
+      "front": "ما تأثير الأتروبين على المثانة؟",
+      "back": "يرخي جدار المثانة (bladder wall relaxation) ويقلص العاصر (sphincter contraction) → احتباس بولي (urinary retention) - خطر عند مرضى ضخامة البروستاتا"
+    },
+    {
+      "front": "ما علاقة الأتروبين ببطانية تبريد الأطفال في حالة التسمم؟",
+      "back": "الأتروبين يثبط التعرق → لا يمكن للجسم تبريد نفسه → الحرارة ترتفع → تُستخدم بطانيات التبريد (ليس الأسبرين لأنه يرفع الحرارة عند الجرعات المنخفضة)"
+    },
+    {
+      "front": "ما استخدامات Solifenacin مقارنة بالأتروبين في المسالك البولية؟",
+      "back": "Solifenacin أكثر انتقائية للمثانة (uroselective) من الأتروبين → آثار جانبية أقل (لا جفاف فم، لا ضبابية رؤية) → يُستخدم في الإلحاح البولي والتبول اللاإرادي الليلي"
+    },
+    {
+      "front": "ما آلية عمل Atropine؟",
+      "back": "حصر تنافسي عكوس لمستقبلات المسكارين (غير انتقائي لكل الأنواع).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما مصدر Atropine الطبيعي؟",
+      "back": "نبات ست الحسن Atropa belladonna."
+    },
+    {
+      "front": "ما تأثيرات Atropine على العين؟",
+      "back": "توسّع الحدقة (mydriasis)، شلل المطابقة (cycloplegia)، ارتفاع ضغط العين."
+    },
+    {
+      "front": "ما تأثيرات Atropine القلبية؟",
+      "back": "تسرّع القلب (حصر المبهم)؛ بجرعة منخفضة قد يبطئ القلب مؤقتاً (تأثير مركزي)."
+    },
+    {
+      "front": "ما استخدامات Atropine السريرية؟",
+      "back": "بطء القلب، التسمم بالفسفور العضوي، ما قبل التخدير (تقليل الإفرازات)، توسيع الحدقة للفحص."
+    },
+    {
+      "front": "ما موانع استخدام Atropine؟",
+      "back": "الزرق مغلق الزاوية وتضخم البروستاتا (احتباس بول).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما استخدام Ipratropium؟",
+      "back": "موسّع قصبي مضاد مسكاريني في الربو وCOPD (استنشاق)."
+    },
+    {
+      "front": "ما استخدام Scopolamine؟",
+      "back": "منع دوار الحركة (motion sickness) - مضاد مسكاريني يعبر BBB."
+    },
+    {
+      "front": "ما استخدام Homatropine؟",
+      "back": "موسّع حدقة قصير المفعول للفحص العيني."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "طفل عمره 3 سنوات ابتلع قطرات عيون تحتوي على الأتروبين. أي العلاجات التالية هو الأنسب؟",
+      "options": [
+        "Pralidoxime",
+        "Physostigmine",
+        "Atropine",
+        "Neostigmine"
+      ],
+      "answer": 1,
+      "explanation": "Physostigmine هو مثبط الكولينستيراز الذي يعاكس التأثيرات المركزية والطرفية للأتروبين. Neostigmine لا يعبر الحاجز الدموي الدماغي فلا يعالج الأعراض المركزية. Pralidoxime يُستخدم في تسمم المبيدات الفسفورية."
+    },
+    {
+      "q": "مريض يعاني من COPD وصف له دواء مضاد للكولين استنشاقي. بعد فترة طويلة لم يتطور لديه تحمل (tolerance). ما الدواء المرجح؟",
+      "options": [
+        "Tiotropium",
+        "Ipratropium",
+        "Succinylcholine",
+        "Benztropine"
+      ],
+      "answer": 0,
+      "explanation": "Tiotropium انتقائي لـ M3 ولا يحجب M2 قبل المشبكية، لذا لا يزيد إطلاق ACh ولا يتطور تحمل. Ipratropium غير انتقائي يحجب M2 فيتطور تحمل."
+    },
+    {
+      "q": "سيدة وُصف لها دواء مضاد للكولين لدوار الحركة. بعده عانت من أحلام حيوية وهلاوس. ما الدواء المرجح؟",
+      "options": [
+        "Atropine",
+        "Glycopyrrolate",
+        "Scopolamine",
+        "Dicyclomine"
+      ],
+      "answer": 2,
+      "explanation": "Scopolamine له تأثير مركزي أقوى من الأتروبين وقد يسبب أحلاماً حيوية وهلاوس خاصة عند استخدامه كمخدر مسبق في الإناث."
+    },
+    {
+      "q": "مريض عمره 60 عاماً يعاني من إلحاح بولي وسلس البول. ما الدواء الأنسب كمضاد M3 انتقائي؟",
+      "options": [
+        "Ipratropium",
+        "Scopolamine",
+        "Solifenacin",
+        "Pancuronium"
+      ],
+      "answer": 2,
+      "explanation": "Solifenacin انتقائي للمثانة (uroselective M3 blocker) مع آثار جانبية نظامية أقل (لا جفاف فم، لا ضبابية رؤية). يُستخدم في إلحاح البول وسلس البول."
+    },
+    {
+      "q": "طفل مصاب بالتهاب القزحية الحاد (iridocyclitis). أي دواء موسع للحدقة يُفضَّل لقصر مدة تأثيره؟",
+      "options": [
+        "Atropine",
+        "Tropicamide",
+        "Scopolamine",
+        "Glycopyrrolate"
+      ],
+      "answer": 1,
+      "explanation": "Tropicamide مدة تأثيره 6 ساعات فقط مقارنة بـ Atropine التي قد تمتد لـ 7 أيام، مما يجعل عكس التأثير أسهل."
+    },
+    {
+      "q": "ما السبب الفيزيولوجي لتوسع الحدقة (Passive Mydriasis) بالأتروبين؟",
+      "options": [
+        "تقلص عضلة الموسع بالتحفيز الودي",
+        "استرخاء عضلة العاصر الحدقي بحجب M3",
+        "تحفيز مستقبلات α1 في القزحية",
+        "زيادة إطلاق الدوبامين"
+      ],
+      "answer": 1,
+      "explanation": "الأتروبين يحجب M3 في عضلة العاصر الحدقي (constrictor pupillae) → استرخاء سلبي → توسع الحدقة (Passive Mydriasis). التوسع الفعّال يكون بتقلص عضلة الموسع عبر α1."
+    },
+    {
+      "q": "مريض عمره 70 عاماً مصاب بباركنسون ويعاني من سيلان لعاب مفرط ورعشات. أي دواء يُفضَّل؟",
+      "options": [
+        "Glycopyrrolate",
+        "Benztropine",
+        "Ipratropium",
+        "Oxybutynin"
+      ],
+      "answer": 1,
+      "explanation": "Benztropine يعبر الحاجز الدموي الدماغي ويعالج الأعراض المركزية للباركنسون مثل الرعشة وسيلان اللعاب. Glycopyrrolate رباعي الأمونيوم ولا يعبر الحاجز."
+    },
+    {
+      "q": "ما الوصف الصحيح للتغيرات القلبية عند إعطاء الأتروبين بجرعة كاملة؟",
+      "options": [
+        "بطء قلب مستمر فقط",
+        "تسارع قلب مستمر فقط",
+        "بطء قلب مؤقت ثم تسارع قلب سائد",
+        "لا تأثير على معدل القلب"
+      ],
+      "answer": 2,
+      "explanation": "الجرعة المنخفضة تحجب M1 قبل المشبكية → زيادة ACh → تثبيط مؤقت. ثم حجب M2 القلبي يسود → تسارع القلب هو التأثير النهائي."
+    },
+    {
+      "q": "أي من تأثيرات الأتروبين يستمر لأطول فترة (حتى 7 أيام)؟",
+      "options": [
+        "جفاف الفم",
+        "تسارع القلب",
+        "تأثيرات العين (توسع الحدقة وشلل التكيف)",
+        "الإمساك"
+      ],
+      "answer": 2,
+      "explanation": "الأتروبين له تأثير طويل الأمد على العين يمتد حتى 7 أيام (Mydriasis + Cycloplegia)، وهذا أطول بكثير من تأثيراته على الأعضاء الأخرى."
+    },
+    {
+      "q": "لماذا يُستخدم Atropine مع Diphenoxylate في علاج الإسهال؟",
+      "options": [
+        "لتقليل آثار الأتروبين الجانبية",
+        "لتعزيز التأثير المُمسِّك وتقليل احتمالية الإدمان",
+        "لتحفيز حركة الأمعاء",
+        "لامتصاص السوائل من الأمعاء"
+      ],
+      "answer": 1,
+      "explanation": "Diphenoxylate أفيوني قد يُساء استخدامه. إضافة الأتروبين تعزز التأثير المُمسِّك وتجعل الجرعات الكبيرة غير محتملة (بسبب الآثار الجانبية) مما يقلل احتمالية الإدمان."
+    },
+    {
+      "q": "Atropine يسبب في العين:",
+      "options": [
+        "تقبّض الحدقة",
+        "توسّع الحدقة وشلل المطابقة",
+        "زيادة الإفراز الدمعي",
+        "انخفاض ضغط العين"
+      ],
+      "answer": 1,
+      "explanation": "حصر المسكارين → mydriasis + cycloplegia.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "يُمنع Atropine في:",
+      "options": [
+        "بطء القلب",
+        "الزرق مغلق الزاوية",
+        "التسمم بالفسفور",
+        "ما قبل التخدير"
+      ],
+      "answer": 1,
+      "explanation": "يرفع ضغط العين فيفاقم الزرق.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "الدواء المضاد المسكاريني المستنشق للربو/COPD:",
+      "options": [
+        "Atropine",
+        "Ipratropium",
+        "Pilocarpine",
+        "Neostigmine"
+      ],
+      "answer": 1,
+      "explanation": "Ipratropium موسّع قصبي مضاد مسكاريني.",
+      "difficulty": "medium"
+    }
+  ]
+}

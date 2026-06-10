@@ -1,0 +1,365 @@
+{
+  "id": "mid2-03",
+  "slug": "eicosanoids",
+  "title": "Eicosanoids وعوامل الالتهاب الدهنية",
+  "exam": "mid2",
+  "topics": [
+    "Prostaglandins",
+    "Thromboxanes",
+    "Leukotrienes",
+    "Kinins",
+    "Platelet Activating Factor",
+    "Arachidonic Acid Pathway"
+  ],
+  "summary": "الإيكوسانويدات مشتقات حمض الأراكيدونيك تشمل البروستاجلاندين والثرموبوكسان واللوكوترينات. تتشكل عبر مسارين: Cyclooxygenase (PG, TXA2) و5-Lipoxygenase (Leukotrienes). PGI2 يُوسع الأوعية ويثبط تجمع الصفائح بينما TXA2 يُضيق الأوعية ويُحرض تجمعها. اللوكوترينات (LTC4, LTD4) تُسبب تضيق الشعب في الربو. الكينين (Bradykinin) وسيط التهابي يسبب الألم والتوسع الوعائي.",
+  "key_drugs": [
+    {
+      "name": "Misoprostol",
+      "class": "PGE1 Analog",
+      "note": "حماية المعدة عند تناول NSAIDs، إنهاء الحمل في الثلث الأول"
+    },
+    {
+      "name": "Dinoprostone (PGE2)",
+      "class": "Natural PGE2",
+      "note": "تحريض الطلق وإنهاء الحمل في الثلث الثاني"
+    },
+    {
+      "name": "Carboprost (PGF2α)",
+      "class": "PGF2α Analog",
+      "note": "إجهاض الثلث الثاني، نزيف ما بعد الولادة"
+    },
+    {
+      "name": "Alprostadil (PGE1)",
+      "class": "PGE1",
+      "note": "علاج ضعف الانتصاب، الحفاظ على انفتاح القناة الشريانية"
+    },
+    {
+      "name": "Latanoprost",
+      "class": "PGF2α Prodrug",
+      "note": "علاج الجلوكوما (قطرة عين)"
+    },
+    {
+      "name": "Epoprostenol (PGI2)",
+      "class": "Prostacyclin",
+      "note": "ارتفاع ضغط الدم الرئوي الأولي"
+    },
+    {
+      "name": "Montelukast",
+      "class": "Leukotriene Receptor Antagonist",
+      "note": "علاج الربو والتهاب الأنف التحسسي"
+    },
+    {
+      "name": "Zileuton",
+      "class": "5-LOX Inhibitor",
+      "note": "يثبط تكوين اللوكوترينات"
+    },
+    {
+      "name": "Aprotinin",
+      "class": "Kallikrein Inhibitor",
+      "note": "يقلل النزيف أثناء الجراحة الكبرى"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "PGI2 vs TXA2: التوازن الوعائي",
+      "body": "PGI2 = 'باي باي للجلطة': Vasodilation + يثبط تجمع الصفائح (من جدار الأوعية)\nTXA2 = 'تاكس على الأوعية': Vasoconstriction + يُحرض تجمع الصفائح (من الصفائح نفسها)\nالتوازن بينهما يحكم تكوين الجلطة",
+      "covers": [
+        "Epoprostenol (PGI2)",
+        "TXA2"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "مسارا حمض الأراكيدونيك: COX vs LOX",
+      "body": "COX (Cyclooxygenase) = كوكس الطباخ:\n- ينتج PG, TXA2\n- يثبطه NSAIDs والكورتيزون\nLOX (5-Lipoxygenase) = لوكس الضوء:\n- ينتج Leukotrienes\n- يثبطه Zileuton فقط\nالكورتيزون يثبط كليهما (يثبط Phospholipase A2)",
+      "covers": [
+        "Montelukast",
+        "Zileuton"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "Misoprostol: الحارس والهادم",
+      "body": "Misoprostol = 'ميسو يحمي ويهدم': يحمي معدة مريض NSAIDs (يقلل الحمض ويزيد المخاط)، وفي نفس الوقت يهدم الحمل في الثلث الأول مع Methotrexate. دواء واحد بدورين متضادين!",
+      "covers": [
+        "Misoprostol"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "البروستاجلاندين: كل واحد له دور",
+      "body": "PGE = 'E للتوسع': يُوسع الأوعية ويُرخي العضلات الملساء (عدا الرحم بجرعة منخفضة يُقلصه)\nPGF = 'F للانقباض': يُقلص الرحم والأوعية (يُستخدم للإجهاض)\nPGD = 'D للرئة': تضيق الشعب الهوائية\nPGI2 = 'I للإيقاف': يوقف الجلطة وتضيق الأوعية",
+      "covers": [
+        "Misoprostol",
+        "Dinoprostone (PGE2)",
+        "Carboprost (PGF2α)",
+        "Epoprostenol (PGI2)"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "Bradykinin وACEI: علاقة السبب والنتيجة",
+      "body": "ACE = إنزيم يكسر Bradykinin. عندما نُعطي ACE Inhibitor نوقف كسر Bradykinin فيتراكم. Bradykinin المتراكم يسبب: سعال جاف (الأثر الجانبي الشهير لـ ACEIs) + وذمة وعائية. لذا ACEIs تُسبب سعالًا جافًا.",
+      "covers": [
+        "Aprotinin"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما معنى كلمة Eicosanoids؟",
+      "back": "Eicosa = 20 باليونانية، مشتقات الأحماض الدهنية ذات 20 كربونًا من حمض الأراكيدونيك"
+    },
+    {
+      "front": "ما المسارين الرئيسيين لتحويل حمض الأراكيدونيك؟",
+      "back": "Cyclooxygenase (COX) → PG + TXA2، و5-Lipoxygenase (LOX) → Leukotrienes"
+    },
+    {
+      "front": "أي إنزيم يثبطه NSAIDs؟",
+      "back": "Cyclooxygenase (COX-1 وCOX-2)"
+    },
+    {
+      "front": "أي دواء يثبط Phospholipase A2 ويمنع كلا المسارين؟",
+      "back": "Corticosteroids (الكورتيزون)"
+    },
+    {
+      "front": "ما تأثير PGI2 على الصفائح الدموية؟",
+      "back": "يثبط تجمع الصفائح (مضاد تخثر)"
+    },
+    {
+      "front": "ما تأثير TXA2 على الصفائح الدموية؟",
+      "back": "يُحرض تجمع الصفائح (مُخثر)"
+    },
+    {
+      "front": "ما الفرق بين PGE وPGF في الرحم؟",
+      "back": "PGF يُقلص الرحم بشكل أقوى، PGE يُقلصه بجرعات منخفضة ويُرخيه بجرعات عالية"
+    },
+    {
+      "front": "ما استخدام Misoprostol مع NSAIDs؟",
+      "back": "حماية الغشاء المخاطي للمعدة من تأثير NSAIDs (يقلل الحمض ويزيد المخاط)"
+    },
+    {
+      "front": "ما الدواء المستخدم لعلاج ارتفاع ضغط الدم الرئوي الأولي؟",
+      "back": "Epoprostenol (PGI2) لأنه يُوسع الأوعية الرئوية"
+    },
+    {
+      "front": "ما اللوكوترينات المسببة للربو؟",
+      "back": "Cysteinyl leukotrienes: LTC4, LTD4, LTE4 (تُسمى SRS-A)"
+    },
+    {
+      "front": "ما آلية عمل Montelukast؟",
+      "back": "يحصر مستقبلات اللوكوترين (CysLT1) مما يمنع تضيق الشعب الهوائية"
+    },
+    {
+      "front": "ما Bradykinin وكيف يتكون؟",
+      "back": "ببتيد مُوسِّع للأوعية يتكون من Kininogen بفعل Kallikrein، يُحللُه ACE"
+    },
+    {
+      "front": "لماذا يسبب ACE Inhibitors سعالًا جافًا؟",
+      "back": "لأن ACE يُحلل Bradykinin عادةً، فعند تثبيطه يتراكم Bradykinin ويُهيج مستقبلات السعال"
+    },
+    {
+      "front": "ما استخدام Latanoprost؟",
+      "back": "قطرة عين لعلاج الجلوكوما (مناظير PGF2α)، يزيد تصريف السائل المائي"
+    },
+    {
+      "front": "ما دور اللوكوترين LTB4؟",
+      "back": "يجذب العدلات ويُحرض الالتهاب"
+    },
+    {
+      "front": "ما دور Aprotinin؟",
+      "back": "مثبط Kallikrein يقلل تكوين Bradykinin، يُقلل النزيف في الجراحة الكبرى"
+    },
+    {
+      "front": "ما دور البروستاجلاندين في التوليد؟",
+      "back": "يُحرض انقباضات الرحم، يُستخدم لتحريض الطلق وإنهاء الحمل"
+    },
+    {
+      "front": "ما دور PGE2 في القناة الشريانية عند الجنين؟",
+      "back": "يحافظ على انفتاحها (Patent Ductus Arteriosus)"
+    },
+    {
+      "front": "ما مصدر الإيكوزانويدات؟",
+      "back": "حمض الأراكيدونيك من فوسفوليبيدات الغشاء عبر مسار COX (بروستاغلاندينات/ثرومبوكسان) أو LOX (لوكوترايينات).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما وظيفة Thromboxane A2؟",
+      "back": "تقبّض وعائي وتجميع الصفائح (من الصفائح عبر COX-1)."
+    },
+    {
+      "front": "ما وظيفة Prostacyclin (PGI2)؟",
+      "back": "توسّع وعائي ومنع تجميع الصفائح (من البطانة الوعائية)."
+    },
+    {
+      "front": "ما استخدام Misoprostol؟",
+      "back": "نظير PGE1 يحمي المعدة من قرحة NSAIDs ويُستخدم في التوليد."
+    },
+    {
+      "front": "ما آلية Montelukast/Zafirlukast؟",
+      "back": "حاصرات مستقبل اللوكوترايين - وقاية الربو."
+    },
+    {
+      "front": "ما آلية Zileuton؟",
+      "back": "مثبّط إنزيم 5-lipoxygenase → يقلل تخليق اللوكوترايينات."
+    },
+    {
+      "front": "ما هي الكينينات (Bradykinin)؟",
+      "back": "ببتيدات موضعية موسّعة للأوعية تسبب الألم وزيادة النفاذية؛ يحطمها ACE (kininase II)."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "مريض يتناول NSAIDs بشكل مزمن لآلام المفاصل. أي دواء يُعطى لحماية معدته؟",
+      "options": [
+        "Dinoprostone",
+        "Misoprostol",
+        "Latanoprost",
+        "Carboprost"
+      ],
+      "answer": 1,
+      "explanation": "Misoprostol (PGE1 الاصطناعي) يُقلل إفراز الحمض ويزيد المخاط الواقي للمعدة، مثالي مع NSAIDs."
+    },
+    {
+      "q": "ما الدواء المستخدم لعلاج ضعف الانتصاب من خلال توسع الأوعية الدموية المحلية؟",
+      "options": [
+        "Epoprostenol",
+        "Alprostadil",
+        "Latanoprost",
+        "Montelukast"
+      ],
+      "answer": 1,
+      "explanation": "Alprostadil (PGE1) يُوسع الأوعية الدموية في الجسم الكهفي ويُرخي العضلات الملساء."
+    },
+    {
+      "q": "أي المسارات تثبطه Corticosteroids؟",
+      "options": [
+        "COX فقط",
+        "LOX فقط",
+        "كلا المسارين COX وLOX",
+        "لا شيء"
+      ],
+      "answer": 2,
+      "explanation": "الكورتيزون يثبط Phospholipase A2 الذي ينتج حمض الأراكيدونيك الأساسي لكلا المسارين."
+    },
+    {
+      "q": "مريضة مصابة بالربو تحتاج دواءً يثبط تضيق الشعب الهوائية الناتج عن LTC4 وLTD4. ما الدواء؟",
+      "options": [
+        "Zileuton",
+        "Montelukast",
+        "Aspirin",
+        "Misoprostol"
+      ],
+      "answer": 1,
+      "explanation": "Montelukast يحصر مستقبلات CysLT1 ويمنع تأثير LTC4, LTD4 على الشعب الهوائية."
+    },
+    {
+      "q": "ما تأثير TXA2 على الأوعية الدموية والصفائح؟",
+      "options": [
+        "توسع وعائي وتثبيط الصفائح",
+        "تضيق وعائي وتحريض تجمع الصفائح",
+        "توسع وعائي وتحريض الصفائح",
+        "لا تأثير"
+      ],
+      "answer": 1,
+      "explanation": "TXA2 يُنتج من الصفائح الدموية ويسبب تضيق الأوعية وتحريض تجمع الصفائح (مُخثر)."
+    },
+    {
+      "q": "لماذا يُسبب ACE Inhibitor سعالًا جافًا؟",
+      "options": [
+        "لأنه يزيد البروستاجلاندين",
+        "لأنه يثبط تحلل Bradykinin فيتراكم ويُهيج مستقبلات السعال",
+        "لأنه يثبط COX",
+        "لأنه يزيد Serotonin"
+      ],
+      "answer": 1,
+      "explanation": "ACE (Kininase II) يُحلل Bradykinin عادةً. ACEIs تمنع هذا فيتراكم Bradykinin ويسبب السعال الجاف."
+    },
+    {
+      "q": "ما الدواء المستخدم للحفاظ على انفتاح القناة الشريانية عند الأطفال المبتسرين؟",
+      "options": [
+        "Indomethacin",
+        "Alprostadil (PGE1)",
+        "Aspirin",
+        "Montelukast"
+      ],
+      "answer": 1,
+      "explanation": "Alprostadil (PGE1) يُبقي القناة الشريانية مفتوحة في الأطفال المبتسرين الذين يحتاجون لذلك."
+    },
+    {
+      "q": "أي اللوكوترينات يجذب العدلات ويُحرض الالتهاب؟",
+      "options": [
+        "LTC4",
+        "LTD4",
+        "LTE4",
+        "LTB4"
+      ],
+      "answer": 3,
+      "explanation": "LTB4 هو الكيموتاكتيك الرئيسي للعدلات ويُحرض الاستجابة الالتهابية."
+    },
+    {
+      "q": "ما الفرق بين PGF2α وPGE2 في التأثير على الرحم؟",
+      "options": [
+        "كلاهما يُرخي الرحم",
+        "PGF2α يُقلص الرحم، PGE2 يُقلصه بجرعة منخفضة ويُرخيه بجرعة عالية",
+        "PGE2 فقط يُقلص الرحم",
+        "لا فرق"
+      ],
+      "answer": 1,
+      "explanation": "PGF2α مُقلص للرحم بشكل قوي. PGE2 له تأثير مزدوج حسب الجرعة والمستقبل."
+    },
+    {
+      "q": "ما آلية عمل Zileuton؟",
+      "options": [
+        "يحصر مستقبلات اللوكوترين",
+        "يثبط إنزيم 5-Lipoxygenase فيمنع تكوين اللوكوترينات",
+        "يثبط COX-2",
+        "يُنشط PGI2"
+      ],
+      "answer": 1,
+      "explanation": "Zileuton مثبط لإنزيم 5-LOX، يمنع تحويل حمض الأراكيدونيك إلى لوكوترينات."
+    },
+    {
+      "q": "Thromboxane A2 يسبب:",
+      "options": [
+        "توسّع وعائي ومنع التجميع",
+        "تقبّض وعائي وتجميع الصفائح",
+        "إدرار البول",
+        "تثبيط COX"
+      ],
+      "answer": 1,
+      "explanation": "TXA2 مقبّض وعائي ومجمّع للصفائح.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "Misoprostol يحمي المعدة لأنه:",
+      "options": [
+        "يحصر COX",
+        "نظير PGE1",
+        "حاصر H2",
+        "مضاد لوكوترايين"
+      ],
+      "answer": 1,
+      "explanation": "نظير بروستاغلاندين يعزز الحماية المخاطية.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "Montelukast يعمل بـ:",
+      "options": [
+        "تثبيط COX",
+        "حصر مستقبل اللوكوترايين",
+        "تثبيط 5-LOX",
+        "حصر H1"
+      ],
+      "answer": 1,
+      "explanation": "حاصر مستقبل اللوكوترايين للوقاية من الربو.",
+      "difficulty": "medium"
+    }
+  ]
+}

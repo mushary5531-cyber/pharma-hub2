@@ -1,0 +1,492 @@
+{
+  "id": "final-08",
+  "slug": "anticancer-2",
+  "title": "Anticancer Drugs (Part 2): Alkylating Agents, Microtubule Inhibitors, Hormones & Others",
+  "exam": "final",
+  "topics": [
+    "alkylating agents",
+    "microtubule inhibitors",
+    "vinca alkaloids",
+    "paclitaxel",
+    "hormones",
+    "tamoxifen",
+    "cisplatin",
+    "interferons",
+    "cyclophosphamide"
+  ],
+  "summary": "العوامل الالكيلية CCNS تعمل بنقل مجموعات الكيل الى DNA مما يمنع تضاعفه وتشمل الميكلورثامين والسيكلوفوسفاميد والنيتروزيورياز. مثبطات الانابيب الدقيقة CCS تمنع انقسام الخلية بالتاثير على المغزل الميتوزي وتشمل الفينكا الكالكالويد والباكليتاكسيل. الهرمونات ومضاداتها تستخدم للاورام الحساسة للهرمونات كالتاموكسيفين في سرطان الثدي. السيسبلاتين والكاربوبلاتين والانترفيرون تكمل الترسانة العلاجية.",
+  "key_drugs": [
+    {
+      "name": "Mechlorethamine",
+      "class": "Nitrogen Mustard / Alkylating Agent (CCNS)",
+      "note": "تسريب من الوريد، اذا خرج خارج الوريد: Sodium Thiosulfate"
+    },
+    {
+      "name": "Cyclophosphamide",
+      "class": "Alkylating Agent (CCNS)",
+      "note": "Hemorrhagic Cystitis بسبب Acrolein - يُمنع بـ Mesna وكثرة السوائل"
+    },
+    {
+      "name": "Lomustine / Carmustine",
+      "class": "Nitrosourea / Alkylating Agent",
+      "note": "يعبران حاجز الدم-الدماغ - لعلاج اورام الدماغ"
+    },
+    {
+      "name": "Vincristine (VX)",
+      "class": "Vinca Alkaloid / Microtubule Inhibitor (CCS)",
+      "note": "اعتلال عصبي محيطي + ضعف عضلات"
+    },
+    {
+      "name": "Vinblastine (VBL)",
+      "class": "Vinca Alkaloid / Microtubule Inhibitor (CCS)",
+      "note": "تثبيط نخاع اشد من VX"
+    },
+    {
+      "name": "Paclitaxel",
+      "class": "Taxane / Microtubule Inhibitor",
+      "note": "يستلزم تحضيرا مسبقا بـ Dexamethasone + Diphenhydramine + H2 blocker"
+    },
+    {
+      "name": "Tamoxifen",
+      "class": "Selective Estrogen Receptor Modulator (SERM)",
+      "note": "خط اول لسرطان الثدي ER+"
+    },
+    {
+      "name": "Cisplatin",
+      "class": "Platinum Coordination Complex",
+      "note": "Nephrotoxicity - يحتاج ترطيبا مكثفا"
+    },
+    {
+      "name": "Interferon-alpha",
+      "class": "Biological Response Modifier",
+      "note": "اكتئاب + قلة الكريات البيض"
+    },
+    {
+      "name": "Doxorubicin",
+      "class": "Antitumor antibiotic (anthracycline)",
+      "note": "سُمّية قلبية",
+      "moa": "تداخل DNA + تثبيط topoisomerase II + جذور حرة"
+    },
+    {
+      "name": "Bleomycin",
+      "class": "Antitumor antibiotic",
+      "note": "تليف رئوي",
+      "adverse": "Pulmonary fibrosis"
+    },
+    {
+      "name": "Vincristine",
+      "class": "Vinca alkaloid",
+      "note": "اعتلال أعصاب",
+      "moa": "يمنع بلمرة الأنابيب الدقيقة (M phase)"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "story",
+      "title": "السيكلوفوسفاميد والمثانة",
+      "body": "تخيّل Acrolein كحمض يسكب على جدار المثانة فيحرقها (Hemorrhagic Cystitis). Mesna = اسفنجة تمص الحمض قبل ان يلمس الجدار. كثرة الماء = تخفيف التركيز.",
+      "covers": [
+        "Cyclophosphamide"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "BBB = اللواتي يعبرن الحاجز الدماغي",
+      "body": "B = BBB (Blood Brain Barrier)\nB = loMustine و carMustine (Nitrosoureas)\nB = Brain tumors = علاجهن!\nالقاعدة: النيتروزيورياز = الدماغ",
+      "covers": [
+        "Lomustine",
+        "Carmustine"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "VX vs VBL: عصب مقابل نخاع",
+      "body": "VinCristine = يكره الCNS = يسبب نيوروباثي (N = Neuro = Cristine). VinBlastine = يضرب Blast خلايا الدم = تثبيط النخاع اشد. كلاهما يعبر عن هويته في اسمه.",
+      "covers": [
+        "Vincristine",
+        "Vinblastine"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "السيسبلاتين والكلية",
+      "body": "تخيّل حبة Cisplatin كحجر بلاتيني ثقيل يسقط على خلايا الانابيب الكلوية القريبة (Proximal Tubule) ويسحقها. الماء الغزير = رافعة تحمل الحجر بعيدا عن الكلية.",
+      "covers": [
+        "Cisplatin"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "TAXI = Paclitaxel يحتاج تحضيرا",
+      "body": "T = Taxane (Paclitaxel)\nA = Antihistamine (Diphenhydramine)\nX = (De)Xamethasone\nI = H2 Inhibitor\nقبل الباكليتاكسيل: اركب الTAXI!",
+      "covers": [
+        "Paclitaxel"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "Chemo Man — سُميّات العلاج الكيميائي",
+      "body": "خريطة الجسم: الرأس/الأعصاب N = Nitrosoureas (عصبي، يعبر BBB). العيون/الأذن C = Cisplatin/Carboplatin (نيفرو/أوتو). القلب D = Doxorubicin/Daunorubicin (سُمّية قلبية). الصدر B = Bleomycin/Busulfan (تليف رئوي). البطن MF = Methotrexate + 5-FU (كبت نقي العظم). المثانة P = cycloPhosphamide (التهاب مثانة نزفي → اعطِ Mesna). الأطراف V = Vinca alkaloids (اعتلال أعصاب طرفي). Tamoxifen → تغيّر حدّة الإبصار.",
+      "covers": [
+        "Doxorubicin cardiotoxicity",
+        "Bleomycin pulmonary fibrosis",
+        "Cisplatin nephrotoxicity",
+        "Cyclophosphamide hemorrhagic cystitis",
+        "Vincristine neuropathy",
+        "Methotrexate",
+        "5-Fluorouracil",
+        "Nitrosoureas",
+        "Tamoxifen"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما آلية عمل العوامل الالكيلية؟",
+      "back": "نقل مجموعات الكيل الى N7 في قواعد الغوانين في DNA مما يسبب كسر الخيوط، الترابط بين الخيطين، ومنع التضاعف الطبيعي."
+    },
+    {
+      "front": "ما علاج انسكاب Mechlorethamine خارج الوريد؟",
+      "back": "Sodium Thiosulfate يُحقن موضعيا لتحييد الدواء المنسكب."
+    },
+    {
+      "front": "ما Acrolein وما علاقته بالسيكلوفوسفاميد؟",
+      "back": "Acrolein هو مستقلب سمي لـ Cyclophosphamide يسبب Hemorrhagic Cystitis (التهاب المثانة النزفي). يُمنع بـ Mesna وزيادة شرب السوائل."
+    },
+    {
+      "front": "ما استخدام Streptozotocin وما سميته الخاصة؟",
+      "back": "يُستخدم في Insulinoma لانه يسمّ خلايا بيتا في جزر لانغرهانز بشكل انتقائي. سميته الخاصة: يسبب مرض السكري (Diabetogenic)."
+    },
+    {
+      "front": "ما ميزة Nitrosureas التي تجعلها مناسبة لاورام الدماغ؟",
+      "back": "Lomustine و Carmustine يعبران حاجز الدم-الدماغ (BBB) على عكس معظم ادوية السرطان."
+    },
+    {
+      "front": "ما آلية عمل Vinca Alkaloids؟",
+      "back": "ترتبط بـ Tubulin وتمنع بلمرته (Polymerization)، فتتفكك الانابيب الدقيقة للمغزل الميتوزي ويتوقف انقسام الخلية في مرحلة M."
+    },
+    {
+      "front": "ما الفرق في السمية بين Vincristine و Vinblastine؟",
+      "back": "VX: اعتلال عصبي محيطي (Neuropathy)، فقدان الانعكاسات، ضعف عضلي. VBL: تثبيط نخاع العظم اشد من VX."
+    },
+    {
+      "front": "ما الاستخدام السريري لـ Vincristine؟",
+      "back": "في بروتوكول POMP لسرطان الدم، ورم Wilms، وغيرها من الاورام - دائما في تركيبة مع ادوية اخرى."
+    },
+    {
+      "front": "لماذا يُعطى بروتوكول تحضيري قبل Paclitaxel؟",
+      "back": "بسبب خطر تفاعل تحسسي شديد. البروتوكول: Dexamethasone + Diphenhydramine + H2 blocker."
+    },
+    {
+      "front": "ما Tamoxifen وما استخدامه؟",
+      "back": "SERM (Selective Estrogen Receptor Modulator) مضاد للاستروجين بتاثير استروجيني ضعيف. خط اول لعلاج سرطان الثدي ER Positive."
+    },
+    {
+      "front": "ما مشكلة الاستروجين في علاج سرطان البروستاتا؟",
+      "back": "يسبب احتشاء عضلة القلب، حوادث الجلطات، السكتة الدماغية، والعجز الجنسي."
+    },
+    {
+      "front": "ما الفرق بين الورم الهرموني المستجيب والمعتمد؟",
+      "back": "Responsive: يتراجع بإعطاء الهرمون (تلطيفي فقط). Dependent: يتراجع بإزالة الهرمون بالجراحة او الادوية."
+    },
+    {
+      "front": "ما آلية سمية Cisplatin الكلوية وكيف تُمنع؟",
+      "back": "يسمّ خلايا الانابيب القريبة (Proximal Tubule). تُمنع بالترطيب المكثف والادرار القسري."
+    },
+    {
+      "front": "ما التفاعل الدوائي الخطير مع Cisplatin؟",
+      "back": "Aminoglycosides تزيد من السمية الكلوية والسمية السمعية (Ototoxicity) عند اخذها مع Cisplatin."
+    },
+    {
+      "front": "ما الاثار الجانبية الخاصة بـ Interferon-alpha؟",
+      "back": "الاكتئاب هو الاهم. ايضا: حمى ورعشة في الايام الاولى، قلة الكريات والصفيحات (Dose-Limiting)، ارتفاع انزيمات الكبد."
+    },
+    {
+      "front": "ما G-CSF وما استخدامه في العلاج الكيميائي؟",
+      "back": "Filgrastim (Granulocyte Colony-Stimulating Factor) يُعطى مع Paclitaxel لمنع Neutropenia الشديدة."
+    },
+    {
+      "front": "ما خطر الاستخدام طويل الامد للعوامل الالكيلية؟",
+      "back": "تسبب طفرات (Mutagenic) قد تؤدي لاورام ثانوية خاصة سرطان الدم الحاد بعد 10 سنوات او اكثر."
+    },
+    {
+      "front": "لماذا يُعطى Prednisone في علاج السرطان؟",
+      "back": "لتقليل الالتهاب، منع التفاعلات التحسسية للعلاج الكيميائي، قمع المناعة بعد زرع النخاع، ومباشرة في سرطانات الليمفوما والليوكيميا."
+    },
+    {
+      "front": "ما سُمّية Doxorubicin/Daunorubicin المميّزة؟",
+      "back": "سُمّية قلبية تراكمية (راقب بـ Dexrazoxane).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما سُمّية Bleomycin المميّزة؟",
+      "back": "تليف رئوي (اعمل CXR أساسي)؛ أقل كبت نقوي.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما آلية Vinca alkaloids؟",
+      "back": "تمنع بلمرة الأنابيب الدقيقة → توقف الانقسام في الطور M."
+    },
+    {
+      "front": "ما الفرق بين Vincristine و Vinblastine في السُّميّة؟",
+      "back": "Vincristine → اعتلال أعصاب طرفي؛ Vinblastine → كبت نقوي."
+    },
+    {
+      "front": "ما آلية Taxanes (Paclitaxel)؟",
+      "back": "تثبّت الأنابيب الدقيقة وتمنع تفككها → توقف الانقسام؛ اعتلال أعصاب ونقص عدلات."
+    },
+    {
+      "front": "ما آلية Mechlorethamine؟",
+      "back": "خردل نيتروجيني مؤلكِل ينقل ألكيل لـ N7-guanine؛ غثيان شديد وكبت نقوي."
+    },
+    {
+      "front": "ما آلية وسُمّية Tamoxifen؟",
+      "back": "مضاد إستروجين لسرطان الثدي؛ خطر سرطان بطانة الرحم وتغيّر الإبصار."
+    },
+    {
+      "front": "كيف يُعالَج الغثيان الشديد من العلاج الكيميائي؟",
+      "back": "Ondansetron (مضاد 5-HT3) + Dexamethasone قبل العلاج."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "مريض يأخذ Cyclophosphamide ظهر عنده بول دموي. ما السبب وما العلاج الوقائي؟",
+      "options": [
+        "السمية الكلوية - الترطيب",
+        "Acrolein يسبب Hemorrhagic Cystitis - Mesna وزيادة السوائل",
+        "تثبيط النخاع - نقل الدم",
+        "التاثير على الانابيب الكلوية - Furosemide"
+      ],
+      "answer": 1,
+      "explanation": "Acrolein مستقلب Cyclophosphamide السمي يحرق جدار المثانة. Mesna يرتبط به ويحيّده قبل ان يلمس المثانة."
+    },
+    {
+      "q": "اي الادوية التالية يعبر حاجز الدم-الدماغ ويُستخدم في اورام الدماغ؟",
+      "options": [
+        "Mechlorethamine",
+        "Cyclophosphamide",
+        "Carmustine",
+        "Doxorubicin"
+      ],
+      "answer": 2,
+      "explanation": "Carmustine و Lomustine (Nitrosoureas) لهما قدرة عبور BBB مما يجعلهما مناسبين لاورام الدماغ."
+    },
+    {
+      "q": "ما الآلية التي تعمل بها Vincristine و Vinblastine؟",
+      "options": [
+        "تثبيط DHFR",
+        "التداخل في خيوط DNA",
+        "منع بلمرة Tubulin وتفكيك المغزل الميتوزي",
+        "تثبيط Topoisomerase"
+      ],
+      "answer": 2,
+      "explanation": "Vinca Alkaloids ترتبط بـ Tubulin تمنع بلمرته فيتفكك المغزل الميتوزي ويتوقف انقسام الخلية."
+    },
+    {
+      "q": "Vincristine يسبب اعراضا جانبية جهازية عصبية تشمل:",
+      "options": [
+        "تثبيط نخاع العظم الشديد",
+        "فقدان الانعكاسات (Areflexia) وضعف العضلات",
+        "تليف رئوي",
+        "سمية قلبية لا رجعة فيها"
+      ],
+      "answer": 1,
+      "explanation": "VX يسبب اعتلال عصبي محيطي مميز: فقدان الانعكاسات وضعف عضلات خاصة Quadriceps. الامساك من الاعتلال العصبي اللاارادي."
+    },
+    {
+      "q": "مريضة سرطان ثدي ER+، ما الدواء المناسب كخط اول؟",
+      "options": [
+        "Prednisone",
+        "Tamoxifen",
+        "Bleomycin",
+        "Cisplatin"
+      ],
+      "answer": 1,
+      "explanation": "Tamoxifen SERM يحجب مستقبلات الاستروجين في خلايا الثدي وهو خط اول لعلاج سرطان الثدي ER Positive."
+    },
+    {
+      "q": "قبل تسريب Paclitaxel يجب اعطاء تحضير مسبق يشمل:",
+      "options": [
+        "Leucovorin فقط",
+        "Dexamethasone + Diphenhydramine + H2 blocker",
+        "Mesna + Allopurinol",
+        "Dexrazoxane فقط"
+      ],
+      "answer": 1,
+      "explanation": "Paclitaxel يسبب تفاعلا تحسسيا شديدا يستلزم تحضيرا بـ Dexamethasone (كورتيكوستيرويد) + Diphenhydramine (مضاد هيستامين) + H2 blocker."
+    },
+    {
+      "q": "ما الدواء الذي يقلل سمية Paclitaxel على نخاع العظم (Neutropenia)؟",
+      "options": [
+        "Dexrazoxane",
+        "Mesna",
+        "Filgrastim (G-CSF)",
+        "Leucovorin"
+      ],
+      "answer": 2,
+      "explanation": "Filgrastim (G-CSF) يحفز انتاج الخلايا البيضاء ويُعطى وقايةً من Neutropenia الناتجة عن Paclitaxel."
+    },
+    {
+      "q": "الاثر الجانبي المحدد لـ Cisplatin والمختلف عن غيره من العوامل الالكيلية هو:",
+      "options": [
+        "تثبيط النخاع",
+        "السمية الرئوية",
+        "السمية الكلوية والسمية السمعية",
+        "تلوين البول باللون الاحمر"
+      ],
+      "answer": 2,
+      "explanation": "Cisplatin مميز بسميته الكلوية (Proximal Tubule) والسمعية (Ototoxicity). تزداد بالاشتراك مع Aminoglycosides."
+    },
+    {
+      "q": "Streptozotocin دواء خاص لـ:",
+      "options": [
+        "اورام الدماغ",
+        "Insulinoma لانه يسمّ خلايا بيتا انتقائيا",
+        "سرطان الثدي ER+",
+        "الليوكيميا الحادة"
+      ],
+      "answer": 1,
+      "explanation": "Streptozotocin نيتروزيوريا ذات انتقائية لخلايا بيتا البنكرياس، مستخدم في Insulinoma (ورم مُفرِز للانسولين)."
+    },
+    {
+      "q": "الاعراض الجانبية المحددة لـ Interferon-alpha تشمل:",
+      "options": [
+        "سمية قلبية + لون بول احمر",
+        "اكتئاب + حمى ورعشة في الايام الاولى",
+        "Hemorrhagic Cystitis",
+        "Hand-Foot Syndrome"
+      ],
+      "answer": 1,
+      "explanation": "IFN-alpha مميز بالاكتئاب (مع Alpha خاصة) والاعراض الشبيهة بالانفلونزا في الايام الاولى من العلاج."
+    },
+    {
+      "q": "التليف الرئوي يرتبط بـ:",
+      "options": [
+        "Doxorubicin",
+        "Bleomycin",
+        "Vincristine",
+        "Cisplatin"
+      ],
+      "answer": 1,
+      "explanation": "Bleomycin سُمّية رئوية.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "السُّميّة القلبية التراكمية تميّز:",
+      "options": [
+        "Bleomycin",
+        "Doxorubicin",
+        "Methotrexate",
+        "Paclitaxel"
+      ],
+      "answer": 1,
+      "explanation": "anthracyclines قلبية السُّميّة.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "Vincristine يسبب أساساً:",
+      "options": [
+        "كبت نقوي شديد",
+        "اعتلال أعصاب طرفي",
+        "سُمّية قلبية",
+        "تليف رئوي"
+      ],
+      "answer": 1,
+      "explanation": "اعتلال عصبي طرفي مميّز.",
+      "difficulty": "medium"
+    }
+  ],
+  "classification": {
+    "title": "Anticancer (الجزء 2)",
+    "groups": [
+      {
+        "name": "Antitumor antibiotics",
+        "drugs": [
+          "Doxorubicin",
+          "Daunorubicin",
+          "Bleomycin",
+          "Dactinomycin"
+        ]
+      },
+      {
+        "name": "Vinca alkaloids",
+        "drugs": [
+          "Vincristine",
+          "Vinblastine"
+        ]
+      },
+      {
+        "name": "Taxanes",
+        "drugs": [
+          "Paclitaxel",
+          "Docetaxel"
+        ]
+      },
+      {
+        "name": "Hormonal",
+        "drugs": [
+          "Tamoxifen"
+        ]
+      }
+    ]
+  },
+  "high_yield": [
+    {
+      "point": "Doxorubicin/Daunorubicin → سُمّية قلبية تراكمية (راقب بـ Dexrazoxane).",
+      "tag": "adverse"
+    },
+    {
+      "point": "Bleomycin → تليف رئوي (اعمل CXR أساسي)؛ أقل كبت نقوي.",
+      "tag": "adverse"
+    },
+    {
+      "point": "Vincristine → اعتلال أعصاب طرفي؛ Vinblastine → كبت نقوي.",
+      "tag": "adverse"
+    },
+    {
+      "point": "Tamoxifen → تغيّر حدّة الإبصار/سُمّية قرنية؛ مضاد إستروجين.",
+      "tag": "adverse"
+    }
+  ],
+  "comparison_tables": [
+    {
+      "title": "الدواء ← السُّميّة المميِّزة",
+      "columns": [
+        "الدواء",
+        "السُّميّة"
+      ],
+      "rows": [
+        [
+          "Doxorubicin",
+          "قلبية"
+        ],
+        [
+          "Bleomycin",
+          "تليف رئوي"
+        ],
+        [
+          "Cisplatin",
+          "كلوية/سمعية"
+        ],
+        [
+          "Cyclophosphamide",
+          "التهاب مثانة نزفي"
+        ],
+        [
+          "Vincristine",
+          "اعتلال أعصاب طرفي"
+        ],
+        [
+          "Methotrexate",
+          "كبدية/نقوية"
+        ]
+      ]
+    }
+  ]
+}

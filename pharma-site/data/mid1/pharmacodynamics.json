@@ -1,0 +1,427 @@
+{
+  "id": "mid1-04",
+  "slug": "pharmacodynamics",
+  "title": "Pharmacodynamics: Foundation",
+  "exam": "mid1",
+  "topics": [
+    "Drug Targets",
+    "Receptors",
+    "Agonist & Antagonist",
+    "Dose-Response",
+    "Efficacy & Potency",
+    "Therapeutic Index",
+    "Antagonism Types",
+    "Synergism",
+    "Tolerance"
+  ],
+  "summary": "الفارماكوديناميكا تدرس تأثير الدواء على الجسم، وتشمل فهم أهداف الدواء كالمستقبلات والإنزيمات وقنوات الأيونات. الأدوية قد تكون ناهضة (Agonist) أو مضادة (Antagonist) بحسب قدرتها على إحداث استجابة. تُقاس فاعلية الدواء بالـ Emax وقوته بالـ EC50، أما مؤشر السلامة فيُعبَّر عنه بالـ Therapeutic Index. يُعدّ التضاد الدوائي والتآزر وظاهرة التحمل من المفاهيم الأساسية في هذا الموضوع.",
+  "key_drugs": [
+    {
+      "name": "Adrenaline (Epinephrine)",
+      "class": "Full Agonist",
+      "note": "مثال على ناهض كامل يرتبط بالمستقبل وينتج أقصى استجابة"
+    },
+    {
+      "name": "Atropine",
+      "class": "Competitive Antagonist",
+      "note": "مضاد تنافسي للأستيل كولين، كفاءته صفر (Zero efficacy)"
+    },
+    {
+      "name": "Neostigmine",
+      "class": "Enzyme Inhibitor",
+      "note": "يثبط إنزيم Cholinesterase بالتنافس مع Acetylcholine"
+    },
+    {
+      "name": "Aspirin",
+      "class": "Irreversible Enzyme Inhibitor",
+      "note": "يثبط Cyclooxygenase بصورة لا رجعة فيها"
+    },
+    {
+      "name": "Histamine",
+      "class": "Agonist (Physiological)",
+      "note": "مثال على التضاد الفسيولوجي مع Adrenaline في ضغط الدم"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "أهداف الدواء: RICE",
+      "body": "R = Receptor\nI = Ion channel\nC = Carrier molecule (Transporter)\nE = Enzyme\nكل دواء لازم يوصل لـ RICE عشان يشتغل",
+      "covers": [
+        "Receptor",
+        "Ion channel",
+        "Carrier molecule",
+        "Enzyme"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "الناهض والمضاد: عريس وحارس",
+      "body": "تخيل المستقبل بيت العروس. الـ Agonist هو العريس: عنده شوق للبيت (Affinity) وعنده قدرة يدخل ويغير الجو (Efficacy). الـ Antagonist هو الحارس: يقف عند الباب ويمنع غيره من الدخول، لكنه ما يغير شي داخل البيت (Zero Efficacy).",
+      "covers": [
+        "Agonist",
+        "Antagonist",
+        "Affinity",
+        "Efficacy"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "منحنى الجرعة-الاستجابة: جبل الدواء",
+      "body": "تخيل جبلاً: ارتفاع الجبل = Emax (الفاعلية). الدواء الذي يصل الذروة بكمية قليلة = قوي (High Potency / Low EC50). دوائان يصلان نفس الذروة = متساويا الفاعلية رغم اختلاف القوة.",
+      "covers": [
+        "Efficacy",
+        "Potency",
+        "EC50",
+        "Emax"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "أنواع التضاد: PCPN",
+      "body": "P = Physiological (Functional) antagonism\nC = Chemical antagonism\nP = Pharmacokinetic antagonism\nN = Non-competitive pharmacological antagonism\n(+ Competitive كنوع فرعي)",
+      "covers": [
+        "Physiological antagonism",
+        "Chemical antagonism",
+        "Pharmacokinetic antagonism",
+        "Non-competitive antagonism"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "التحمل والتاكيفيلاكسيس",
+      "body": "تصور رجل يشرب قهوة كل يوم: في البداية كوب واحد يصحيه (Tolerance ببطء). لكن هناك من يشرب فجأة خمسة أكواب ويحس بالتعود في دقائق - هذا هو الـ Tachyphylaxis: تحمل سريع وحاد.",
+      "covers": [
+        "Tolerance",
+        "Tachyphylaxis"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما الفرق بين Pharmacokinetics و Pharmacodynamics؟",
+      "back": "Pharmacokinetics: ما يفعله الجسم بالدواء (ADME). Pharmacodynamics: ما يفعله الدواء بالجسم (التأثير والاستجابة)."
+    },
+    {
+      "front": "ما هي أهداف الأدوية الأربعة؟",
+      "back": "Receptors, Enzymes, Ion channels, Carrier molecules (RICE)"
+    },
+    {
+      "front": "ما هو تعريف Affinity؟",
+      "back": "ميل الدواء للارتباط بالمستقبل. الـ Ligand يمثل أي جزيء له Affinity لمستقبل معين."
+    },
+    {
+      "front": "ما هو تعريف Efficacy؟",
+      "back": "قدرة الدواء على إنتاج التأثير العلاجي المطلوب (Emax). الناهض الكامل (Full Agonist) له أعلى Efficacy."
+    },
+    {
+      "front": "ما هو الـ Full Agonist؟",
+      "back": "دواء له Affinity و Efficacy كاملة - يرتبط بالمستقبل وينتج أقصى استجابة ممكنة. مثال: Adrenaline."
+    },
+    {
+      "front": "ما هو الـ Antagonist؟",
+      "back": "دواء يرتبط بالمستقبل (له Affinity) لكن Efficacy = Zero. لا ينتج استجابة بل يمنع الدواء الآخر. مثال: Atropine."
+    },
+    {
+      "front": "ما هو الـ Partial Agonist؟",
+      "back": "له Affinity لكن Efficacy جزئية (ناقصة). منفرداً يعمل كناهض، ومع Full Agonist يعمل كمضاد."
+    },
+    {
+      "front": "ما هو EC50؟",
+      "back": "الجرعة أو التركيز المطلوب لإنتاج 50% من أقصى استجابة. يُستخدم لقياس Potency - كلما قل EC50 زادت القوة."
+    },
+    {
+      "front": "ما العلاقة بين Potency و Efficacy؟",
+      "back": "هما مستقلتان. دواء قد يكون عالي الفاعلية (High Efficacy) لكن منخفض القوة (Low Potency) والعكس صحيح."
+    },
+    {
+      "front": "ما هو Therapeutic Index (TI)؟",
+      "back": "TI = TD50 / EC50. يقيس هامش الأمان للدواء. كلما ارتفع الـ TI كلما كان الدواء أكثر أماناً."
+    },
+    {
+      "front": "ما هو الـ Therapeutic Window؟",
+      "back": "نطاق الجرعات التي تنتج التأثير المطلوب دون تسبب آثار سامة غير مرغوبة."
+    },
+    {
+      "front": "ما هو التضاد الفسيولوجي (Physiological Antagonism)؟",
+      "back": "دواءان يعملان على مستقبلات مختلفة وينتجان تأثيرات متعاكسة. مثال: Histamine يخفض ضغط الدم، Adrenaline يرفعه."
+    },
+    {
+      "front": "ما هو التضاد الكيميائي (Chemical Antagonism)؟",
+      "back": "تفاعل كيميائي مباشر بين دواءين ينتج عنه فقدان النشاط. الدواء يُعطَّل بالارتباط الكيميائي."
+    },
+    {
+      "front": "ما الفرق بين Competitive و Non-competitive antagonism؟",
+      "back": "Competitive: المضاد يتنافس مع الناهض على نفس الموقع - يمكن التغلب عليه بزيادة الجرعة. Non-competitive: يرتبط بموقع آخر - لا يمكن التغلب عليه بزيادة الجرعة (يخفض Emax)."
+    },
+    {
+      "front": "ما هو التآزر الدوائي Additive vs Supraadditive؟",
+      "back": "Additive: تأثير A+B = تأثير A + تأثير B منفردين. Supraadditive (Potentiation): تأثير A+B > مجموع التأثيرين، يحدث عندما يكون أحد الدوائين غير نشط منفرداً."
+    },
+    {
+      "front": "ما هو التحمل الدوائي (Tolerance)؟",
+      "back": "انخفاض الاستجابة للجرعة المعتادة من الدواء، مما يستلزم زيادة الجرعة للحصول على نفس التأثير."
+    },
+    {
+      "front": "ما هو Tachyphylaxis؟",
+      "back": "نوع خاص من التحمل المكتسب يحدث بسرعة شديدة (خلال دقائق). يُسمى أيضاً Acute Acquired Tolerance."
+    },
+    {
+      "front": "كيف يثبط Neostigmine إنزيم Cholinesterase؟",
+      "back": "يتنافس مع Acetylcholine على موقع إنزيم Cholinesterase (تثبيط تنافسي)."
+    },
+    {
+      "front": "لماذا يُعتبر Aspirin مثالاً للتثبيط اللارجعي؟",
+      "back": "لأنه يثبط إنزيم Cyclooxygenase بصورة لا رجعة فيها (Irreversible inhibition)، مما يمنع تركيب البروستاغلاندين."
+    },
+    {
+      "front": "ما هو الـ ED50؟",
+      "back": "الجرعة التي تنتج 50% من أقصى استجابة في حيوان واحد. يُستخدم لمقارنة حساسية المرضى وإيجاد الجرعات المتكافئة."
+    },
+    {
+      "front": "ما هي أهداف الدواء الأربعة (RICE)؟",
+      "back": "Receptor, Ion channel, Carrier molecule, Enzyme.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما هو Inverse agonist؟",
+      "back": "يرتبط بالمستقبل النشط أساساً وينتج تأثيراً معاكساً (efficacy سالبة)."
+    },
+    {
+      "front": "ما الفرق بين Tolerance و Tachyphylaxis؟",
+      "back": "Tolerance يتطور ببطء؛ Tachyphylaxis تحمل حاد سريع خلال دقائق."
+    },
+    {
+      "front": "ما معنى Spare receptors؟",
+      "back": "مستقبلات فائضة؛ يمكن بلوغ الاستجابة القصوى دون إشغال كل المستقبلات."
+    },
+    {
+      "front": "ما هو Therapeutic window؟",
+      "back": "نطاق الجرعات الذي يعطي تأثيراً علاجياً دون سُمّية."
+    },
+    {
+      "front": "ما الفرق بين ED50 و TD50 و LD50؟",
+      "back": "ED50: جرعة فعّالة لـ50%؛ TD50: جرعة سامة لـ50%؛ LD50: جرعة قاتلة لـ50%."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "أي من التالي يُعرَّف بأنه دواء له Affinity للمستقبل لكن Efficacy = Zero؟",
+      "options": [
+        "Full Agonist",
+        "Partial Agonist",
+        "Antagonist",
+        "Inverse Agonist"
+      ],
+      "answer": 2,
+      "explanation": "الـ Antagonist يرتبط بالمستقبل (له Affinity) لكنه لا ينتج أي استجابة (Efficacy = Zero)، بعكس الـ Agonist الذي ينتج استجابة."
+    },
+    {
+      "q": "الدواء الذي يحتاج كمية أقل لإنتاج 50% من الاستجابة القصوى يُوصف بأنه:",
+      "options": [
+        "أعلى فاعلية (Higher Efficacy)",
+        "أكثر قوة (More Potent)",
+        "أقل أماناً",
+        "له Emax أعلى"
+      ],
+      "answer": 1,
+      "explanation": "الـ Potency تُقاس بالـ EC50. الدواء الذي يحتاج تركيزاً أقل (EC50 منخفض) هو الأكثر قوة (More Potent)."
+    },
+    {
+      "q": "Aspirin يثبط Cyclooxygenase بطريقة:",
+      "options": [
+        "تنافسية قابلة للعكس",
+        "غير تنافسية قابلة للعكس",
+        "غير رجعية (Irreversible)",
+        "فسيولوجية"
+      ],
+      "answer": 2,
+      "explanation": "Aspirin يثبط إنزيم Cyclooxygenase بصورة لا رجعة فيها (Irreversible inhibition)، لذلك تأثيره يستمر حتى تتجدد الصفائح الدموية."
+    },
+    {
+      "q": "الـ Therapeutic Index يُحسب بالمعادلة:",
+      "options": [
+        "EC50 / ED50",
+        "TD50 / EC50",
+        "Emax / EC50",
+        "LD50 / TD50"
+      ],
+      "answer": 1,
+      "explanation": "TI = TD50 / EC50. يقارن الجرعة السمية بالجرعة العلاجية. كلما ارتفع كلما كان الدواء أكثر أماناً."
+    },
+    {
+      "q": "Histamine يخفض ضغط الدم بينما Adrenaline يرفعه. هذا مثال على:",
+      "options": [
+        "Chemical antagonism",
+        "Non-competitive antagonism",
+        "Physiological (Functional) antagonism",
+        "Competitive antagonism"
+      ],
+      "answer": 2,
+      "explanation": "التضاد الفسيولوجي يحدث عندما يعمل دواءان على مستقبلات مختلفة وينتجان تأثيرات متعاكسة، كـ Histamine وAdrenaline على ضغط الدم."
+    },
+    {
+      "q": "أي من الأدوية التالية مثال على Partial Agonist؟",
+      "options": [
+        "Atropine",
+        "Adrenaline",
+        "Neostigmine",
+        "دواء له Affinity و Efficacy جزئية"
+      ],
+      "answer": 3,
+      "explanation": "الـ Partial Agonist له Affinity وبعض Efficacy، لكن Efficacy ناقصة. منفرداً يعمل كناهض، لكن مع Full Agonist يعمل كمضاد."
+    },
+    {
+      "q": "أي عبارة صحيحة عن Competitive Antagonism؟",
+      "options": [
+        "يُخفّض الـ Emax",
+        "لا يمكن التغلب عليه بزيادة الجرعة",
+        "يتنافس على نفس الموقع ويمكن التغلب عليه بزيادة الناهض",
+        "يرتبط بموقع مختلف عن موقع الناهض"
+      ],
+      "answer": 2,
+      "explanation": "في التضاد التنافسي، المضاد يتنافس مع الناهض على نفس موقع الارتباط. يمكن التغلب عليه بزيادة جرعة الناهض، ولا يُغير الـ Emax."
+    },
+    {
+      "q": "ظاهرة Tachyphylaxis تُعرَّف بأنها:",
+      "options": [
+        "تحمل مزمن يتطور ببطء",
+        "تحمل حاد يتطور بسرعة خلال دقائق",
+        "فشل الدواء في الارتباط بالمستقبل",
+        "زيادة الاستجابة للدواء"
+      ],
+      "answer": 1,
+      "explanation": "Tachyphylaxis هو نوع خاص من التحمل المكتسب يتطور بسرعة شديدة (خلال دقائق). يُسمى أيضاً Acute Acquired Tolerance."
+    },
+    {
+      "q": "أي من التالي صحيح عن Non-competitive antagonism؟",
+      "options": [
+        "يُنقص EC50 فقط",
+        "يُنقص Emax ولا يمكن التغلب عليه بزيادة الجرعة",
+        "يمكن التغلب عليه بزيادة الناهض",
+        "يعمل على مستقبل مختلف"
+      ],
+      "answer": 1,
+      "explanation": "الـ Non-competitive antagonist يرتبط بموقع آخر غير موقع الناهض، مما يُقلل الـ Emax ولا يمكن التغلب عليه بزيادة جرعة الناهض."
+    },
+    {
+      "q": "عند رسم منحنى الجرعة-الاستجابة (Dose-Response Curve)، أي المعاملات يعكس Efficacy الدواء؟",
+      "options": [
+        "EC50",
+        "Emax",
+        "ED50",
+        "الانحدار (Slope)"
+      ],
+      "answer": 1,
+      "explanation": "الـ Efficacy تُعكس بالـ Emax (أقصى استجابة يمكن للدواء إنتاجها). بينما الـ Potency تُقاس بالـ EC50."
+    },
+    {
+      "q": "أي هدف دوائي يمثله Neostigmine؟",
+      "options": [
+        "Receptor",
+        "Enzyme (cholinesterase)",
+        "Ion channel",
+        "Carrier"
+      ],
+      "answer": 1,
+      "explanation": "يثبّط إنزيم الكولينستراز.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "الدواء الذي ينتج تأثيراً معاكساً بالارتباط بالمستقبل النشط:",
+      "options": [
+        "Antagonist",
+        "Partial agonist",
+        "Inverse agonist",
+        "Full agonist"
+      ],
+      "answer": 2,
+      "explanation": "Inverse agonist له efficacy سالبة.",
+      "difficulty": "medium"
+    }
+  ],
+  "high_yield": [
+    {
+      "point": "Affinity = ميل الارتباط بالمستقبل؛ Efficacy = القدرة على إحداث استجابة. Antagonist له Affinity وEfficacy = صفر.",
+      "tag": "mechanism"
+    },
+    {
+      "point": "Potency تُقاس بـ EC50 (أقل = أقوى)؛ Efficacy تُقاس بـ Emax. مستقلتان عن بعض.",
+      "tag": "mechanism"
+    },
+    {
+      "point": "Therapeutic Index = TD50/ED50؛ كلما زاد كان الدواء أأمن.",
+      "tag": "pk"
+    },
+    {
+      "point": "Partial agonist مع Full agonist يتصرف كـ antagonist (ينافس وينقص الاستجابة القصوى).",
+      "tag": "mechanism"
+    },
+    {
+      "point": "Tachyphylaxis = تحمل حاد سريع خلال دقائق (Acute acquired tolerance).",
+      "tag": "adverse"
+    }
+  ],
+  "comparison_tables": [
+    {
+      "title": "Competitive vs Non-competitive antagonism",
+      "columns": [
+        "الخاصية",
+        "Competitive",
+        "Non-competitive"
+      ],
+      "rows": [
+        [
+          "موقع الارتباط",
+          "نفس موقع الناهض",
+          "موقع آخر (allosteric)"
+        ],
+        [
+          "يُتغلَّب عليه بزيادة الناهض؟",
+          "نعم",
+          "لا"
+        ],
+        [
+          "التأثير على Emax",
+          "لا يتغير",
+          "ينخفض"
+        ],
+        [
+          "التأثير على EC50",
+          "يرتفع",
+          "لا يتغير"
+        ]
+      ]
+    },
+    {
+      "title": "Potency vs Efficacy",
+      "columns": [
+        "الخاصية",
+        "Potency",
+        "Efficacy"
+      ],
+      "rows": [
+        [
+          "يقيس",
+          "الجرعة المطلوبة (EC50)",
+          "أقصى تأثير (Emax)"
+        ],
+        [
+          "الأقوى",
+          "EC50 أقل",
+          "Emax أعلى"
+        ],
+        [
+          "مثال سريري",
+          "أهم للجرعة",
+          "أهم للفعالية العلاجية"
+        ]
+      ]
+    }
+  ]
+}

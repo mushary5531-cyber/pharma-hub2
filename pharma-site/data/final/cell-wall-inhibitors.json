@@ -1,0 +1,549 @@
+{
+  "id": "final-01",
+  "slug": "cell-wall-inhibitors",
+  "title": "Cell Wall Inhibitors",
+  "exam": "final",
+  "topics": [
+    "beta-lactams",
+    "penicillins",
+    "cephalosporins",
+    "carbapenems",
+    "monobactams",
+    "glycopeptides",
+    "vancomycin"
+  ],
+  "summary": "مثبطات جدار الخلية البكتيرية تشمل مجموعتين رئيسيتين: البيتا-لاكتام (Penicillins, Cephalosporins, Carbapenems, Monobactams) والببتيدات السكرية (Glycopeptides). آلية عمل البيتا-لاكتام هي الارتباط ببروتين PBP الذي يثبط تشابك جدار الخلية مما يؤدي إلى انتفاخها وانفجارها. الفانكومايسين (Vancomycin) يثبط تفاعل التوليد السكري ويُستخدم خصيصاً ضد MRSA والجراثيم الموجبة لغرام. مقاومة البنسلين تحدث عبر إنتاج بيتا-لاكتاماز أو تغيير PBP أو زيادة مضخة الطرد.",
+  "key_drugs": [
+    {
+      "name": "Penicillin G",
+      "class": "Natural Penicillin",
+      "note": "IV، ضيق الطيف، فعّال ضد G+ والمكورات وسبيروكيتات"
+    },
+    {
+      "name": "Amoxicillin",
+      "class": "Aminopenicillin",
+      "note": "فموي، امتصاص ممتاز، طيف موسّع"
+    },
+    {
+      "name": "Ampicillin",
+      "class": "Aminopenicillin",
+      "note": "IV، امتصاص فموي ضعيف، طيف موسّع"
+    },
+    {
+      "name": "Piperacillin + Tazobactam (Zosyn)",
+      "class": "Antipseudomonal Penicillin + BLI",
+      "note": "فعّال ضد Pseudomonas"
+    },
+    {
+      "name": "Amoxicillin + Clavulanic acid (Augmentin)",
+      "class": "Aminopenicillin + BLI",
+      "note": "فموي، محمي من بيتا-لاكتاماز"
+    },
+    {
+      "name": "Cefazolin",
+      "class": "1st Generation Cephalosporin",
+      "note": "IV، وقاية جراحية، G+ فعّال"
+    },
+    {
+      "name": "Ceftriaxone",
+      "class": "3rd Generation Cephalosporin",
+      "note": "T1/2 طويل 4-7 ساعات، يعبر BBB"
+    },
+    {
+      "name": "Cefepime",
+      "class": "4th Generation Cephalosporin",
+      "note": "طيف واسع، فعّال ضد Pseudomonas"
+    },
+    {
+      "name": "Imipenem/Cilastatin",
+      "class": "Carbapenem",
+      "note": "آخر خط دفاع، يُعطى مع cilastatin لمنع تحلله"
+    },
+    {
+      "name": "Meropenem",
+      "class": "Carbapenem",
+      "note": "أقل احتمالاً للتشنجات من imipenem"
+    },
+    {
+      "name": "Aztreonam",
+      "class": "Monobactam",
+      "note": "G- فقط، آمن في حساسية البيتا-لاكتام"
+    },
+    {
+      "name": "Vancomycin",
+      "class": "Glycopeptide",
+      "note": "MRSA، تحذير Red Man Syndrome، سمية كلوية وسمعية"
+    },
+    {
+      "name": "Benzathine Penicillin G",
+      "class": "Long-acting Penicillin",
+      "note": "عضلي، مفعول 3-4 أسابيع، وقاية الحمى الرثوية"
+    },
+    {
+      "name": "Nafcillin / Oxacillin",
+      "class": "Antistaphylococcal penicillin",
+      "note": "مقاومة للـ β-lactamase",
+      "moa": "تثبيط PBP",
+      "uses": "عدوى المكورات العنقودية الحساسة للميثيسيلين"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "LAME+C: ما لا تغطيه السيفالوسبورينات",
+      "body": "السيفالوسبورينات لا تفعل شيئاً مع LAME+C:\nL = Listeria monocytogenes\nA = Atypicals (Chlamydia, Mycoplasma)\nM = MRSA\nE = Enterococci\nC = Clostridium difficile\nتذكّر: السيف يقطع كل شيء ما عدا الـ LAME!",
+      "covers": [
+        "Cephalosporins"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "جيل الكيفالوسبورين = طابق في البناية",
+      "body": "تخيّل بناية من 4 طوابق:\n- الطابق الأول (1st gen): ناس خليجيين G+ فقط، لا يخرجون (لا يعبرون BBB)\n- الطابق الثاني (2nd gen): ناس خليجيين وعرب G+/G-، لا يخرجون\n- الطابق الثالث (3rd gen): يفتحون النوافذ ويصلون الدماغ (يعبرون BBB)\n- الطابق الرابع (4th gen - Cefepime): يفتحون كل الأبواب + Pseudomonas",
+      "covers": [
+        "Cefazolin",
+        "Ceftriaxone",
+        "Cefepime"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "Red Man Syndrome - الرجل الأحمر",
+      "body": "تخيّل حقن الفانكومايسين بسرعة كبيرة، فيخرج الهيستامين من خلاياه الصارية مثل بركان!\nوجه المريض ورقبته وجذعه تصبح حمراء كالطماطم.\nالحل: أعطِ الفانكومايسين ببطء على مدى 60 دقيقة على الأقل.",
+      "covers": [
+        "Vancomycin"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "MICE: مقاومة البنسلين المكتسبة",
+      "body": "M = Methicillin resistance (MRSA) - تغيير PBP\nI = Impermeability (تغيير الـ porin - نقص نفاذية)\nC = Cephalosporinase / Beta-lactamase production\nE = Efflux pump increase\nالبكتيريا تقاوم البنسلين بـ MICE!",
+      "covers": [
+        "Penicillin G",
+        "Ampicillin"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "Aztreonam - الوحيد الآمن في عالم الحساسية",
+      "body": "أزترونام (Aztreonam) = أَز + تري + النام = 'الذي نام بمفرده'.\nيعمل وحده ضد G- فقط، ولا يتشارك الحساسية مع بقية البيتا-لاكتام.\nإذا كان المريض يعاني من حساسية لكل البيتا-لاكتام، Aztreonam هو المخرج للعدوى بـ G-.",
+      "covers": [
+        "Aztreonam"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "ضد Pseudomonas: CAMPFIRE",
+      "body": "Carbapenems, Aminoglycosides, Monobactams, Polymyxins, Fluoroquinolones, thIRd & fourth gen cephalosporins, Extended-spectrum penicillins.",
+      "covers": [
+        "Carbapenems",
+        "Aminoglycosides",
+        "Monobactams",
+        "Polymyxins",
+        "Fluoroquinolones",
+        "3rd/4th gen cephalosporins",
+        "Antipseudomonal penicillins",
+        "Pseudomonas aeruginosa"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "ممنوعة بالحمل: SAFE Moms Take Really Good Care",
+      "body": "Sulfonamides (kernicterus), Aminoglycosides (ototoxicity), Fluoroquinolones (cartilage damage), Erythromycin estolate (cholestatic hepatitis), Metronidazole (mutagenesis), Tetracyclines (teeth/bone), Ribavirin (teratogen), Griseofulvin (malformations), Chloramphenicol (grey baby syndrome).",
+      "covers": [
+        "Pregnancy contraindications",
+        "Sulfonamides",
+        "Aminoglycosides",
+        "Fluoroquinolones",
+        "Tetracyclines",
+        "Chloramphenicol",
+        "Metronidazole"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "آمنة بالفشل الكلوي: DANCER",
+      "body": "Doxycycline, Azithromycin, Nafcillin (monitor), Ceftriaxone/Cefoperazone, Erythromycin, Rifampicin — تُطرح أساساً عبر الكبد/الصفراء.",
+      "covers": [
+        "Renal dysfunction safe antibiotics",
+        "Doxycycline",
+        "Azithromycin",
+        "Ceftriaxone",
+        "Rifampicin"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما هو آلية عمل البنسلين؟",
+      "back": "يرتبط ببروتين PBP (transpeptidase) داخل الخلية البكتيرية، يثبط تشابك البيبتيدوغليكان، مما يؤدي إلى انتفاخ البكتيريا وانفجارها (bactericidal)"
+    },
+    {
+      "front": "أي البنسلينات يُمتص فموياً بشكل جيد؟",
+      "back": "Penicillin V، Amoxicillin، Amoxicillin+clavulanic acid (Augmentin)، Indanyl Carbenicillin"
+    },
+    {
+      "front": "ما هو Probenecid ودوره مع البنسلين؟",
+      "back": "يثبط الإفراز الأنبوبي الكلوي للبنسلين، مما يرفع مستوياته في الدم ويطيل مفعوله"
+    },
+    {
+      "front": "ما هو Augmentin؟",
+      "back": "Amoxicillin + Clavulanic acid - يُعطى فموياً، الكلافولانيك يثبط البيتا-لاكتاماز ويحمي الأموكسيسيلين"
+    },
+    {
+      "front": "متى يُستخدم Benzathine Penicillin G؟",
+      "back": "وقاية الحمى الرثوية (كل 3-4 أسابيع IM)، وقاية التهاب الشغاف، الزهري"
+    },
+    {
+      "front": "ما هي جراثيم LAME+C التي لا تغطيها السيفالوسبورينات؟",
+      "back": "Listeria, Atypicals (Chlamydia/Mycoplasma), MRSA, Enterococci, C. difficile"
+    },
+    {
+      "front": "أي جيل سيفالوسبورين يعبر الحاجز الدموي الدماغي؟",
+      "back": "الجيل الثالث والرابع (ما عدا Cefixime وCefoperazone من الجيل الثالث)"
+    },
+    {
+      "front": "ما هو T1/2 لـ Ceftriaxone؟ ولماذا مميز؟",
+      "back": "T1/2 = 4-7 ساعات (الأطول بين السيفالوسبورينات)، يُعطى مرة واحدة يومياً"
+    },
+    {
+      "front": "لماذا يُعطى Imipenem مع Cilastatin؟",
+      "back": "لأن Imipenem يتحلل بإنزيم renal dehydropeptidase-I في الكلى؛ Cilastatin يثبط هذا الإنزيم ويرفع المستويات البلازمية"
+    },
+    {
+      "front": "ما الفرق بين Imipenem وMeropenem في السمية؟",
+      "back": "Imipenem يسبب تشنجات (CNS toxicity)، Meropenem أقل احتمالاً للتشنجات لأنه لا يتحلل بـ dehydropeptidase"
+    },
+    {
+      "front": "ما الجراثيم التي يغطيها Aztreonam فقط؟",
+      "back": "G- aerobic rods فقط: Klebsiella, Pseudomonas, N.meningitidis, H.influenzae, N.gonorrhea"
+    },
+    {
+      "front": "لماذا لا يفيد الفانكومايسين ضد G-؟",
+      "back": "جزيئه كبير جداً لا يستطيع اختراق الغشاء الخارجي لجراثيم G-"
+    },
+    {
+      "front": "ما هو Red Man Syndrome وكيف نتجنبه؟",
+      "back": "احمرار الوجه والرقبة والجذع بسبب إفراز الهيستامين عند حقن الفانكومايسين بسرعة. الوقاية: إعطاؤه خلال 60 دقيقة أو أكثر"
+    },
+    {
+      "front": "ما السمية الرئيسية للفانكومايسين؟",
+      "back": "Ototoxicity (سمية سمعية) + Nephrotoxicity (سمية كلوية)، تزداد مع الأمينوغليكوزيدات"
+    },
+    {
+      "front": "متى يُستخدم الفانكومايسين فموياً؟",
+      "back": "في التهاب القولون المرتبط بالمضادات الحيوية (C. difficile colitis) فقط - لأنه لا يُمتص من الأمعاء"
+    },
+    {
+      "front": "ما هو Bacitracin واستخدامه؟",
+      "back": "ببتيد سكري يثبط جدار الخلية، سام للكلى إذا أُعطي جهازياً، لذلك يُستخدم موضعياً فقط للتهابات الجلد"
+    },
+    {
+      "front": "ما هي التأثيرات الجانبية للبنسلينات؟",
+      "back": "1) تفاعل فرط حساسية IgE (صدمة تأقية) 2) إسهال/التهاب قولون كاذب (C.diff مع Ampicillin) 3) نقص فيتامين K 4) خلل الصفائح الدموية (Piperacillin) 5) تشنجات"
+    },
+    {
+      "front": "هل يمكن إعطاء السيفالوسبورين لمريض حساس للبنسلين؟",
+      "back": "إذا كانت الحساسية تأقية شديدة (anaphylaxis) للبنسلين، لا يُعطى السيفالوسبورين. حساسية متقاطعة 5-10%"
+    },
+    {
+      "front": "ما بديل البنسلين في حالة الحساسية لـ G+ و G-؟",
+      "back": "G+: Macrolides أو Quinolones أو Vancomycin (عدوى شديدة). G-: Aztreonam"
+    },
+    {
+      "front": "ما الكاربابينيم الأفضل للتهاب السحايا؟",
+      "back": "Meropenem (يعبر BBB وأقل سمية للجهاز العصبي مقارنة بـ Imipenem)"
+    },
+    {
+      "front": "ما آلية البنسلينات؟",
+      "back": "ترتبط بـ PBP (transpeptidase) فتمنع التشابك العرضي للببتيدوغليكان → انحلال الجدار → قاتلة.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "لماذا البنسلينات غير فعّالة على الفطريات والفيروسات؟",
+      "back": "لأنها لا تملك جدار ببتيدوغليكان (لا هدف)."
+    },
+    {
+      "front": "ما آليات مقاومة البنسلين؟",
+      "back": "إنتاج β-lactamase، تغيّر PBP (MRSA/VRSA)، تغيّر porin، مضخات إفلاكس.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما دور Clavulanic acid؟",
+      "back": "مثبّط β-lactamase يُضاف للأموكسيسيلين (Augmentin) لاستعادة الفعالية."
+    },
+    {
+      "front": "ما طيف الأجيال المتعاقبة للسيفالوسبورين؟",
+      "back": "كلما تقدم الجيل زادت التغطية لسالبة الغرام ونقصت لموجبة الغرام عموماً."
+    },
+    {
+      "front": "ما استخدام Vancomycin؟",
+      "back": "MRSA والعدوى الخطيرة بموجبة الغرام؛ فموياً لالتهاب القولون بـ C. difficile.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما هي Red man syndrome؟",
+      "back": "احمرار وطفح من حقن Vancomycin السريع (تحرر هستامين) - أبطئ التسريب."
+    },
+    {
+      "front": "ما هو Aztreonam؟",
+      "back": "مونوباكتام فعّال على سالبة الغرام الهوائية فقط، آمن مع حساسية البنسلين."
+    },
+    {
+      "front": "ما هي الكاربابينيمات؟",
+      "back": "Imipenem/Meropenem - واسعة الطيف جداً، مقاومة لمعظم β-lactamases."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "مريضة حامل تحتاج لمضاد حيوي لعلاج عدوى بكتيرية. أي المضادات الحيوية الأكثر أماناً؟",
+      "options": [
+        "Tetracycline",
+        "Penicillin",
+        "Chloramphenicol",
+        "Fluoroquinolone"
+      ],
+      "answer": 1,
+      "explanation": "البنسلينات هي أكثر المضادات الحيوية أماناً للحوامل. لا تسبب تشوهات جنينية وتعبر المشيمة بأمان."
+    },
+    {
+      "q": "ما الإنزيم الذي يُثبطه Cilastatin عند إعطائه مع Imipenem؟",
+      "options": [
+        "Beta-lactamase",
+        "Transpeptidase",
+        "Renal dehydropeptidase-I",
+        "PBP"
+      ],
+      "answer": 2,
+      "explanation": "Cilastatin يثبط Renal dehydropeptidase-I التي تحلل Imipenem في الكلى، مما يرفع مستوياته في البلازما."
+    },
+    {
+      "q": "مريض مصاب بـ MRSA. ما المضاد الحيوي الأنسب؟",
+      "options": [
+        "Ampicillin",
+        "Cefazolin",
+        "Vancomycin",
+        "Aztreonam"
+      ],
+      "answer": 2,
+      "explanation": "Vancomycin هو العلاج الأساسي لـ MRSA. Aztreonam فعّال ضد G- فقط، والبيتا-لاكتام لا تفيد ضد MRSA."
+    },
+    {
+      "q": "مريض يعاني من حساسية تأقية (anaphylaxis) للبنسلين مصاب بعدوى Pseudomonas. ما الخيار الأنسب؟",
+      "options": [
+        "Ceftriaxone",
+        "Aztreonam",
+        "Imipenem",
+        "Vancomycin"
+      ],
+      "answer": 1,
+      "explanation": "Aztreonam لا يتشارك الحساسية مع البيتا-لاكتام الأخرى، وهو فعّال ضد G- بما فيها Pseudomonas."
+    },
+    {
+      "q": "أي السيفالوسبورينات لها أطول T1/2 وتُعطى مرة واحدة يومياً؟",
+      "options": [
+        "Cefazolin",
+        "Cefuroxime",
+        "Ceftriaxone",
+        "Cefepime"
+      ],
+      "answer": 2,
+      "explanation": "Ceftriaxone له T1/2 = 4-7 ساعات وهو الأطول بين السيفالوسبورينات، لذلك يُعطى مرة أو مرتين يومياً."
+    },
+    {
+      "q": "ما آلية مقاومة MRSA للبنسلين؟",
+      "options": [
+        "إنتاج Beta-lactamase",
+        "تغيير PBP",
+        "زيادة نفاذية الغشاء",
+        "إنتاج سموم"
+      ],
+      "answer": 1,
+      "explanation": "MRSA مقاوم بسبب تغيير PBP (penicillin-binding protein) مما يمنع ارتباط البيتا-لاكتام بها."
+    },
+    {
+      "q": "أي التالي يُستخدم موضعياً فقط بسبب سميته الكلوية الشديدة؟",
+      "options": [
+        "Vancomycin",
+        "Bacitracin",
+        "Teicoplanin",
+        "Aztreonam"
+      ],
+      "answer": 1,
+      "explanation": "Bacitracin سام للكلى جداً عند الاستخدام الجهازي، لذلك يُستخدم موضعياً فقط لعلاج التهابات الجلد."
+    },
+    {
+      "q": "مريض يتلقى Vancomycin IV سريع الحقن فظهر احمرار في وجهه ورقبته. ما التشخيص؟",
+      "options": [
+        "تفاعل تأقي (Anaphylaxis)",
+        "Red Man Syndrome",
+        "التهاب وريد (Phlebitis)",
+        "طفح جلدي دوائي"
+      ],
+      "answer": 1,
+      "explanation": "Red Man Syndrome يحدث من الحقن السريع للفانكومايسين مما يؤدي لإفراز الهيستامين. العلاج: تبطيء الحقن."
+    },
+    {
+      "q": "أي الكاربابينيم هو الأقل احتمالاً لإحداث تشنجات؟",
+      "options": [
+        "Imipenem",
+        "Ertapenem",
+        "Meropenem",
+        "كلاهما متساويان"
+      ],
+      "answer": 2,
+      "explanation": "Meropenem أقل احتمالاً للتشنجات لأنه لا يتحلل بـ renal dehydropeptidase ولا يتراكم بكميات كبيرة."
+    },
+    {
+      "q": "ما التركيبة الصحيحة لـ Unasyn؟",
+      "options": [
+        "Amoxicillin + Clavulanic acid",
+        "Ampicillin + Sulbactam",
+        "Piperacillin + Tazobactam",
+        "Ticarcillin + Clavulanic acid"
+      ],
+      "answer": 1,
+      "explanation": "Unasyn = Ampicillin + Sulbactam (IV/IM). أما Augmentin = Amoxicillin + Clavulanic acid (فموي)."
+    },
+    {
+      "q": "آلية البنسلين الأساسية:",
+      "options": [
+        "تثبيط تخليق البروتين",
+        "تثبيط PBP/transpeptidase",
+        "تثبيط DNA gyrase",
+        "تثبيط الفولات"
+      ],
+      "answer": 1,
+      "explanation": "يمنع تشابك الببتيدوغليكان.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "MRSA يقاوم الميثيسيلين عبر:",
+      "options": [
+        "β-lactamase",
+        "تغيّر PBP",
+        "نقص porin",
+        "مضخة إفلاكس"
+      ],
+      "answer": 1,
+      "explanation": "PBP2a المتغيّر منخفض الألفة.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "Vancomycin مفيد ضد:",
+      "options": [
+        "سالبة الغرام",
+        "MRSA",
+        "الفطريات",
+        "الفيروسات"
+      ],
+      "answer": 1,
+      "explanation": "glycopeptide ضد موجبة الغرام بما فيها MRSA.",
+      "difficulty": "medium"
+    }
+  ],
+  "classification": {
+    "title": "Penicillins",
+    "groups": [
+      {
+        "name": "Natural (narrow)",
+        "drugs": [
+          "Penicillin G (IV)",
+          "Penicillin V (PO)"
+        ]
+      },
+      {
+        "name": "Antistaphylococcal (β-lactamase resistant)",
+        "drugs": [
+          "Methicillin",
+          "Nafcillin",
+          "Oxacillin",
+          "Cloxacillin",
+          "Dicloxacillin",
+          "Flucloxacillin"
+        ]
+      },
+      {
+        "name": "Aminopenicillins (extended)",
+        "drugs": [
+          "Ampicillin (IV)",
+          "Amoxicillin (PO)"
+        ]
+      },
+      {
+        "name": "Antipseudomonal",
+        "drugs": [
+          "Carbenicillin",
+          "Ticarcillin",
+          "Piperacillin"
+        ]
+      },
+      {
+        "name": "β-lactamase inhibitor combos",
+        "drugs": [
+          "Amoxicillin+Clavulanate (Augmentin)",
+          "Ampicillin+Sulbactam (Unasyn)",
+          "Piperacillin+Tazobactam (Zosyn)"
+        ]
+      }
+    ]
+  },
+  "high_yield": [
+    {
+      "point": "الآلية: تثبيط PBP (transpeptidase) → تعطّل بناء الببتيدوغليكان → قاتلة للجراثيم (bactericidal).",
+      "tag": "mechanism"
+    },
+    {
+      "point": "فعّالة فقط على الجراثيم المنقسمة؛ غير فعّالة على الفطريات/الفيروسات/Mycoplasma (لا جدار).",
+      "tag": "mechanism"
+    },
+    {
+      "point": "المقاومة: إنتاج β-lactamase، تغيّر PBP (MRSA/VRSA)، تغيّر porin، مضخات الإفلاكس.",
+      "tag": "mechanism"
+    },
+    {
+      "point": "Vancomycin (glycopeptide) لـ MRSA؛ يُعطى IV للعدوى الجهازية؛ خطر 'Red man syndrome' بالحقن السريع.",
+      "tag": "indication"
+    }
+  ],
+  "comparison_tables": [
+    {
+      "title": "أصناف البنسلين والطيف",
+      "columns": [
+        "الصنف",
+        "أمثلة",
+        "الطيف"
+      ],
+      "rows": [
+        [
+          "Natural",
+          "Pen G, Pen V",
+          "G+ بشكل أساسي"
+        ],
+        [
+          "Antistaphylococcal",
+          "Nafcillin, Oxacillin, Cloxacillin",
+          "المكورات العنقودية المنتجة للـ β-lactamase"
+        ],
+        [
+          "Aminopenicillins",
+          "Ampicillin, Amoxicillin",
+          "G+ وبعض G−"
+        ],
+        [
+          "Antipseudomonal",
+          "Piperacillin, Ticarcillin",
+          "واسع + Pseudomonas"
+        ]
+      ]
+    }
+  ]
+}

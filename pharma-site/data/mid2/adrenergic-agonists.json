@@ -1,0 +1,368 @@
+{
+  "id": "mid2-05",
+  "slug": "adrenergic-agonists",
+  "title": "Adrenergic Agonists",
+  "exam": "mid2",
+  "topics": [
+    "Adrenergic receptors",
+    "Catecholamines",
+    "Direct-acting agonists",
+    "Indirect-acting agonists",
+    "Selective agonists"
+  ],
+  "summary": "الأدرينالية الناهضة (Adrenergic Agonists) هي أدوية تحاكي تأثير الجهاز العصبي الودي عبر تحفيز مستقبلات α و β. تُصنَّف حسب انتقائيتها المستقبلية وآلية عملها (مباشرة أو غير مباشرة). الإبينفرين (Epinephrine) يُحفز α وβ معاً ويُستخدم في الصدمة التأقية وتوقف القلب. الدوبامين والدوبوتامين يُستخدمان في فشل القلب بينما تُستخدم ناهضات β2 الانتقائية كمرخيات قصبية.",
+  "key_drugs": [
+    {
+      "name": "Epinephrine (Adrenaline)",
+      "class": "Non-selective α + β agonist",
+      "note": "anaphylaxis, cardiac arrest, local anesthetic adjuvant; NOT oral (inactivated by MAO)"
+    },
+    {
+      "name": "Norepinephrine (NE)",
+      "class": "Potent α + weak β agonist",
+      "note": "septic shock; IV infusion only; reflex bradycardia due to raised BP"
+    },
+    {
+      "name": "Dopamine",
+      "class": "D1, β1, α1 agonist (dose-dependent)",
+      "note": "low dose: vasodilation (D1); intermediate: cardiac (β1); high: vasoconstriction (α1)"
+    },
+    {
+      "name": "Dobutamine",
+      "class": "Selective β1 agonist",
+      "note": "acute HF with normal BP; more inotropic than chronotropic"
+    },
+    {
+      "name": "Isoproterenol",
+      "class": "Non-selective β1+β2 agonist",
+      "note": "rarely used; bradycardia/heart block; replaced by selective β2 agonists for asthma"
+    },
+    {
+      "name": "Phenylephrine",
+      "class": "Selective α1 agonist",
+      "note": "nasal decongestant; shock; reflex bradycardia (no direct cardiac effect)"
+    },
+    {
+      "name": "Oxymetazoline",
+      "class": "Non-selective α agonist",
+      "note": "topical nasal decongestant; prolonged use causes rebound congestion"
+    },
+    {
+      "name": "Albuterol (Salbutamol)",
+      "class": "Selective β2 agonist (short-acting)",
+      "note": "bronchodilator; tocolytic; preferred in acute asthma"
+    },
+    {
+      "name": "Salmeterol / Formoterol",
+      "class": "Selective β2 agonist (long-acting)",
+      "note": "asthma maintenance; Formoterol faster onset than Salmeterol"
+    },
+    {
+      "name": "Midodrine",
+      "class": "Selective α1 agonist (prodrug)",
+      "note": "orthostatic hypotension; oral use"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "HAT - آثار الإبينفرين الجانبية",
+      "body": "H = Headache (throbbing) and cerebral hemorrhage, A = Arrhythmias (tachycardia, palpitation), T = Tolerance",
+      "covers": [
+        "Epinephrine (Adrenaline)"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "D-B-A - الدوبامين حسب الجرعة",
+      "body": "تخيل دوبامين يبدأ هادئاً (D = Dopamine receptors, توسع أوعية الكلى في الجرعة المنخفضة)، ثم يقوى قلبه (B = Beta1، تحفيز القلب في الجرعة المتوسطة)، ثم يصبح عنيفاً (A = Alpha1، تضيق الأوعية في الجرعة العالية). D ثم B ثم A = تذكر الترتيب الأبجدي",
+      "covers": [
+        "Dopamine"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "Dobutamine vs Dopamine - المقارنة البصرية",
+      "body": "تخيل طبيباً أمام مريض: إذا الضغط طبيعي والكلى سليمة استخدم Dobutamine (D-o = دو = طبيعي). إذا الضغط منخفض والكلى ضعيفة استخدم Dopamine (D-a = دا = داء = مشكلة). الفرق: Dobutamine للقلب فقط، Dopamine للقلب والكلى والضغط.",
+      "covers": [
+        "Dobutamine",
+        "Dopamine"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "SAFE - استخدامات الإبينفرين",
+      "body": "S = Shock (anaphylactic), A = Asthma (acute severe), F = Fibrillation/cardiac arrest, E = Eye (glaucoma, 2% EP) + Epistaxis (bleeding nose)",
+      "covers": [
+        "Epinephrine (Adrenaline)"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "Short vs Long - ناهضات β2",
+      "body": "الـ SABA (Short-Acting Beta Agonists) مثل Albuterol = للإنقاذ السريع (Rescue). الـ LABA (Long-Acting Beta Agonists) مثل Salmeterol وFormoterol = للصيانة (Maintenance). تذكر: Salmeterol = بطيء البداية، Formoterol = أسرع بداية من Salmeterol.",
+      "covers": [
+        "Albuterol (Salbutamol)",
+        "Salmeterol / Formoterol"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "لماذا لا يُعطى الإبينفرين (Epinephrine) عن طريق الفم؟",
+      "back": "يتم تعطيله في الجهاز الهضمي والكبد بواسطة إنزيم MAO (Monoamine Oxidase)، لذا يُعطى SC أو IM أو استنشاقاً أو موضعياً."
+    },
+    {
+      "front": "لماذا يحدث بطء القلب الانعكاسي (reflex bradycardia) مع النورإبينفرين (NE)؟",
+      "back": "NE يرفع الضغط الشرياني بشدة عبر α1 → يُحفز المستقبلات الضغطية (baroreceptors) → ينشط العصب المبهم → بطء قلب انعكاسي يعاكس تأثير β1 الضعيف."
+    },
+    {
+      "front": "ما التسلسل الصحيح لتأثيرات الدوبامين (Dopamine) حسب الجرعة؟",
+      "back": "جرعة منخفضة: D1 → توسع أوعية الكلى والمساريقى. جرعة متوسطة: β1 → تأثير إيجابي على القلب. جرعة عالية: α1 → تضيق أوعية شديد."
+    },
+    {
+      "front": "متى يُفضَّل Dopamine على Dobutamine في علاج فشل القلب الحاد؟",
+      "back": "عند وجود انخفاض الضغط (α1 يرفعه) أو ضعف وظيفة الكلى (D1 يحسن التروية الكلوية)."
+    },
+    {
+      "front": "ما الآثار الجانبية الرئيسية للإبينفرين (HAT)؟",
+      "back": "H = Headache and hemorrhage (ارتفاع BP), A = Arrhythmias (تسارع وخفقان), T = Tolerance (تحمل)."
+    },
+    {
+      "front": "ما موانع استخدام الإبينفرين؟",
+      "back": "1. ارتفاع ضغط الدم. 2. مشاكل القلب (IHD). 3. فرط نشاط الغدة الدرقية (يزيد مستقبلات β1 ويثبط COMT). 4. جرعات كبيرة مع مخدر موضعي (نخر نسيجي)."
+    },
+    {
+      "front": "لماذا يُستخدم Epinephrine مع المخدر الموضعي (local anesthetic)؟",
+      "back": "يسبب تضيق وعائي موضعي (α1) → يُبطئ امتصاص المخدر في الدورة الدموية → يُطيل مدة تأثيره الموضعي."
+    },
+    {
+      "front": "ما الفرق بين Dobutamine و Dopamine في آلية عملها؟",
+      "back": "Dobutamine: انتقائي β1، تأثير إيجابي تقلصي (inotropic) أكثر من التأثير على معدل القلب (chronotropic). Dopamine: يعمل على D1+β1+α1 بشكل تدريجي حسب الجرعة."
+    },
+    {
+      "front": "ما استخدامات Isoproterenol وهل لا يزال يُستخدم بشكل واسع؟",
+      "back": "يُحفز β1+β2. يُستخدم لبطء القلب وانسداد القلب (β1). كمرخٍ قصبي (β2) لكن نادراً الآن لأن ناهضات β2 الانتقائية أكثر أماناً."
+    },
+    {
+      "front": "ما تأثير Phenylephrine على معدل القلب ولماذا؟",
+      "back": "يسبب بطء القلب الانعكاسي (reflex bradycardia) لأنه انتقائي لـ α1 فقط → يرفع الضغط → يُحفز baroreceptors → بطء قلب انعكاسي عبر المبهم (ليس تأثيراً مباشراً على القلب)."
+    },
+    {
+      "front": "ما الفرق بين Salmeterol و Formoterol كناهضات β2 طويلة المفعول؟",
+      "back": "Formoterol بداية تأثير أسرع من Salmeterol (يمكن استخدامه للإنقاذ أيضاً). كلاهما للصيانة في الربو و COPD."
+    },
+    {
+      "front": "لماذا يُعطى الإبينفرين في توقف القلب IV بتخفيف 1:10,000؟",
+      "back": "يُعطى IV فقط في الطوارئ (توقف القلب + CPR). تخفيف 1:10,000 يُقلل خطر الرجفان البطيني (Ventricular fibrillation) الناتج عن الجرعات العالية."
+    },
+    {
+      "front": "ما علاقة فرط نشاط الغدة الدرقية (Hyperthyroidism) بالإبينفرين؟",
+      "back": "T3/T4 يرفع عدد مستقبلات β1 (upregulation) ويزيد حساسيتها ويثبط COMT → يُحسن تأثير الإبينفرين الجانبي على القلب → موانع استخدام."
+    },
+    {
+      "front": "ما استخدام الإبينفرين في الجلوكوما؟",
+      "back": "محلول 2% موضعي في الجلوكوما مفتوحة الزاوية المزمنة: يُقلل إنتاج الخلط المائي عبر تضيق أوعية الجسم الهدبي (α1) → يخفض IOP."
+    },
+    {
+      "front": "ما هو Midodrine ولماذا يُستخدم؟",
+      "back": "Midodrine: ناهض انتقائي لـ α1، يُؤخذ عن طريق الفم (prodrug). يُستخدم في انخفاض ضغط الدم الوضعي (Orthostatic hypotension)."
+    },
+    {
+      "front": "لماذا يُفضَّل Albuterol على الإبينفرين في علاج الربو الحاد؟",
+      "back": "Albuterol انتقائي لـ β2 → توسع قصبي مع أقل تأثير على القلب (β1). الإبينفرين يُحفز α+β1+β2 معاً → آثار قلبية جانبية أكثر."
+    },
+    {
+      "front": "ما أصناف الناهضات الأدرينالية حسب الآلية؟",
+      "back": "مباشرة (Adrenaline, NE, Phenylephrine, Isoproterenol, Dobutamine, Salbutamol)، غير مباشرة (Amphetamine, Tyramine, Cocaine)، ومختلطة (Ephedrine).",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما آلية Cocaine الأدرينالية؟",
+      "back": "يمنع إعادة التقاط النورأدرينالين (reuptake) → يزيد تأثيره في الشق المشبكي.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما تأثير ناهض α1 (Phenylephrine)؟",
+      "back": "تقبّض وعائي → رفع الضغط؛ مزيل احتقان وموسّع حدقة."
+    },
+    {
+      "front": "ما تأثير ناهض β1 (Dobutamine)؟",
+      "back": "زيادة قوة وسرعة انقباض القلب - يُستخدم في فشل القلب الحاد."
+    },
+    {
+      "front": "ما تأثير ناهض β2 (Salbutamol)؟",
+      "back": "توسّع قصبي - علاج الربو.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما استخدامات Adrenaline (Epinephrine)؟",
+      "back": "التأق (anaphylaxis)، الإرقاء، إطالة تأثير المخدر الموضعي، توقف القلب."
+    },
+    {
+      "front": "ما تأثير Isoproterenol؟",
+      "back": "ناهض β1+β2 غير انتقائي → تسرّع قلب وتوسّع قصبي."
+    },
+    {
+      "front": "لماذا يُعطى Atropine أحياناً مع الناهضات الأدرينالية؟",
+      "back": "لمنع البطء القلبي الانعكاسي الناتج عن ارتفاع الضغط (منعكس الضغط)."
+    },
+    {
+      "front": "ما تأثير Ephedrine؟",
+      "back": "ناهض مختلط (مباشر وغير مباشر) - مزيل احتقان ورافع ضغط ذو مفعول أطول."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "مريض يعاني من صدمة إنتانية (septic shock) مع ضغط دم أقل من 70 mmHg. أي دواء الأنسب؟",
+      "options": [
+        "Dobutamine",
+        "Norepinephrine",
+        "Isoproterenol",
+        "Albuterol"
+      ],
+      "answer": 1,
+      "explanation": "NE يحفز α1 بشدة → تضيق وعائي قوي → رفع الضغط. يُستخدم في الصدمة الإنتانية عند الحاجة لتضيق وعائي شديد. يُعطى بالتسريب الوريدي فقط."
+    },
+    {
+      "q": "مريض يعاني من فشل قلب حاد مع ضغط دم طبيعي ووظيفة كلوية سليمة. أي دواء الأنسب؟",
+      "options": [
+        "Dopamine",
+        "Dobutamine",
+        "Norepinephrine",
+        "Phenylephrine"
+      ],
+      "answer": 1,
+      "explanation": "Dobutamine انتقائي β1، يُحسن الانقباض القلبي دون تأثير كبير على معدل القلب أو الضغط. يُفضَّل عندما يكون الضغط طبيعياً والكلى سليمة. Dopamine عند انخفاض الضغط أو ضعف الكلى."
+    },
+    {
+      "q": "مريض مصاب بفرط نشاط الغدة الدرقية يحتاج لمخدر موضعي لإجراء طب أسنان. هل يمكن إضافة إبينفرين؟",
+      "options": [
+        "نعم، لإطالة مدة المخدر الموضعي",
+        "لا، لأن فرط نشاط الغدة الدرقية موانع استخدام للإبينفرين",
+        "نعم، لكن بجرعة مضاعفة",
+        "لا، لأن الإبينفرين يقلص القصبات"
+      ],
+      "answer": 1,
+      "explanation": "فرط نشاط الغدة الدرقية يرفع مستقبلات β1 ويزيد حساسيتها → الإبينفرين قد يسبب تسارع قلب خطير وارتفاع شديد في الضغط وخطر نقص تروية القلب."
+    },
+    {
+      "q": "ما التأثير على الضغط الانبساطي (diastolic BP) عند إعطاء الإبينفرين بجرعة متوسطة وريدية؟",
+      "options": [
+        "يرتفع بشدة بسبب α1",
+        "ينخفض بسبب β2 على أوعية العضلات الهيكلية",
+        "لا يتغير",
+        "ينخفض بسبب β1"
+      ],
+      "answer": 1,
+      "explanation": "الإبينفرين بجرعة متوسطة يُحفز β2 في أوعية العضلات الهيكلية → توسع وعائي → انخفاض الضغط الانبساطي. الضغط الانقباضي يرتفع بسبب β1. التأثير الصافي على الضغط الوسطى (MAP) يعتمد على الجرعة."
+    },
+    {
+      "q": "لماذا لا يُعطى النورإبينفرين (NE) SC أو IM؟",
+      "options": [
+        "لأنه يُعطَّل بالأكسدة",
+        "لأنه يسبب نخر نسيجي بسبب التضيق الوعائي الشديد",
+        "لأن امتصاصه جيد جداً عن طريق الفم",
+        "لأنه يسبب رجفة بطينية"
+      ],
+      "answer": 1,
+      "explanation": "NE يسبب تضيقاً وعائياً محلياً شديداً عند الحقن SC أو IM → نقص تروية شديد → نخر نسيجي. يُعطى بالتسريب الوريدي فقط."
+    },
+    {
+      "q": "ما ناهض الأدرينالية الأنسب لعلاج الصدمة التأقية (anaphylactic shock)؟",
+      "options": [
+        "Dobutamine",
+        "Isoproterenol",
+        "Epinephrine",
+        "Phenylephrine"
+      ],
+      "answer": 2,
+      "explanation": "الإبينفرين هو الدواء الأول في الصدمة التأقية: β2 يوسع القصبات، α1 يضيق الأوعية ويرفع الضغط، β1 يُحفز القلب. يُعطى IM في الفخذ."
+    },
+    {
+      "q": "ما آلية عمل Albuterol (Salbutamol) في علاج الربو؟",
+      "options": [
+        "حجب مستقبلات M3 في القصبات",
+        "تحفيز β2 في العضلة الملساء القصبية → ارتخاء",
+        "تثبيط إطلاق الهستامين",
+        "تحفيز α1 في مخاطية الشعب الهوائية"
+      ],
+      "answer": 1,
+      "explanation": "Albuterol ناهض انتقائي لـ β2 → يُنشط Adenylyl cyclase → يرفع cAMP داخل خلايا العضلة الملساء → ارتخاء القصبات (Bronchodilation)."
+    },
+    {
+      "q": "مريض يأخذ Salmeterol للصيانة في الربو. هل يمكنه استخدامه للإنقاذ السريع في نوبة حادة؟",
+      "options": [
+        "نعم، لأنه فعّال جداً",
+        "لا، لأن بداية تأثيره بطيئة غير مناسبة للطوارئ",
+        "نعم، لكن بجرعة مضاعفة",
+        "لا، لأنه يتداخل مع الأدوية الأخرى"
+      ],
+      "answer": 1,
+      "explanation": "Salmeterol بداية تأثيره بطيئة → لا يُناسب الطوارئ. للإنقاذ السريع يُستخدم Albuterol (SABA). Formoterol أسرع بداية من Salmeterol لكن كلاهما LABAs للصيانة."
+    },
+    {
+      "q": "ما تأثير الدوبامين (Dopamine) على الكلى بجرعة منخفضة (2 µg/kg/min)؟",
+      "options": [
+        "تضيق وعائي كلوي (α1)",
+        "توسع وعائي كلوي عبر D1 → زيادة الترشيح الكبيبي",
+        "لا تأثير على الكلى",
+        "تحفيز إفراز الرينين (β1)"
+      ],
+      "answer": 1,
+      "explanation": "الجرعة المنخفضة من الدوبامين تُحفز مستقبلات D1 في أوعية الكلى والمساريقى → توسع وعائي → زيادة تدفق الدم الكلوي والترشيح → مفيد في الفشل الكلوي المصاحب لفشل القلب."
+    },
+    {
+      "q": "أي الأدوية التالية يُستخدم لعلاج انخفاض الضغط الوضعي (orthostatic hypotension) عن طريق الفم؟",
+      "options": [
+        "Phenylephrine",
+        "Midodrine",
+        "Oxymetazoline",
+        "Methoxamine"
+      ],
+      "answer": 1,
+      "explanation": "Midodrine ناهض انتقائي لـ α1 يُؤخذ عن طريق الفم (prodrug يتحول إلى شكله الفعّال). يُحفز تضيق الأوعية في الأوضاع المستقيمة → يرفع الضغط → مفيد في الانخفاض الوضعي."
+    },
+    {
+      "q": "Cocaine يرفع تأثير النورأدرينالين بـ:",
+      "options": [
+        "تحفيز إفرازه",
+        "منع إعادة التقاطه",
+        "حصر تحطيمه فقط",
+        "ناهض مباشر"
+      ],
+      "answer": 1,
+      "explanation": "يمنع reuptake فيطيل بقاءه في المشبك.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "Salbutamol موسّع قصبي لأنه ناهض:",
+      "options": [
+        "α1",
+        "β1",
+        "β2",
+        "α2"
+      ],
+      "answer": 2,
+      "explanation": "β2 على العضلات الملساء القصبية.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "دواء الخيار في التأق (anaphylaxis):",
+      "options": [
+        "Phenylephrine",
+        "Adrenaline",
+        "Dobutamine",
+        "Isoproterenol"
+      ],
+      "answer": 1,
+      "explanation": "Adrenaline ينقذ الحياة في التأق.",
+      "difficulty": "medium"
+    }
+  ]
+}

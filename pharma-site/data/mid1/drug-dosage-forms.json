@@ -1,0 +1,343 @@
+{
+  "id": "mid1-02",
+  "slug": "drug-dosage-forms",
+  "title": "Drug Dosage Forms",
+  "exam": "mid1",
+  "topics": [
+    "أشكال الجرعات الصلبة",
+    "أشكال الجرعات السائلة",
+    "أشكال الجرعات شبه الصلبة",
+    "أشكال الجرعات الأخرى"
+  ],
+  "summary": "أشكال الجرعات الدوائية تُقسَّم إلى أربع فئات رئيسية: صلبة (Solid) كالكبسولات والأقراص والحبوب، وسائلة (Liquid) كالمحاليل والمعلقات والمستحلبات، وشبه صلبة (Semi-solid) كالمراهم والكريمات والهلاميات والتحاميل، وأشكال أخرى كاللصقات الجلدية. يهدف استخدام أشكال متنوعة إلى تحسين الامتصاص، وإخفاء الطعم الكريه، وتمديد مدة التأثير (Sustained-release)، وتسهيل الإعطاء لمختلف فئات المرضى. الأقراص المعوية (Enteric-coated) مقاومة لعصارة المعدة وتُطلق الدواء في الأمعاء ذات التفاعل القلوي. الأشكال المستدامة الإطلاق (Sustained-release) لا يجوز سحقها لأنها مصممة للإطلاق التدريجي.",
+  "key_drugs": [
+    {
+      "name": "Promethazine-Codeine",
+      "class": "Antitussive Syrup",
+      "note": "مثال على شراب (Syrup) كشكل سائل"
+    },
+    {
+      "name": "Phenobarbital elixir",
+      "class": "Anticonvulsant Elixir",
+      "note": "مثال على Elixir - محضر كحولي عطري محلى"
+    },
+    {
+      "name": "Cod liver oil emulsion",
+      "class": "Nutritional supplement",
+      "note": "مثال على Emulsion - دهن مستحلب في ماء"
+    },
+    {
+      "name": "Nitroglycerin patch",
+      "class": "Antianginal",
+      "note": "مثال على Transdermal therapeutic system"
+    },
+    {
+      "name": "Corticosteroids",
+      "class": "Anti-inflammatory",
+      "note": "تأتي بأشكال متعددة: أقراص، حقن، مراهم، بخاخات"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "أشكال الجرعات الرئيسية - SLSO",
+      "body": "S = Solid (صلبة): Capsules, Tablets, Pills, Powders, Lozenges\nL = Liquid (سائلة): Solutions, Syrups, Suspensions, Emulsions, Elixirs, Drops\nS = Semi-solid (شبه صلبة): Ointments, Creams, Gels, Suppositories\nO = Other: Transdermal patches, Aerosols\nتذكر: 'سِلَسو' = Solid, Liquid, Semi-solid, Other",
+      "covers": [
+        "Solid",
+        "Liquid",
+        "Semi-solid"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "قصة الكبسولة والقرص",
+      "body": "الكبسولة (Capsule) = البيت الجيلاتيني: بيت ناعم يحمي محتوياته (مسحوق أو سائل) ويذوب في المعدة بسرعة أكبر من القرص قليلاً. القرص الصلب (Tablet) = الحجر المضغوط: يُضغط ويُشكَّل، أقوى من الكبسولة. الكبسولة المعوية (Enteric-coated) = المعطف المقاوم للمعدة: لا تُفتح إلا في الأمعاء القلوية",
+      "covers": [
+        "Capsules",
+        "Tablets"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "الفرق بين Suspension و Emulsion",
+      "body": "تخيل كأسين: الأول يحتوي عصير برتقال بالعجوة (Suspension = جسيمات صلبة في سائل). الثاني يحتوي خلطة زيت وماء مع مادة مستحلبة (Emulsion = دهن في ماء). كلاهما يحتاج رجاً قبل الاستخدام!",
+      "covers": [
+        "Suspensions",
+        "Emulsions"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "المراهم والكريمات - W/O vs O/W",
+      "body": "Water-in-Oil (W/O) = الماء داخل الزيت = الدهن الثقيل الذي يبقى على الجلد = Ointment (مرهم دهني)\nOil-in-Water (O/W) = الزيت داخل الماء = الكريم الخفيف المائي = Cream (كريم أخف)\nتذكر: المرهم أثقل وأكثر دهنية، الكريم أخف وأقل دهنية",
+      "covers": [
+        "Ointments",
+        "Creams"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "لا تسحق SR - Sustained Release",
+      "body": "SR = Sustained Release = إطلاق مستدام = NO CRUSH\nالسبب: تحتوي على جسيمات دقيقة مغلفة بمواد تذوب بأوقات مختلفة (بعضها فوري، بعضها 2-3 ساعات) لضمان امتصاص طويل ومتواصل. سحقها يُطلق الجرعة كاملة فجأة = خطر جرعة زائدة",
+      "covers": [
+        "Sustained-release"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما الفرق بين الكبسولة الصلبة والكبسولة الناعمة (Hard vs Soft gelatin capsule)؟",
+      "back": "Hard gelatin capsule: تحتوي مسحوقاً\nSoft gelatin capsule: تحتوي سوائل أو مواد شبه صلبة"
+    },
+    {
+      "front": "ما Enteric-coated capsule/tablet؟ وما فائدتها؟",
+      "back": "مغلفة بمادة تقاوم عصارة المعدة، لا تتفكك إلا في إفرازات الأمعاء القلوية. تُستخدم لحماية الأدوية التي تتلف بحمض المعدة أو تُلاحق المعدة"
+    },
+    {
+      "front": "لماذا لا يجوز سحق أقراص Sustained-release؟",
+      "back": "لأنها تحتوي جسيمات مغلفة تُطلق الدواء تدريجياً. السحق يُطلق الجرعة كاملة فجأة مما قد يسبب جرعة زائدة"
+    },
+    {
+      "front": "ما Lozenges (Troches)؟",
+      "back": "أقراص مسطحة أو دائرية أو مستطيلة تُحفظ في الفم حتى تذوب، تُركز الدواء مؤقتاً في التجويف الفموي"
+    },
+    {
+      "front": "ما الفرق بين Suspension و Solution؟",
+      "back": "Solution: مادة واحدة أو أكثر مذابة في الماء (محلول تام)\nSuspension: دواء مقسم ناعماً معلق في سائل (لم يذوب تماماً، يحتاج رجاً)"
+    },
+    {
+      "front": "ما Emulsion؟ أعطِ مثالاً.",
+      "back": "تعليق للدهون أو الزيوت في الماء بمساعدة عامل مستحلب (Emulsifying agent). مثال: Cod liver oil emulsion"
+    },
+    {
+      "front": "ما Elixir؟ وما مثاله؟",
+      "back": "محضر كحولي عطري محلى يُستخدم كمركبة معطرة أو كعامل طبي فعال. مثال: Phenobarbital elixir"
+    },
+    {
+      "front": "ما الفرق بين Ointment و Cream من حيث التركيبة؟",
+      "back": "Ointment: تركيبة W/O (ماء في زيت) - أكثر دهنية، أثقل\nCream: تركيبة O/W (زيت في ماء) - أخف، يُمتص أسرع"
+    },
+    {
+      "front": "ما أشكال حاويات الأدوية الحقنية الأربعة؟",
+      "back": "1. Ampoules (جرعة واحدة)\n2. Vials (متعدد الجرعات بسدادة مطاطية)\n3. Bottles (زجاجات)\n4. Disposable syringes (محاقن للاستعمال مرة واحدة)"
+    },
+    {
+      "front": "ما Transdermal therapeutic system؟ وما مثاله؟",
+      "back": "نظام علاجي عبر الجلد يُطبَّق على الجلد لتحقيق تأثيرات جهازية. مثال: لصقة Nitroglycerin لعلاج الذبحة الصدرية"
+    },
+    {
+      "front": "ما الفرق بين Rectal suppository و Vaginal insert؟",
+      "back": "Rectal suppository: تُعطى عن طريق المستقيم\nVaginal inserts: تشمل أقراصاً ومهابط وتُعطى عن طريق المهبل"
+    },
+    {
+      "front": "ما فوائد Solid dosage forms مقارنة بالمساحيق؟",
+      "back": "تقسيم الدواء إلى جرعات محددة، تجنب إزعاج تحضير المسحوق، وإخفاء الطعم الكريه للأدوية"
+    },
+    {
+      "front": "ما أنواع Sprays الدوائية؟",
+      "back": "1. Nasal spray (أنفي)\n2. Oral spray (فموي)\n3. Local spray (موضعي)"
+    },
+    {
+      "front": "ما Dusting powders؟",
+      "back": "مساحيق ناعمة للاستخدام الخارجي (Topical) تُطبق على الجلد"
+    },
+    {
+      "front": "لماذا تستخدم Drops للأطفال؟",
+      "back": "لأن الأطفال غالباً لا يستطيعون بلع الأقراص، والقطرات الفموية سهلة الإعطاء بجرعات صغيرة دقيقة"
+    },
+    {
+      "front": "ما Pills وهل لا تزال شائعة؟",
+      "back": "خلائط دوائية مشكَّلة على هيئة كرات أو بيضاوية للبلع. باتت نادرة الاستخدام واستُبدلت إلى حد كبير بالكبسولات والأقراص"
+    },
+    {
+      "front": "ما Gels في أشكال الجرعات شبه الصلبة؟",
+      "back": "أشكال هلامية (Semisolid) تحتوي نسبة عالية من الماء، شفافة أو شبه شفافة، سهلة الامتصاص"
+    },
+    {
+      "front": "ما هي الكبسولة المعوية (Enteric-coated)؟",
+      "back": "كبسولة/قرص مغطّى بمادة تقاوم عصارة المعدة فلا يتفكك حتى يصل الأمعاء القلوية.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما الفرق بين الكبسولة الصلبة واللينة؟",
+      "back": "الصلبة (hard gelatine) تحوي مسحوقاً؛ اللينة (soft) تحوي سوائل."
+    },
+    {
+      "front": "ما ميزة الأشكال ممتدة التحرر (Sustained-release)؟",
+      "back": "تحرر تدريجي مستمر → مدة تأثير أطول؛ ممنوع سحقها (crush)."
+    },
+    {
+      "front": "ما هي اللوزينجات (Lozenges/Troches)؟",
+      "back": "أقراص تُحفظ في الفم حتى تذوب لإنتاج تركيز عالٍ موضعي في التجويف الفموي."
+    },
+    {
+      "front": "رتّب سرعة الذوبان/الامتصاص للأشكال الفموية",
+      "back": "Solution > Suspension > Capsule > Tablet."
+    },
+    {
+      "front": "لماذا تُستخدم الأقراص أحياناً بدل المساحيق؟",
+      "back": "لإعطاء جرعات محددة وإخفاء الطعم غير المستساغ وسهولة الاستخدام."
+    },
+    {
+      "front": "ما هي الأشكال السائلة للأدوية؟",
+      "back": "المحاليل (solutions)، المعلّقات (suspensions)، المستحلبات (emulsions)، الشرابات (syrups)."
+    },
+    {
+      "front": "ما هي المساحيق الذرورية (Dusting powders)؟",
+      "back": "مساحيق دقيقة للاستخدام الخارجي على الجلد."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which type of capsule contains liquid medicament?",
+      "options": [
+        "Hard gelatin capsule",
+        "Enteric-coated capsule",
+        "Soft gelatin capsule",
+        "Sustained-release capsule"
+      ],
+      "answer": 2,
+      "explanation": "Soft gelatin capsules تحتوي على سوائل أو مواد شبه صلبة، بينما Hard gelatin capsules تحتوي على مساحيق."
+    },
+    {
+      "q": "Why should sustained-release tablets NOT be crushed?",
+      "options": [
+        "They taste bitter when crushed",
+        "Crushing causes rapid release of the entire dose at once",
+        "Crushing destroys the active ingredient",
+        "They become ineffective when crushed"
+      ],
+      "answer": 1,
+      "explanation": "الأقراص SR تحتوي جسيمات مغلفة تُطلق الدواء تدريجياً. السحق يُطلق الجرعة كاملة فجأة مما يخلق خطر الجرعة الزائدة."
+    },
+    {
+      "q": "An Emulsion is defined as:",
+      "options": [
+        "A drug dissolved completely in water",
+        "Finely divided drug particles suspended in a liquid vehicle",
+        "A suspension of fats or oils in water using an emulsifying agent",
+        "An alcoholic aromatic sweetened preparation"
+      ],
+      "answer": 2,
+      "explanation": "Emulsion = تعليق الدهون أو الزيوت في الماء بمساعدة عامل مستحلب. مثال: Cod liver oil emulsion."
+    },
+    {
+      "q": "Ointments are classified as which type of emulsion?",
+      "options": [
+        "Oil-in-Water (O/W)",
+        "Water-in-Oil (W/O)",
+        "Water-in-Gel",
+        "Oil-in-Gel"
+      ],
+      "answer": 1,
+      "explanation": "Ointments = W/O (Water-in-Oil) تركيبة دهنية أثقل. أما Creams فهي O/W (Oil-in-Water) أخف."
+    },
+    {
+      "q": "Enteric-coated capsules are designed to dissolve in:",
+      "options": [
+        "The mouth",
+        "The stomach acid",
+        "The alkaline intestinal secretions",
+        "The bloodstream"
+      ],
+      "answer": 2,
+      "explanation": "Enteric-coated = مغلفة بمادة تقاوم حمض المعدة ولا تتفكك إلا في الإفرازات القلوية للأمعاء."
+    },
+    {
+      "q": "Which of the following is a semi-solid dosage form?",
+      "options": [
+        "Elixir",
+        "Suspension",
+        "Suppository",
+        "Lozenge"
+      ],
+      "answer": 2,
+      "explanation": "Suppository = تحميلة = شكل شبه صلب. Elixir و Suspension = سائل. Lozenge = صلب."
+    },
+    {
+      "q": "Lozenges produce their effect primarily by:",
+      "options": [
+        "Systemic absorption after swallowing",
+        "Creating temporarily high drug concentration in the oral cavity",
+        "Being absorbed through the skin",
+        "Direct action in the stomach"
+      ],
+      "answer": 1,
+      "explanation": "Lozenges تذوب في الفم وتُركز الدواء مؤقتاً في التجويف الفموي لتأثير موضعي."
+    },
+    {
+      "q": "Which is an example of a Transdermal therapeutic system?",
+      "options": [
+        "Phenobarbital elixir",
+        "Nitroglycerin patch",
+        "Promethazine syrup",
+        "Cod liver oil emulsion"
+      ],
+      "answer": 1,
+      "explanation": "Nitroglycerin patch = لصقة جلدية لعلاج الذبحة الصدرية، مثال كلاسيكي على Transdermal therapeutic system."
+    },
+    {
+      "q": "A vial differs from an ampoule in that it:",
+      "options": [
+        "Contains a single dose only",
+        "Is used only for oral medications",
+        "Has a rubber-capped stopper allowing multiple doses",
+        "Cannot be used for injectable medications"
+      ],
+      "answer": 2,
+      "explanation": "Vial = حاوية متعددة الجرعات بسدادة مطاطية. Ampoule = جرعة واحدة مغلقة."
+    },
+    {
+      "q": "Which liquid dosage form is described as 'aromatic, sweetened, alcoholic preparations'?",
+      "options": [
+        "Syrup",
+        "Solution",
+        "Elixir",
+        "Suspension"
+      ],
+      "answer": 2,
+      "explanation": "Elixir = محضر كحولي عطري محلى. Syrup = سكري غير كحولي. Solution = محلول مائي."
+    },
+    {
+      "q": "الشكل الذي يُمنع سحقه لأنه يحرر الدواء تدريجياً:",
+      "options": [
+        "قرص عادي",
+        "Sustained-release",
+        "Lozenge",
+        "محلول"
+      ],
+      "answer": 1,
+      "explanation": "سحق ممتد التحرر يحرر الجرعة كاملة دفعة واحدة → سُمّية.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "الغلاف المعوي (enteric coating) يهدف إلى:",
+      "options": [
+        "تسريع الذوبان بالمعدة",
+        "منع التفكك حتى الأمعاء",
+        "تحسين الطعم فقط",
+        "زيادة الوزن"
+      ],
+      "answer": 1,
+      "explanation": "يقاوم حمض المعدة ويتفكك في الأمعاء القلوية.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "أيها يُمتص أسرع عموماً؟",
+      "options": [
+        "قرص",
+        "كبسولة",
+        "معلّق",
+        "محلول"
+      ],
+      "answer": 3,
+      "explanation": "Solution > Suspension > Capsule > Tablet.",
+      "difficulty": "medium"
+    }
+  ]
+}

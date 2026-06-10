@@ -1,0 +1,440 @@
+{
+  "id": "mid2-08",
+  "slug": "dmards",
+  "title": "Disease-Modifying Antirheumatic Drugs (DMARDs)",
+  "exam": "mid2",
+  "topics": [
+    "DMARDs",
+    "Rheumatoid Arthritis",
+    "Methotrexate",
+    "Biologics",
+    "JAK Inhibitors",
+    "TNF Inhibitors",
+    "Hydroxychloroquine",
+    "Leflunomide",
+    "Sulfasalazine"
+  ],
+  "summary": "DMARDs هي الأدوية التي تُعدّل مسار الأمراض الالتهابية كالتهاب المفاصل الروماتويدي وتمنع التدمير المفصلي الذي لا تستطيع مضادات الالتهاب والستيرويدات منعه. تنقسم إلى ثلاث فئات: التقليدية (Methotrexate كدواء محوري، وSulfasalazine وHydroxychloroquine وLeflunomide)، والبيولوجية (مثبطات TNF-α وIL-6 وحاصرات T-cell وB-cell)، والموجّهة الاصطناعية (مثبطات JAK-STAT كـTofacitinib وBaricitinib). Methotrexate هو الدواء المحوري الأول في الروماتويد مع ضرورة إعطاء حمض الفوليك لتقليل السمية.",
+  "key_drugs": [
+    {
+      "name": "Methotrexate (MTX)",
+      "class": "Conventional DMARD - Anchor Drug",
+      "note": "الدواء المحوري الأول في RA - مرة أسبوعياً - يعمل عبر زيادة Adenosine ومضادة حمض الفوليك"
+    },
+    {
+      "name": "Hydroxychloroquine",
+      "class": "Conventional DMARD",
+      "note": "للروماتويد الخفيف وSLE - السمية الرئيسية: تسمم الشبكية"
+    },
+    {
+      "name": "Sulfasalazine",
+      "class": "Conventional DMARD",
+      "note": "للروماتويد وأمراض الأمعاء الالتهابية - كبت نقي العظم"
+    },
+    {
+      "name": "Leflunomide",
+      "class": "Conventional DMARD",
+      "note": "يثبط تخليق البيريميدين - ممنوع في الحمل"
+    },
+    {
+      "name": "Adalimumab / Etanercept",
+      "class": "Biologic DMARD - TNF Inhibitor",
+      "note": "يثبط TNF-α - للاستخدام بعد فشل DMARDs التقليدية"
+    },
+    {
+      "name": "Tocilizumab",
+      "class": "Biologic DMARD - IL-6 Inhibitor",
+      "note": "يثبط مستقبل IL-6"
+    },
+    {
+      "name": "Abatacept",
+      "class": "Biologic DMARD - T-cell Blocker",
+      "note": "يثبط تنشيط الخلايا التائية"
+    },
+    {
+      "name": "Rituximab",
+      "class": "Biologic DMARD - B-cell Depletion",
+      "note": "يستنزف الخلايا البائية"
+    },
+    {
+      "name": "Tofacitinib / Baricitinib",
+      "class": "Targeted Synthetic DMARD - JAK Inhibitor",
+      "note": "يثبط مسار JAK-STAT داخل الخلية - فموي - مقيّد بسبب مخاوف أمان"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "DMARDs التقليدية: MSHL",
+      "body": "M = Methotrexate (المحوري - الأول)\nS = Sulfasalazine\nH = Hydroxychloroquine\nL = Leflunomide\nتذكّر: 'MoSHeL' - كأنك تمشل (تمشي ببطء) لأن DMARDs بطيئة المفعول",
+      "covers": [
+        "Methotrexate",
+        "Sulfasalazine",
+        "Hydroxychloroquine",
+        "Leflunomide"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "Methotrexate: 'محارب الفولات'",
+      "body": "MTX = عدو حمض الفوليك. يحارب DHFR ويمنع تنشيط الفولات فيتوقف تصنيع DNA. لهذا نُعطي الفوليك اسيد دائماً مع MTX لحماية المريض من السمية (الفوليك يقلل السمية دون تقليل الفاعلية). وجرعته مرة أسبوعياً فقط - الجرعة اليومية سامة.",
+      "covers": [
+        "Methotrexate"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "Hydroxychloroquine والعين",
+      "body": "تخيّل دواء على شكل نظارة - Hydroxychloroquine ترتبط بصورة العين في ذهنك لأن سميته الرئيسية هي تسمم الشبكية (Retinal Toxicity). كل مريض يأخذه يحتاج فحص عيون دورياً.",
+      "covers": [
+        "Hydroxychloroquine"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "البيولوجية: TAR-B",
+      "body": "T = TNF inhibitors (Adalimumab, Etanercept)\nA = Abatacept (T-cell blocker)\nR = Rituximab (B-cell depletion)\nB = (Tocilizumab) = Blocks IL-6\nجميعها تزيد خطر العدوى - لا بد من فحص TB قبل البدء",
+      "covers": [
+        "Adalimumab",
+        "Etanercept",
+        "Abatacept",
+        "Rituximab",
+        "Tocilizumab"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "JAK Inhibitors: 'الجاك الفموي'",
+      "body": "Tofacitinib وBaricitinib = حاصرات JAK - مميزتهما أنهما فمويتان (oral) خلافاً للبيولوجية التي تُحقن. لكن 'الجاك' له مخاوف أمان: خطر الجلطات (Thrombosis)، إعادة تنشيط Herpes Zoster، ارتفاع الدهون.",
+      "covers": [
+        "Tofacitinib",
+        "Baricitinib"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "لماذا تُسمى DMARDs 'معدّلة للمرض'؟",
+      "back": "لأنها تُبطئ أو توقف التدمير المفصلي الهيكلي، بخلاف NSAIDs والستيرويدات التي تُعالج الأعراض فقط دون منع تقدم المرض"
+    },
+    {
+      "front": "ما هو الدواء المحوري (Anchor Drug) في علاج RA؟",
+      "back": "Methotrexate (MTX) - هو الدواء الأساسي الأول في RA والذي تُبنى عليه بقية خطط العلاج"
+    },
+    {
+      "front": "ما جرعة Methotrexate في RA ولماذا؟",
+      "back": "مرة واحدة أسبوعياً فقط - الجرعة اليومية تسبب سمية عالية بسبب تراكم التأثير المضاد للفولات"
+    },
+    {
+      "front": "ما الآلية الرئيسية لتأثير Methotrexate المضاد للالتهاب؟",
+      "back": "يزيد مستوى Adenosine (وسيط مضاد للالتهاب) - التأثير المضاد للتكاثر (antiproliferative) هو آلية ثانوية"
+    },
+    {
+      "front": "لماذا نُعطي حمض الفوليك مع Methotrexate؟",
+      "back": "MTX يثبط DHFR فيمنع تنشيط حمض الفوليك - إضافة فوليك اسيد تقلل السمية (GI، قرح الفم، نقص الكريات) دون تقليل الفاعلية"
+    },
+    {
+      "front": "ما الفحوصات الدورية اللازمة لمرضى Methotrexate؟",
+      "back": "شهرياً: CBC (كبت نقي العظم) + LFTs (تسمم كبدي) + Creatinine (MTX يُطرح كلوياً - ضعف الكلى يزيد السمية)"
+    },
+    {
+      "front": "ما السمية الرئيسية لـ Hydroxychloroquine؟",
+      "back": "تسمم الشبكية (Retinal Toxicity) - يتطلب فحص عيون دورياً لاكتشافه مبكراً"
+    },
+    {
+      "front": "ما استخدامات Hydroxychloroquine؟",
+      "back": "الروماتويد الخفيف، الذئبة الحمراء (SLE)، أمراض التهابية خفيفة-متوسطة"
+    },
+    {
+      "front": "ما آلية عمل Leflunomide؟",
+      "back": "يثبط تخليق البيريميدين (Pyrimidine Synthesis) مما يقلل تكاثر الخلايا اللمفاوية ويقلل الالتهاب"
+    },
+    {
+      "front": "ما موانع استخدام Leflunomide وSulfasalazine؟",
+      "back": "كلاهما ممنوعان في الحمل (Teratogenic) - Leflunomide له نصف عمر طويل جداً ويحتاج إجراء خاص قبل الحمل"
+    },
+    {
+      "front": "متى تُستخدم البيولوجية (Biologics) في RA؟",
+      "back": "بعد فشل DMARDs التقليدية (خاصة MTX) أو في المرض المتوسط-الشديد الذي لا يستجيب للعلاج التقليدي"
+    },
+    {
+      "front": "ما أهم الآثار الجانبية المشتركة لجميع البيولوجية؟",
+      "back": "زيادة خطر العدوى (Infections) - يجب فحص TB والتهاب الكبد قبل البدء بأي دواء بيولوجي"
+    },
+    {
+      "front": "ما آلية عمل TNF Inhibitors (Adalimumab, Etanercept)؟",
+      "back": "تثبط مباشرة عامل نخر الورم (TNF-α) - وسيط التهابي رئيسي في RA"
+    },
+    {
+      "front": "ما دور Abatacept في علاج RA؟",
+      "back": "يثبط تنشيط الخلايا التائية (T-cell co-stimulation blockade) مما يقلل الاستجابة المناعية في RA"
+    },
+    {
+      "front": "ما آلية عمل JAK Inhibitors (Tofacitinib, Baricitinib)؟",
+      "back": "تثبط مسار JAK-STAT داخل الخلية - وهو المسار الذي تستخدمه السيتوكينات الالتهابية للتأثير على الخلايا"
+    },
+    {
+      "front": "ما ميزة JAK Inhibitors على البيولوجية؟",
+      "back": "إنها فموية (Oral) - بينما البيولوجية تُعطى حقناً أو وريدياً"
+    },
+    {
+      "front": "ما مخاوف أمان JAK Inhibitors؟",
+      "back": "زيادة خطر الجلطات (Thrombosis)، إعادة تنشيط Herpes Zoster وTB، نقص الكريات، ارتفاع الدهون - لذلك استخدامها مقيّد"
+    },
+    {
+      "front": "ما دور الستيرويدات في علاج RA مقارنة بـ DMARDs؟",
+      "back": "الستيرويدات كـ'جسر علاجي' (Bridge Therapy) - تُستخدم مؤقتاً لسرعة السيطرة على الالتهاب ريثما تبدأ DMARDs بالتأثير (تأخذ أسابيع)"
+    },
+    {
+      "front": "ما الفرق بين NSAIDs و DMARDs في الروماتويد؟",
+      "back": "NSAIDs تخفف الأعراض فقط؛ DMARDs تعدّل سير المرض وتبطئ تلف المفصل.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما آلية Methotrexate في الروماتويد؟",
+      "back": "يثبّط dihydrofolate reductase ويقلل الالتهاب؛ الـ DMARD التقليدي الأول."
+    },
+    {
+      "front": "ما مراقبة Methotrexate؟",
+      "back": "وظائف الكبد، تعداد الدم، والرئة (تليف)؛ يُعطى folic acid لتقليل السُّميّة.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما آلية Hydroxychloroquine ومخاطره؟",
+      "back": "مضاد ملاريا يُستخدم بالروماتويد والذئبة؛ خطر اعتلال الشبكية (فحص عيون دوري)."
+    },
+    {
+      "front": "ما هي مثبطات TNF-α؟",
+      "back": "Etanercept, Infliximab, Adalimumab - بيولوجية تعدّل المناعة."
+    },
+    {
+      "front": "ما الخطر الأبرز لمثبطات TNF-α؟",
+      "back": "إعادة تنشيط السل والعدوى الانتهازية - افحص السل قبل البدء.",
+      "tag": "high-yield"
+    },
+    {
+      "front": "ما آلية Rituximab؟",
+      "back": "جسم مضاد ضد CD20 يستنزف الخلايا البائية."
+    },
+    {
+      "front": "ما آلية Sulfasalazine؟",
+      "back": "DMARD تقليدي مضاد التهاب يُستخدم بالروماتويد والتهاب القولون."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "مريضة 42 سنة بالتهاب مفاصل روماتويدي أُعطيت NSAIDs لسنتين وطوّرت تشوهات مفصلية. ما الدرس الرئيسي من هذه القصة؟",
+      "options": [
+        "NSAIDs تسرّع التدمير المفصلي",
+        "NSAIDs تُعالج الأعراض فقط ولا تمنع التدمير المفصلي",
+        "يجب زيادة جرعة NSAIDs",
+        "يجب إضافة كورتيزون"
+      ],
+      "answer": 1,
+      "explanation": "NSAIDs تُريح الألم والتيبس لكنها لا تمنع التدمير المفصلي. DMARDs هي الأدوية الوحيدة التي تُعدّل مسار المرض وتمنع التدمير."
+    },
+    {
+      "q": "ما الدواء المحوري الأول في علاج الروماتويد ما لم يكن هناك موانع؟",
+      "options": [
+        "Hydroxychloroquine",
+        "Sulfasalazine",
+        "Methotrexate",
+        "Leflunomide"
+      ],
+      "answer": 2,
+      "explanation": "Methotrexate هو الدواء المحوري (Anchor Drug) الأول في RA. يُستخدم كأساس لجميع بروتوكولات العلاج."
+    },
+    {
+      "q": "مريض على Methotrexate. لماذا يُعطى حمض الفوليك معه؟",
+      "options": [
+        "لتعزيز فاعلية MTX",
+        "لتقليل الآثار الجانبية دون التأثير على الفاعلية",
+        "لتسريع امتصاص MTX",
+        "لمنع احتباس الماء"
+      ],
+      "answer": 1,
+      "explanation": "MTX يثبط DHFR ويمنع تنشيط الفولات مما يسبب سمية (GI، قرح الفم، نقص الكريات). إعطاء Folic Acid يقلل هذه الآثار دون أي تأثير على الفاعلية العلاجية."
+    },
+    {
+      "q": "ما الفحص الدوري الأهم لمريض يأخذ Hydroxychloroquine؟",
+      "options": [
+        "CBC شهرياً",
+        "LFTs كل 3 أشهر",
+        "فحص العيون دورياً",
+        "وظائف الكلى شهرياً"
+      ],
+      "answer": 2,
+      "explanation": "السمية الرئيسية لـ Hydroxychloroquine هي تسمم الشبكية (Retinal Toxicity). يجب فحص العيون دورياً لاكتشافه قبل حدوث ضرر دائم."
+    },
+    {
+      "q": "ما آلية عمل Leflunomide في RA؟",
+      "options": [
+        "يثبط TNF-α",
+        "يثبط تخليق البيريميدين ويقلل تكاثر الخلايا اللمفاوية",
+        "يثبط مسار JAK-STAT",
+        "يستنزف الخلايا البائية"
+      ],
+      "answer": 1,
+      "explanation": "Leflunomide يثبط إنزيم DHODH فيمنع تخليق البيريميدين، مما يقلل تكاثر الخلايا اللمفاوية ويضعف الاستجابة المناعية."
+    },
+    {
+      "q": "متى تُستخدم البيولوجية في علاج الروماتويد؟",
+      "options": [
+        "كخط أول قبل DMARDs التقليدية",
+        "بعد فشل DMARDs التقليدية كـ Methotrexate",
+        "فقط مع الستيرويدات",
+        "كوقاية فقط"
+      ],
+      "answer": 1,
+      "explanation": "البيولوجية تُستخدم بعد فشل DMARDs التقليدية (خاصة MTX) في المرض المتوسط-الشديد. إنها أدوية من الخط الثاني."
+    },
+    {
+      "q": "أي الآثار الجانبية مشترك بين جميع أدوية البيولوجية في RA؟",
+      "options": [
+        "تسمم الشبكية",
+        "زيادة خطر العدوى",
+        "تسمم كبدي",
+        "تسمم كلوي"
+      ],
+      "answer": 1,
+      "explanation": "جميع الأدوية البيولوجية تزيد خطر العدوى بسبب تثبيط المناعة. لذلك يجب فحص TB والتهاب الكبد B وC قبل بدء العلاج."
+    },
+    {
+      "q": "ما ميزة Tofacitinib و Baricitinib على الأدوية البيولوجية؟",
+      "options": [
+        "أقل تكلفة",
+        "أقل خطراً للعدوى",
+        "تُعطى فموياً",
+        "أسرع مفعولاً من MTX"
+      ],
+      "answer": 2,
+      "explanation": "JAK Inhibitors (Tofacitinib, Baricitinib) هي أدوية فموية (Oral) بينما معظم البيولوجية تُعطى حقناً أو وريدياً - هذه ميزتها الرئيسية."
+    },
+    {
+      "q": "ما الدور الرئيسي للستيرويدات في بداية علاج RA مع DMARDs؟",
+      "options": [
+        "تحل محل DMARDs في الحالات الخفيفة",
+        "جسر علاجي مؤقت ريثما يبدأ DMARD بالتأثير",
+        "تُعطى طويلاً مع MTX",
+        "تمنع الآثار الجانبية لـ MTX"
+      ],
+      "answer": 1,
+      "explanation": "الستيرويدات تُستخدم كـ Bridge Therapy لسرعة السيطرة على الالتهاب بينما DMARDs تأخذ أسابيع لتبدأ بالتأثير. لا تُعوّض DMARDs في السيطرة على تقدم المرض."
+    },
+    {
+      "q": "مريض سيبدأ علاجاً ببيولوجي. ما الفحص الإلزامي قبل البدء؟",
+      "options": [
+        "فحص العيون",
+        "فحص TB والتهاب الكبد",
+        "فحص وظائف الدرقية",
+        "أشعة مقطعية للصدر فقط"
+      ],
+      "answer": 1,
+      "explanation": "قبل بدء أي بيولوجي أو JAK Inhibitor يجب فحص TB والتهاب الكبد (B وC) لأن هذه الأدوية تثبط المناعة وقد تُعيد تنشيط الالتهابات الكامنة."
+    },
+    {
+      "q": "قبل بدء مثبطات TNF-α يجب فحص:",
+      "options": [
+        "السكر",
+        "السل (TB)",
+        "العين",
+        "السمع"
+      ],
+      "answer": 1,
+      "explanation": "خطر إعادة تنشيط السل.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "يُعطى folic acid مع Methotrexate لـ:",
+      "options": [
+        "زيادة الفعالية",
+        "تقليل السُّميّة",
+        "رفع الضغط",
+        "تسريع الطرح"
+      ],
+      "answer": 1,
+      "explanation": "يقلل التسمم الكبدي والنقوي.",
+      "difficulty": "medium"
+    }
+  ],
+  "high_yield": [
+    {
+      "point": "Methotrexate هو الـ DMARD التقليدي الأول؛ يثبّط dihydrofolate reductase.",
+      "tag": "mechanism"
+    },
+    {
+      "point": "MTX يحتاج مراقبة: كبد، تعداد دم، رئة (تليف). يُعطى folic acid لتقليل السُّميّة.",
+      "tag": "adverse"
+    },
+    {
+      "point": "bDMARDs مثبطات TNF-α: Etanercept, Infliximab, Adalimumab → خطر إعادة تنشيط السل (افحص قبل البدء).",
+      "tag": "adverse"
+    }
+  ],
+  "classification": {
+    "title": "DMARDs",
+    "groups": [
+      {
+        "name": "csDMARDs (تقليدية تركيبية)",
+        "drugs": [
+          "Methotrexate",
+          "Hydroxychloroquine",
+          "Sulfasalazine",
+          "Leflunomide"
+        ]
+      },
+      {
+        "name": "bDMARDs (بيولوجية) — TNF-α inhibitors",
+        "drugs": [
+          "Etanercept",
+          "Infliximab",
+          "Adalimumab"
+        ]
+      },
+      {
+        "name": "bDMARDs أخرى",
+        "drugs": [
+          "Rituximab (anti-CD20)",
+          "Tocilizumab (anti-IL6)"
+        ]
+      }
+    ]
+  },
+  "comparison_tables": [
+    {
+      "title": "csDMARDs vs bDMARDs",
+      "columns": [
+        "",
+        "csDMARDs",
+        "bDMARDs"
+      ],
+      "rows": [
+        [
+          "أمثلة",
+          "MTX, HCQ, Sulfasalazine, Leflunomide",
+          "TNF inhibitors, Rituximab, Tocilizumab"
+        ],
+        [
+          "الطبيعة",
+          "جزيئات صغيرة",
+          "بروتينات/أجسام مضادة"
+        ],
+        [
+          "بدء المفعول",
+          "بطيء (أسابيع)",
+          "أسرع"
+        ],
+        [
+          "الخطر الأبرز",
+          "سُمّية كبدية/نقوية",
+          "عدوى (سل، انتهازية)"
+        ]
+      ]
+    }
+  ]
+}

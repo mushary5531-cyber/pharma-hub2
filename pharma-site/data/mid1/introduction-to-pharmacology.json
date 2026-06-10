@@ -1,0 +1,341 @@
+{
+  "id": "mid1-01",
+  "slug": "introduction-to-pharmacology",
+  "title": "Introduction to Pharmacology",
+  "exam": "mid1",
+  "topics": [
+    "تعريفات الفارماكولوجي",
+    "الاستخدام الرشيد للأدوية",
+    "تصنيف الأدوية",
+    "مصادر الأدوية",
+    "مراحل تطوير الدواء",
+    "تسمية الأدوية",
+    "الآثار الجانبية"
+  ],
+  "summary": "الفارماكولوجي هو علم دراسة الأدوية وتفاعلها مع الخلايا الحية، ويشمل الحركية الدوائية (Pharmacokinetics) أي ما يفعله الجسم بالدواء عبر ADME، والديناميكا الدوائية (Pharmacodynamics) أي ما يفعله الدواء بالجسم. تُصنَّف الأدوية إما علاجياً حسب تأثيرها السريري، أو فارماكولوجياً حسب آلية عملها الجزيئية. تمر الأدوية بأربع مراحل سريرية (Phase I-IV) قبل وصولها للمريض، وتستغرق 12-15 سنة وتكلف مليارات الدولارات. الاستخدام الرشيد للأدوية مسؤولية مشتركة لجميع أعضاء الفريق الصحي لتحقيق أقصى فائدة بأقل ضرر.",
+  "key_drugs": [
+    {
+      "name": "Aspirin",
+      "class": "Analgesic/Anti-inflammatory",
+      "note": "مثال على الاستخدام العرضي (Symptomatic) لتخفيف الألم - له اسم كيميائي Acetylsalicylic acid واسم تجاري Jusparin"
+    },
+    {
+      "name": "Paracetamol (Acetaminophen)",
+      "class": "Analgesic/Antipyretic",
+      "note": "اسمه الكيميائي N-acetyl-para-aminophenol، والتجاري Panadol/Adol/Tylenol"
+    },
+    {
+      "name": "Penicillin",
+      "class": "Antibiotic",
+      "note": "مثال على الأدوية الطبيعية المشتقة من الكائنات الدقيقة (Micro-organisms)"
+    },
+    {
+      "name": "Human Insulin",
+      "class": "Hormone replacement",
+      "note": "مثال على التخليق البيولوجي عبر Recombinant DNA technology"
+    },
+    {
+      "name": "Hepatitis B vaccine",
+      "class": "Vaccine",
+      "note": "مثال على الاستخدام الوقائي (Preventative)"
+    }
+  ],
+  "mnemonics": [
+    {
+      "type": "acronym",
+      "title": "ADME - رحلة الدواء في الجسم",
+      "body": "ADME = Absorption, Distribution, Metabolism, Excretion\nتذكر: الدواء يُمتص ويُوزع ويُحوَّل ويُطرح\nالجملة: 'أدخل دماغك المعلومة ثم اطرحها في الامتحان'",
+      "covers": [
+        "Pharmacokinetics"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "story",
+      "title": "PK و PD - الجسم والدواء",
+      "body": "PharmacoKinetics = الجسم يتحرك مع الدواء - تخيل الجسم (K للـ Kinetic = حركة) يمسك الدواء ويأخذه في رحلة ADME\nPharmacoDynamics = الدواء يتحرك مع الجسم - الدواء (D للـ Dynamic) يضرب مستقبلات الجسم ويغير وظائفه",
+      "covers": [
+        "Pharmacokinetics",
+        "Pharmacodynamics"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "مراحل التجارب السريرية - SECP",
+      "body": "Phase I = Safety (سلامة) - 20-100 متطوع سليم\nPhase II = Efficacy (فاعلية) - مئات المرضى\nPhase III = Confirmatory (تأكيد) - آلاف المرضى\nPhase IV = Post-marketing (بعد الموافقة) - مراقبة الآثار النادرة\nتذكر: 'سأكمل التجربة' = Safety, Efficacy, Confirmatory, Post-marketing",
+      "covers": [
+        "Drug Development"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "visual",
+      "title": "تصنيفات الحمل A-B-C-D-X",
+      "body": "تخيل سلماً من 5 درجات: الدرجة A في القاع (آمن تماماً كالأرض الصلبة) تصعد للأعلى حتى X في القمة (محظور كالسقوط من الجبل). كلما صعدت الدرجة زاد الخطر على الجنين، وX = eXtreme danger = منع مطلق",
+      "covers": [
+        "Pregnancy Classifications"
+      ],
+      "source_ref": null
+    },
+    {
+      "type": "acronym",
+      "title": "الآثار الجانبية - ABCDI",
+      "body": "A = Augmented (تضخيم الأثر الدوائي - dose-dependent)\nB = Bizarre (غريب - hypersensitivity, idiosyncratic - غير مرتبط بالجرعة)\nC = Chronic (مزمن - من الاستخدام الطويل أو الإيقاف المفاجئ مثل Corticosteroids)\nD = Delayed (متأخر - Teratogenicity, Carcinogenicity)\nI = Iatrogenic (سببه الطبيب - مرض أحدثه الدواء)",
+      "covers": [
+        "Adverse Effects"
+      ],
+      "source_ref": null
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "ما تعريف Pharmacology؟",
+      "back": "دراسة الأدوية وكيفية تفاعلها مع الخلايا الحية"
+    },
+    {
+      "front": "ما الفرق بين Pharmacokinetics و Pharmacodynamics؟",
+      "back": "PK = ما يفعله الجسم بالدواء (ADME)\nPD = ما يفعله الدواء بالجسم (التأثيرات وآليات العمل)"
+    },
+    {
+      "front": "ما هي خطوات ADME؟",
+      "back": "Absorption - Distribution - Metabolism - Excretion"
+    },
+    {
+      "front": "ما الاستخدامات الرئيسية للأدوية؟",
+      "back": "1. Symptomatic (تخفيف الأعراض)\n2. Preventative (وقائي)\n3. Diagnostic (تشخيصي)\n4. Curative (علاجي)\n5. Health Maintenance (صيانة الصحة)"
+    },
+    {
+      "front": "ما الفرق بين التصنيف العلاجي والتصنيف الفارماكولوجي للأدوية؟",
+      "back": "Therapeutic: حسب التأثير السريري (مثل Anticoagulants)\nPharmacologic: أكثر تحديداً، حسب آلية العمل الجزيئية (مثل ACE inhibitors)"
+    },
+    {
+      "front": "كم مرحلة للتجارب السريرية وما عدد المشاركين في كل مرحلة؟",
+      "back": "Phase I: 20-100 متطوع سليم (Safety)\nPhase II: مئات المرضى (Efficacy)\nPhase III: مئات-آلاف المرضى (Confirmatory)\nPhase IV: بعد الموافقة (Post-marketing)"
+    },
+    {
+      "front": "ما مصادر الأدوية الثلاثة الرئيسية؟",
+      "back": "1. Natural (طبيعي): عضوي (نباتات، حيوانات، كائنات دقيقة) أو غير عضوي (معادن)\n2. Synthetic (تخليقي): كيميائي أو بيولوجي (Recombinant DNA)\n3. Semisynthetic (شبه تخليقي): مثل مشتقات Morphine"
+    },
+    {
+      "front": "ما أنواع أسماء الأدوية؟ أعطِ مثالاً على كل نوع.",
+      "back": "1. Chemical name: Acetylsalicylic acid\n2. Generic (nonproprietary) name: Aspirin\n3. Trade/Brand name: Jusparin, Aspocid"
+    },
+    {
+      "front": "لماذا يُفضَّل الاسم الجنيسي (Generic) عند الوصف؟",
+      "back": "يعطي المريض خيارات أكثر ويقلل التكلفة"
+    },
+    {
+      "front": "ما تعريف Bioavailability؟",
+      "back": "القدرة الفسيولوجية للدواء للوصول إلى خلاياه المستهدفة وإنتاج تأثيره"
+    },
+    {
+      "front": "متى يُعتبر دوائان Bioequivalent؟",
+      "back": "عندما يُظهران توافراً حيوياً مماثلاً ووقتاً مشابهاً للوصول لذروة التركيز في الدم"
+    },
+    {
+      "front": "ما تصنيف Category X في الحمل؟",
+      "back": "تشوهات مطلقة للجنين - منع مطلق للاستخدام (Absolute CONTRAINDICATION)"
+    },
+    {
+      "front": "ما تصنيف Category A في الحمل؟",
+      "back": "لم يُثبت أي خطر على الجنين في أي ثلاثية"
+    },
+    {
+      "front": "ما Bizarre adverse effect؟ ومثال عليه؟",
+      "back": "تأثير جانبي غير مرتبط بالجرعة - مثل تفاعلات فرط الحساسية (Hypersensitivity) والتفاعلات الخاصة بالفرد (Idiosyncratic)"
+    },
+    {
+      "front": "كم سنة يستغرق تطوير دواء جديد وكم يكلف؟",
+      "back": "12-15 سنة وتكلف مليارات الدولارات"
+    },
+    {
+      "front": "ما الهدف العلاجي الأساسي (Therapeutic Goal) من الدواء؟",
+      "back": "تحقيق تراكيز الدواء في الموقع المستهدف تنتج التأثير المطلوب مع أدنى أو بلا آثار جانبية"
+    },
+    {
+      "front": "ما Pharmacogenetics؟",
+      "back": "دراسة كيف يغير الجينوم استجابة الجسم للأدوية"
+    },
+    {
+      "front": "ما Controlled Substances Category I؟",
+      "back": "أدوية بإمكانية إدمان عالية وبلا استخدام طبي معتمد"
+    },
+    {
+      "front": "عرّف Pharmacology",
+      "back": "علم دراسة الأدوية وكيفية تفاعلها مع الخلايا الحية."
+    },
+    {
+      "front": "عرّف Drug",
+      "back": "أي مادة كيميائية تُحدث تغيّراً في الوظيفة الحيوية عبر فعلها الكيميائي."
+    },
+    {
+      "front": "ما هو Pharmacotherapeutics؟",
+      "back": "دراسة الاستخدام السريري للأدوية لعلاج الأمراض."
+    },
+    {
+      "front": "ما هو Pharmacogenetics؟",
+      "back": "دراسة كيف تُغيّر الجينات استجابة الفرد للأدوية."
+    },
+    {
+      "front": "ما هو Pharmacoeconomics؟",
+      "back": "دراسة فعالية تكلفة العلاج الدوائي (cost-effectiveness)."
+    },
+    {
+      "front": "ما هو Pharmacoepidemiology؟",
+      "back": "دراسة تأثير الأدوية على مستوى المجتمعات/السكان."
+    },
+    {
+      "front": "اذكر مصادر الأدوية",
+      "back": "نباتية، حيوانية، معدنية، تخليقية (synthetic)، وهندسة حيوية (biotechnology)."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Pharmacokinetics is best described as:",
+      "options": [
+        "What the drug does to the body",
+        "What the body does to the drug",
+        "The study of drug toxicity",
+        "The study of drug interactions"
+      ],
+      "answer": 1,
+      "explanation": "PK = ما يفعله الجسم بالدواء، ويشمل ADME. أما PD فهو ما يفعله الدواء بالجسم."
+    },
+    {
+      "q": "Which phase of clinical trials involves 20-100 healthy volunteers and primarily assesses safety?",
+      "options": [
+        "Phase II",
+        "Phase III",
+        "Phase I",
+        "Phase IV"
+      ],
+      "answer": 2,
+      "explanation": "Phase I يشمل 20-100 متطوع سليم ويقيّم السلامة والتحمل والحركية الدوائية الأساسية."
+    },
+    {
+      "q": "A drug classified as Category X in pregnancy means:",
+      "options": [
+        "No risk demonstrated in any trimester",
+        "No human studies available",
+        "Only given in life-threatening situations",
+        "Absolute contraindication due to fetal abnormalities"
+      ],
+      "answer": 3,
+      "explanation": "Category X = تشوهات جنينية مطلقة ومنع مطلق للاستخدام أثناء الحمل."
+    },
+    {
+      "q": "Human insulin produced by recombinant DNA technology is an example of which drug source?",
+      "options": [
+        "Natural organic",
+        "Natural inorganic",
+        "Synthetic biological",
+        "Semisynthetic"
+      ],
+      "answer": 2,
+      "explanation": "التخليق البيولوجي باستخدام تقنية Recombinant DNA يُصنَّف ضمن Synthetic biological."
+    },
+    {
+      "q": "Post-marketing surveillance (Phase IV) is mainly conducted to:",
+      "options": [
+        "Assess basic pharmacokinetics",
+        "Compare with placebo in large populations",
+        "Detect rare or long-term adverse effects",
+        "Determine the therapeutic dose range"
+      ],
+      "answer": 2,
+      "explanation": "Phase IV يُجرى بعد الموافقة الرسمية للكشف عن الآثار النادرة أو طويلة الأمد وتقييم الفاعلية في الواقع الفعلي."
+    },
+    {
+      "q": "Which adverse effect type is dose-dependent and represents an extension of the pharmacological effect?",
+      "options": [
+        "Bizarre",
+        "Augmented",
+        "Delayed",
+        "Iatrogenic"
+      ],
+      "answer": 1,
+      "explanation": "Augmented = تضخيم الأثر الفارماكولوجي الطبيعي وهو مرتبط بالجرعة (dose-dependent)."
+    },
+    {
+      "q": "Two drugs are considered bioequivalent when they have:",
+      "options": [
+        "The same brand name",
+        "Comparable bioavailability and similar peak blood concentration times",
+        "Identical chemical structures",
+        "The same manufacturer"
+      ],
+      "answer": 1,
+      "explanation": "التكافؤ الحيوي يعني توافراً حيوياً مشابهاً وأوقاتاً مشابهة لبلوغ ذروة التركيز في الدم، مع نفس المادة الفعالة والجرعة."
+    },
+    {
+      "q": "Pharmacogenetics studies:",
+      "options": [
+        "Cost-effectiveness of drug therapy",
+        "Drug effects on populations",
+        "How genetics alters drug response",
+        "Long-term drug toxicity"
+      ],
+      "answer": 2,
+      "explanation": "Pharmacogenetics = دراسة كيف تؤثر الجينات على استجابة الجسم للأدوية."
+    },
+    {
+      "q": "Which of the following is a diagnostic use of drugs?",
+      "options": [
+        "Aspirin for fever",
+        "Antibiotics for infection",
+        "Radioactive dyes for disease detection",
+        "Hepatitis B vaccine"
+      ],
+      "answer": 2,
+      "explanation": "الاستخدام التشخيصي يستهدف تحديد وجود المرض، مثل الأصباغ المشعة (Radioactive dyes). أما Aspirin = Symptomatic، المضادات الحيوية = Curative، اللقاح = Preventative."
+    },
+    {
+      "q": "Teratogenicity and carcinogenicity are classified as which type of adverse drug reaction?",
+      "options": [
+        "Augmented",
+        "Bizarre",
+        "Chronic",
+        "Delayed"
+      ],
+      "answer": 3,
+      "explanation": "Teratogenicity (تشوهات جنينية) و Carcinogenicity (تسرطن) كلاهما تأثيرات متأخرة = Delayed adverse effects."
+    },
+    {
+      "q": "استخدام Aspirin لتخفيف الألم يُعد استخداماً:",
+      "options": [
+        "Curative",
+        "Symptomatic",
+        "Preventive",
+        "Diagnostic"
+      ],
+      "answer": 1,
+      "explanation": "تخفيف العرض دون إزالة السبب = Symptomatic.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "'ما يفعله الجسم بالدواء' يصف:",
+      "options": [
+        "Pharmacodynamics",
+        "Pharmacokinetics",
+        "Pharmacogenetics",
+        "Pharmacoeconomics"
+      ],
+      "answer": 1,
+      "explanation": "PK = ADME = ما يفعله الجسم بالدواء.",
+      "difficulty": "medium"
+    },
+    {
+      "q": "لقاح التهاب الكبد B مثال على استخدام:",
+      "options": [
+        "Symptomatic",
+        "Curative",
+        "Preventive",
+        "Diagnostic"
+      ],
+      "answer": 2,
+      "explanation": "اللقاحات وقائية (Preventive).",
+      "difficulty": "medium"
+    }
+  ]
+}
