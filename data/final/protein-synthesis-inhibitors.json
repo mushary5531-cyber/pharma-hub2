@@ -201,124 +201,124 @@
   ],
   "flashcards": [
     {
-      "front": "ما آلية عمل التتراسيكلينات؟",
-      "back": "ترتبط بشكل عكوس بالوحدة 30S الريبوسومية وتمنع ارتباط tRNA بمعقد mRNA-ribosome، مما يثبط تخليق البروتين. جراثيم-ثابتة (bacteriostatic)."
+      "front": "What is the mechanism of action of tetracyclines?",
+      "back": "Reversibly bind the 30S ribosomal subunit and prevent tRNA from binding to the mRNA-ribosome complex, thereby inhibiting protein synthesis. Bacteriostatic."
     },
     {
-      "front": "لماذا يُفضّل Doxycycline في قصور الكلى بين التتراسيكلينات؟",
-      "back": "لأنه يُطرح عبر الصفراء إلى البراز وليس عبر الكلى، على عكس بقية التتراسيكلينات."
+      "front": "Why is Doxycycline preferred in renal failure among the tetracyclines?",
+      "back": "Because it is excreted via bile into the feces rather than through the kidneys, unlike other tetracyclines."
     },
     {
-      "front": "ما تأثير التتراسيكلينات على الأطفال والجنين؟",
-      "back": "تترسب في العظام والأسنان النامية (ترتبط بالكالسيوم) → تلوين الأسنان وتشوه العظام. ممنوعة للأطفال < 8 سنوات وللحوامل."
+      "front": "What effect do tetracyclines have on children and the fetus?",
+      "back": "They deposit in developing bones and teeth (bind calcium) → tooth discoloration and bone deformity. Contraindicated in children < 8 years and in pregnant women."
     },
     {
-      "front": "ما الفرق بين الأمينوغليكوزيدات والتتراسيكلينات في آلية 30S؟",
-      "back": "التتراسيكلينات: ارتباط عكوس بـ 30S، bacteriostatic. الأمينوغليكوزيدات: ارتباط غير عكوس بـ 30S، تسبب قراءة خاطئة لـ mRNA وتكسّر ribosomes، bactericidal."
+      "front": "What is the difference between aminoglycosides and tetracyclines in their 30S mechanism?",
+      "back": "Tetracyclines: reversible binding to 30S, bacteriostatic. Aminoglycosides: irreversible binding to 30S, cause misreading of mRNA and ribosome disruption, bactericidal."
     },
     {
-      "front": "ما نمط قتل الأمينوغليكوزيدات؟ وما فائدة ذلك؟",
-      "back": "Concentration-dependent killing: كلما زاد التركيز زاد القتل. مع Post-antibiotic effect يسمح بالجرعة اليومية الواحدة (less toxicity + less cost)."
+      "front": "What is the killing pattern of aminoglycosides? What is the benefit?",
+      "back": "Concentration-dependent killing: greater concentration yields greater killing. Combined with post-antibiotic effect, this allows once-daily dosing (less toxicity + lower cost)."
     },
     {
-      "front": "لماذا لا يُعطى Neomycin بالحقن؟",
-      "back": "شديد السمية الكلوية جداً عند الاستخدام الجهازي. يُستخدم موضعياً أو فموياً لتحضير الأمعاء قبل جراحة القولون."
+      "front": "Why is Neomycin not given parenterally?",
+      "back": "It is highly nephrotoxic when used systemically. It is used topically or orally for bowel preparation before colon surgery."
     },
     {
-      "front": "ما مضاعفة الأمينوغليكوزيدات على الجهاز العصبي العضلي؟",
-      "back": "Neuromuscular paralysis بسبب الرفع السريع للتركيز أو مع حاصرات عصبية عضلية. خطر خاص في Myasthenia gravis. يُعالج بـ Calcium gluconate أو Neostigmine."
+      "front": "What is the neuromuscular complication of aminoglycosides?",
+      "back": "Neuromuscular paralysis due to rapid concentration rise or concurrent use with neuromuscular blockers. Particular risk in Myasthenia gravis. Treated with Calcium gluconate or Neostigmine."
     },
     {
-      "front": "ما الفرق بين Erythromycin وAzithromycin؟",
-      "back": "Azithromycin: أطول T1/2 (جرعة يومية واحدة)، أفضل ضد H.influenzae وChlamydia urogenital. Erythromycin: أقصر T1/2، بديل البنسلين في الحساسية، يسبب cholestatic jaundice."
+      "front": "What is the difference between Erythromycin and Azithromycin?",
+      "back": "Azithromycin: longer T1/2 (once-daily dosing), better against H. influenzae and urogenital Chlamydia. Erythromycin: shorter T1/2, penicillin alternative in allergy, risk of cholestatic jaundice."
     },
     {
-      "front": "ما التأثير الجانبي الخطير المرتبط بالماكروليدات على القلب؟",
-      "back": "إطالة QT interval (QT prolongation) مما يزيد خطر اضطرابات نظم القلب."
+      "front": "What is the serious cardiac side effect associated with macrolides?",
+      "back": "QT interval prolongation, which increases the risk of cardiac arrhythmias."
     },
     {
-      "front": "ما آلية عمل الكليندامايسين؟ وأهم استخداماته؟",
-      "back": "يرتبط بالوحدة 50S ويثبط الترجمة (bacteriostatic). يُستخدم ضد: G+ والجراثيم اللاهوائية (Bacteroides fragilis) وعدوى العظام (نفاذية جيدة للعظم)."
+      "front": "What is the mechanism of Clindamycin? What are its main uses?",
+      "back": "Binds the 50S subunit and inhibits translation (bacteriostatic). Used against: Gram-positive organisms, anaerobes (Bacteroides fragilis), and bone infections (good bone penetration)."
     },
     {
-      "front": "ما خطر الكليندامايسين المرتبط بـ C. difficile؟",
-      "back": "الكليندامايسين من أعلى المضادات الحيوية خطورةً لإحداث C.difficile infection (CDI/pseudomembranous colitis) ويحمل تحذير Boxed Warning."
+      "front": "What is the C. difficile risk associated with Clindamycin?",
+      "back": "Clindamycin is among the antibiotics with the highest risk of causing C. difficile infection (CDI/pseudomembranous colitis) and carries a Boxed Warning."
     },
     {
-      "front": "ما Gray Baby Syndrome؟ ولماذا يحدث؟",
-      "back": "تراكم Chloramphenicol في حديثي الولادة بسبب نقص glucuronyl transferase في الكبد → كبت النخاع العظمي وزرقة → مظهر 'رمادي'. قد يكون مميتاً."
+      "front": "What is Gray Baby Syndrome? Why does it occur?",
+      "back": "Accumulation of Chloramphenicol in neonates due to deficient hepatic glucuronyl transferase → bone marrow suppression and cyanosis → 'gray' appearance. Can be fatal."
     },
     {
-      "front": "ما التحذير الخطير الرئيسي لـ Linezolid عند الاستخدام المطوّل؟",
-      "back": "Irreversible peripheral neuropathy وأعصاب بصرية (optic neuritis → عمى) عند الاستخدام > 28 يوماً. أيضاً يثبط MAO → serotonin syndrome."
+      "front": "What is the main serious warning for Linezolid with prolonged use?",
+      "back": "Irreversible peripheral neuropathy and optic neuritis (→ blindness) with use > 28 days. Also inhibits MAO → serotonin syndrome."
     },
     {
-      "front": "ما الفرق بين Demeclocycline واستخداماتها المميزة؟",
-      "back": "Demeclocycline = تتراسيكلين يُستخدم لعلاج SIADH (متلازمة الإفراز غير الملائم لـ ADH) لأنه يثبط فعل ADH على الكلى."
+      "front": "What is Demeclocycline and its distinctive use?",
+      "back": "Demeclocycline is a tetracycline used to treat SIADH (Syndrome of Inappropriate ADH Secretion) because it inhibits the renal action of ADH."
     },
     {
-      "front": "ما هو Metronidazole وآلية عمله؟",
-      "back": "Metronidazole (Flagyl) نيتروإيميدازول يكسر DNA البكتيري والطفيلي. فعّال ضد G- اللاهوائيات والطفيليات (Giardia, Trichomonas, Entamoeba). أهم تأثير جانبي: طعم معدني."
+      "front": "What is Metronidazole and its mechanism of action?",
+      "back": "Metronidazole (Flagyl) is a nitroimidazole that breaks bacterial and parasitic DNA. Effective against Gram-negative anaerobes and parasites (Giardia, Trichomonas, Entamoeba). Most notable side effect: metallic taste."
     },
     {
-      "front": "لماذا لا تُستخدم الأمينوغليكوزيدات في التهاب السحايا؟",
-      "back": "لأنها لا تعبر الحاجز الدموي الدماغي (BBB) بتركيزات كافية حتى عند التهاب السحايا."
+      "front": "Why are aminoglycosides not used for meningitis?",
+      "back": "Because they do not cross the blood-brain barrier (BBB) at sufficient concentrations even during meningitis."
     },
     {
-      "front": "ما استخدام Streptomycin المميز؟",
-      "back": "السل (Tuberculosis) والطاعون (Plague) والبروسيلا، يُعطى عضلياً (IM)."
+      "front": "What is the distinctive use of Streptomycin?",
+      "back": "Tuberculosis, Plague, and Brucella; administered intramuscularly (IM)."
     },
     {
-      "front": "ما الأطعمة التي يجب تجنبها مع التتراسيكلينات؟",
-      "back": "الحليب، الجبن، وكل ما يحتوي Ca++, Mg++, Al+++, Iron لأنها تكوّن chelates غير قابلة للامتصاص مع التتراسيكلينات."
+      "front": "What foods should be avoided with tetracyclines?",
+      "back": "Milk, cheese, and anything containing Ca++, Mg++, Al+++, or Iron — they form non-absorbable chelates with tetracyclines."
     },
     {
-      "front": "ما الفرق بين الماكروليدات وكيف تُطرح من الجسم؟",
-      "back": "تُطرح الماكروليدات عبر الكبد (hepatic) وليس الكلى. تثبط CYP450 مما يسبب تفاعلات دوائية. Azithromycin له أطول T1/2."
+      "front": "What is the difference between macrolides and how are they eliminated?",
+      "back": "Macrolides are eliminated via the liver (hepatic), not the kidneys. They inhibit CYP450, causing drug interactions. Azithromycin has the longest T1/2."
     },
     {
-      "front": "ما آلية عمل Linezolid وما الفرق عن بقية مثبطات 50S؟",
-      "back": "Linezolid يرتبط بـ 23S rRNA في الوحدة 50S ويثبط تكوين مركب الابتداء 70S. هذه نقطة ارتباط فريدة تختلف عن Chloramphenicol والماكروليدات."
+      "front": "What is the mechanism of Linezolid and how does it differ from other 50S inhibitors?",
+      "back": "Linezolid binds to 23S rRNA in the 50S subunit and inhibits formation of the 70S initiation complex. This binding site is unique and differs from Chloramphenicol and macrolides."
     },
     {
-      "front": "أي مثبطات تخليق البروتين تعمل على 30S؟",
-      "back": "الأمينوغليكوزيدات والتتراسيكلينات.",
+      "front": "Which protein synthesis inhibitors act on 30S?",
+      "back": "Aminoglycosides and tetracyclines.",
       "tag": "high-yield"
     },
     {
-      "front": "أي مثبطات تعمل على 50S؟",
-      "back": "الماكروليدات، Clindamycin، Chloramphenicol، Linezolid."
+      "front": "Which inhibitors act on 50S?",
+      "back": "Macrolides, Clindamycin, Chloramphenicol, Linezolid."
     },
     {
-      "front": "لماذا الأمينوغليكوزيدات قاتلة وتحتاج O2؟",
-      "back": "تحتاج نقلاً هوائياً للدخول → لا تعمل على اللاهوائيات؛ قتل معتمد على التركيز.",
+      "front": "Why are aminoglycosides bactericidal and require O2?",
+      "back": "They require aerobic transport to enter cells → do not work on anaerobes; concentration-dependent killing.",
       "tag": "high-yield"
     },
     {
-      "front": "ما سُمّيات الأمينوغليكوزيدات؟",
-      "back": "كلوية، سمعية/دهليزية، حصار عصبي عضلي، ماسخة (STAG-N → NNOT)."
+      "front": "What are the toxicities of aminoglycosides?",
+      "back": "Nephrotoxicity, ototoxicity/vestibulotoxicity, neuromuscular blockade, teratogenicity (STAG-N → NNOT)."
     },
     {
-      "front": "ما سُمّية Chloramphenicol؟",
-      "back": "فقر دم لا تنسجي ومتلازمة الطفل الرمادي (grey baby).",
+      "front": "What is the toxicity of Chloramphenicol?",
+      "back": "Aplastic anemia and Gray Baby Syndrome.",
       "tag": "high-yield"
     },
     {
-      "front": "ما سُمّية التتراسيكلين المميّزة؟",
-      "back": "تصبّغ الأسنان وتثبيط نمو العظام؛ تُمنع بالحمل والأطفال."
+      "front": "What is the distinctive toxicity of tetracycline?",
+      "back": "Tooth discoloration and inhibition of bone growth; contraindicated in pregnancy and children."
     },
     {
-      "front": "ما آلية الماكروليدات (Erythromycin)؟",
-      "back": "ترتبط بـ 50S وتمنع الانتقال (translocation)؛ موقفة للنمو."
+      "front": "What is the mechanism of macrolides (Erythromycin)?",
+      "back": "Bind to 50S and inhibit translocation; bacteriostatic."
     },
     {
-      "front": "ما ميزة Linezolid؟",
-      "back": "فعّال ضد MRSA وVRE؛ خطر تثبيط نقوي ومتلازمة سيروتونين."
+      "front": "What is the advantage of Linezolid?",
+      "back": "Effective against MRSA and VRE; risk of myelosuppression and serotonin syndrome."
     }
   ],
   "mcqs": [
     {
-      "q": "طفل عمره 5 سنوات يحتاج علاج عدوى Chlamydia. أي المضادات الحيوية ممنوع إعطاؤه؟",
+      "q": "A 5-year-old child needs treatment for Chlamydia infection. Which antibiotic is contraindicated?",
       "options": [
         "Azithromycin",
         "Erythromycin",
@@ -326,10 +326,10 @@
         "Clarithromycin"
       ],
       "answer": 2,
-      "explanation": "Tetracycline ممنوع للأطفال أقل من 8 سنوات بسبب ترسبه في العظام والأسنان النامية مما يسبب تلوناً وتشوهات."
+      "explanation": "Tetracycline is contraindicated in children under 8 years of age due to its deposition in developing bones and teeth, causing discoloration and deformities."
     },
     {
-      "q": "ما التتراسيكلين الوحيد المفضّل في مرضى قصور الكلى؟",
+      "q": "Which tetracycline is preferred in patients with renal failure?",
       "options": [
         "Tetracycline",
         "Minocycline",
@@ -337,10 +337,10 @@
         "Demeclocycline"
       ],
       "answer": 2,
-      "explanation": "Doxycycline يُطرح عبر الصفراء (feces) وليس عبر الكلى، لذلك هو الوحيد الآمن في قصور الكلى."
+      "explanation": "Doxycycline is excreted via bile (feces) rather than through the kidneys, making it the only safe tetracycline in renal failure."
     },
     {
-      "q": "مريض يتلقى Aminoglycoside وظهرت عليه شلل عضلي تدريجي. ما العلاج الصحيح؟",
+      "q": "A patient receiving an aminoglycoside develops progressive muscle paralysis. What is the correct treatment?",
       "options": [
         "Atropine",
         "Epinephrine",
@@ -348,10 +348,10 @@
         "Vitamin K"
       ],
       "answer": 2,
-      "explanation": "Calcium gluconate أو Neostigmine يعكسان الحصار العصبي العضلي الناتج عن الأمينوغليكوزيدات."
+      "explanation": "Calcium gluconate or Neostigmine reverse the neuromuscular blockade caused by aminoglycosides."
     },
     {
-      "q": "ما الأمينوغليكوزيد الذي يُستخدم فموياً لتحضير الأمعاء قبل الجراحة؟",
+      "q": "Which aminoglycoside is used orally for bowel preparation before surgery?",
       "options": [
         "Gentamicin",
         "Streptomycin",
@@ -359,10 +359,10 @@
         "Neomycin"
       ],
       "answer": 3,
-      "explanation": "Neomycin شديد السمية الكلوية جهازياً، لذلك يُعطى فموياً (لا يُمتص) أو موضعياً فقط."
+      "explanation": "Neomycin is highly nephrotoxic systemically, so it is given orally (not absorbed) or topically only."
     },
     {
-      "q": "مريضة حامل مصابة بعدوى Chlamydia. ما المضاد الحيوي الأنسب؟",
+      "q": "A pregnant patient has Chlamydia infection. What is the most appropriate antibiotic?",
       "options": [
         "Tetracycline",
         "Doxycycline",
@@ -370,10 +370,10 @@
         "Minocycline"
       ],
       "answer": 2,
-      "explanation": "Erythromycin هو الخيار الأمثل للـ Chlamydia في الحمل. التتراسيكلينات ممنوعة في الحمل بسبب تأثيرها على عظام وأسنان الجنين."
+      "explanation": "Erythromycin is the optimal choice for Chlamydia in pregnancy. Tetracyclines are contraindicated in pregnancy due to their effects on fetal bones and teeth."
     },
     {
-      "q": "أي الأدوية التالية يسبب Gray Baby Syndrome؟",
+      "q": "Which of the following drugs causes Gray Baby Syndrome?",
       "options": [
         "Erythromycin",
         "Clindamycin",
@@ -381,10 +381,10 @@
         "Linezolid"
       ],
       "answer": 2,
-      "explanation": "Chloramphenicol يتراكم في حديثي الولادة بسبب نقص glucuronyl transferase → Gray Baby Syndrome مع كبت نخاع وزرقة."
+      "explanation": "Chloramphenicol accumulates in neonates due to deficient glucuronyl transferase → Gray Baby Syndrome with bone marrow suppression and cyanosis."
     },
     {
-      "q": "مريض يتناول Linezolid منذ 6 أسابيع. ما المضاعفة الأكثر قلقاً؟",
+      "q": "A patient has been taking Linezolid for 6 weeks. What is the most concerning complication?",
       "options": [
         "Nephrotoxicity",
         "Hepatotoxicity",
@@ -392,10 +392,10 @@
         "QT prolongation"
       ],
       "answer": 2,
-      "explanation": "Linezolid مع الاستخدام > 28 يوماً يسبب neuropathy محيطية لا عكوسة وأعصاب بصرية قد تؤدي للعمى."
+      "explanation": "Linezolid with use > 28 days causes irreversible peripheral neuropathy and optic neuritis that may lead to blindness."
     },
     {
-      "q": "ما الـ 3Ps التي لا يغطيها Tigecycline؟",
+      "q": "What are the 3Ps not covered by Tigecycline?",
       "options": [
         "Pneumonia, Plague, Pertussis",
         "Pseudomonas, Proteus, Providencia",
@@ -403,21 +403,21 @@
         "Pasteurella, Propionibacterium, Peptostreptococcus"
       ],
       "answer": 1,
-      "explanation": "Tigecycline لا يغطي الـ 3Ps: Pseudomonas, Proteus, Providencia رغم طيفه الواسع جداً."
+      "explanation": "Tigecycline does not cover the 3Ps: Pseudomonas, Proteus, Providencia despite its very broad spectrum."
     },
     {
-      "q": "ما الفرق الرئيسي بين نمط قتل الأمينوغليكوزيدات والبنسلينات؟",
+      "q": "What is the main difference in killing pattern between aminoglycosides and penicillins?",
       "options": [
-        "الأمينوغليكوزيدات وقت-معتمدة، البنسلينات تركيز-معتمدة",
-        "الأمينوغليكوزيدات تركيز-معتمدة مع PAE، البنسلينات وقت-معتمدة بلا PAE",
-        "كلاهما تركيز-معتمد",
-        "كلاهما وقت-معتمد"
+        "Aminoglycosides are time-dependent, penicillins are concentration-dependent",
+        "Aminoglycosides are concentration-dependent with PAE, penicillins are time-dependent without PAE",
+        "Both are concentration-dependent",
+        "Both are time-dependent"
       ],
       "answer": 1,
-      "explanation": "الأمينوغليكوزيدات: concentration-dependent مع post-antibiotic effect (PAE) يسمح بجرعة يومية واحدة. البنسلينات: time-dependent بلا PAE تقريباً."
+      "explanation": "Aminoglycosides: concentration-dependent with post-antibiotic effect (PAE), allowing once-daily dosing. Penicillins: time-dependent with virtually no PAE."
     },
     {
-      "q": "أي الماكروليدات هو الخيار الأول لـ urogenital Chlamydia infection؟",
+      "q": "Which macrolide is first-line for urogenital Chlamydia infection?",
       "options": [
         "Erythromycin",
         "Clarithromycin",
@@ -425,22 +425,22 @@
         "Telithromycin"
       ],
       "answer": 2,
-      "explanation": "Azithromycin هو الخيار الأول لـ Chlamydia urogenital بفضل T1/2 الطويل جداً والجرعة الواحدة الكافية للعلاج."
+      "explanation": "Azithromycin is first-line for urogenital Chlamydia due to its very long T1/2 and a single sufficient treatment dose."
     },
     {
-      "q": "الأمينوغليكوزيدات لا تعمل على اللاهوائيات لأنها:",
+      "q": "Aminoglycosides do not work against anaerobes because they:",
       "options": [
-        "كبيرة جداً",
-        "تحتاج نقلاً هوائياً (O2)",
-        "موقفة للنمو",
-        "تُحطّم بالحمض"
+        "Are too large",
+        "Require aerobic transport (O2)",
+        "Are bacteriostatic",
+        "Are destroyed by acid"
       ],
       "answer": 1,
-      "explanation": "دخولها يعتمد على الأكسجين.",
+      "explanation": "Their entry depends on oxygen.",
       "difficulty": "medium"
     },
     {
-      "q": "متلازمة الطفل الرمادي ترتبط بـ:",
+      "q": "Gray Baby Syndrome is associated with:",
       "options": [
         "Gentamicin",
         "Chloramphenicol",
@@ -448,19 +448,19 @@
         "Erythromycin"
       ],
       "answer": 1,
-      "explanation": "نقص استقلابه عند الولدان.",
+      "explanation": "Deficient metabolism in neonates.",
       "difficulty": "medium"
     },
     {
-      "q": "Linezolid مفيد بشكل خاص ضد:",
+      "q": "Linezolid is particularly useful against:",
       "options": [
-        "سالبة الغرام",
-        "MRSA وVRE",
-        "الفطريات",
-        "اللاهوائيات فقط"
+        "Gram-negative organisms",
+        "MRSA and VRE",
+        "Fungi",
+        "Anaerobes only"
       ],
       "answer": 1,
-      "explanation": "يغطي موجبة الغرام المقاومة.",
+      "explanation": "Covers resistant Gram-positive organisms.",
       "difficulty": "medium"
     }
   ],

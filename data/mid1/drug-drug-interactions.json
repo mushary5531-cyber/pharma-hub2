@@ -116,117 +116,117 @@
   ],
   "flashcards": [
     {
-      "front": "ما هي العوامل المؤهبة لحدوث التفاعلات الدوائية؟",
-      "back": "كبر السن، تناول أدوية متعددة، المرض الحاد الشديد، ضعف وظائف الكلى والكبد، أكثر من طبيب واحد يصف الأدوية"
+      "front": "What are the predisposing factors for drug-drug interactions?",
+      "back": "Advanced age, polypharmacy, severe acute illness, impaired renal and hepatic function, more than one prescribing physician."
     },
     {
-      "front": "ما الفرق بين الدواء المحرِّض (Precipitant) والدواء الهدف (Object) في التفاعلات؟",
-      "back": "المحرِّض هو الدواء الذي يُسبب التفاعل (مثل الريفامبيسين)، بينما الهدف هو الدواء الذي يتأثر تركيزه أو فعاليته (مثل الوارفارين)"
+      "front": "What is the difference between the Precipitant drug and the Object drug in interactions?",
+      "back": "The precipitant is the drug that causes the interaction (e.g., Rifampin); the object is the drug whose concentration or effect is altered (e.g., Warfarin)."
     },
     {
-      "front": "كيف يؤثر الميتوكلوبراميد على امتصاص الأدوية؟",
-      "back": "يزيد من حركية المعدة ويُسرِّع الإفراغ المعدي، مما يزيد امتصاص البروبرانولول والباراسيتامول"
+      "front": "How does Metoclopramide affect drug absorption?",
+      "back": "It increases gastric motility and accelerates gastric emptying, thereby increasing absorption of Propranolol and Paracetamol."
     },
     {
-      "front": "لماذا تُقلل مضادات الحموضة (Mg++, Al+++) من فعالية التيتراسيكلين والسيبروفلوكساسين؟",
-      "back": "لأنها تتشيلت (chelation) مع هذه الأدوية وتمنع امتصاصها من الأمعاء"
+      "front": "Why do antacids (Mg++, Al+++) reduce the efficacy of Tetracycline and Ciprofloxacin?",
+      "back": "Because they form chelation complexes with these drugs, preventing their absorption from the gastrointestinal tract."
     },
     {
-      "front": "ما التفاعل الخطير بين الأسبرين والوارفارين؟",
-      "back": "الأسبرين يُزيح الوارفارين من مواقع ارتباطه ببروتينات البلازما، مما يرفع مستوى الوارفارين الحر ويزيد خطر النزيف"
+      "front": "What is the dangerous interaction between Aspirin and Warfarin?",
+      "back": "Aspirin displaces Warfarin from its plasma protein binding sites, raising the free Warfarin fraction and increasing the risk of bleeding."
     },
     {
-      "front": "اذكر خمسة من محرضات إنزيمات CYP450.",
-      "back": "Rifampin, Phenytoin, Carbamazepine, Barbiturates, Dexamethasone, Ethanol, Smoking"
+      "front": "Name five CYP450 enzyme inducers.",
+      "back": "Rifampin, Phenytoin, Carbamazepine, Barbiturates, Dexamethasone, Ethanol, Smoking."
     },
     {
-      "front": "اذكر خمسة من مثبطات إنزيمات CYP450.",
-      "back": "Ketoconazole, Erythromycin, Ciprofloxacin, Cimetidine, Grapefruit juice, Ritonavir, Omeprazole"
+      "front": "Name five CYP450 enzyme inhibitors.",
+      "back": "Ketoconazole, Erythromycin, Ciprofloxacin, Cimetidine, Grapefruit juice, Ritonavir, Omeprazole."
     },
     {
-      "front": "ما تأثير إعطاء الريفامبيسين مع حبوب منع الحمل؟",
-      "back": "الريفامبيسين يُحرِّض CYP2C وCYP3A فيزيد استقلاب هرمونات حبوب منع الحمل مما يُسبب فشل منع الحمل"
+      "front": "What is the effect of co-administering Rifampin with oral contraceptives?",
+      "back": "Rifampin induces CYP2C and CYP3A, increasing the metabolism of the contraceptive hormones, causing contraceptive failure."
     },
     {
-      "front": "ما هي خاصية 'ion trapping' في الإفراز الكلوي؟",
-      "back": "تحميض البول يزيد إفراز القواعد الضعيفة (أمفيتامين)، وتقليب البول يزيد إفراز الأحماض الضعيفة (أسبرين، فينوباربيتال)"
+      "front": "What is 'ion trapping' in renal excretion?",
+      "back": "Acidifying the urine increases excretion of weak bases (amphetamine); alkalinizing the urine increases excretion of weak acids (aspirin, phenobarbital)."
     },
     {
-      "front": "ما التفاعل بين MAOI و SSRI؟",
-      "back": "تفاعل خطير جداً: يؤدي إلى متلازمة السيروتونين (حمى، صلابة العضلات، غيبوبة)"
+      "front": "What is the interaction between MAOI and SSRI?",
+      "back": "A very dangerous interaction: leads to serotonin syndrome (fever, muscle rigidity, coma)."
     },
     {
-      "front": "لماذا يُعطى البروبينسيد مع البنسلين؟",
-      "back": "البروبينسيد يُثبط الإفراز النبيبي للبنسلين في الكلى، فيرفع مستواه في الدم ويُطيل مفعوله"
+      "front": "Why is Probenecid given with Penicillin?",
+      "back": "Probenecid inhibits the tubular secretion of Penicillin in the kidneys, raising its blood level and prolonging its effect."
     },
     {
-      "front": "ما التفاعل بين 6-ميركابتوبورين والألوبيورينول؟",
-      "back": "الألوبيورينول يثبط إنزيم xanthine oxidase الذي يُكسّر 6-MP، مما يُراكمه ويزيد قمع نخاع العظم"
+      "front": "What is the interaction between 6-mercaptopurine and Allopurinol?",
+      "back": "Allopurinol inhibits xanthine oxidase, which breaks down 6-MP, causing its accumulation and worsening bone marrow suppression."
     },
     {
-      "front": "لماذا لا يُضاف الأمبيسيلين والكلوربرومازين والباربيتورات إلى محاليل الدكستران؟",
-      "back": "لأنها تتفاعل كيميائياً مع الدكستران وتُكوِّن معقدات تُفقد الأدوية فعاليتها"
+      "front": "Why should Ampicillin, Chlorpromazine, and Barbiturates not be added to Dextran solutions?",
+      "back": "Because they react chemically with Dextran, forming complexes that cause loss of drug activity."
     },
     {
-      "front": "ما تأثير فيراباميل مع حاصرات بيتا؟",
-      "back": "تأثير تآزري يُسبب بطء شديد في القلب (Bradycardia) وقد يصل إلى توقف القلب (Asystole)"
+      "front": "What is the effect of Verapamil combined with beta-blockers?",
+      "back": "A synergistic effect causing severe bradycardia, which may progress to asystole."
     },
     {
-      "front": "ما آلية تفاعل النيوروماسكولار بلوكر مع الأمينوغليكوزيدات؟",
-      "back": "الأمينوغليكوزيدات تزيد من حصار الوصل العصبي العضلي (neuromuscular blockade)، مما يُطيل الشلل العضلي بعد التخدير"
+      "front": "What is the mechanism of the neuromuscular blocker–aminoglycoside interaction?",
+      "back": "Aminoglycosides potentiate neuromuscular blockade, prolonging muscle paralysis after anaesthesia."
     },
     {
-      "front": "ما تأثير الكولستيرامين على امتصاص الأدوية؟",
-      "back": "يرتبط بالوارفارين والديجوكسين والثيروكسين في الأمعاء ويمنع امتصاصها، مما يُقلل فعاليتها"
+      "front": "What is the effect of Cholestyramine on drug absorption?",
+      "back": "It binds Warfarin, Digoxin, and Thyroxine in the intestine, preventing their absorption and reducing their efficacy."
     },
     {
-      "front": "ما التفاعل بين NSAIDs ومثبطات ACE؟",
-      "back": "NSAIDs تُسبب احتباس الصوديوم وتُضعف تأثير مثبطات ACE الخافض للضغط"
+      "front": "What is the interaction between NSAIDs and ACE inhibitors?",
+      "back": "NSAIDs cause sodium retention and attenuate the antihypertensive effect of ACE inhibitors."
     },
     {
-      "front": "ما خطورة الجمع بين ACE inhibitors وK+ sparing diuretics؟",
-      "back": "كلاهما يرفع البوتاسيوم، فالجمع بينهما يُسبب فرط بوتاسيوم الدم (Hyperkalemia) الخطير"
+      "front": "What is the danger of combining ACE inhibitors with K+-sparing diuretics?",
+      "back": "Both raise potassium levels; combining them causes dangerous hyperkalemia."
     },
     {
-      "front": "ما العوامل المهيّئة للتداخلات الدوائية؟",
-      "back": "التقدم بالعمر، تعدد الأدوية، مرض حاد على مزمن، ضعف وظائف الكلى/الكبد، تعدد الأطباء الواصفين.",
+      "front": "What are the predisposing factors for drug-drug interactions?",
+      "back": "Advanced age, polypharmacy, acute-on-chronic illness, impaired renal/hepatic function, multiple prescribing physicians.",
       "tag": "high-yield"
     },
     {
-      "front": "ما خصائص الأدوية التي غالباً تكون 'object' في التداخل؟",
-      "back": "ذات منحنى جرعة-استجابة حاد ومؤشر علاجي منخفض (TI ضيق)."
+      "front": "What are the characteristics of drugs that are commonly the 'object' in an interaction?",
+      "back": "Steep dose-response curve and narrow therapeutic index (narrow TI)."
     },
     {
-      "front": "ما هي أنواع التداخلات الدوائية الرئيسية؟",
-      "back": "Pharmaceutical (خارج الجسم)، Pharmacokinetic (ADME)، Pharmacodynamic (على نفس/معاكس التأثير).",
+      "front": "What are the main types of drug-drug interactions?",
+      "back": "Pharmaceutical (outside the body), Pharmacokinetic (ADME), Pharmacodynamic (same or opposing effect).",
       "tag": "high-yield"
     },
     {
-      "front": "كيف يحدث التداخل عبر الإزاحة من البروتين؟",
-      "back": "دواء عالي الارتباط البروتيني يزيح آخر من مواقع الألبومين → ↑ الجزء الحر → سُمّية."
+      "front": "How does plasma protein displacement cause an interaction?",
+      "back": "A highly protein-bound drug displaces another from albumin binding sites → ↑ free fraction → toxicity."
     },
     {
-      "front": "اذكر محفّزات إنزيمات الكبد",
-      "back": "Rifampicin, Phenytoin, Carbamazepine, Barbiturates, الكحول المزمن.",
+      "front": "List hepatic enzyme inducers.",
+      "back": "Rifampicin, Phenytoin, Carbamazepine, Barbiturates, chronic Ethanol.",
       "tag": "high-yield"
     },
     {
-      "front": "اذكر مثبّطات إنزيمات الكبد",
-      "back": "Cimetidine, Ketoconazole, Erythromycin, عصير الجريب فروت.",
+      "front": "List hepatic enzyme inhibitors.",
+      "back": "Cimetidine, Ketoconazole, Erythromycin, Grapefruit juice.",
       "tag": "high-yield"
     },
     {
-      "front": "ما تأثير محفّز الإنزيم على فعالية حبوب منع الحمل؟",
-      "back": "يقلل تركيزها → فشل الحماية (حمل غير مقصود)."
+      "front": "What is the effect of an enzyme inducer on oral contraceptive efficacy?",
+      "back": "Reduces their concentration → contraceptive failure (unintended pregnancy)."
     },
     {
-      "front": "مثال على تداخل بالامتصاص؟",
-      "back": "Tetracyclines + الكالسيوم/الحديد/مضادات الحموضة → chelation يمنع الامتصاص."
+      "front": "Give an example of an absorption-level interaction.",
+      "back": "Tetracyclines + calcium/iron/antacids → chelation prevents absorption."
     }
   ],
   "mcqs": [
     {
-      "q": "أي الأدوية التالية يزيد امتصاص البروبرانولول والباراسيتامول بزيادة حركية المعدة؟",
+      "q": "Which of the following drugs increases the absorption of Propranolol and Paracetamol by increasing gastric motility?",
       "options": [
         "Atropine",
         "Metoclopramide",
@@ -234,32 +234,32 @@
         "Probenecid"
       ],
       "answer": 1,
-      "explanation": "الميتوكلوبراميد يُسرِّع الإفراغ المعدي فيزيد امتصاص البروبرانولول والباراسيتامول. الأتروبين يُعاكس ذلك."
+      "explanation": "Metoclopramide accelerates gastric emptying, increasing absorption of Propranolol and Paracetamol. Atropine has the opposite effect."
     },
     {
-      "q": "مريض يتناول ريفامبيسين (Rifampin) ويستخدم حبوب منع الحمل. ما المتوقع؟",
+      "q": "A patient taking Rifampin is also using oral contraceptives. What is the expected outcome?",
       "options": [
-        "زيادة فعالية حبوب منع الحمل",
-        "لا تأثير على حبوب منع الحمل",
-        "فشل منع الحمل بسبب تحريض إنزيمات CYP",
-        "ارتفاع مستوى استروجين الدم"
+        "Increased efficacy of the oral contraceptives",
+        "No effect on the oral contraceptives",
+        "Contraceptive failure due to CYP enzyme induction",
+        "Elevated serum oestrogen levels"
       ],
       "answer": 2,
-      "explanation": "الريفامبيسين محرِّض قوي لـ CYP2C وCYP3A يزيد استقلاب هرمونات حبوب منع الحمل، مما يُنقص فعاليتها ويُسبب فشل منع الحمل."
+      "explanation": "Rifampin is a potent inducer of CYP2C and CYP3A; it increases the metabolism of contraceptive hormones, reducing their efficacy and causing contraceptive failure."
     },
     {
-      "q": "لماذا لا يُعطى التيتراسيكلين مع مضادات الحموضة التي تحتوي على الألومنيوم؟",
+      "q": "Why should Tetracycline not be given with aluminium-containing antacids?",
       "options": [
-        "لأن مضادات الحموضة تزيد pH المعدة فتُقلل امتصاص التيتراسيكلين فقط",
-        "لأن مضادات الحموضة تتشيلت مع التيتراسيكلين وتمنع امتصاصه",
-        "لأن التيتراسيكلين يثبط مضادات الحموضة",
-        "لا يوجد تفاعل بينهما"
+        "Because antacids raise gastric pH, reducing Tetracycline absorption only",
+        "Because antacids chelate Tetracycline and prevent its absorption",
+        "Because Tetracycline inhibits antacids",
+        "There is no interaction between them"
       ],
       "answer": 1,
-      "explanation": "أيونات Mg++ وAl+++ وCa++ تتشيلت (chelation) مع التيتراسيكلين والسيبروفلوكساسين مما يمنع امتصاصهما من الجهاز الهضمي."
+      "explanation": "Mg++, Al+++, and Ca++ ions chelate Tetracycline and Ciprofloxacin, preventing their absorption from the gastrointestinal tract."
     },
     {
-      "q": "أي مما يلي مثبط لإنزيمات CYP450 الكبدية؟",
+      "q": "Which of the following is an inhibitor of hepatic CYP450 enzymes?",
       "options": [
         "Phenytoin",
         "Rifampin",
@@ -267,108 +267,108 @@
         "Carbamazepine"
       ],
       "answer": 2,
-      "explanation": "الكيتوكونازول مثبط لـ CYP450. أما الفينيتوين والريفامبيسين والكاربامازيبين فهي محرِّضات إنزيمية."
+      "explanation": "Ketoconazole is a CYP450 inhibitor. Phenytoin, Rifampin, and Carbamazepine are enzyme inducers."
     },
     {
-      "q": "مريض يتناول MAOI ويأكل كميات كبيرة من الجبن. ما الخطر المحتمل؟",
+      "q": "A patient taking an MAOI eats a large amount of cheese. What is the likely danger?",
       "options": [
-        "نقص ضغط الدم",
-        "أزمة ارتفاع ضغط الدم الحادة",
-        "تفاعل حساسية خفيف",
-        "نقص السكر في الدم"
+        "Hypotension",
+        "Acute hypertensive crisis",
+        "Mild allergic reaction",
+        "Hypoglycaemia"
       ],
       "answer": 1,
-      "explanation": "الجبن يحتوي على تيرامين الذي يُكسَّر عادةً بـ MAO. مع تثبيط MAO، يتراكم التيرامين ويُطلق كاتيكولامينات مما يُسبب أزمة ارتفاع ضغط الدم."
+      "explanation": "Cheese contains tyramine, which is normally broken down by MAO. With MAO inhibited, tyramine accumulates and releases large amounts of catecholamines, causing an acute hypertensive crisis."
     },
     {
-      "q": "ما التفاعل الخطير بين MAOI و SSRI؟",
+      "q": "What is the dangerous interaction between MAOI and SSRI?",
       "options": [
-        "فشل كلوي",
-        "متلازمة السيروتونين (حمى، صلابة، غيبوبة)",
-        "نقص ضغط الدم",
-        "احتشاء عضلة القلب"
+        "Renal failure",
+        "Serotonin syndrome (fever, rigidity, coma)",
+        "Hypotension",
+        "Myocardial infarction"
       ],
       "answer": 1,
-      "explanation": "الجمع بين MAOI وSSRI يُسبب تراكماً خطيراً للسيروتونين مما يؤدي إلى متلازمة السيروتونين التي قد تكون مهددة للحياة."
+      "explanation": "Combining MAOI and SSRI causes a dangerous accumulation of serotonin leading to serotonin syndrome, which can be life-threatening."
     },
     {
-      "q": "ما الهدف من إعطاء البروبينسيد مع البنسلين؟",
+      "q": "What is the purpose of giving Probenecid with Penicillin?",
       "options": [
-        "تقليل سمية البنسلين",
-        "إطالة مفعول البنسلين بتثبيط إفرازه الكلوي",
-        "زيادة امتصاص البنسلين",
-        "تحسين توزيع البنسلين في الأنسجة"
+        "To reduce Penicillin toxicity",
+        "To prolong the effect of Penicillin by inhibiting its renal secretion",
+        "To increase Penicillin absorption",
+        "To improve Penicillin distribution into tissues"
       ],
       "answer": 1,
-      "explanation": "البروبينسيد يثبط الإفراز النبيبي النشط للبنسلين في الكلى، مما يُطيل عمره النصفي ويرفع مستواه في الدم."
+      "explanation": "Probenecid inhibits the active tubular secretion of Penicillin in the kidneys, prolonging its half-life and raising its blood level."
     },
     {
-      "q": "أي مما يلي يُسبب زيادة إفراز الأمفيتامين (قاعدة ضعيفة) في البول؟",
+      "q": "Which of the following increases urinary excretion of Amphetamine (a weak base)?",
       "options": [
-        "تقليب البول ببيكربونات الصوديوم",
-        "تحميض البول بكلوريد الأمونيوم",
-        "تناول مدرات البول",
-        "إعطاء بروبينسيد"
+        "Alkalinising the urine with sodium bicarbonate",
+        "Acidifying the urine with ammonium chloride",
+        "Taking diuretics",
+        "Giving Probenecid"
       ],
       "answer": 1,
-      "explanation": "تحميض البول يُحوِّل القواعد الضعيفة (مثل الأمفيتامين) إلى شكلها المتأين الذي لا يُعاد امتصاصه، مما يزيد إفرازها الكلوي (ion trapping)."
+      "explanation": "Acidifying the urine converts weak bases (such as amphetamine) to their ionised form, which cannot be reabsorbed, thereby increasing their renal excretion (ion trapping)."
     },
     {
-      "q": "ما التأثير المشترك لـ Verapamil مع حاصرات بيتا (Beta blockers)؟",
+      "q": "What is the combined effect of Verapamil with beta-blockers?",
       "options": [
-        "ارتفاع ضغط الدم",
-        "تسارع القلب",
-        "بطء القلب وقد يصل لتوقفه",
-        "لا يوجد تفاعل"
+        "Hypertension",
+        "Tachycardia",
+        "Severe bradycardia that may progress to cardiac arrest",
+        "No interaction"
       ],
       "answer": 2,
-      "explanation": "كلاهما يُبطئ القلب، والجمع بينهما قد يُسبب بطءاً شديداً (Bradycardia) أو توقف القلب (Asystole)."
+      "explanation": "Both slow the heart rate; combining them may cause severe bradycardia or asystole."
     },
     {
-      "q": "مريض يتناول 6-ميركابتوبورين لعلاج اللوكيميا، وبدأ الطبيب إضافة ألوبيورينول لعلاج النقرس. ما المتوقع؟",
+      "q": "A patient taking 6-mercaptopurine for leukaemia is started on Allopurinol for gout. What is the expected outcome?",
       "options": [
-        "انخفاض سمية 6-MP",
-        "زيادة تراكم 6-MP وتفاقم قمع نخاع العظم",
-        "لا تفاعل بينهما",
-        "تحسن في فعالية 6-MP دون زيادة السمية"
+        "Reduced 6-MP toxicity",
+        "Increased 6-MP accumulation and worsened bone marrow suppression",
+        "No interaction",
+        "Improved 6-MP efficacy without increased toxicity"
       ],
       "answer": 1,
-      "explanation": "الألوبيورينول يثبط xanthine oxidase الذي يُكسّر 6-MP، مما يُراكمه ويزيد قمع نخاع العظم بشكل خطير. يجب تخفيض جرعة 6-MP."
+      "explanation": "Allopurinol inhibits xanthine oxidase, which metabolises 6-MP, causing its dangerous accumulation and worsening bone marrow suppression. The 6-MP dose must be reduced."
     },
     {
-      "q": "Rifampicin يقلل فعالية الوارفارين لأنه:",
+      "q": "Rifampicin reduces the efficacy of Warfarin because it is:",
       "options": [
-        "مثبّط إنزيمي",
-        "محفّز إنزيمي",
-        "يزيحه من البروتين",
-        "يقلل امتصاصه"
+        "An enzyme inhibitor",
+        "An enzyme inducer",
+        "It displaces Warfarin from protein binding",
+        "It reduces Warfarin absorption"
       ],
       "answer": 1,
-      "explanation": "محفّز قوي للإنزيمات يسرّع استقلاب الوارفارين.",
+      "explanation": "Rifampicin is a potent enzyme inducer that accelerates the metabolism of Warfarin.",
       "difficulty": "medium"
     },
     {
-      "q": "Cimetidine يرفع تركيز أدوية أخرى لأنه:",
+      "q": "Cimetidine raises the concentration of other drugs because it is:",
       "options": [
-        "محفّز إنزيمي",
-        "مثبّط إنزيمي",
-        "uricosuric",
-        "ملين"
+        "An enzyme inducer",
+        "An enzyme inhibitor",
+        "A uricosuric",
+        "A laxative"
       ],
       "answer": 1,
-      "explanation": "مثبّط إنزيمي يبطئ استقلاب الأدوية الأخرى.",
+      "explanation": "Cimetidine is an enzyme inhibitor that slows the metabolism of other drugs.",
       "difficulty": "medium"
     },
     {
-      "q": "التتراسيكلين مع الحليب يقل امتصاصه بسبب:",
+      "q": "Tetracycline absorption is reduced when taken with milk because of:",
       "options": [
-        "تحفيز إنزيمي",
-        "الـ chelation مع الكالسيوم",
-        "الإزاحة البروتينية",
-        "زيادة الـ pH فقط"
+        "Enzyme induction",
+        "Chelation with calcium",
+        "Protein displacement",
+        "Increased pH only"
       ],
       "answer": 1,
-      "explanation": "يرتبط بالكالسيوم مكوّناً معقداً غير قابل للامتصاص.",
+      "explanation": "It binds calcium, forming a non-absorbable complex.",
       "difficulty": "medium"
     }
   ],

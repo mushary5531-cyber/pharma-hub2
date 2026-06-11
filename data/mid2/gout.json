@@ -108,115 +108,115 @@
   ],
   "flashcards": [
     {
-      "front": "ما هو تعريف النقرس (Gout)؟",
-      "back": "التهاب مؤلم في المفاصل ناتج عن ترسب بلورات يورات الصوديوم (Monosodium Urate Crystals)، يُشخَّص بفحص بلورات في السائل الزليلي"
+      "front": "What is the definition of Gout?",
+      "back": "A painful joint inflammation caused by deposition of monosodium urate crystals, diagnosed by crystal analysis of synovial fluid"
     },
     {
-      "front": "ما هو المفصل الأكثر إصابة بالنقرس الحاد؟",
-      "back": "مفصل إبهام القدم الأول (First Metatarsophalangeal Joint)"
+      "front": "Which joint is most commonly affected in acute gout?",
+      "back": "The first metatarsophalangeal joint (first MTP joint of the big toe)"
     },
     {
-      "front": "ما الفرق بين النقرس الأولي والثانوي؟",
-      "back": "الأولي: عوامل جينية وأيضية (90%) - الثانوي: أمراض أخرى أو أدوية (كمدرات البول)"
+      "front": "What is the difference between primary and secondary gout?",
+      "back": "Primary: genetic and metabolic factors (90%) — Secondary: other diseases or drugs (e.g., diuretics)"
     },
     {
-      "front": "ما آلية عمل Colchicine؟",
-      "back": "تثبط تكوين الأنابيب الدقيقة (Microtubule Formation) وبالتالي تمنع هجرة العدلات إلى موقع الالتهاب"
+      "front": "What is the mechanism of action of Colchicine?",
+      "back": "Inhibits microtubule formation, thereby preventing neutrophil migration to the site of inflammation"
     },
     {
-      "front": "متى يكون Colchicine الأكثر فاعلية؟",
-      "back": "في أول 24 ساعة من بدء نوبة النقرس الحاد"
+      "front": "When is Colchicine most effective?",
+      "back": "Within the first 24 hours of the onset of an acute gout attack"
     },
     {
-      "front": "ما الآثار الجانبية الشائعة لـ Colchicine؟",
-      "back": "إسهال (Diarrhea)، غثيان وقيء، كبت نقي العظم (Bone Marrow Suppression)"
+      "front": "What are the common adverse effects of Colchicine?",
+      "back": "Diarrhea, nausea and vomiting, bone marrow suppression"
     },
     {
-      "front": "ما الهدف من العلاج طويل الأمد (ULT) للنقرس؟",
-      "back": "تخفيض حمض اليوريك في الدم إلى أقل من 6 ملغ/ديسيلتر لمنع ترسب البلورات وإذابة التوفي"
+      "front": "What is the goal of urate-lowering therapy (ULT) for gout?",
+      "back": "To reduce serum uric acid below 6 mg/dL to prevent crystal deposition and dissolve tophi"
     },
     {
-      "front": "ما آلية عمل Allopurinol و Febuxostat؟",
-      "back": "تثبطان إنزيم Xanthine Oxidase مما يقلل تحويل Hypoxanthine وXanthine إلى حمض اليوريك"
+      "front": "What is the mechanism of action of Allopurinol and Febuxostat?",
+      "back": "Both inhibit the enzyme xanthine oxidase, reducing the conversion of hypoxanthine and xanthine to uric acid"
     },
     {
-      "front": "ما الآثار الجانبية الخطيرة لـ Allopurinol؟",
-      "back": "طفح جلدي قد يتطور إلى متلازمة Stevens-Johnson، تسمم كبدي، اضطراب GI"
+      "front": "What are the serious adverse effects of Allopurinol?",
+      "back": "Skin rash that may progress to Stevens-Johnson syndrome, hepatotoxicity, GI disturbance"
     },
     {
-      "front": "لماذا يُفضَّل Febuxostat على Allopurinol في بعض الحالات؟",
-      "back": "عند عدم تحمّل Allopurinol أو عدم فاعليته - لكن Febuxostat يرفع خطر الأحداث القلبية الوعائية"
+      "front": "Why is Febuxostat preferred over Allopurinol in some cases?",
+      "back": "When Allopurinol is not tolerated or ineffective — however, Febuxostat increases the risk of cardiovascular events"
     },
     {
-      "front": "ما آلية عمل Probenecid؟",
-      "back": "يثبط ناقل URAT1 في الأنابيب الكلوية مما يقلل إعادة امتصاص حمض اليوريك ويزيد إفرازه في البول"
+      "front": "What is the mechanism of action of Probenecid?",
+      "back": "Inhibits the URAT1 transporter in renal tubules, reducing uric acid reabsorption and increasing its excretion in urine"
     },
     {
-      "front": "ما الآثار الجانبية لـ Probenecid؟",
-      "back": "حصوات الكلى (Uric Acid Kidney Stones)، اضطراب GI، طفح جلدي"
+      "front": "What are the adverse effects of Probenecid?",
+      "back": "Uric acid kidney stones, GI disturbance, skin rash"
     },
     {
-      "front": "ما آلية عمل Pegloticase؟",
-      "back": "إنزيم Uricase مؤتلف يحوّل حمض اليوريك إلى Allantoin الأكثر ذوباناً وسهولة في الإفراز"
+      "front": "What is the mechanism of action of Pegloticase?",
+      "back": "A recombinant uricase enzyme that converts uric acid to allantoin, which is more soluble and easily excreted"
     },
     {
-      "front": "لمن يُستخدم Pegloticase؟",
-      "back": "للنقرس المزمن الشديد المقاوم للعلاج، للمرضى الذين لا يستجيبون أو لا يتحملون Allopurinol/Febuxostat"
+      "front": "For whom is Pegloticase used?",
+      "back": "For severe chronic refractory gout in patients who do not respond to or cannot tolerate Allopurinol/Febuxostat"
     },
     {
-      "front": "ما طريقة إعطاء Pegloticase وما أهم آثاره الجانبية؟",
-      "back": "وريدي (IV infusion) كل أسبوعين - الآثار: ردود فعل تسريب، صدمة تأقية (Anaphylaxis) تتطلب مراقبة"
+      "front": "What is the route of administration of Pegloticase and what are its main adverse effects?",
+      "back": "IV infusion every two weeks — adverse effects: infusion reactions, anaphylaxis requiring monitoring"
     },
     {
-      "front": "متى تُستخدم مثبطات IL-1 (Canakinumab/Anakinra) في النقرس؟",
-      "back": "عندما تكون NSAIDs والكولشيسين والكورتيكوستيرويدات متعارضة أو غير فعالة أو غير محتملة"
+      "front": "When are IL-1 inhibitors (Canakinumab/Anakinra) used in gout?",
+      "back": "When NSAIDs, Colchicine, and corticosteroids are contraindicated, ineffective, or not tolerated"
     },
     {
-      "front": "ما الفرق بين علاج النقرس الحاد والمزمن؟",
-      "back": "الحاد: NSAIDs/Colchicine/Steroids لوقف النوبة - المزمن: ULT (Allopurinol/Febuxostat/Probenecid) لمنع النوبات مستقبلاً"
+      "front": "What is the difference between acute and chronic gout treatment?",
+      "back": "Acute: NSAIDs/Colchicine/Steroids to stop the attack — Chronic: ULT (Allopurinol/Febuxostat/Probenecid) to prevent future attacks"
     },
     {
-      "front": "ما هي Tophi في النقرس؟",
-      "back": "عقيدات تحت الجلد تتكوّن من بلورات يورات الصوديوم في مصفوفة من الدهون والبروتينات - تظهر في النقرس المزمن"
+      "front": "What are tophi in gout?",
+      "back": "Subcutaneous nodules formed from monosodium urate crystals in a matrix of lipids and proteins — appear in chronic gout"
     },
     {
-      "front": "ما سبب النقرس (Gout)؟",
-      "back": "ترسّب بلورات حمض اليوريك في المفاصل بسبب فرط اليوريك (إنتاج زائد أو طرح ناقص)."
+      "front": "What causes gout?",
+      "back": "Deposition of uric acid crystals in joints due to hyperuricemia (overproduction or underexcretion)."
     },
     {
-      "front": "ما آلية Colchicine؟",
-      "back": "يثبّط بلمرة الأنابيب الدقيقة → يقلل هجرة العدلات وبلعمتها للبلورات.",
+      "front": "What is the mechanism of Colchicine?",
+      "back": "Inhibits microtubule polymerization → reduces neutrophil migration and phagocytosis of crystals.",
       "tag": "high-yield"
     },
     {
-      "front": "ما العرض الجانبي الأبرز لـ Colchicine؟",
-      "back": "الإسهال والاضطراب الهضمي."
+      "front": "What is the most prominent side effect of Colchicine?",
+      "back": "Diarrhea and gastrointestinal disturbance."
     },
     {
-      "front": "ما آلية Allopurinol؟",
-      "back": "يثبّط xanthine oxidase → يقلل إنتاج حمض اليوريك.",
+      "front": "What is the mechanism of Allopurinol?",
+      "back": "Inhibits xanthine oxidase → reduces uric acid production.",
       "tag": "high-yield"
     },
     {
-      "front": "لماذا لا نبدأ Allopurinol أثناء النوبة الحادة؟",
-      "back": "قد يفاقم/يطيل النوبة بتحريك اليوريك."
+      "front": "Why is Allopurinol not started during an acute attack?",
+      "back": "It may worsen or prolong the attack by mobilizing urate."
     },
     {
-      "front": "ما هو Rasburicase؟",
-      "back": "إنزيم urate oxidase يحوّل اليوريك لمادة قابلة للذوبان - في متلازمة انحلال الورم."
+      "front": "What is Rasburicase?",
+      "back": "A urate oxidase enzyme that converts uric acid to a soluble compound — used in tumor lysis syndrome."
     },
     {
-      "front": "ما تداخل Allopurinol المهم؟",
-      "back": "يثبّط استقلاب Azathioprine/6-MP → سُمّية (خفّض جرعتهما)."
+      "front": "What is the important drug interaction of Allopurinol?",
+      "back": "Inhibits metabolism of Azathioprine/6-MP → toxicity (reduce their doses)."
     },
     {
-      "front": "ما آلية Probenecid؟",
-      "back": "uricosuric يثبّط إعادة امتصاص اليوريك الكلوي → يزيد طرحه."
+      "front": "What is the mechanism of Probenecid?",
+      "back": "Uricosuric agent that inhibits renal urate reabsorption → increases uric acid excretion."
     }
   ],
   "mcqs": [
     {
-      "q": "مريض يُعاني من نوبة نقرس حادة منذ 12 ساعة. ما هو أفضل علاج في هذه الحالة؟",
+      "q": "A patient has been suffering from an acute gout attack for 12 hours. What is the best treatment in this case?",
       "options": [
         "Allopurinol",
         "Colchicine",
@@ -224,21 +224,21 @@
         "Pegloticase"
       ],
       "answer": 1,
-      "explanation": "Colchicine أكثر فاعلية عند إعطائه في أول 24 ساعة من النوبة الحادة. يثبط هجرة العدلات بتثبيط تكوين الأنابيب الدقيقة."
+      "explanation": "Colchicine is most effective when given within the first 24 hours of an acute attack. It inhibits neutrophil migration by blocking microtubule formation."
     },
     {
-      "q": "ما آلية عمل Allopurinol في علاج النقرس المزمن؟",
+      "q": "What is the mechanism of action of Allopurinol in chronic gout?",
       "options": [
-        "يزيد إفراز حمض اليوريك في الكلية",
-        "يثبط إنزيم Xanthine Oxidase",
-        "يحوّل حمض اليوريك إلى Allantoin",
-        "يثبط الانترلوكين-1"
+        "Increases uric acid excretion in the kidney",
+        "Inhibits xanthine oxidase enzyme",
+        "Converts uric acid to allantoin",
+        "Inhibits interleukin-1"
       ],
       "answer": 1,
-      "explanation": "Allopurinol يثبط إنزيم Xanthine Oxidase مما يمنع تحويل Hypoxanthine وXanthine إلى حمض اليوريك، فيقل إنتاجه."
+      "explanation": "Allopurinol inhibits xanthine oxidase, preventing the conversion of hypoxanthine and xanthine to uric acid, thereby reducing its production."
     },
     {
-      "q": "مريض بنقرس مزمن لا يتحمل Allopurinol. ما البديل الأنسب لتخفيض حمض اليوريك؟",
+      "q": "A patient with chronic gout cannot tolerate Allopurinol. What is the most appropriate alternative for lowering uric acid?",
       "options": [
         "Colchicine",
         "Probenecid",
@@ -246,21 +246,21 @@
         "Prednisone"
       ],
       "answer": 2,
-      "explanation": "Febuxostat مثبط آخر لـ Xanthine Oxidase يُستخدم بديلاً عند عدم تحمّل Allopurinol أو عدم فاعليته."
+      "explanation": "Febuxostat is another xanthine oxidase inhibitor used as an alternative when Allopurinol is not tolerated or ineffective."
     },
     {
-      "q": "ما الآثار الجانبية المميزة لـ Colchicine؟",
+      "q": "What are the characteristic adverse effects of Colchicine?",
       "options": [
-        "ارتفاع ضغط الدم وتورم القدمين",
-        "الإسهال والغثيان وكبت نقي العظم",
-        "حصوات كلوية وطفح جلدي",
-        "صدمة تأقية وردود فعل تسريب"
+        "Hypertension and foot swelling",
+        "Diarrhea, nausea, and bone marrow suppression",
+        "Kidney stones and skin rash",
+        "Anaphylaxis and infusion reactions"
       ],
       "answer": 1,
-      "explanation": "Colchicine تسبب بشكل رئيسي: إسهال (Diarrhea)، غثيان وقيء، وكبت نقي العظم (Bone Marrow Suppression) في الجرعات الكبيرة."
+      "explanation": "Colchicine mainly causes diarrhea, nausea and vomiting, and bone marrow suppression at high doses."
     },
     {
-      "q": "أي الأدوية التالية يعمل بتثبيط ناقل URAT1 في الأنابيب الكلوية؟",
+      "q": "Which of the following drugs works by inhibiting the URAT1 transporter in renal tubules?",
       "options": [
         "Allopurinol",
         "Febuxostat",
@@ -268,85 +268,85 @@
         "Pegloticase"
       ],
       "answer": 2,
-      "explanation": "Probenecid (عامل يوريكوزوري) يثبط ناقل URAT1 مما يقلل إعادة امتصاص حمض اليوريك ويزيد إفرازه البولي."
+      "explanation": "Probenecid (a uricosuric agent) inhibits the URAT1 transporter, reducing uric acid reabsorption and increasing its urinary excretion."
     },
     {
-      "q": "مريضة بنقرس مزمن شديد مقاوم لـ Allopurinol وFebuxostat. ما الخيار العلاجي؟",
+      "q": "A patient with severe chronic gout refractory to both Allopurinol and Febuxostat. What is the treatment option?",
       "options": [
-        "Probenecid فموياً",
-        "Colchicine بجرعة مضاعفة",
-        "Pegloticase وريدياً",
-        "Canakinumab تحت الجلد"
+        "Probenecid orally",
+        "Colchicine at double dose",
+        "Pegloticase intravenously",
+        "Canakinumab subcutaneously"
       ],
       "answer": 2,
-      "explanation": "Pegloticase (IV) مخصص للنقرس الشديد المقاوم الذي لا يستجيب للعلاجات القياسية. يُعطى كل أسبوعين ويحوّل حمض اليوريك إلى Allantoin."
+      "explanation": "Pegloticase (IV) is reserved for severe refractory gout not responding to standard treatments. Given every two weeks, it converts uric acid to allantoin."
     },
     {
-      "q": "ما الهدف العلاجي لمستوى حمض اليوريك في الدم عند مرضى النقرس تحت العلاج؟",
+      "q": "What is the therapeutic target for serum uric acid in gout patients under treatment?",
       "options": [
-        "أقل من 8 ملغ/ديسيلتر",
-        "أقل من 6 ملغ/ديسيلتر",
-        "أقل من 10 ملغ/ديسيلتر",
-        "أقل من 4 ملغ/ديسيلتر"
+        "Less than 8 mg/dL",
+        "Less than 6 mg/dL",
+        "Less than 10 mg/dL",
+        "Less than 4 mg/dL"
       ],
       "answer": 1,
-      "explanation": "الهدف هو تخفيض حمض اليوريك إلى أقل من 6 ملغ/ديسيلتر (أقل من 5 في الحالات الشديدة) لمنع ترسب البلورات وإذابة التوفي."
+      "explanation": "The goal is to reduce uric acid to below 6 mg/dL (below 5 in severe cases) to prevent crystal deposition and dissolve tophi."
     },
     {
-      "q": "ما الآثار الجانبية الخطيرة لـ Allopurinol؟",
+      "q": "What are the serious adverse effects of Allopurinol?",
       "options": [
-        "انسداد رئوي ونزيف",
-        "متلازمة Stevens-Johnson وتسمم كبدي",
-        "صدمة تأقية وردود فعل تسريب",
-        "اختلال عصبي وهشاشة عظام"
+        "Pulmonary embolism and hemorrhage",
+        "Stevens-Johnson syndrome and hepatotoxicity",
+        "Anaphylaxis and infusion reactions",
+        "Neuropathy and osteoporosis"
       ],
       "answer": 1,
-      "explanation": "Allopurinol قد يسبب طفح جلدي يتطور إلى متلازمة Stevens-Johnson الخطيرة، إضافة إلى تسمم كبدي واضطراب GI."
+      "explanation": "Allopurinol can cause a skin rash that progresses to the serious Stevens-Johnson syndrome, as well as hepatotoxicity and GI disturbance."
     },
     {
-      "q": "في أي حالة تُستخدم الكورتيكوستيرويدات في علاج النقرس الحاد؟",
+      "q": "In which situation are corticosteroids used for acute gout?",
       "options": [
-        "كخط أول دائماً",
-        "عندما تكون NSAIDs والكولشيسين متعارضة أو غير مناسبة",
-        "فقط في النقرس الثانوي",
-        "مع Allopurinol لتعزيز الفاعلية"
+        "Always as first-line",
+        "When NSAIDs and Colchicine are contraindicated or inappropriate",
+        "Only in secondary gout",
+        "With Allopurinol to enhance efficacy"
       ],
       "answer": 1,
-      "explanation": "الكورتيكوستيرويدات تُستخدم عند وجود تعارض أو عدم تحمّل NSAIDs والكولشيسين. قد تكون تحقنة داخل المفصل (intra-articular) أو جهازية."
+      "explanation": "Corticosteroids are used when there are contraindications or intolerance to NSAIDs and Colchicine. They may be given intra-articularly or systemically."
     },
     {
-      "q": "مريض بنقرس يبدأ علاج ULT. لماذا يُعطى Colchicine وقائياً في البداية؟",
+      "q": "A patient with gout is starting ULT. Why is Colchicine given prophylactically at the beginning?",
       "options": [
-        "لتحفيز إفراز حمض اليوريك",
-        "لمنع نوبات النقرس التي قد تحدث عند بدء ULT",
-        "لتعزيز فاعلية Allopurinol",
-        "لتقليل الآثار الجانبية لـ Probenecid"
+        "To stimulate uric acid excretion",
+        "To prevent gout flares that may occur when ULT is initiated",
+        "To enhance the efficacy of Allopurinol",
+        "To reduce the adverse effects of Probenecid"
       ],
       "answer": 1,
-      "explanation": "عند بدء ULT يحدث تذبذب في مستوى حمض اليوريك مما قد يُحرّض نوبات حادة. يُعطى Colchicine (0.5-1 ملغ/يومياً) وقائياً لمدة 3-6 أشهر."
+      "explanation": "When ULT is started, fluctuations in uric acid levels may trigger acute flares. Colchicine (0.5–1 mg/day) is given prophylactically for 3–6 months."
     },
     {
-      "q": "Colchicine يعمل بـ:",
+      "q": "Colchicine works by:",
       "options": [
-        "تثبيط xanthine oxidase",
-        "تثبيط بلمرة الأنابيب الدقيقة",
-        "زيادة طرح اليوريك",
-        "تثبيط COX"
+        "Inhibiting xanthine oxidase",
+        "Inhibiting microtubule polymerization",
+        "Increasing urate excretion",
+        "Inhibiting COX"
       ],
       "answer": 1,
-      "explanation": "يمنع هجرة العدلات.",
+      "explanation": "Prevents neutrophil migration.",
       "difficulty": "medium"
     },
     {
-      "q": "لا يُبدأ Allopurinol أثناء النوبة الحادة لأنه:",
+      "q": "Allopurinol is not started during an acute attack because it:",
       "options": [
-        "يرفع الضغط",
-        "قد يفاقم/يطيل النوبة",
-        "يسبب إسهالاً",
-        "يثبّط الصفائح"
+        "Raises blood pressure",
+        "May worsen or prolong the attack",
+        "Causes diarrhea",
+        "Inhibits platelets"
       ],
       "answer": 1,
-      "explanation": "تحريك اليوريك يفاقم النوبة.",
+      "explanation": "Mobilization of urate worsens the attack.",
       "difficulty": "medium"
     }
   ],

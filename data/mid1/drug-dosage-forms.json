@@ -91,105 +91,105 @@
   ],
   "flashcards": [
     {
-      "front": "ما الفرق بين الكبسولة الصلبة والكبسولة الناعمة (Hard vs Soft gelatin capsule)؟",
-      "back": "Hard gelatin capsule: تحتوي مسحوقاً\nSoft gelatin capsule: تحتوي سوائل أو مواد شبه صلبة"
+      "front": "What is the difference between a hard and a soft gelatin capsule?",
+      "back": "Hard gelatin capsule: contains a powder\nSoft gelatin capsule: contains liquids or semi-solid materials"
     },
     {
-      "front": "ما Enteric-coated capsule/tablet؟ وما فائدتها؟",
-      "back": "مغلفة بمادة تقاوم عصارة المعدة، لا تتفكك إلا في إفرازات الأمعاء القلوية. تُستخدم لحماية الأدوية التي تتلف بحمض المعدة أو تُلاحق المعدة"
+      "front": "What is an enteric-coated capsule/tablet and what is its benefit?",
+      "back": "It is coated with a material that resists gastric juice and does not disintegrate until it reaches the alkaline intestinal secretions. It is used to protect drugs that are destroyed by stomach acid or that irritate the stomach."
     },
     {
-      "front": "لماذا لا يجوز سحق أقراص Sustained-release؟",
-      "back": "لأنها تحتوي جسيمات مغلفة تُطلق الدواء تدريجياً. السحق يُطلق الجرعة كاملة فجأة مما قد يسبب جرعة زائدة"
+      "front": "Why should sustained-release tablets not be crushed?",
+      "back": "Because they contain coated particles that release the drug gradually. Crushing releases the entire dose at once, which may cause an overdose."
     },
     {
-      "front": "ما Lozenges (Troches)؟",
-      "back": "أقراص مسطحة أو دائرية أو مستطيلة تُحفظ في الفم حتى تذوب، تُركز الدواء مؤقتاً في التجويف الفموي"
+      "front": "What are lozenges (troches)?",
+      "back": "Flat, round, or oblong tablets held in the mouth until they dissolve, producing a temporarily high drug concentration in the oral cavity."
     },
     {
-      "front": "ما الفرق بين Suspension و Solution؟",
-      "back": "Solution: مادة واحدة أو أكثر مذابة في الماء (محلول تام)\nSuspension: دواء مقسم ناعماً معلق في سائل (لم يذوب تماماً، يحتاج رجاً)"
+      "front": "What is the difference between a suspension and a solution?",
+      "back": "Solution: one or more substances completely dissolved in water (a true solution)\nSuspension: a finely divided drug suspended in a liquid (not fully dissolved, requires shaking)"
     },
     {
-      "front": "ما Emulsion؟ أعطِ مثالاً.",
-      "back": "تعليق للدهون أو الزيوت في الماء بمساعدة عامل مستحلب (Emulsifying agent). مثال: Cod liver oil emulsion"
+      "front": "What is an emulsion? Give an example.",
+      "back": "A suspension of fats or oils in water with the help of an emulsifying agent. Example: Cod liver oil emulsion."
     },
     {
-      "front": "ما Elixir؟ وما مثاله؟",
-      "back": "محضر كحولي عطري محلى يُستخدم كمركبة معطرة أو كعامل طبي فعال. مثال: Phenobarbital elixir"
+      "front": "What is an elixir? Give an example.",
+      "back": "An aromatic, sweetened, alcoholic preparation used as a flavored vehicle or as an active medicinal agent. Example: Phenobarbital elixir."
     },
     {
-      "front": "ما الفرق بين Ointment و Cream من حيث التركيبة؟",
-      "back": "Ointment: تركيبة W/O (ماء في زيت) - أكثر دهنية، أثقل\nCream: تركيبة O/W (زيت في ماء) - أخف، يُمتص أسرع"
+      "front": "What is the difference between an ointment and a cream in terms of formulation?",
+      "back": "Ointment: W/O (water-in-oil) formulation - more greasy and heavier\nCream: O/W (oil-in-water) formulation - lighter and absorbed faster"
     },
     {
-      "front": "ما أشكال حاويات الأدوية الحقنية الأربعة؟",
-      "back": "1. Ampoules (جرعة واحدة)\n2. Vials (متعدد الجرعات بسدادة مطاطية)\n3. Bottles (زجاجات)\n4. Disposable syringes (محاقن للاستعمال مرة واحدة)"
+      "front": "What are the four types of injectable drug containers?",
+      "back": "1. Ampoules (single dose)\n2. Vials (multi-dose with a rubber stopper)\n3. Bottles\n4. Disposable syringes (single-use syringes)"
     },
     {
-      "front": "ما Transdermal therapeutic system؟ وما مثاله؟",
-      "back": "نظام علاجي عبر الجلد يُطبَّق على الجلد لتحقيق تأثيرات جهازية. مثال: لصقة Nitroglycerin لعلاج الذبحة الصدرية"
+      "front": "What is a transdermal therapeutic system? Give an example.",
+      "back": "A therapeutic system applied to the skin to achieve systemic effects. Example: Nitroglycerin patch for the treatment of angina pectoris."
     },
     {
-      "front": "ما الفرق بين Rectal suppository و Vaginal insert؟",
-      "back": "Rectal suppository: تُعطى عن طريق المستقيم\nVaginal inserts: تشمل أقراصاً ومهابط وتُعطى عن طريق المهبل"
+      "front": "What is the difference between a rectal suppository and a vaginal insert?",
+      "back": "Rectal suppository: administered via the rectum\nVaginal inserts: include tablets and pessaries and are administered via the vagina"
     },
     {
-      "front": "ما فوائد Solid dosage forms مقارنة بالمساحيق؟",
-      "back": "تقسيم الدواء إلى جرعات محددة، تجنب إزعاج تحضير المسحوق، وإخفاء الطعم الكريه للأدوية"
+      "front": "What are the benefits of solid dosage forms compared with powders?",
+      "back": "They divide the drug into defined doses, avoid the inconvenience of preparing a powder, and mask the unpleasant taste of drugs."
     },
     {
-      "front": "ما أنواع Sprays الدوائية؟",
-      "back": "1. Nasal spray (أنفي)\n2. Oral spray (فموي)\n3. Local spray (موضعي)"
+      "front": "What are the types of medicinal sprays?",
+      "back": "1. Nasal spray\n2. Oral spray\n3. Local spray"
     },
     {
-      "front": "ما Dusting powders؟",
-      "back": "مساحيق ناعمة للاستخدام الخارجي (Topical) تُطبق على الجلد"
+      "front": "What are dusting powders?",
+      "back": "Fine powders for external (topical) use that are applied to the skin."
     },
     {
-      "front": "لماذا تستخدم Drops للأطفال؟",
-      "back": "لأن الأطفال غالباً لا يستطيعون بلع الأقراص، والقطرات الفموية سهلة الإعطاء بجرعات صغيرة دقيقة"
+      "front": "Why are drops used for children?",
+      "back": "Because children often cannot swallow tablets, and oral drops are easy to administer in small, precise doses."
     },
     {
-      "front": "ما Pills وهل لا تزال شائعة؟",
-      "back": "خلائط دوائية مشكَّلة على هيئة كرات أو بيضاوية للبلع. باتت نادرة الاستخدام واستُبدلت إلى حد كبير بالكبسولات والأقراص"
+      "front": "What are pills, and are they still common?",
+      "back": "Medicinal mixtures shaped into spheres or ovals for swallowing. They have become rare and have largely been replaced by capsules and tablets."
     },
     {
-      "front": "ما Gels في أشكال الجرعات شبه الصلبة؟",
-      "back": "أشكال هلامية (Semisolid) تحتوي نسبة عالية من الماء، شفافة أو شبه شفافة، سهلة الامتصاص"
+      "front": "What are gels among the semi-solid dosage forms?",
+      "back": "Semisolid forms containing a high proportion of water, transparent or semi-transparent, and easily absorbed."
     },
     {
-      "front": "ما هي الكبسولة المعوية (Enteric-coated)؟",
-      "back": "كبسولة/قرص مغطّى بمادة تقاوم عصارة المعدة فلا يتفكك حتى يصل الأمعاء القلوية.",
+      "front": "What is an enteric-coated capsule?",
+      "back": "A capsule/tablet coated with a material that resists gastric juice so it does not disintegrate until it reaches the alkaline intestine.",
       "tag": "high-yield"
     },
     {
-      "front": "ما الفرق بين الكبسولة الصلبة واللينة؟",
-      "back": "الصلبة (hard gelatine) تحوي مسحوقاً؛ اللينة (soft) تحوي سوائل."
+      "front": "What is the difference between a hard and a soft capsule?",
+      "back": "The hard (hard gelatine) one contains a powder; the soft one contains liquids."
     },
     {
-      "front": "ما ميزة الأشكال ممتدة التحرر (Sustained-release)؟",
-      "back": "تحرر تدريجي مستمر → مدة تأثير أطول؛ ممنوع سحقها (crush)."
+      "front": "What is the advantage of sustained-release dosage forms?",
+      "back": "Gradual, continuous release leading to a longer duration of action; they must not be crushed."
     },
     {
-      "front": "ما هي اللوزينجات (Lozenges/Troches)؟",
-      "back": "أقراص تُحفظ في الفم حتى تذوب لإنتاج تركيز عالٍ موضعي في التجويف الفموي."
+      "front": "What are lozenges (troches)?",
+      "back": "Tablets held in the mouth until they dissolve to produce a high local concentration in the oral cavity."
     },
     {
-      "front": "رتّب سرعة الذوبان/الامتصاص للأشكال الفموية",
+      "front": "Rank the dissolution/absorption rate of oral dosage forms.",
       "back": "Solution > Suspension > Capsule > Tablet."
     },
     {
-      "front": "لماذا تُستخدم الأقراص أحياناً بدل المساحيق؟",
-      "back": "لإعطاء جرعات محددة وإخفاء الطعم غير المستساغ وسهولة الاستخدام."
+      "front": "Why are tablets sometimes used instead of powders?",
+      "back": "To provide defined doses, to mask an unpalatable taste, and for ease of use."
     },
     {
-      "front": "ما هي الأشكال السائلة للأدوية؟",
-      "back": "المحاليل (solutions)، المعلّقات (suspensions)، المستحلبات (emulsions)، الشرابات (syrups)."
+      "front": "What are the liquid dosage forms of drugs?",
+      "back": "Solutions, suspensions, emulsions, and syrups."
     },
     {
-      "front": "ما هي المساحيق الذرورية (Dusting powders)؟",
-      "back": "مساحيق دقيقة للاستخدام الخارجي على الجلد."
+      "front": "What are dusting powders?",
+      "back": "Fine powders for external use on the skin."
     }
   ],
   "mcqs": [

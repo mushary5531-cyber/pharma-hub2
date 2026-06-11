@@ -183,128 +183,128 @@
   ],
   "flashcards": [
     {
-      "front": "ما هو آلية عمل البنسلين؟",
-      "back": "يرتبط ببروتين PBP (transpeptidase) داخل الخلية البكتيرية، يثبط تشابك البيبتيدوغليكان، مما يؤدي إلى انتفاخ البكتيريا وانفجارها (bactericidal)"
+      "front": "What is the mechanism of action of penicillin?",
+      "back": "It binds to PBP (transpeptidase) inside the bacterial cell and inhibits peptidoglycan cross-linking, leading to bacterial swelling and lysis (bactericidal)."
     },
     {
-      "front": "أي البنسلينات يُمتص فموياً بشكل جيد؟",
-      "back": "Penicillin V، Amoxicillin، Amoxicillin+clavulanic acid (Augmentin)، Indanyl Carbenicillin"
+      "front": "Which penicillins are well absorbed orally?",
+      "back": "Penicillin V, Amoxicillin, Amoxicillin + clavulanic acid (Augmentin), Indanyl Carbenicillin."
     },
     {
-      "front": "ما هو Probenecid ودوره مع البنسلين؟",
-      "back": "يثبط الإفراز الأنبوبي الكلوي للبنسلين، مما يرفع مستوياته في الدم ويطيل مفعوله"
+      "front": "What is Probenecid and its role with penicillin?",
+      "back": "It inhibits the renal tubular secretion of penicillin, raising its blood levels and prolonging its effect."
     },
     {
-      "front": "ما هو Augmentin؟",
-      "back": "Amoxicillin + Clavulanic acid - يُعطى فموياً، الكلافولانيك يثبط البيتا-لاكتاماز ويحمي الأموكسيسيلين"
+      "front": "What is Augmentin?",
+      "back": "Amoxicillin + Clavulanic acid - given orally; clavulanic acid inhibits beta-lactamase and protects the amoxicillin."
     },
     {
-      "front": "متى يُستخدم Benzathine Penicillin G؟",
-      "back": "وقاية الحمى الرثوية (كل 3-4 أسابيع IM)، وقاية التهاب الشغاف، الزهري"
+      "front": "When is Benzathine Penicillin G used?",
+      "back": "Rheumatic fever prophylaxis (IM every 3-4 weeks), endocarditis prophylaxis, and syphilis."
     },
     {
-      "front": "ما هي جراثيم LAME+C التي لا تغطيها السيفالوسبورينات؟",
-      "back": "Listeria, Atypicals (Chlamydia/Mycoplasma), MRSA, Enterococci, C. difficile"
+      "front": "What are the LAME+C organisms not covered by cephalosporins?",
+      "back": "Listeria, Atypicals (Chlamydia/Mycoplasma), MRSA, Enterococci, C. difficile."
     },
     {
-      "front": "أي جيل سيفالوسبورين يعبر الحاجز الدموي الدماغي؟",
-      "back": "الجيل الثالث والرابع (ما عدا Cefixime وCefoperazone من الجيل الثالث)"
+      "front": "Which cephalosporin generation crosses the blood-brain barrier?",
+      "back": "The third and fourth generations (except Cefixime and Cefoperazone of the third generation)."
     },
     {
-      "front": "ما هو T1/2 لـ Ceftriaxone؟ ولماذا مميز؟",
-      "back": "T1/2 = 4-7 ساعات (الأطول بين السيفالوسبورينات)، يُعطى مرة واحدة يومياً"
+      "front": "What is the T1/2 of Ceftriaxone and why is it notable?",
+      "back": "T1/2 = 4-7 hours (the longest among cephalosporins), so it is given once daily."
     },
     {
-      "front": "لماذا يُعطى Imipenem مع Cilastatin؟",
-      "back": "لأن Imipenem يتحلل بإنزيم renal dehydropeptidase-I في الكلى؛ Cilastatin يثبط هذا الإنزيم ويرفع المستويات البلازمية"
+      "front": "Why is Imipenem given with Cilastatin?",
+      "back": "Because Imipenem is degraded by renal dehydropeptidase-I in the kidney; Cilastatin inhibits this enzyme and raises plasma levels."
     },
     {
-      "front": "ما الفرق بين Imipenem وMeropenem في السمية؟",
-      "back": "Imipenem يسبب تشنجات (CNS toxicity)، Meropenem أقل احتمالاً للتشنجات لأنه لا يتحلل بـ dehydropeptidase"
+      "front": "What is the difference between Imipenem and Meropenem in toxicity?",
+      "back": "Imipenem causes seizures (CNS toxicity); Meropenem is less likely to cause seizures because it is not degraded by dehydropeptidase."
     },
     {
-      "front": "ما الجراثيم التي يغطيها Aztreonam فقط؟",
-      "back": "G- aerobic rods فقط: Klebsiella, Pseudomonas, N.meningitidis, H.influenzae, N.gonorrhea"
+      "front": "Which organisms are covered by Aztreonam only?",
+      "back": "Gram-negative aerobic rods only: Klebsiella, Pseudomonas, N. meningitidis, H. influenzae, N. gonorrhoeae."
     },
     {
-      "front": "لماذا لا يفيد الفانكومايسين ضد G-؟",
-      "back": "جزيئه كبير جداً لا يستطيع اختراق الغشاء الخارجي لجراثيم G-"
+      "front": "Why is vancomycin not effective against Gram-negative bacteria?",
+      "back": "Its molecule is too large to penetrate the outer membrane of Gram-negative bacteria."
     },
     {
-      "front": "ما هو Red Man Syndrome وكيف نتجنبه؟",
-      "back": "احمرار الوجه والرقبة والجذع بسبب إفراز الهيستامين عند حقن الفانكومايسين بسرعة. الوقاية: إعطاؤه خلال 60 دقيقة أو أكثر"
+      "front": "What is Red Man Syndrome and how do we avoid it?",
+      "back": "Flushing of the face, neck, and trunk due to histamine release when vancomycin is infused rapidly. Prevention: administer it over 60 minutes or more."
     },
     {
-      "front": "ما السمية الرئيسية للفانكومايسين؟",
-      "back": "Ototoxicity (سمية سمعية) + Nephrotoxicity (سمية كلوية)، تزداد مع الأمينوغليكوزيدات"
+      "front": "What is the main toxicity of vancomycin?",
+      "back": "Ototoxicity (auditory toxicity) + Nephrotoxicity (renal toxicity), which increase when combined with aminoglycosides."
     },
     {
-      "front": "متى يُستخدم الفانكومايسين فموياً؟",
-      "back": "في التهاب القولون المرتبط بالمضادات الحيوية (C. difficile colitis) فقط - لأنه لا يُمتص من الأمعاء"
+      "front": "When is vancomycin used orally?",
+      "back": "Only in antibiotic-associated colitis (C. difficile colitis) - because it is not absorbed from the intestine."
     },
     {
-      "front": "ما هو Bacitracin واستخدامه؟",
-      "back": "ببتيد سكري يثبط جدار الخلية، سام للكلى إذا أُعطي جهازياً، لذلك يُستخدم موضعياً فقط للتهابات الجلد"
+      "front": "What is Bacitracin and its use?",
+      "back": "A glycopeptide that inhibits the cell wall; it is nephrotoxic if given systemically, so it is used topically only for skin infections."
     },
     {
-      "front": "ما هي التأثيرات الجانبية للبنسلينات؟",
-      "back": "1) تفاعل فرط حساسية IgE (صدمة تأقية) 2) إسهال/التهاب قولون كاذب (C.diff مع Ampicillin) 3) نقص فيتامين K 4) خلل الصفائح الدموية (Piperacillin) 5) تشنجات"
+      "front": "What are the adverse effects of penicillins?",
+      "back": "1) IgE hypersensitivity reaction (anaphylactic shock) 2) Diarrhea/pseudomembranous colitis (C. diff with Ampicillin) 3) Vitamin K deficiency 4) Platelet dysfunction (Piperacillin) 5) Seizures."
     },
     {
-      "front": "هل يمكن إعطاء السيفالوسبورين لمريض حساس للبنسلين؟",
-      "back": "إذا كانت الحساسية تأقية شديدة (anaphylaxis) للبنسلين، لا يُعطى السيفالوسبورين. حساسية متقاطعة 5-10%"
+      "front": "Can a cephalosporin be given to a patient allergic to penicillin?",
+      "back": "If the penicillin allergy is a severe anaphylactic reaction, the cephalosporin should not be given. Cross-reactivity is 5-10%."
     },
     {
-      "front": "ما بديل البنسلين في حالة الحساسية لـ G+ و G-؟",
-      "back": "G+: Macrolides أو Quinolones أو Vancomycin (عدوى شديدة). G-: Aztreonam"
+      "front": "What is the alternative to penicillin in case of allergy, for Gram-positive and Gram-negative infections?",
+      "back": "Gram-positive: Macrolides, Quinolones, or Vancomycin (severe infection). Gram-negative: Aztreonam."
     },
     {
-      "front": "ما الكاربابينيم الأفضل للتهاب السحايا؟",
-      "back": "Meropenem (يعبر BBB وأقل سمية للجهاز العصبي مقارنة بـ Imipenem)"
+      "front": "Which carbapenem is best for meningitis?",
+      "back": "Meropenem (crosses the BBB and has less CNS toxicity compared to Imipenem)."
     },
     {
-      "front": "ما آلية البنسلينات؟",
-      "back": "ترتبط بـ PBP (transpeptidase) فتمنع التشابك العرضي للببتيدوغليكان → انحلال الجدار → قاتلة.",
+      "front": "What is the mechanism of penicillins?",
+      "back": "They bind to PBP (transpeptidase) and block the cross-linking of peptidoglycan -> cell wall lysis -> bactericidal.",
       "tag": "high-yield"
     },
     {
-      "front": "لماذا البنسلينات غير فعّالة على الفطريات والفيروسات؟",
-      "back": "لأنها لا تملك جدار ببتيدوغليكان (لا هدف)."
+      "front": "Why are penicillins ineffective against fungi and viruses?",
+      "back": "Because they do not have a peptidoglycan wall (no target)."
     },
     {
-      "front": "ما آليات مقاومة البنسلين؟",
-      "back": "إنتاج β-lactamase، تغيّر PBP (MRSA/VRSA)، تغيّر porin، مضخات إفلاكس.",
+      "front": "What are the mechanisms of penicillin resistance?",
+      "back": "Production of β-lactamase, altered PBP (MRSA/VRSA), altered porin, and efflux pumps.",
       "tag": "high-yield"
     },
     {
-      "front": "ما دور Clavulanic acid؟",
-      "back": "مثبّط β-lactamase يُضاف للأموكسيسيلين (Augmentin) لاستعادة الفعالية."
+      "front": "What is the role of Clavulanic acid?",
+      "back": "A β-lactamase inhibitor added to amoxicillin (Augmentin) to restore its efficacy."
     },
     {
-      "front": "ما طيف الأجيال المتعاقبة للسيفالوسبورين؟",
-      "back": "كلما تقدم الجيل زادت التغطية لسالبة الغرام ونقصت لموجبة الغرام عموماً."
+      "front": "What is the spectrum across successive cephalosporin generations?",
+      "back": "As the generation advances, Gram-negative coverage generally increases and Gram-positive coverage decreases."
     },
     {
-      "front": "ما استخدام Vancomycin؟",
-      "back": "MRSA والعدوى الخطيرة بموجبة الغرام؛ فموياً لالتهاب القولون بـ C. difficile.",
+      "front": "What is the use of Vancomycin?",
+      "back": "MRSA and serious Gram-positive infections; orally for C. difficile colitis.",
       "tag": "high-yield"
     },
     {
-      "front": "ما هي Red man syndrome؟",
-      "back": "احمرار وطفح من حقن Vancomycin السريع (تحرر هستامين) - أبطئ التسريب."
+      "front": "What is Red man syndrome?",
+      "back": "Flushing and rash from rapid vancomycin infusion (histamine release) - slow the infusion."
     },
     {
-      "front": "ما هو Aztreonam؟",
-      "back": "مونوباكتام فعّال على سالبة الغرام الهوائية فقط، آمن مع حساسية البنسلين."
+      "front": "What is Aztreonam?",
+      "back": "A monobactam active against aerobic Gram-negative bacteria only, safe with penicillin allergy."
     },
     {
-      "front": "ما هي الكاربابينيمات؟",
-      "back": "Imipenem/Meropenem - واسعة الطيف جداً، مقاومة لمعظم β-lactamases."
+      "front": "What are the carbapenems?",
+      "back": "Imipenem/Meropenem - very broad-spectrum, resistant to most β-lactamases."
     }
   ],
   "mcqs": [
     {
-      "q": "مريضة حامل تحتاج لمضاد حيوي لعلاج عدوى بكتيرية. أي المضادات الحيوية الأكثر أماناً؟",
+      "q": "A pregnant patient needs an antibiotic to treat a bacterial infection. Which antibiotic is the safest?",
       "options": [
         "Tetracycline",
         "Penicillin",
@@ -312,10 +312,10 @@
         "Fluoroquinolone"
       ],
       "answer": 1,
-      "explanation": "البنسلينات هي أكثر المضادات الحيوية أماناً للحوامل. لا تسبب تشوهات جنينية وتعبر المشيمة بأمان."
+      "explanation": "Penicillins are the safest antibiotics for pregnant women. They do not cause fetal malformations and cross the placenta safely."
     },
     {
-      "q": "ما الإنزيم الذي يُثبطه Cilastatin عند إعطائه مع Imipenem؟",
+      "q": "Which enzyme does Cilastatin inhibit when given with Imipenem?",
       "options": [
         "Beta-lactamase",
         "Transpeptidase",
@@ -323,10 +323,10 @@
         "PBP"
       ],
       "answer": 2,
-      "explanation": "Cilastatin يثبط Renal dehydropeptidase-I التي تحلل Imipenem في الكلى، مما يرفع مستوياته في البلازما."
+      "explanation": "Cilastatin inhibits Renal dehydropeptidase-I, which degrades Imipenem in the kidney, thereby raising its plasma levels."
     },
     {
-      "q": "مريض مصاب بـ MRSA. ما المضاد الحيوي الأنسب؟",
+      "q": "A patient is infected with MRSA. Which antibiotic is most appropriate?",
       "options": [
         "Ampicillin",
         "Cefazolin",
@@ -334,10 +334,10 @@
         "Aztreonam"
       ],
       "answer": 2,
-      "explanation": "Vancomycin هو العلاج الأساسي لـ MRSA. Aztreonam فعّال ضد G- فقط، والبيتا-لاكتام لا تفيد ضد MRSA."
+      "explanation": "Vancomycin is the primary treatment for MRSA. Aztreonam is active against Gram-negative bacteria only, and beta-lactams are ineffective against MRSA."
     },
     {
-      "q": "مريض يعاني من حساسية تأقية (anaphylaxis) للبنسلين مصاب بعدوى Pseudomonas. ما الخيار الأنسب؟",
+      "q": "A patient with penicillin anaphylaxis has a Pseudomonas infection. Which is the most appropriate option?",
       "options": [
         "Ceftriaxone",
         "Aztreonam",
@@ -345,10 +345,10 @@
         "Vancomycin"
       ],
       "answer": 1,
-      "explanation": "Aztreonam لا يتشارك الحساسية مع البيتا-لاكتام الأخرى، وهو فعّال ضد G- بما فيها Pseudomonas."
+      "explanation": "Aztreonam does not share cross-reactivity with the other beta-lactams, and it is active against Gram-negative bacteria including Pseudomonas."
     },
     {
-      "q": "أي السيفالوسبورينات لها أطول T1/2 وتُعطى مرة واحدة يومياً؟",
+      "q": "Which cephalosporin has the longest T1/2 and is given once daily?",
       "options": [
         "Cefazolin",
         "Cefuroxime",
@@ -356,21 +356,21 @@
         "Cefepime"
       ],
       "answer": 2,
-      "explanation": "Ceftriaxone له T1/2 = 4-7 ساعات وهو الأطول بين السيفالوسبورينات، لذلك يُعطى مرة أو مرتين يومياً."
+      "explanation": "Ceftriaxone has a T1/2 of 4-7 hours, the longest among cephalosporins, so it is given once or twice daily."
     },
     {
-      "q": "ما آلية مقاومة MRSA للبنسلين؟",
+      "q": "What is the mechanism of MRSA resistance to penicillin?",
       "options": [
-        "إنتاج Beta-lactamase",
-        "تغيير PBP",
-        "زيادة نفاذية الغشاء",
-        "إنتاج سموم"
+        "Beta-lactamase production",
+        "Altered PBP",
+        "Increased membrane permeability",
+        "Toxin production"
       ],
       "answer": 1,
-      "explanation": "MRSA مقاوم بسبب تغيير PBP (penicillin-binding protein) مما يمنع ارتباط البيتا-لاكتام بها."
+      "explanation": "MRSA is resistant due to an altered PBP (penicillin-binding protein), which prevents beta-lactams from binding to it."
     },
     {
-      "q": "أي التالي يُستخدم موضعياً فقط بسبب سميته الكلوية الشديدة؟",
+      "q": "Which of the following is used topically only because of its severe nephrotoxicity?",
       "options": [
         "Vancomycin",
         "Bacitracin",
@@ -378,18 +378,18 @@
         "Aztreonam"
       ],
       "answer": 1,
-      "explanation": "Bacitracin سام للكلى جداً عند الاستخدام الجهازي، لذلك يُستخدم موضعياً فقط لعلاج التهابات الجلد."
+      "explanation": "Bacitracin is highly nephrotoxic when used systemically, so it is used topically only to treat skin infections."
     },
     {
-      "q": "مريض يتلقى Vancomycin IV سريع الحقن فظهر احمرار في وجهه ورقبته. ما التشخيص؟",
+      "q": "A patient receiving rapid IV Vancomycin develops flushing of the face and neck. What is the diagnosis?",
       "options": [
-        "تفاعل تأقي (Anaphylaxis)",
+        "Anaphylaxis",
         "Red Man Syndrome",
-        "التهاب وريد (Phlebitis)",
-        "طفح جلدي دوائي"
+        "Phlebitis",
+        "Drug rash"
       ],
       "answer": 1,
-      "explanation": "Red Man Syndrome يحدث من الحقن السريع للفانكومايسين مما يؤدي لإفراز الهيستامين. العلاج: تبطيء الحقن."
+      "explanation": "Red Man Syndrome occurs from rapid vancomycin infusion, leading to histamine release. Treatment: slow the infusion."
     },
     {
       "q": "أي الكاربابينيم هو الأقل احتمالاً لإحداث تشنجات؟",

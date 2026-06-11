@@ -104,114 +104,114 @@
   ],
   "flashcards": [
     {
-      "front": "ما الفرق بين Pharmacokinetics و Pharmacodynamics؟",
-      "back": "Pharmacokinetics: ما يفعله الجسم بالدواء (ADME). Pharmacodynamics: ما يفعله الدواء بالجسم (التأثير والاستجابة)."
+      "front": "What is the difference between Pharmacokinetics and Pharmacodynamics?",
+      "back": "Pharmacokinetics: what the body does to the drug (ADME). Pharmacodynamics: what the drug does to the body (effect and response)."
     },
     {
-      "front": "ما هي أهداف الأدوية الأربعة؟",
+      "front": "What are the four drug targets?",
       "back": "Receptors, Enzymes, Ion channels, Carrier molecules (RICE)"
     },
     {
-      "front": "ما هو تعريف Affinity؟",
-      "back": "ميل الدواء للارتباط بالمستقبل. الـ Ligand يمثل أي جزيء له Affinity لمستقبل معين."
+      "front": "What is the definition of Affinity?",
+      "back": "The tendency of a drug to bind to a receptor. A ligand is any molecule that has affinity for a specific receptor."
     },
     {
-      "front": "ما هو تعريف Efficacy؟",
-      "back": "قدرة الدواء على إنتاج التأثير العلاجي المطلوب (Emax). الناهض الكامل (Full Agonist) له أعلى Efficacy."
+      "front": "What is the definition of Efficacy?",
+      "back": "The ability of a drug to produce the desired therapeutic effect (Emax). A full agonist has the highest efficacy."
     },
     {
-      "front": "ما هو الـ Full Agonist؟",
-      "back": "دواء له Affinity و Efficacy كاملة - يرتبط بالمستقبل وينتج أقصى استجابة ممكنة. مثال: Adrenaline."
+      "front": "What is a Full Agonist?",
+      "back": "A drug with full affinity and full efficacy — it binds to the receptor and produces the maximum possible response. Example: Adrenaline."
     },
     {
-      "front": "ما هو الـ Antagonist؟",
-      "back": "دواء يرتبط بالمستقبل (له Affinity) لكن Efficacy = Zero. لا ينتج استجابة بل يمنع الدواء الآخر. مثال: Atropine."
+      "front": "What is an Antagonist?",
+      "back": "A drug that binds to the receptor (has affinity) but Efficacy = Zero. It produces no response but blocks other drugs. Example: Atropine."
     },
     {
-      "front": "ما هو الـ Partial Agonist؟",
-      "back": "له Affinity لكن Efficacy جزئية (ناقصة). منفرداً يعمل كناهض، ومع Full Agonist يعمل كمضاد."
+      "front": "What is a Partial Agonist?",
+      "back": "It has affinity but partial (incomplete) efficacy. Alone it acts as an agonist; in the presence of a full agonist it acts as an antagonist."
     },
     {
-      "front": "ما هو EC50؟",
-      "back": "الجرعة أو التركيز المطلوب لإنتاج 50% من أقصى استجابة. يُستخدم لقياس Potency - كلما قل EC50 زادت القوة."
+      "front": "What is EC50?",
+      "back": "The dose or concentration required to produce 50% of the maximum response. It is used to measure Potency — the lower the EC50, the greater the potency."
     },
     {
-      "front": "ما العلاقة بين Potency و Efficacy؟",
-      "back": "هما مستقلتان. دواء قد يكون عالي الفاعلية (High Efficacy) لكن منخفض القوة (Low Potency) والعكس صحيح."
+      "front": "What is the relationship between Potency and Efficacy?",
+      "back": "They are independent. A drug may have high efficacy but low potency, and vice versa."
     },
     {
-      "front": "ما هو Therapeutic Index (TI)؟",
-      "back": "TI = TD50 / EC50. يقيس هامش الأمان للدواء. كلما ارتفع الـ TI كلما كان الدواء أكثر أماناً."
+      "front": "What is the Therapeutic Index (TI)?",
+      "back": "TI = TD50 / EC50. It measures the safety margin of a drug. The higher the TI, the safer the drug."
     },
     {
-      "front": "ما هو الـ Therapeutic Window؟",
-      "back": "نطاق الجرعات التي تنتج التأثير المطلوب دون تسبب آثار سامة غير مرغوبة."
+      "front": "What is the Therapeutic Window?",
+      "back": "The range of doses that produces the desired therapeutic effect without causing unwanted toxic effects."
     },
     {
-      "front": "ما هو التضاد الفسيولوجي (Physiological Antagonism)؟",
-      "back": "دواءان يعملان على مستقبلات مختلفة وينتجان تأثيرات متعاكسة. مثال: Histamine يخفض ضغط الدم، Adrenaline يرفعه."
+      "front": "What is Physiological Antagonism?",
+      "back": "Two drugs act on different receptors and produce opposing effects. Example: Histamine lowers blood pressure; Adrenaline raises it."
     },
     {
-      "front": "ما هو التضاد الكيميائي (Chemical Antagonism)؟",
-      "back": "تفاعل كيميائي مباشر بين دواءين ينتج عنه فقدان النشاط. الدواء يُعطَّل بالارتباط الكيميائي."
+      "front": "What is Chemical Antagonism?",
+      "back": "A direct chemical reaction between two drugs that results in loss of activity. The drug is inactivated by chemical binding."
     },
     {
-      "front": "ما الفرق بين Competitive و Non-competitive antagonism؟",
-      "back": "Competitive: المضاد يتنافس مع الناهض على نفس الموقع - يمكن التغلب عليه بزيادة الجرعة. Non-competitive: يرتبط بموقع آخر - لا يمكن التغلب عليه بزيادة الجرعة (يخفض Emax)."
+      "front": "What is the difference between Competitive and Non-competitive antagonism?",
+      "back": "Competitive: the antagonist competes with the agonist at the same binding site — can be overcome by increasing the dose. Non-competitive: binds to a different site — cannot be overcome by increasing the dose (reduces Emax)."
     },
     {
-      "front": "ما هو التآزر الدوائي Additive vs Supraadditive؟",
-      "back": "Additive: تأثير A+B = تأثير A + تأثير B منفردين. Supraadditive (Potentiation): تأثير A+B > مجموع التأثيرين، يحدث عندما يكون أحد الدوائين غير نشط منفرداً."
+      "front": "What is Additive vs Supraadditive (Potentiation) drug synergism?",
+      "back": "Additive: effect of A+B = effect of A alone + effect of B alone. Supraadditive (Potentiation): effect of A+B > sum of individual effects; occurs when one drug is inactive alone."
     },
     {
-      "front": "ما هو التحمل الدوائي (Tolerance)؟",
-      "back": "انخفاض الاستجابة للجرعة المعتادة من الدواء، مما يستلزم زيادة الجرعة للحصول على نفس التأثير."
+      "front": "What is Drug Tolerance?",
+      "back": "A decrease in response to the usual dose of a drug, requiring a dose increase to achieve the same effect."
     },
     {
-      "front": "ما هو Tachyphylaxis؟",
-      "back": "نوع خاص من التحمل المكتسب يحدث بسرعة شديدة (خلال دقائق). يُسمى أيضاً Acute Acquired Tolerance."
+      "front": "What is Tachyphylaxis?",
+      "back": "A specific type of acquired tolerance that develops very rapidly (within minutes). Also called Acute Acquired Tolerance."
     },
     {
-      "front": "كيف يثبط Neostigmine إنزيم Cholinesterase؟",
-      "back": "يتنافس مع Acetylcholine على موقع إنزيم Cholinesterase (تثبيط تنافسي)."
+      "front": "How does Neostigmine inhibit the enzyme Cholinesterase?",
+      "back": "It competes with Acetylcholine for the active site of Cholinesterase (competitive inhibition)."
     },
     {
-      "front": "لماذا يُعتبر Aspirin مثالاً للتثبيط اللارجعي؟",
-      "back": "لأنه يثبط إنزيم Cyclooxygenase بصورة لا رجعة فيها (Irreversible inhibition)، مما يمنع تركيب البروستاغلاندين."
+      "front": "Why is Aspirin considered an example of irreversible inhibition?",
+      "back": "Because it inhibits the enzyme Cyclooxygenase irreversibly (Irreversible inhibition), preventing prostaglandin synthesis."
     },
     {
-      "front": "ما هو الـ ED50؟",
-      "back": "الجرعة التي تنتج 50% من أقصى استجابة في حيوان واحد. يُستخدم لمقارنة حساسية المرضى وإيجاد الجرعات المتكافئة."
+      "front": "What is ED50?",
+      "back": "The dose that produces 50% of the maximum response in a single animal. Used to compare patient sensitivity and to find equivalent doses."
     },
     {
-      "front": "ما هي أهداف الدواء الأربعة (RICE)؟",
+      "front": "What are the four drug targets (RICE)?",
       "back": "Receptor, Ion channel, Carrier molecule, Enzyme.",
       "tag": "high-yield"
     },
     {
-      "front": "ما هو Inverse agonist؟",
-      "back": "يرتبط بالمستقبل النشط أساساً وينتج تأثيراً معاكساً (efficacy سالبة)."
+      "front": "What is an Inverse agonist?",
+      "back": "It binds to a constitutively active receptor and produces an effect opposite to that of the agonist (negative efficacy)."
     },
     {
-      "front": "ما الفرق بين Tolerance و Tachyphylaxis؟",
-      "back": "Tolerance يتطور ببطء؛ Tachyphylaxis تحمل حاد سريع خلال دقائق."
+      "front": "What is the difference between Tolerance and Tachyphylaxis?",
+      "back": "Tolerance develops slowly; Tachyphylaxis is rapid acute tolerance developing within minutes."
     },
     {
-      "front": "ما معنى Spare receptors؟",
-      "back": "مستقبلات فائضة؛ يمكن بلوغ الاستجابة القصوى دون إشغال كل المستقبلات."
+      "front": "What are Spare receptors?",
+      "back": "Excess receptors; the maximum response can be achieved without occupying all receptors."
     },
     {
-      "front": "ما هو Therapeutic window؟",
-      "back": "نطاق الجرعات الذي يعطي تأثيراً علاجياً دون سُمّية."
+      "front": "What is the Therapeutic window?",
+      "back": "The dose range that produces a therapeutic effect without toxicity."
     },
     {
-      "front": "ما الفرق بين ED50 و TD50 و LD50؟",
-      "back": "ED50: جرعة فعّالة لـ50%؛ TD50: جرعة سامة لـ50%؛ LD50: جرعة قاتلة لـ50%."
+      "front": "What is the difference between ED50, TD50, and LD50?",
+      "back": "ED50: effective dose in 50%; TD50: toxic dose in 50%; LD50: lethal dose in 50%."
     }
   ],
   "mcqs": [
     {
-      "q": "أي من التالي يُعرَّف بأنه دواء له Affinity للمستقبل لكن Efficacy = Zero؟",
+      "q": "Which of the following is defined as a drug that has affinity for the receptor but Efficacy = Zero?",
       "options": [
         "Full Agonist",
         "Partial Agonist",
@@ -219,32 +219,32 @@
         "Inverse Agonist"
       ],
       "answer": 2,
-      "explanation": "الـ Antagonist يرتبط بالمستقبل (له Affinity) لكنه لا ينتج أي استجابة (Efficacy = Zero)، بعكس الـ Agonist الذي ينتج استجابة."
+      "explanation": "An antagonist binds to the receptor (has affinity) but produces no response (Efficacy = Zero), unlike an agonist which produces a response."
     },
     {
-      "q": "الدواء الذي يحتاج كمية أقل لإنتاج 50% من الاستجابة القصوى يُوصف بأنه:",
+      "q": "A drug that requires a smaller amount to produce 50% of the maximum response is described as:",
       "options": [
-        "أعلى فاعلية (Higher Efficacy)",
-        "أكثر قوة (More Potent)",
-        "أقل أماناً",
-        "له Emax أعلى"
+        "Higher Efficacy",
+        "More Potent",
+        "Less Safe",
+        "Having a higher Emax"
       ],
       "answer": 1,
-      "explanation": "الـ Potency تُقاس بالـ EC50. الدواء الذي يحتاج تركيزاً أقل (EC50 منخفض) هو الأكثر قوة (More Potent)."
+      "explanation": "Potency is measured by EC50. A drug that requires a lower concentration (low EC50) is more potent."
     },
     {
-      "q": "Aspirin يثبط Cyclooxygenase بطريقة:",
+      "q": "Aspirin inhibits Cyclooxygenase in which manner?",
       "options": [
-        "تنافسية قابلة للعكس",
-        "غير تنافسية قابلة للعكس",
-        "غير رجعية (Irreversible)",
-        "فسيولوجية"
+        "Competitive reversible inhibition",
+        "Non-competitive reversible inhibition",
+        "Irreversible inhibition",
+        "Physiological inhibition"
       ],
       "answer": 2,
-      "explanation": "Aspirin يثبط إنزيم Cyclooxygenase بصورة لا رجعة فيها (Irreversible inhibition)، لذلك تأثيره يستمر حتى تتجدد الصفائح الدموية."
+      "explanation": "Aspirin inhibits the enzyme Cyclooxygenase irreversibly (Irreversible inhibition); therefore its effect persists until platelets are renewed."
     },
     {
-      "q": "الـ Therapeutic Index يُحسب بالمعادلة:",
+      "q": "The Therapeutic Index is calculated by the formula:",
       "options": [
         "EC50 / ED50",
         "TD50 / EC50",
@@ -252,10 +252,10 @@
         "LD50 / TD50"
       ],
       "answer": 1,
-      "explanation": "TI = TD50 / EC50. يقارن الجرعة السمية بالجرعة العلاجية. كلما ارتفع كلما كان الدواء أكثر أماناً."
+      "explanation": "TI = TD50 / EC50. It compares the toxic dose to the therapeutic dose. The higher the TI, the safer the drug."
     },
     {
-      "q": "Histamine يخفض ضغط الدم بينما Adrenaline يرفعه. هذا مثال على:",
+      "q": "Histamine lowers blood pressure while Adrenaline raises it. This is an example of:",
       "options": [
         "Chemical antagonism",
         "Non-competitive antagonism",
@@ -263,65 +263,65 @@
         "Competitive antagonism"
       ],
       "answer": 2,
-      "explanation": "التضاد الفسيولوجي يحدث عندما يعمل دواءان على مستقبلات مختلفة وينتجان تأثيرات متعاكسة، كـ Histamine وAdrenaline على ضغط الدم."
+      "explanation": "Physiological antagonism occurs when two drugs act on different receptors and produce opposing effects, such as Histamine and Adrenaline on blood pressure."
     },
     {
-      "q": "أي من الأدوية التالية مثال على Partial Agonist؟",
+      "q": "Which of the following drugs is an example of a Partial Agonist?",
       "options": [
         "Atropine",
         "Adrenaline",
         "Neostigmine",
-        "دواء له Affinity و Efficacy جزئية"
+        "A drug with affinity and partial efficacy"
       ],
       "answer": 3,
-      "explanation": "الـ Partial Agonist له Affinity وبعض Efficacy، لكن Efficacy ناقصة. منفرداً يعمل كناهض، لكن مع Full Agonist يعمل كمضاد."
+      "explanation": "A partial agonist has affinity and some efficacy, but efficacy is incomplete. Alone it acts as an agonist; in the presence of a full agonist it acts as an antagonist."
     },
     {
-      "q": "أي عبارة صحيحة عن Competitive Antagonism؟",
+      "q": "Which statement is correct about Competitive Antagonism?",
       "options": [
-        "يُخفّض الـ Emax",
-        "لا يمكن التغلب عليه بزيادة الجرعة",
-        "يتنافس على نفس الموقع ويمكن التغلب عليه بزيادة الناهض",
-        "يرتبط بموقع مختلف عن موقع الناهض"
+        "It reduces Emax",
+        "It cannot be overcome by increasing the dose",
+        "It competes at the same binding site and can be overcome by increasing the agonist dose",
+        "It binds to a different site from the agonist"
       ],
       "answer": 2,
-      "explanation": "في التضاد التنافسي، المضاد يتنافس مع الناهض على نفس موقع الارتباط. يمكن التغلب عليه بزيادة جرعة الناهض، ولا يُغير الـ Emax."
+      "explanation": "In competitive antagonism, the antagonist competes with the agonist for the same binding site. It can be overcome by increasing the agonist dose and does not alter Emax."
     },
     {
-      "q": "ظاهرة Tachyphylaxis تُعرَّف بأنها:",
+      "q": "Tachyphylaxis is defined as:",
       "options": [
-        "تحمل مزمن يتطور ببطء",
-        "تحمل حاد يتطور بسرعة خلال دقائق",
-        "فشل الدواء في الارتباط بالمستقبل",
-        "زيادة الاستجابة للدواء"
+        "Chronic tolerance that develops slowly",
+        "Acute tolerance that develops rapidly within minutes",
+        "Failure of the drug to bind to the receptor",
+        "An increased response to the drug"
       ],
       "answer": 1,
-      "explanation": "Tachyphylaxis هو نوع خاص من التحمل المكتسب يتطور بسرعة شديدة (خلال دقائق). يُسمى أيضاً Acute Acquired Tolerance."
+      "explanation": "Tachyphylaxis is a specific type of acquired tolerance that develops very rapidly (within minutes). It is also called Acute Acquired Tolerance."
     },
     {
-      "q": "أي من التالي صحيح عن Non-competitive antagonism؟",
+      "q": "Which of the following is correct about Non-competitive antagonism?",
       "options": [
-        "يُنقص EC50 فقط",
-        "يُنقص Emax ولا يمكن التغلب عليه بزيادة الجرعة",
-        "يمكن التغلب عليه بزيادة الناهض",
-        "يعمل على مستقبل مختلف"
+        "It only reduces EC50",
+        "It reduces Emax and cannot be overcome by increasing the dose",
+        "It can be overcome by increasing the agonist dose",
+        "It acts on a different receptor"
       ],
       "answer": 1,
-      "explanation": "الـ Non-competitive antagonist يرتبط بموقع آخر غير موقع الناهض، مما يُقلل الـ Emax ولا يمكن التغلب عليه بزيادة جرعة الناهض."
+      "explanation": "A non-competitive antagonist binds to a site other than the agonist binding site, reducing Emax in a manner that cannot be reversed by increasing the agonist dose."
     },
     {
-      "q": "عند رسم منحنى الجرعة-الاستجابة (Dose-Response Curve)، أي المعاملات يعكس Efficacy الدواء؟",
+      "q": "On a Dose-Response Curve, which parameter reflects the drug's Efficacy?",
       "options": [
         "EC50",
         "Emax",
         "ED50",
-        "الانحدار (Slope)"
+        "The Slope"
       ],
       "answer": 1,
-      "explanation": "الـ Efficacy تُعكس بالـ Emax (أقصى استجابة يمكن للدواء إنتاجها). بينما الـ Potency تُقاس بالـ EC50."
+      "explanation": "Efficacy is reflected by Emax (the maximum response a drug can produce). Potency is measured by EC50."
     },
     {
-      "q": "أي هدف دوائي يمثله Neostigmine؟",
+      "q": "Which drug target does Neostigmine represent?",
       "options": [
         "Receptor",
         "Enzyme (cholinesterase)",
@@ -329,11 +329,11 @@
         "Carrier"
       ],
       "answer": 1,
-      "explanation": "يثبّط إنزيم الكولينستراز.",
+      "explanation": "Neostigmine inhibits the enzyme cholinesterase.",
       "difficulty": "medium"
     },
     {
-      "q": "الدواء الذي ينتج تأثيراً معاكساً بالارتباط بالمستقبل النشط:",
+      "q": "A drug that produces an opposing effect by binding to a constitutively active receptor is:",
       "options": [
         "Antagonist",
         "Partial agonist",
@@ -341,7 +341,7 @@
         "Full agonist"
       ],
       "answer": 2,
-      "explanation": "Inverse agonist له efficacy سالبة.",
+      "explanation": "An inverse agonist has negative efficacy.",
       "difficulty": "medium"
     }
   ],

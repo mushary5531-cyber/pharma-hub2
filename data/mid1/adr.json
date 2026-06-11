@@ -115,126 +115,126 @@
   ],
   "flashcards": [
     {
-      "front": "ما تعريف ADR حسب منظمة الصحة العالمية (WHO)؟",
-      "back": "أي تأثير ضار، غير مقصود، وغير مرغوب فيه يحدث عند جرعات تُستخدم للعلاج. ليس جرعة زائدة، وليس آثاراً جانبية بالتعريف الضيق."
+      "front": "What is the WHO definition of an ADR?",
+      "back": "Any harmful, unintended, and undesired effect occurring at doses used for treatment. It is not an overdose, and not side effects in the narrow sense."
     },
     {
-      "front": "ما هو Type A ADR؟ مع مثال.",
-      "back": "Augmented: تفاعلات متوقعة، مرتبطة بالجرعة، ناتجة عن التأثير الدوائي المعتاد. شائعة، وفيات منخفضة. مثال: Insulin → نقص السكر. قابلة للوقاية بتعديل الجرعة."
+      "front": "What is a Type A ADR? Give an example.",
+      "back": "Augmented: predictable, dose-related reactions resulting from the usual pharmacological effect of the drug. Common, with low mortality. Example: Insulin → hypoglycemia. Preventable by adjusting the dose."
     },
     {
-      "front": "ما هو Type B ADR؟ مع مثال.",
-      "back": "Bizarre: غريبة، غير متوقعة، مستقلة عن الجرعة، نادرة لكن وفيات عالية. مثال: Penicillin → صدمة تأقية (Anaphylaxis). العلاج: وقف الدواء وتجنبه مستقبلاً."
+      "front": "What is a Type B ADR? Give an example.",
+      "back": "Bizarre: unusual, unpredictable, dose-independent, rare but with high mortality. Example: Penicillin → anaphylactic shock (anaphylaxis). Treatment: stop the drug and avoid it in the future."
     },
     {
-      "front": "ما هو Type C ADR؟ مع مثال.",
-      "back": "Chronic: ناتجة عن الاستخدام الطويل المزمن، مرتبطة بالجرعة والوقت. مثال: NSAIDs → قرحة هضمية. Corticosteroids → متلازمة كوشينج. العلاج: تقليل الجرعة أو الإيقاف التدريجي."
+      "front": "What is a Type C ADR? Give an example.",
+      "back": "Chronic: resulting from prolonged chronic use, related to dose and time. Example: NSAIDs → peptic ulcer. Corticosteroids → Cushing syndrome. Treatment: reduce the dose or taper gradually."
     },
     {
-      "front": "ما هو Type D ADR؟ مع مثال.",
-      "back": "Delayed: تظهر بعد انتهاء العلاج، نادرة، صعبة الاكتشاف. مثال: Phenytoin → Fetal Hydantoin Syndrome. Diethylstilbestrol → سرطان المهبل في بنات الأمهات المستخدِمات."
+      "front": "What is a Type D ADR? Give an example.",
+      "back": "Delayed: appears after treatment has ended, rare, and difficult to detect. Example: Phenytoin → Fetal Hydantoin Syndrome. Diethylstilbestrol → vaginal cancer in daughters of mothers who used it."
     },
     {
-      "front": "ما هو Type E ADR؟ مع مثال.",
-      "back": "End of treatment: يحدث عند الإيقاف المفاجئ للدواء. مثال: Beta-blockers → نقص تروية عضلة القلب. Corticosteroids → قصور كظري. العلاج: إعادة الدواء والتوقف التدريجي."
+      "front": "What is a Type E ADR? Give an example.",
+      "back": "End of treatment: occurs upon abrupt withdrawal of the drug. Example: Beta-blockers → myocardial ischemia. Corticosteroids → adrenal insufficiency. Treatment: reintroduce the drug and taper gradually."
     },
     {
-      "front": "ما العوامل الداخلية (Intrinsic) التي تؤثر على الاستجابة للدواء؟",
-      "back": "1. العمر (Age)\n2. الجينات (Genetics/Pharmacogenetics)\n3. الحالة الفسيولوجية والأمراض\n4. التحمل (Tolerance)\n5. التفاعلات الدوائية (Drug-Drug Interaction)"
+      "front": "What are the intrinsic factors that affect drug response?",
+      "back": "1. Age\n2. Genetics/Pharmacogenetics\n3. Physiological state and diseases\n4. Tolerance\n5. Drug-Drug Interactions"
     },
     {
-      "front": "لماذا يختلف تأثير الدواء في أطراف العمر (حديثي الولادة والمسنون)؟",
-      "back": "كلا الطرفين لديهم كفاءة إطراح أقل: الكبد والكلى أقل نضجاً أو أقل كفاءة. النتيجة: t1/2 أطول وتأثير أشد وأطول مدة. كلاهما يحتاج جرعات أقل."
+      "front": "Why does the drug effect differ at the extremes of age (neonates and the elderly)?",
+      "back": "Both extremes have reduced elimination capacity: the liver and kidneys are less mature or less efficient. As a result: longer t1/2 and a stronger, more prolonged effect. Both require lower doses."
     },
     {
-      "front": "ما هو الـ Pharmacogenetics؟",
-      "back": "تباين الاستجابة للدواء بسبب اختلاف جيني في الاستقلاب. مثال: Fast vs Slow Acetylators لـ Isoniazid (INH). هذا يؤدي لاختلاف فاعلية الدواء وتوقعات الآثار الجانبية."
+      "front": "What is pharmacogenetics?",
+      "back": "Variation in drug response due to genetic differences in metabolism. Example: Fast vs Slow Acetylators of Isoniazid (INH). This leads to differences in drug efficacy and the likelihood of side effects."
     },
     {
-      "front": "كيف يؤثر تشمع الكبد الشديد على الدواء؟",
-      "back": "1. نقص الألبومين → زيادة الجزء الحر → آثار سلبية\n2. نقص تدفق الدم الكبدي → نقص إطراح الدواء\n3. ضعف إنزيمات الميكروسوم → نقص الاستقلاب → تراكم الدواء"
+      "front": "How does severe liver cirrhosis affect a drug?",
+      "back": "1. Low albumin → increased free fraction → adverse effects\n2. Reduced hepatic blood flow → reduced drug elimination\n3. Impaired microsomal enzymes → reduced metabolism → drug accumulation"
     },
     {
-      "front": "ما تعريف الحادثة الضارة الخطيرة (Serious Adverse Event) حسب FDA؟",
-      "back": "أي تأثير يُسبب: وفاة، أو تهديد للحياة، أو استشفاء/إطالة استشفاء، أو عجز، أو تشوهات خلقية، أو يستلزم تدخلاً لمنع ضرر دائم."
+      "front": "What is the FDA definition of a Serious Adverse Event?",
+      "back": "Any effect that causes: death, a life-threatening condition, hospitalization/prolongation of hospitalization, disability, congenital anomalies, or requires intervention to prevent permanent harm."
     },
     {
-      "front": "ما الفرق بين Idiosyncrasy و Allergy في ADR؟",
-      "back": "كلاهما Type B. Allergy (Hypersensitivity): ردة فعل مناعية (Immunological). Idiosyncrasy: ردة فعل غير متوقعة بسبب شذوذ جيني (Genetic abnormality)."
+      "front": "What is the difference between idiosyncrasy and allergy in ADRs?",
+      "back": "Both are Type B. Allergy (hypersensitivity): an immunological reaction. Idiosyncrasy: an unpredictable reaction due to a genetic abnormality."
     },
     {
-      "front": "ما طرق اكتشاف ADR (Detection)؟",
-      "back": "1. Subjective: شكوى المريض\n2. Objective: مراقبة مباشرة للحدث\n3. Abnormal finding: نتائج غير طبيعية في الفحص السريري أو المختبري"
+      "front": "What are the methods of ADR detection?",
+      "back": "1. Subjective: the patient's complaint\n2. Objective: direct observation of the event\n3. Abnormal finding: abnormal results on clinical examination or laboratory testing"
     },
     {
-      "front": "ما مبادئ الوقاية من ADR؟",
-      "back": "1. لا تصف إلا بدواعٍ واضحة\n2. الجرعة والطريق والتكرار المناسب\n3. اسأل عن الأدوية الأخرى\n4. اسأل عن تاريخ ADR سابق\n5. أخبر المريض بالآثار الخطيرة المحتملة\n6. المراقبة المخبرية المناسبة"
+      "front": "What are the principles of ADR prevention?",
+      "back": "1. Do not prescribe except for clear indications\n2. Appropriate dose, route, and frequency\n3. Ask about other medications\n4. Ask about a history of previous ADRs\n5. Inform the patient about potential serious effects\n6. Appropriate laboratory monitoring"
     },
     {
-      "front": "ما توقيت ظهور ADR الحاد (Acute)؟",
-      "back": "خلال 60 دقيقة من تناول الدواء."
+      "front": "What is the timing of onset of an acute ADR?",
+      "back": "Within 60 minutes of taking the drug."
     },
     {
-      "front": "ما الفرق بين Acute وSub-acute وLatent في توقيت ADR؟",
-      "back": "Acute: خلال 60 دقيقة. Sub-acute: 1-24 ساعة. Latent: أكثر من يومين."
+      "front": "What is the difference between acute, sub-acute, and latent in ADR timing?",
+      "back": "Acute: within 60 minutes. Sub-acute: 1-24 hours. Latent: more than two days."
     },
     {
-      "front": "لماذا تُعتبر Type B ADR الأخطر رغم ندرتها؟",
-      "back": "لأن وفياتها عالية ومن الصعب توقعها. لا ترتبط بالجرعة لذا تخفيض الجرعة لا يمنعها. الوقاية الوحيدة: إيقاف الدواء وتجنبه مستقبلاً."
+      "front": "Why are Type B ADRs considered the most dangerous despite their rarity?",
+      "back": "Because they have high mortality and are difficult to predict. They are not dose-related, so reducing the dose does not prevent them. The only prevention: stopping the drug and avoiding it in the future."
     },
     {
-      "front": "ما مثال على Idiosyncratic reaction في التخدير؟",
-      "back": "بعض المرضى يُصابون بـ Apnea (توقف التنفس) أثناء التخدير بسبب شذوذ جيني في استقلاب الدواء المُخدِّر."
+      "front": "What is an example of an idiosyncratic reaction in anesthesia?",
+      "back": "Some patients develop apnea (cessation of breathing) during anesthesia due to a genetic abnormality in the metabolism of the anesthetic drug."
     },
     {
-      "front": "ما العوامل الجوهرية (Intrinsic) المؤثرة على استجابة الدواء؟",
-      "back": "العمر، الجينات (pharmacogenetics)، الحالة المرضية، التحمل، والتداخلات الدوائية.",
+      "front": "What are the intrinsic factors affecting drug response?",
+      "back": "Age, genetics (pharmacogenetics), disease state, tolerance, and drug interactions.",
       "tag": "high-yield"
     },
     {
-      "front": "لماذا يكون حديثو الولادة وكبار السن أكثر حساسية للأدوية؟",
-      "back": "لأن إطراح الدواء أقل كفاءة → تأثير أكبر وأطول (↑ t½) → كلاهما يحتاج جرعة أقل."
+      "front": "Why are neonates and the elderly more sensitive to drugs?",
+      "back": "Because drug elimination is less efficient → a greater and more prolonged effect (↑ t½) → both require a lower dose."
     },
     {
-      "front": "كيف يؤثر مرض الكبد على استجابة الدواء؟",
-      "back": "تشمّع شديد → نقص الألبومين (↓ ارتباط بروتيني) و↓ تدفق دموي وإنزيمات → ↓ تصفية واستقلاب → آثار جانبية."
+      "front": "How does liver disease affect drug response?",
+      "back": "Severe cirrhosis → low albumin (↓ protein binding), ↓ blood flow and enzymes → ↓ clearance and metabolism → side effects."
     },
     {
-      "front": "كيف يؤثر القصور الكلوي على الأدوية؟",
-      "back": "↓ إطراح الأدوية كلوية الطرح (مثل Digoxin) → تراكم وسُمّية."
+      "front": "How does renal failure affect drugs?",
+      "back": "↓ elimination of renally excreted drugs (such as Digoxin) → accumulation and toxicity."
     },
     {
-      "front": "ما هو Tolerance؟",
-      "back": "انخفاض الاستجابة للجرعة المعتادة بمرور الوقت يستلزم زيادة الجرعة."
+      "front": "What is tolerance?",
+      "back": "A decrease in response to the usual dose over time, requiring an increase in the dose."
     },
     {
-      "front": "ما تصنيف ADR حسب Rawlins–Thompson؟",
-      "back": "Type A (Augmented - متوقع، يعتمد على الجرعة) و Type B (Bizarre - غير متوقع، لا يعتمد على الجرعة، مناعي غالباً).",
+      "front": "What is the Rawlins–Thompson classification of ADRs?",
+      "back": "Type A (Augmented - predictable, dose-dependent) and Type B (Bizarre - unpredictable, dose-independent, usually immunological).",
       "tag": "high-yield"
     },
     {
-      "front": "أعطِ مثالاً على Type A ADR",
-      "back": "نزيف من Warfarin، نقص سكر من Insulin - متوقعة وتعتمد على الجرعة."
+      "front": "Give an example of a Type A ADR",
+      "back": "Bleeding from Warfarin, hypoglycemia from Insulin - predictable and dose-dependent."
     },
     {
-      "front": "أعطِ مثالاً على Type B ADR",
-      "back": "تأق (anaphylaxis) من البنسلين - غير متوقع ولا يعتمد على الجرعة."
+      "front": "Give an example of a Type B ADR",
+      "back": "Anaphylaxis from penicillin - unpredictable and dose-independent."
     }
   ],
   "mcqs": [
     {
-      "q": "ما تعريف ADR حسب منظمة الصحة العالمية؟",
+      "q": "What is the WHO definition of an ADR?",
       "options": [
-        "أي تأثير دوائي يحدث عند الجرعة الزائدة",
-        "أي تأثير ضار غير مقصود يحدث عند الجرعات العلاجية",
-        "الآثار الجانبية المتوقعة لأي دواء",
-        "التفاعلات الدوائية بين دوائين"
+        "Any drug effect occurring at an overdose",
+        "Any harmful, unintended effect occurring at therapeutic doses",
+        "The expected side effects of any drug",
+        "Drug interactions between two drugs"
       ],
       "answer": 1,
-      "explanation": "ADR حسب WHO: أي تأثير ضار، غير مقصود، وغير مرغوب فيه يحدث عند الجرعات المستخدمة للعلاج. لا يشمل الجرعات الزائدة."
+      "explanation": "ADR per WHO: any harmful, unintended, and undesired effect occurring at doses used for treatment. It does not include overdoses."
     },
     {
-      "q": "مريض يتناول Insulin ويُصاب بنقص السكر. هذا مثال على:",
+      "q": "A patient taking Insulin develops hypoglycemia. This is an example of:",
       "options": [
         "Type B ADR",
         "Type C ADR",
@@ -242,21 +242,21 @@
         "Type D ADR"
       ],
       "answer": 2,
-      "explanation": "Type A (Augmented): متوقعة، مرتبطة بالجرعة، ناتجة عن التأثير الدوائي الطبيعي. Insulin → Hypoglycemia هو نموذجي لـ Type A. قابل للوقاية بتعديل الجرعة."
+      "explanation": "Type A (Augmented): predictable, dose-related, resulting from the normal pharmacological effect. Insulin → hypoglycemia is typical of Type A. Preventable by adjusting the dose."
     },
     {
-      "q": "مريض يتناول Penicillin ويُصاب بصدمة تأقية (Anaphylaxis). هذا مثال على:",
+      "q": "A patient taking Penicillin develops anaphylactic shock (anaphylaxis). This is an example of:",
       "options": [
-        "Type A ADR - شائع وذو صلة بالجرعة",
-        "Type B ADR - نادر وغير متوقع وعالي الوفيات",
-        "Type C ADR - من الاستخدام المزمن",
-        "Type E ADR - من إيقاف الدواء"
+        "Type A ADR - common and dose-related",
+        "Type B ADR - rare, unpredictable, and with high mortality",
+        "Type C ADR - from chronic use",
+        "Type E ADR - from drug withdrawal"
       ],
       "answer": 1,
-      "explanation": "Type B (Bizarre): غير متوقع، مستقل عن الجرعة، نادر لكن وفيات عالية. Anaphylaxis مع Penicillin هو تفاعل مناعي (Immunological/Allergic) نموذجي لـ Type B."
+      "explanation": "Type B (Bizarre): unpredictable, dose-independent, rare but with high mortality. Anaphylaxis with Penicillin is an immunological/allergic reaction typical of Type B."
     },
     {
-      "q": "مريض يتناول Corticosteroids لفترة طويلة ويُصاب بمتلازمة كوشينج. هذا مثال على:",
+      "q": "A patient taking Corticosteroids for a long time develops Cushing syndrome. This is an example of:",
       "options": [
         "Type A ADR",
         "Type B ADR",
@@ -264,10 +264,10 @@
         "Type E ADR"
       ],
       "answer": 2,
-      "explanation": "Type C (Chronic): يحدث مع الاستخدام المطوّل المزمن، مرتبط بالجرعة والوقت. Corticosteroids → Cushing Syndrome مع الاستخدام الطويل = Type C."
+      "explanation": "Type C (Chronic): occurs with prolonged chronic use, related to dose and time. Corticosteroids → Cushing syndrome with long-term use = Type C."
     },
     {
-      "q": "مريض يوقف Beta-blockers فجأة ويُصاب بنقص تروية عضلة القلب. هذا مثال على:",
+      "q": "A patient abruptly stops Beta-blockers and develops myocardial ischemia. This is an example of:",
       "options": [
         "Type A ADR",
         "Type B ADR",
@@ -275,10 +275,10 @@
         "Type E ADR"
       ],
       "answer": 3,
-      "explanation": "Type E (End of treatment): يحدث عند الإيقاف المفاجئ للدواء. Beta-blockers → Myocardial Ischemia عند الإيقاف المفاجئ = Type E. الحل: إعادة الدواء ثم التوقف التدريجي."
+      "explanation": "Type E (End of treatment): occurs upon abrupt withdrawal of the drug. Beta-blockers → myocardial ischemia upon abrupt withdrawal = Type E. Solution: reintroduce the drug then taper gradually."
     },
     {
-      "q": "Fetal Hydantoin Syndrome الناتج عن Phenytoin هو مثال على:",
+      "q": "Fetal Hydantoin Syndrome caused by Phenytoin is an example of:",
       "options": [
         "Type A ADR",
         "Type B ADR",
@@ -286,29 +286,29 @@
         "Type D ADR"
       ],
       "answer": 3,
-      "explanation": "Type D (Delayed): يظهر بعد انتهاء العلاج، نادر وصعب الاكتشاف. Fetal Hydantoin Syndrome = تشوهات جنينية تظهر بعد انتهاء الحمل = Type D."
+      "explanation": "Type D (Delayed): appears after treatment has ended, rare and difficult to detect. Fetal Hydantoin Syndrome = fetal malformations appearing after pregnancy = Type D."
     },
     {
-      "q": "أي من العوامل التالية يجعل كلاً من حديثي الولادة والمسنين أكثر حساسية للأدوية؟",
+      "q": "Which of the following factors makes both neonates and the elderly more sensitive to drugs?",
       "options": [
-        "زيادة مستوى الألبومين",
-        "كفاءة إطراح الدواء أقل → t1/2 أطول",
-        "زيادة الكتلة العضلية",
-        "انخفاض التوزيع النسيجي للدواء"
+        "Increased albumin level",
+        "Reduced drug elimination capacity → longer t1/2",
+        "Increased muscle mass",
+        "Decreased tissue distribution of the drug"
       ],
       "answer": 1,
-      "explanation": "في كلا الطرفين (Extremes of age) تكون كفاءة الكبد والكلى أقل، مما يزيد t1/2 ويُطيل تأثير الدواء ويزيد خطر السمية. كلاهما يحتاج جرعات أقل."
+      "explanation": "At both extremes of age, hepatic and renal efficiency is lower, which increases t1/2, prolongs the drug effect, and increases the risk of toxicity. Both require lower doses."
     },
     {
-      "q": "ما الفرق الرئيسي بين Allergy و Idiosyncrasy في Type B ADR؟",
+      "q": "What is the main difference between allergy and idiosyncrasy in Type B ADR?",
       "options": [
-        "Allergy أكثر شيوعاً من Idiosyncrasy",
-        "Allergy مرتبطة بالجرعة بينما Idiosyncrasy لا",
-        "Allergy ردة فعل مناعية، Idiosyncrasy شذوذ جيني في الاستقلاب",
-        "Idiosyncrasy لها وفيات أعلى"
+        "Allergy is more common than idiosyncrasy",
+        "Allergy is dose-related while idiosyncrasy is not",
+        "Allergy is an immunological reaction; idiosyncrasy is a genetic abnormality in metabolism",
+        "Idiosyncrasy has higher mortality"
       ],
       "answer": 2,
-      "explanation": "Allergy (Hypersensitivity) = ردة فعل مناعية (Immunological). Idiosyncrasy = ردة فعل غير متوقعة بسبب شذوذ جيني. كلاهما Type B: نادر، غير مرتبط بالجرعة."
+      "explanation": "Allergy (hypersensitivity) = an immunological reaction. Idiosyncrasy = an unpredictable reaction due to a genetic abnormality. Both are Type B: rare and dose-independent."
     },
     {
       "q": "حسب FDA، أي من التالي لا يُعدّ Serious Adverse Event؟",

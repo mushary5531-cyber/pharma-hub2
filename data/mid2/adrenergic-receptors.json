@@ -137,166 +137,166 @@
   ],
   "flashcards": [
     {
-      "front": "ما مستقبل Alpha-1 وما تأثيره الرئيسي؟",
-      "back": "مستقبل Gq مقترن - موجود في الأوعية والمثانة - التأثير: تقبّض العضلات الملساء (تضييق الأوعية ورفع الضغط)"
+      "front": "What is the Alpha-1 receptor and what is its main effect?",
+      "back": "Gq-coupled receptor — found in blood vessels and the bladder — effect: smooth muscle contraction (vasoconstriction and blood pressure elevation)"
     },
     {
-      "front": "ما مستقبل Alpha-2 وأين يقع؟",
-      "back": "مستقبل Gi مقترن - موجود على الخلية العصبية قبل التشابك (Presynaptic) - يثبط إفراز Norepinephrine (تغذية راجعة سلبية)"
+      "front": "What is the Alpha-2 receptor and where is it located?",
+      "back": "Gi-coupled receptor — located on the presynaptic neuron — inhibits Norepinephrine release (negative feedback)"
     },
     {
-      "front": "ما تأثير تنشيط Beta-1؟",
-      "back": "زيادة معدل القلب (HR)، قوة الانقباض (Contractility)، التوصيل (Conduction)، وإفراز Renin - عبر Gs-cAMP"
+      "front": "What is the effect of Beta-1 stimulation?",
+      "back": "Increases heart rate (HR), contractility, conduction, and Renin secretion — via Gs-cAMP"
     },
     {
-      "front": "ما تأثير تنشيط Beta-2؟",
-      "back": "ارتخاء العضلات الملساء: توسع الشعب الهوائية، توسع أوعية العضلات الهيكلية، ارتخاء الرحم"
+      "front": "What is the effect of Beta-2 stimulation?",
+      "back": "Smooth muscle relaxation: bronchodilation, dilation of skeletal muscle vessels, uterine relaxation"
     },
     {
-      "front": "ما دواء Phenylephrine واستخداماته؟",
-      "back": "منبّه Alpha-1 - يُستخدم: (1) مزيل احتقان أنفي، (2) علاج انخفاض ضغط الدم الشديد وريدياً، (3) قطرة عيون لتوسيع الحدقة"
+      "front": "What is Phenylephrine and what are its uses?",
+      "back": "Alpha-1 agonist — used as: (1) nasal decongestant, (2) IV treatment of severe hypotension, (3) eye drops for pupil dilation"
     },
     {
-      "front": "ما ظاهرة 'First-dose Syncope' ومع أي دواء؟",
-      "back": "إغماء عند أول جرعة بسبب انخفاض ضغط الدم المفاجئ - كلاسيكي مع Prazosin (حاصر Alpha-1) - يُنصح بأخذ أول جرعة عند النوم"
+      "front": "What is 'First-dose Syncope' and with which drug does it occur?",
+      "back": "Fainting at the first dose due to sudden blood pressure drop — classic with Prazosin (Alpha-1 blocker) — first dose is recommended at bedtime"
     },
     {
-      "front": "ما الفرق بين Prazosin وTamsulosin؟",
-      "back": "Prazosin: حاصر Alpha-1B - للأوعية - يُستخدم لارتفاع ضغط الدم. Tamsulosin: حاصر Alpha-1A - للبروستاتا والمثانة - للبروستاتا الحميدة (BPH)"
+      "front": "What is the difference between Prazosin and Tamsulosin?",
+      "back": "Prazosin: Alpha-1B blocker — acts on vessels — used for hypertension. Tamsulosin: Alpha-1A blocker — acts on prostate and bladder — used for benign prostatic hyperplasia (BPH)"
     },
     {
-      "front": "كيف يخفض Clonidine ضغط الدم؟",
-      "back": "منبّه Alpha-2 مركزي - يقلل إفراز Norepinephrine من الجهاز العصبي المركزي - يقلل النشاط الودي"
+      "front": "How does Clonidine lower blood pressure?",
+      "back": "Central Alpha-2 agonist — reduces Norepinephrine release from the central nervous system — decreases sympathetic tone"
     },
     {
-      "front": "ما خطر الإيقاف المفاجئ لـ Clonidine؟",
-      "back": "ارتفاع ضغط دم ارتدادي (Rebound Hypertension) شديد وقد يكون مهدداً للحياة"
+      "front": "What is the danger of abrupt discontinuation of Clonidine?",
+      "back": "Severe rebound hypertension that may be life-threatening"
     },
     {
-      "front": "ما الفرق بين Phenoxybenzamine وPhentolamine؟",
-      "back": "Phenoxybenzamine: حاصر Alpha غير انتقائي لا رجعة فيه (Irreversible). Phentolamine: حاصر Alpha غير انتقائي رجعي (Reversible)"
+      "front": "What is the difference between Phenoxybenzamine and Phentolamine?",
+      "back": "Phenoxybenzamine: non-selective irreversible Alpha blocker. Phentolamine: non-selective reversible Alpha blocker"
     },
     {
-      "front": "لماذا يجب إعطاء Alpha blocker قبل Beta blocker في ورم القواتم؟",
-      "back": "لأن Beta blocker وحده يثبط Beta-2 الموسّع للأوعية فيبقى Alpha-1 غير محصور يسبب تضييقاً وأزمة ضغط. Alpha blocker أولاً يمنع هذا الخطر"
+      "front": "Why must an Alpha blocker be given before a Beta blocker in pheochromocytoma?",
+      "back": "Because a Beta blocker alone blocks Beta-2 (vasodilatory) and leaves Alpha-1 unblocked, causing vasoconstriction and a hypertensive crisis. Alpha blocker first prevents this danger"
     },
     {
-      "front": "ما استخدام Dobutamine ولماذا؟",
-      "back": "منبّه Beta-1 - يزيد الانقباض والناتج القلبي في فشل القلب الاحتقاني الحاد (CHF) - يُعطى وريدياً"
+      "front": "What is the use of Dobutamine and why?",
+      "back": "Beta-1 agonist — increases contractility and cardiac output in acute congestive heart failure (CHF) — given intravenously"
     },
     {
-      "front": "ما انتقائية Metoprolol/Atenolol وما شرطها؟",
-      "back": "انتقائية Beta-1 (قلبية) - لكن فقط بالجرعات المنخفضة. بالجرعات العالية تفقد الانتقائية وتحصر Beta-2 أيضاً"
+      "front": "What is the selectivity of Metoprolol/Atenolol and what is its condition?",
+      "back": "Beta-1 (cardiac) selectivity — but only at low doses. At high doses selectivity is lost and Beta-2 is also blocked"
     },
     {
-      "front": "ما Esmolol وما ميزته؟",
-      "back": "حاصر Beta-1 سريع المفعول قصير الأمد جداً (نصف عمر ~9 دقائق) - وريدي فقط - للرجفان الأذيني الحاد وضبط القلب أثناء الجراحة"
+      "front": "What is Esmolol and what is its advantage?",
+      "back": "Ultra-short-acting Beta-1 blocker (half-life ~9 minutes) — IV only — for acute atrial fibrillation and cardiac rate control during surgery"
     },
     {
-      "front": "ما استخدامات Propranolol؟",
-      "back": "ارتفاع ضغط الدم، الذبحة، اضطرابات النظم، الوقاية من الصداع النصفي، الزرق (Glaucoma)، الرعاش، فرط الدرقية (يقلل تحويل T4 إلى T3)"
+      "front": "What are the uses of Propranolol?",
+      "back": "Hypertension, angina, arrhythmias, migraine prophylaxis, glaucoma, tremor, hyperthyroidism (reduces T4 to T3 conversion)"
     },
     {
-      "front": "لماذا حاصرات بيتا ممنوعة في الربو؟",
-      "back": "تحصر Beta-2 الذي يُبقي الشعب الهوائية مفتوحة - حصره يسبب تشنج قصبي (Bronchospasm) خطير"
+      "front": "Why are Beta blockers contraindicated in asthma?",
+      "back": "They block Beta-2, which keeps the airways open — blockade causes dangerous bronchospasm"
     },
     {
-      "front": "كيف تؤثر حاصرات بيتا على أعراض نقص السكر؟",
-      "back": "تخفي أعراض نقص السكر (تسرع قلب، رجفان، خفقان) لأنها أدرينالية. لكن لا تخفي التعرق (عصبي غير أدريناليك) - التعرق قد يكون العلامة الوحيدة"
+      "front": "How do Beta blockers affect symptoms of hypoglycemia?",
+      "back": "They mask the adrenergic symptoms of hypoglycemia (tachycardia, tremor, palpitations). However, sweating (cholinergic, non-adrenergic) is not masked — sweating may be the only warning sign"
     },
     {
-      "front": "ما Mirabegron واستخدامه؟",
-      "back": "منبّه Beta-3 - يُرخّي عضلة الدتروسور (Detrusor) في المثانة - لعلاج المثانة فرطة النشاط (OAB) - له آثار جانبية أقل من مضادات الموسكارين"
+      "front": "What is Mirabegron and its use?",
+      "back": "Beta-3 agonist — relaxes the detrusor muscle of the bladder — for overactive bladder (OAB) — fewer side effects than antimuscarinics"
     },
     {
-      "front": "ما الجرعة التصاعدية لـ Dopamine وتأثيرها؟",
-      "back": "منخفضة: D1 (توسع كلوي) - متوسطة: Beta-1 (دعم قلبي) - عالية: Alpha-1 (تضييق وعائي كـNorepinephrine) - التأثير الكلوي 'المنخفض الجرعة' غير موثوق سريرياً"
+      "front": "What are the dose-dependent effects of Dopamine?",
+      "back": "Low: D1 (renal vasodilation) — intermediate: Beta-1 (cardiac support) — high: Alpha-1 (vasoconstriction like Norepinephrine) — the renal 'low-dose' effect is not reliably proven clinically"
     },
     {
-      "front": "ما الفرق بين Epinephrine وNorepinephrine؟",
-      "back": "Epinephrine: تأثير Beta-2 (توسع وعائي) بالجرعات المنخفضة + Alpha-1+Beta-1 بالجرعات العالية - للصدمة التأقية. Norepinephrine: Alpha-1 مسيطر دائماً - للصدمة الإنتانية لرفع الضغط"
+      "front": "What is the difference between Epinephrine and Norepinephrine?",
+      "back": "Epinephrine: Beta-2 effect (vasodilation) at low doses + Alpha-1 + Beta-1 at high doses — for anaphylactic shock. Norepinephrine: Alpha-1 dominates at all doses — for septic shock to raise BP"
     },
     {
-      "front": "ما أنواع المستقبلات الأدرينالية ونواقلها الثانوية؟",
-      "back": "α1 (Gq, ↑IP3/Ca)، α2 (Gi, ↓cAMP)، β1/β2/β3 (Gs, ↑cAMP).",
+      "front": "What are the types of adrenergic receptors and their second messengers?",
+      "back": "α1 (Gq, ↑IP3/Ca), α2 (Gi, ↓cAMP), β1/β2/β3 (Gs, ↑cAMP).",
       "tag": "high-yield"
     },
     {
-      "front": "ما تأثير تنشيط α1؟",
-      "back": "تقبّض الأوعية، توسّع الحدقة، تقلص العضلة العاصرة للمثانة."
+      "front": "What is the effect of α1 stimulation?",
+      "back": "Vasoconstriction, mydriasis, bladder sphincter contraction."
     },
     {
-      "front": "ما تأثير تنشيط α2؟",
-      "back": "تثبيط ما قبل المشبك لإفراز النورأدرينالين (تغذية راجعة سالبة) - خفض الضغط مركزياً."
+      "front": "What is the effect of α2 stimulation?",
+      "back": "Presynaptic inhibition of Norepinephrine release (negative feedback) — central blood pressure reduction."
     },
     {
-      "front": "ما تأثير تنشيط β1؟",
-      "back": "زيادة معدل وقوة ضربات القلب وإفراز الرينين."
+      "front": "What is the effect of β1 stimulation?",
+      "back": "Increased heart rate, increased cardiac contractility, and increased renin secretion."
     },
     {
-      "front": "ما تأثير تنشيط β2؟",
-      "back": "توسّع القصبات والأوعية العضلية، ارتخاء الرحم، زيادة تحلل الجليكوجين."
+      "front": "What is the effect of β2 stimulation?",
+      "back": "Bronchodilation and skeletal muscle vasodilation, uterine relaxation, increased glycogenolysis."
     },
     {
-      "front": "ما تأثير تنشيط β3؟",
-      "back": "تحلل الدهون (lipolysis) في الأنسجة الدهنية."
+      "front": "What is the effect of β3 stimulation?",
+      "back": "Lipolysis in adipose tissue."
     },
     {
-      "front": "ما آلية Mirtazapine؟",
-      "back": "مضاد α2 → يزيد إفراز النورأدرينالين والسيروتونين (مضاد اكتئاب)."
+      "front": "What is the mechanism of Mirtazapine?",
+      "back": "Alpha-2 antagonist → increases Norepinephrine and serotonin release (antidepressant)."
     },
     {
-      "front": "ما هو منعكس مستقبلات الضغط (Baroreceptor reflex)؟",
-      "back": "ارتفاع الضغط من ناهض α1 → تنبيه المبهم → بطء قلب انعكاسي."
+      "front": "What is the baroreceptor reflex?",
+      "back": "Blood pressure rise from an α1 agonist → baroreceptor stimulation → vagal activation → reflex bradycardia."
     }
   ],
   "mcqs": [
     {
-      "q": "مريض مصاب بالربو ويحتاج لعلاج ارتفاع ضغط الدم. أي حاصرات البيتا الأكثر أماناً له؟",
+      "q": "A patient with asthma needs treatment for hypertension. Which beta blocker is safest?",
       "options": [
         "Propranolol",
-        "Metoprolol بجرعة منخفضة",
+        "Metoprolol at low dose",
         "Timolol",
         "Nadolol"
       ],
       "answer": 1,
-      "explanation": "Metoprolol هو حاصر Beta-1 انتقائي - يُستخدم بحذر في مرضى COPD والربو الخفيف لأنه يحصر Beta-1 القلبية بشكل رئيسي بالجرعات المنخفضة. لكن حاصرات بيتا غير الانتقائية كـ Propranolol ممنوعة في الربو."
+      "explanation": "Metoprolol is a selective Beta-1 blocker — it may be used cautiously in patients with COPD or mild asthma because at low doses it mainly blocks cardiac Beta-1. Non-selective beta blockers such as Propranolol are contraindicated in asthma."
     },
     {
-      "q": "مريض يُعطى Norepinephrine وريدياً لعلاج الصدمة الإنتانية وتسرّب من الوريد (Extravasation). ما العلاج الموضعي؟",
+      "q": "A patient is receiving Norepinephrine IV for septic shock and it extravasates. What is the local treatment?",
       "options": [
-        "Epinephrine موضعياً",
-        "Phentolamine موضعياً",
+        "Epinephrine topically",
+        "Phentolamine locally",
         "Prazosin",
         "Clonidine"
       ],
       "answer": 1,
-      "explanation": "Phentolamine هو حاصر Alpha غير انتقائي رجعي - يُحقن موضعياً في منطقة التسرّب ليعكس التضييق الوعائي الذي يسببه Norepinephrine ويمنع نخر الأنسجة."
+      "explanation": "Phentolamine is a reversible non-selective Alpha blocker — injected locally into the extravasation site to reverse the vasoconstriction caused by Norepinephrine and prevent tissue necrosis."
     },
     {
-      "q": "مريض يُعالج لورم القواتم (Pheochromocytoma). ما ترتيب إعطاء الأدوية الصحيح؟",
+      "q": "A patient with pheochromocytoma is being treated. What is the correct order of drug administration?",
       "options": [
-        "Beta blocker أولاً ثم Alpha blocker",
-        "Alpha blocker أولاً ثم Beta blocker",
-        "Alpha + Beta معاً من البداية",
-        "Beta blocker وحده كافٍ"
+        "Beta blocker first, then Alpha blocker",
+        "Alpha blocker first, then Beta blocker",
+        "Alpha + Beta together from the start",
+        "Beta blocker alone is sufficient"
       ],
       "answer": 1,
-      "explanation": "يجب إعطاء Alpha blocker (مثل Phenoxybenzamine) أولاً لمنع الانقباض الوعائي المفرط. إعطاء Beta blocker أولاً سيثبط Beta-2 الموسّع للأوعية ويترك Alpha-1 غير محصور مما يسبب أزمة ضغط قاتلة."
+      "explanation": "Alpha blocker (e.g., Phenoxybenzamine) must be given first to prevent excessive vasoconstriction. Giving Beta blocker first would block Beta-2 vasodilation and leave Alpha-1 unblocked, causing a hypertensive crisis."
     },
     {
-      "q": "ما التأثير المتوقع عند إعطاء Phenylephrine (منبّه Alpha-1) وريدياً؟",
+      "q": "What is the expected effect when Phenylephrine (Alpha-1 agonist) is given intravenously?",
       "options": [
-        "تسرع قلب انعكاسي",
-        "بطء قلب انعكاسي",
-        "لا تأثير على القلب",
-        "توسع وعائي"
+        "Reflex tachycardia",
+        "Reflex bradycardia",
+        "No effect on the heart",
+        "Vasodilation"
       ],
       "answer": 1,
-      "explanation": "Phenylephrine يسبب تضييق وعائي وارتفاع ضغط الدم. ارتفاع الضغط ينبّه المستقبلات الضاغطة (Baroreceptors) التي تُرسل إشارة لإبطاء القلب تعويضياً (Reflex Bradycardia)."
+      "explanation": "Phenylephrine causes vasoconstriction and raises blood pressure. The BP rise stimulates baroreceptors, which send a signal to slow the heart compensatorily (reflex bradycardia)."
     },
     {
-      "q": "مريض بتضخم البروستاتا الحميد (BPH) يعاني من صعوبة في التبوّل. ما أنسب دواء؟",
+      "q": "A patient with benign prostatic hyperplasia (BPH) has difficulty urinating. What is the most appropriate drug?",
       "options": [
         "Prazosin",
         "Clonidine",
@@ -304,97 +304,97 @@
         "Phenoxybenzamine"
       ],
       "answer": 2,
-      "explanation": "Tamsulosin هو حاصر Alpha-1A انتقائي لمستقبلات البروستاتا والمثانة. يُرخّي عضلة عنق المثانة والبروستاتا ويُحسّن تدفق البول مع تأثير أقل على ضغط الدم مقارنةً بـ Prazosin."
+      "explanation": "Tamsulosin is a selective Alpha-1A blocker for prostatic and bladder receptors. It relaxes the bladder neck and prostate muscle and improves urine flow with less effect on blood pressure compared to Prazosin."
     },
     {
-      "q": "ما التحذير الرئيسي عند بدء علاج Prazosin لارتفاع ضغط الدم؟",
+      "q": "What is the main warning when starting Prazosin for hypertension?",
       "options": [
-        "تسرع قلب شديد",
-        "إغماء عند أول جرعة (First-dose Syncope)",
-        "ارتفاع حاد في الضغط",
-        "اضطراب نظم القلب"
+        "Severe tachycardia",
+        "First-dose syncope",
+        "Acute hypertension",
+        "Cardiac arrhythmia"
       ],
       "answer": 1,
-      "explanation": "Prazosin يسبب توسعاً وعائياً مفاجئاً عند الجرعة الأولى مما يؤدي لانخفاض ضغط الدم والإغماء. يُنصح بأخذ أول جرعة عند النوم لتجنب السقوط."
+      "explanation": "Prazosin causes sudden vasodilation at the first dose, leading to blood pressure drop and fainting. The first dose is recommended at bedtime to avoid falls."
     },
     {
-      "q": "ما آلية عمل Clonidine في خفض ضغط الدم؟",
+      "q": "What is the mechanism of Clonidine in lowering blood pressure?",
       "options": [
-        "يثبط Alpha-1 في الأوعية الدموية",
-        "ينشّط Alpha-2 مركزياً فيقلل إفراز Norepinephrine",
-        "يثبط Beta-1 في القلب",
-        "ينشّط Beta-2 في الأوعية"
+        "Inhibits Alpha-1 in blood vessels",
+        "Activates Alpha-2 centrally, reducing Norepinephrine release",
+        "Inhibits Beta-1 in the heart",
+        "Activates Beta-2 in vessels"
       ],
       "answer": 1,
-      "explanation": "Clonidine منبّه Alpha-2 مركزي - يقلل إفراز Norepinephrine من الجهاز العصبي المركزي مما يخفض النشاط الودي ويخفض ضغط الدم."
+      "explanation": "Clonidine is a central Alpha-2 agonist — it reduces Norepinephrine release from the CNS, decreasing sympathetic tone and lowering blood pressure."
     },
     {
-      "q": "مريض بصدمة تأقية حادة. ما الدواء الأمثل ولماذا؟",
+      "q": "A patient with acute anaphylactic shock presents. What is the optimal drug and why?",
       "options": [
-        "Norepinephrine لأنه يرفع الضغط فقط",
-        "Epinephrine لأنه يعطي توسع شعبي + تضييق وعائي + دعم قلبي",
-        "Dobutamine لأنه ينبّه القلب",
-        "Phenylephrine لأنه يرفع الضغط بسرعة"
+        "Norepinephrine because it raises BP only",
+        "Epinephrine because it provides bronchodilation + vasoconstriction + cardiac support",
+        "Dobutamine because it stimulates the heart",
+        "Phenylephrine because it raises BP quickly"
       ],
       "answer": 1,
-      "explanation": "Epinephrine هو دواء الصدمة التأقية لأنه يعطي ثلاثة تأثيرات ضرورية: توسع الشعب الهوائية (Beta-2) + رفع الضغط بالتضييق الوعائي (Alpha-1) + زيادة الناتج القلبي (Beta-1)."
+      "explanation": "Epinephrine is the drug for anaphylactic shock because it provides three necessary effects: bronchodilation (Beta-2) + vasoconstriction to raise BP (Alpha-1) + increased cardiac output (Beta-1)."
     },
     {
-      "q": "ما استخدامات Propranolol بخلاف ارتفاع ضغط الدم؟",
+      "q": "What are the uses of Propranolol beyond hypertension?",
       "options": [
-        "الربو والحساسية",
-        "الصداع النصفي والرعاش وفرط الدرقية",
-        "تضخم البروستاتا والمثانة",
-        "فرط المناعة والالتهابات"
+        "Asthma and allergies",
+        "Migraine, tremor, and hyperthyroidism",
+        "Prostatic hyperplasia and bladder disorders",
+        "Immune disorders and infections"
       ],
       "answer": 1,
-      "explanation": "Propranolol يُستخدم في: الوقاية من الصداع النصفي، علاج الرعاش (تقليل الدم للعضلات)، فرط الدرقية (يقلل تحويل T4→T3 ويخفف الأعراض الأدرينالية)، وكذلك قلق الأداء والزرق (Glaucoma مع Timolol)."
+      "explanation": "Propranolol is used for: migraine prophylaxis, tremor treatment (reducing blood supply to muscles), hyperthyroidism (reduces T4→T3 conversion and alleviates adrenergic symptoms), as well as performance anxiety and glaucoma (with Timolol)."
     },
     {
-      "q": "مريض سكري يأخذ Propranolol. ما العلامة التحذيرية لنقص السكر التي ستبقى ظاهرة؟",
+      "q": "A diabetic patient taking Propranolol — which warning sign of hypoglycemia will remain visible?",
       "options": [
-        "تسرع القلب",
-        "الرجفان",
-        "التعرق",
-        "الخفقان"
+        "Tachycardia",
+        "Tremor",
+        "Sweating",
+        "Palpitations"
       ],
       "answer": 2,
-      "explanation": "حاصرات البيتا تخفي الأعراض الأدرينالية لنقص السكر (تسرع قلب، رجفان، خفقان). لكن التعرق (Sweating) محكوم بالجهاز الكوليني غير الأدريناليكي فلا تخفيه حاصرات البيتا - وقد يكون العلامة الوحيدة."
+      "explanation": "Beta blockers mask the adrenergic symptoms of hypoglycemia (tachycardia, tremor, palpitations). However, sweating is governed by the cholinergic non-adrenergic system and is not masked by beta blockers — it may be the only sign."
     },
     {
-      "q": "مستقبل α2 يرتبط ببروتين:",
+      "q": "The α2 receptor couples to:",
       "options": [
         "Gs (↑cAMP)",
         "Gi (↓cAMP)",
         "Gq (↑IP3)",
-        "قناة أيونية"
+        "Ion channel"
       ],
       "answer": 1,
-      "explanation": "α2 عبر Gi يخفض cAMP.",
+      "explanation": "α2 via Gi decreases cAMP.",
       "difficulty": "medium"
     },
     {
-      "q": "β1 الأبرز في:",
+      "q": "β1 is most prominent in:",
       "options": [
-        "القصبات",
-        "القلب",
-        "الأوعية العضلية",
-        "الأمعاء"
+        "Bronchi",
+        "Heart",
+        "Skeletal muscle vessels",
+        "Intestines"
       ],
       "answer": 1,
-      "explanation": "β1 يزيد معدل وقوة القلب.",
+      "explanation": "β1 increases cardiac rate and contractility.",
       "difficulty": "medium"
     },
     {
-      "q": "Mirtazapine يعمل كـ:",
+      "q": "Mirtazapine acts as:",
       "options": [
-        "ناهض α1",
-        "مضاد α2",
-        "ناهض β2",
-        "مضاد β1"
+        "α1 agonist",
+        "α2 antagonist",
+        "β2 agonist",
+        "β1 antagonist"
       ],
       "answer": 1,
-      "explanation": "مضاد α2 يرفع النورأدرينالين والسيروتونين.",
+      "explanation": "α2 antagonist raises Norepinephrine and serotonin.",
       "difficulty": "medium"
     }
   ]

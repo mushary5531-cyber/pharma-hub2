@@ -95,133 +95,133 @@
   ],
   "flashcards": [
     {
-      "front": "ما الفرق الرئيسي بين تثبيط الأسبرين لـ COX وتثبيط الـ NSAIDs الأخرى؟",
-      "back": "الأسبرين: تثبيط لا عكسي (irreversible) بتكوين رابطة تساهمية (acetyl bond). الـ NSAIDs الأخرى: تثبيط عكسي (reversible) ومؤقت لساعات."
+      "front": "What is the main difference between aspirin's COX inhibition and that of other NSAIDs?",
+      "back": "Aspirin: irreversible inhibition by forming a covalent (acetyl) bond. Other NSAIDs: reversible, temporary inhibition lasting hours."
     },
     {
-      "front": "لماذا تأثير الأسبرين المضاد للصفائح الدموية يمتد 7-10 أيام؟",
-      "back": "الصفائح الدموية خلايا بدون نواة (anucleated) → لا تستطيع تصنيع COX جديداً → التثبيط لا عكسي يمتد طوال عمر الصفيحة (7-10 أيام)."
+      "front": "Why does aspirin's antiplatelet effect last 7-10 days?",
+      "back": "Platelets are anucleated cells → they cannot synthesize new COX → the irreversible inhibition lasts the entire lifespan of the platelet (7-10 days)."
     },
     {
-      "front": "ما الجرعات المختلفة للأسبرين وتأثيراتها؟",
-      "back": "جرعة منخفضة (75-150 mg/d): مضاد للصفائح. جرعة متوسطة (300-650mg/4-6h): مسكن ومخفض حرارة. جرعة عالية (4-8 g/d): مضاد التهاب."
+      "front": "What are the different doses of aspirin and their effects?",
+      "back": "Low dose (75-150 mg/d): antiplatelet. Intermediate dose (300-650 mg/4-6h): analgesic and antipyretic. High dose (4-8 g/d): anti-inflammatory."
     },
     {
-      "front": "ما التفاعل الدوائي الخطير للأسبرين مع الوارفارين (Warfarin)؟",
-      "back": "الساليسيلات ترتبط بالألبومين بقوة → تُزاحم الوارفارين → يرتفع الوارفارين الحر في الدم → زيادة خطر النزيف."
+      "front": "What is the dangerous drug interaction of aspirin with warfarin?",
+      "back": "Salicylates bind strongly to albumin → they displace warfarin → free warfarin in the blood rises → increased risk of bleeding."
     },
     {
-      "front": "ما متلازمة راي (Reye's Syndrome) ومتى تحدث؟",
-      "back": "اعتلال دماغي (encephalopathy) وتلف كبدي خطير عند الأطفال الذين يأخذون الأسبرين خلال عدوى فيروسية (كالإنفلونزا أو الجدري). لذا الأسبرين ممنوع للأطفال أقل من 12 سنة."
+      "front": "What is Reye's syndrome and when does it occur?",
+      "back": "A serious encephalopathy and liver damage in children who take aspirin during a viral infection (such as influenza or chickenpox). Therefore aspirin is contraindicated in children under 12 years."
     },
     {
-      "front": "ما الفرق بين التأثير على حمض البوليك بين الجرعات المنخفضة والعالية من الأسبرين؟",
-      "back": "الجرعة المنخفضة: تُنافس حمض البوليك على الإفراز الكلوي → تقلل إفرازه → ترفع مستواه في الدم (Hyperuricemia → Gout). الجرعة العالية: تزيد إفراز حمض البوليك (Uricosuric effect)."
+      "front": "What is the difference in the effect on uric acid between low and high doses of aspirin?",
+      "back": "Low dose: competes with uric acid for renal secretion → reduces its excretion → raises its blood level (hyperuricemia → gout). High dose: increases uric acid excretion (uricosuric effect)."
     },
     {
-      "front": "كيف يُعالج التسمم الحاد بالأسبرين؟",
-      "back": "تقليب المعدة + القلونة (Alkalinization of urine بـ NaHCO3) → يزيد تأيين الساليسيلات → يُعزز الإفراز الكلوي → يُسرع التخلص من الدواء."
+      "front": "How is acute aspirin poisoning treated?",
+      "back": "Gastric lavage + alkalinization of urine with NaHCO3 → increases ionization of salicylate → enhances renal excretion → accelerates drug elimination."
     },
     {
-      "front": "ما أفضل NSAIDs لعسر الطمث (Dysmenorrhea)؟",
-      "back": "Diclofenac أفضل من Ibuprofen وIndomethacin في علاج عسر الطمث."
+      "front": "What is the best NSAID for dysmenorrhea?",
+      "back": "Diclofenac is better than ibuprofen and indomethacin in treating dysmenorrhea."
     },
     {
-      "front": "ما الاستخدام الفريد لـ Indomethacin في حديثي الولادة؟",
-      "back": "يُغلق القناة الشريانية السالكة (patent ductus arteriosus) في المواليد عبر تثبيط البروستاغلاندينات التي تُبقيها مفتوحة."
+      "front": "What is the unique use of indomethacin in newborns?",
+      "back": "It closes the patent ductus arteriosus in newborns by inhibiting the prostaglandins that keep it open."
     },
     {
-      "front": "ما الميزة الرئيسية لـ Celecoxib على NSAIDs غير الانتقائية؟",
-      "back": "يُثبط COX-2 انتقائياً دون COX-1 → لا يُثبط PGs الواقية للمعدة → خطر أقل للقرحة المعدية والنزيف الهضمي."
+      "front": "What is the main advantage of celecoxib over non-selective NSAIDs?",
+      "back": "It selectively inhibits COX-2 without COX-1 → it does not inhibit the gastroprotective PGs → lower risk of gastric ulcer and GI bleeding."
     },
     {
-      "front": "ما الآثار الجانبية الخطيرة الخاصة بـ Celecoxib؟",
-      "back": "1. سُمية كلوية (Nephrotoxicity). 2. طفح جلدي (Skin rash). 3. زيادة خطر احتشاء عضلة القلب (MI) بسبب تثبيط PGI2 دون تثبيط TXA2."
+      "front": "What are the serious adverse effects specific to celecoxib?",
+      "back": "1. Nephrotoxicity. 2. Skin rash. 3. Increased risk of myocardial infarction (MI) due to inhibition of PGI2 without inhibition of TXA2."
     },
     {
-      "front": "ما آلية عمل الباراسيتامول (Paracetamol) وأين يعمل؟",
-      "back": "آلية عمله الدقيقة غير مؤكدة، لكنه يعمل مركزياً (في الدماغ) لتخفيف الألم والحرارة. لا يُثبط COX بالأنسجة المحيطية بشكل فعّال → لا تأثير مضاد للالتهاب."
+      "front": "What is the mechanism of action of paracetamol and where does it act?",
+      "back": "Its exact mechanism is uncertain, but it acts centrally (in the brain) to relieve pain and fever. It does not effectively inhibit COX in peripheral tissues → no anti-inflammatory effect."
     },
     {
-      "front": "لماذا يُسبب الجرعة الزائدة من الباراسيتامول تلف الكبد؟",
-      "back": "في الجرعات الطبيعية: الباراسيتامول يُستقلب بأمان. في الجرعة الزائدة: مسار الغلوتاثيون يَنضب → NAPQI (مستقلب سام) يتراكم → نخر كبدي خلال 72 ساعة."
+      "front": "Why does paracetamol overdose cause liver damage?",
+      "back": "At normal doses paracetamol is metabolized safely. In overdose: the glutathione pathway is depleted → NAPQI (a toxic metabolite) accumulates → hepatic necrosis within 72 hours."
     },
     {
-      "front": "ما ترياق تسمم الباراسيتامول ولماذا؟",
-      "back": "N-acetylcysteine (NAC) يُجدد مخزون الغلوتاثيون في الكبد → يُحيّد NAPQI السام → يحمي الكبد من النخر. يجب إعطاؤه مبكراً."
+      "front": "What is the antidote for paracetamol poisoning and why?",
+      "back": "N-acetylcysteine (NAC) replenishes the hepatic glutathione stores → neutralizes the toxic NAPQI → protects the liver from necrosis. It must be given early."
     },
     {
-      "front": "في أي الحالات يُفضَّل الباراسيتامول على الأسبرين كمخفض للحرارة؟",
-      "back": "1. الأطفال (خطر Reye's syndrome). 2. قرحة المعدة. 3. اضطرابات النزيف. 4. فرط حمض البوليك (Gout). 5. الحمل. 6. الحساسية من الأسبرين."
+      "front": "In which situations is paracetamol preferred over aspirin as an antipyretic?",
+      "back": "1. Children (risk of Reye's syndrome). 2. Peptic ulcer. 3. Bleeding disorders. 4. Hyperuricemia (gout). 5. Pregnancy. 6. Aspirin allergy."
     },
     {
-      "front": "ما NSAIDs الأفضل تحملاً (أقل آثاراً جانبية) وما الأكثر سمية؟",
-      "back": "الأفضل تحملاً: Ibuprofen (أقل آثار جانبية، يُستخدم في الأطفال). الأكثر سمية: Indomethacin (neurotoxicity، aplastic anemia، ويُستخدم في حالات محدودة فقط)."
+      "front": "Which NSAID is the best tolerated (fewest side effects) and which is the most toxic?",
+      "back": "Best tolerated: ibuprofen (fewest side effects, used in children). Most toxic: indomethacin (neurotoxicity, aplastic anemia, used in limited cases only)."
     },
     {
-      "front": "ما آلية NSAIDs العامة؟",
-      "back": "تثبيط إنزيم COX → نقص تخليق البروستاغلاندينات → تأثير مسكّن وخافض حرارة ومضاد التهاب.",
+      "front": "What is the general mechanism of NSAIDs?",
+      "back": "Inhibition of the COX enzyme → decreased prostaglandin synthesis → analgesic, antipyretic, and anti-inflammatory effects.",
       "tag": "high-yield"
     },
     {
-      "front": "لماذا يُعطى Aspirin بجرعة منخفضة للوقاية القلبية؟",
-      "back": "يثبّط COX-1 في الصفائح لا رجعياً → يقلل TXA2 → تأثير مضاد للتجلط."
+      "front": "Why is aspirin given at a low dose for cardiac prophylaxis?",
+      "back": "It irreversibly inhibits COX-1 in platelets → reduces TXA2 → antiplatelet effect."
     },
     {
-      "front": "ما آثار NSAIDs الكلوية؟",
-      "back": "نقص البروستاغلاندينات الكلوية → نقص التروية → احتباس صوديوم وماء وأذية كلوية."
+      "front": "What are the renal effects of NSAIDs?",
+      "back": "Decreased renal prostaglandins → decreased perfusion → sodium and water retention and renal injury."
     },
     {
-      "front": "ما هي قرحة NSAIDs؟",
-      "back": "تثبيط COX-1 المعدي → نقص الحماية المخاطية → قرحة ونزف هضمي."
+      "front": "What is an NSAID ulcer?",
+      "back": "Inhibition of gastric COX-1 → decreased mucosal protection → ulcer and GI bleeding."
     },
     {
-      "front": "ما هو Paracetamol وآليته؟",
-      "back": "مسكّن وخافض حرارة مركزي؛ ضعيف كمضاد التهاب؛ جرعته الزائدة سامة للكبد (المضاد NAC)."
+      "front": "What is paracetamol and its mechanism?",
+      "back": "A central analgesic and antipyretic; weak as an anti-inflammatory; its overdose is hepatotoxic (antidote NAC)."
     },
     {
-      "front": "ما خطر Celecoxib؟",
-      "back": "انتقائي COX-2 → أقل قرحة لكن خطر قلبي وعائي أعلى."
+      "front": "What is the risk of celecoxib?",
+      "back": "Selective COX-2 → less ulceration but higher cardiovascular risk."
     },
     {
-      "front": "ما هي متلازمة Reye؟",
-      "back": "اعتلال دماغي كبدي عند إعطاء Aspirin للأطفال مع عدوى فيروسية → يُمنع.",
+      "front": "What is Reye's syndrome?",
+      "back": "Hepatic encephalopathy when aspirin is given to children with a viral infection → contraindicated.",
       "tag": "high-yield"
     },
     {
-      "front": "لماذا يُمنع NSAIDs في الثلث الأخير من الحمل؟",
-      "back": "قد يغلق القناة الشريانية (ductus arteriosus) مبكراً."
+      "front": "Why are NSAIDs contraindicated in the last trimester of pregnancy?",
+      "back": "They may close the ductus arteriosus prematurely."
     },
     {
-      "front": "ما الفرق بين Aspirin والـ NSAIDs الأخرى في تثبيط COX؟",
-      "back": "Aspirin يثبّط COX لا رجعياً (تساهمي)؛ الباقي تثبيط عكوس."
+      "front": "What is the difference between aspirin and other NSAIDs in COX inhibition?",
+      "back": "Aspirin inhibits COX irreversibly (covalently); the rest are reversible inhibitors."
     }
   ],
   "mcqs": [
     {
-      "q": "مريض يأخذ جرعة منخفضة من الأسبرين (81 mg/day). ما الهدف الرئيسي من هذا العلاج؟",
+      "q": "A patient takes low-dose aspirin (81 mg/day). What is the primary therapeutic goal?",
       "options": [
-        "تسكين الألم",
-        "تخفيف الحرارة",
-        "منع تجلط الدم (antiplatelet)",
-        "تقليل الالتهاب"
+        "Pain relief",
+        "Fever reduction",
+        "Antiplatelet effect (preventing thrombosis)",
+        "Anti-inflammatory effect"
       ],
       "answer": 2,
-      "explanation": "الجرعة المنخفضة من الأسبرين (75-150 mg/d) تُثبط TXA2 في الصفائح بشكل لا عكسي → تمنع تجلط الدم. الجرعات الأعلى مطلوبة للتسكين والتخفيف ومضادة الالتهاب."
+      "explanation": "Low-dose aspirin (75–150 mg/d) irreversibly inhibits TXA2 in platelets → prevents platelet aggregation. Higher doses are needed for analgesia, antipyresis, or anti-inflammation."
     },
     {
-      "q": "لماذا لا يُعطى الأسبرين لطفل مصاب بالإنفلونزا؟",
+      "q": "Why is aspirin contraindicated in a child with influenza?",
       "options": [
-        "يُقلل فعالية اللقاح",
-        "يسبب متلازمة راي (Reye's Syndrome)",
-        "يرفع ضغط الدم عند الأطفال",
-        "يُثبط جهاز المناعة"
+        "It reduces vaccine efficacy",
+        "It causes Reye's syndrome",
+        "It raises blood pressure in children",
+        "It suppresses the immune system"
       ],
       "answer": 1,
-      "explanation": "الأسبرين خلال العدوى الفيروسية عند الأطفال (أقل من 12 سنة) يرتبط بمتلازمة راي: اعتلال دماغي وتلف كبدي خطير. يُستخدم الباراسيتامول بدلاً منه."
+      "explanation": "Aspirin given during viral infections in children under 12 years is associated with Reye's syndrome: a serious encephalopathy with hepatic damage. Paracetamol is used instead."
     },
     {
-      "q": "أي الأدوية التالية يُغلق القناة الشريانية السالكة (patent ductus arteriosus) في المواليد؟",
+      "q": "Which of the following drugs closes the patent ductus arteriosus in newborns?",
       "options": [
         "Aspirin",
         "Celecoxib",
@@ -229,10 +229,10 @@
         "Indomethacin"
       ],
       "answer": 3,
-      "explanation": "Indomethacin يُستخدم لإغلاق القناة الشريانية السالكة في المواليد عبر تثبيط البروستاغلاندينات التي تُبقيها مفتوحة. يجب تجنبه في نهاية الحمل لنفس السبب."
+      "explanation": "Indomethacin is used to close the patent ductus arteriosus in neonates by inhibiting the prostaglandins that keep it open. It must be avoided in late pregnancy for the same reason."
     },
     {
-      "q": "مريض يعاني من قرحة معدية ويحتاج لمضاد التهاب للمفاصل. أي الأدوية الأنسب؟",
+      "q": "A patient with a peptic ulcer needs an anti-inflammatory drug for arthritis. Which is most appropriate?",
       "options": [
         "Ibuprofen",
         "Aspirin",
@@ -240,21 +240,21 @@
         "Indomethacin"
       ],
       "answer": 2,
-      "explanation": "Celecoxib انتقائي لـ COX-2 → لا يُثبط COX-1 → لا يزيل حماية المعدة → أقل خطراً للقرحة. الخيار الأمثل لمن يعاني من قرحة معدية ويحتاج مضاد التهاب."
+      "explanation": "Celecoxib selectively inhibits COX-2 without inhibiting COX-1 → does not remove gastric mucosal protection → lower ulcer risk. The optimal choice for a patient with peptic ulcer who needs an anti-inflammatory."
     },
     {
-      "q": "ما الآثار الجانبية الخاصة بـ Celecoxib ولا تنطبق على NSAIDs غير الانتقائية؟",
+      "q": "Which adverse effect is specific to Celecoxib and not seen with non-selective NSAIDs?",
       "options": [
-        "سمية كلوية",
-        "زيادة خطر احتشاء القلب + طفح جلدي",
-        "نزيف هضمي",
-        "ارتفاع ضغط الدم"
+        "Nephrotoxicity",
+        "Increased risk of myocardial infarction + skin rash",
+        "GI bleeding",
+        "Hypertension"
       ],
       "answer": 1,
-      "explanation": "Celecoxib يُثبط PGI2 (vasodilator + antiplatelet) دون تثبيط TXA2 → اختلال التوازن → ميل للتجلط → زيادة خطر MI. الطفح الجلدي أيضاً خاص بـ Celecoxib."
+      "explanation": "Celecoxib inhibits PGI2 (vasodilator + antiplatelet) without inhibiting TXA2 → imbalance → prothrombotic state → increased MI risk. Skin rash is also specific to Celecoxib."
     },
     {
-      "q": "مريض تناول جرعة زائدة من الباراسيتامول منذ ساعتين. ما الترياق الأنسب؟",
+      "q": "A patient took a paracetamol overdose 2 hours ago. What is the most appropriate antidote?",
       "options": [
         "Physostigmine",
         "Naloxone",
@@ -262,10 +262,10 @@
         "Sodium bicarbonate"
       ],
       "answer": 2,
-      "explanation": "N-acetylcysteine (NAC) يُجدد الغلوتاثيون في الكبد → يُحيّد NAPQI السام → يمنع نخر الكبد. يجب إعطاؤه مبكراً (خلال 8-10 ساعات من التناول) لأفضل نتيجة."
+      "explanation": "N-acetylcysteine (NAC) replenishes hepatic glutathione → neutralizes the toxic NAPQI metabolite → prevents hepatic necrosis. It should be given early (within 8–10 hours of ingestion) for best results."
     },
     {
-      "q": "أي الأدوية التالية هو الأفضل لعسر الطمث (Dysmenorrhea)؟",
+      "q": "Which NSAID is the best choice for dysmenorrhea?",
       "options": [
         "Aspirin",
         "Diclofenac",
@@ -273,63 +273,63 @@
         "Celecoxib"
       ],
       "answer": 1,
-      "explanation": "Diclofenac أفضل من Ibuprofen وIndomethacin في علاج عسر الطمث بسبب فعاليته العالية وآثاره الجانبية المعقولة."
+      "explanation": "Diclofenac is superior to ibuprofen and indomethacin for dysmenorrhea due to its high efficacy and reasonable side-effect profile."
     },
     {
-      "q": "لماذا تُقلب معدة المريض وتُقلوَن البول في تسمم الأسبرين؟",
+      "q": "Why is gastric lavage and urinary alkalinization used in aspirin poisoning?",
       "options": [
-        "لزيادة امتصاص الترياق",
-        "لأن قلونة البول تزيد تأيين الساليسيلات وتُسرع إفرازها الكلوي",
-        "لتقليل الحموضة المعدية",
-        "لمنع امتصاص المزيد من الأسبرين في الدم"
+        "To increase antidote absorption",
+        "Because urinary alkalinization increases salicylate ionization and accelerates renal excretion",
+        "To reduce gastric acidity",
+        "To prevent further aspirin absorption"
       ],
       "answer": 1,
-      "explanation": "قلونة البول (NaHCO3) ترفع pH البول → يزيد تأيون الساليسيلات → المواد المتأينة لا تُعاد امتصاصها في الأنابيب الكلوية → تُفرز في البول → تنظيف أسرع."
+      "explanation": "Urinary alkalinization with NaHCO3 raises urine pH → increases ionization of salicylate → ionized drug cannot be reabsorbed in renal tubules → excreted in urine → faster elimination."
     },
     {
-      "q": "مريض يأخذ جرعات منخفضة من الأسبرين ويشكو من ألم مفاصل. لماذا لا يرفع جرعة الأسبرين لمضاد الالتهاب؟",
+      "q": "A patient on low-dose aspirin develops joint pain. Why not simply increase the aspirin dose for anti-inflammatory effect?",
       "options": [
-        "لأن الأسبرين لا يملك تأثيراً مضاداً للالتهاب",
-        "لأن الجرعات العالية تُلغي التأثير المضاد للصفائح وتزيد التجلط",
-        "لأنه يتحول لدواء آخر بجرعة عالية",
-        "لأن الجرعة العالية تسبب نقص حمض البوليك"
+        "Aspirin has no anti-inflammatory effect",
+        "High doses abolish the antiplatelet effect and increase thrombotic risk",
+        "Aspirin converts to a different drug at high doses",
+        "High doses cause uric acid deficiency"
       ],
       "answer": 1,
-      "explanation": "الجرعات العالية من الأسبرين تُثبط أيضاً PGI2 في الأوعية (إضافة لـ TXA2 في الصفائح) → يختل التوازن → يفقد التأثير المضاد للتجلط. كما تزيد خطر النزيف وآثار جانبية أخرى."
+      "explanation": "High-dose aspirin also inhibits vascular PGI2 (in addition to platelet TXA2) → imbalance → loss of antithrombotic effect. It also increases bleeding risk and other side effects."
     },
     {
-      "q": "أي الأدوية هو الأفضل لتخفيف الحرارة عند طفل عمره 5 سنوات مصاب بفيروس؟",
+      "q": "Which drug is best for fever reduction in a 5-year-old child with a viral illness?",
       "options": [
         "Aspirin",
-        "Ibuprofen أو Paracetamol",
+        "Ibuprofen or Paracetamol",
         "Indomethacin",
         "Celecoxib"
       ],
       "answer": 1,
-      "explanation": "الأسبرين ممنوع للأطفال أقل من 12 سنة (خطر Reye's). Ibuprofen أفضل NSAIDs للأطفال والباراسيتامول آمن وفعّال كمخفض للحرارة. كلاهما مناسب."
+      "explanation": "Aspirin is contraindicated under 12 years (Reye's syndrome risk). Ibuprofen is the best NSAID for children; paracetamol is safe and effective as an antipyretic. Either is appropriate."
     },
     {
-      "q": "Aspirin يُمنع في الأطفال خوفاً من:",
+      "q": "Aspirin is contraindicated in children because of the risk of:",
       "options": [
-        "قرحة",
-        "متلازمة Reye",
-        "الربو",
-        "الفشل الكلوي"
+        "Peptic ulcer",
+        "Reye's syndrome",
+        "Asthma",
+        "Renal failure"
       ],
       "answer": 1,
-      "explanation": "Reye syndrome اعتلال دماغي كبدي.",
+      "explanation": "Reye's syndrome is a serious hepatic encephalopathy triggered by aspirin during viral infections in children.",
       "difficulty": "medium"
     },
     {
-      "q": "Celecoxib مقارنة بالـ NSAIDs غير الانتقائية:",
+      "q": "Compared to non-selective NSAIDs, Celecoxib has:",
       "options": [
-        "أكثر قرحة",
-        "أقل قرحة وأعلى خطر قلبي",
-        "لا يسكّن",
-        "يثبّط الصفائح"
+        "More GI ulceration",
+        "Less GI ulceration but higher cardiovascular risk",
+        "No analgesic effect",
+        "Antiplatelet activity"
       ],
       "answer": 1,
-      "explanation": "انتقائي COX-2.",
+      "explanation": "Celecoxib selectively inhibits COX-2, sparing gastric COX-1, but increases thrombotic/cardiovascular risk.",
       "difficulty": "medium"
     }
   ],

@@ -135,115 +135,115 @@
   ],
   "flashcards": [
     {
-      "front": "ما الفرق بين CCS و CCNS؟",
-      "back": "CCS (Cell Cycle Specific) = تعمل فقط على الخلايا المنقسمة مثل مضادات الاستقلاب والبليوميسين. CCNS = تعمل على الخلايا النائمة والمنقسمة مثل العوامل الالكيلية."
+      "front": "What is the difference between CCS and CCNS?",
+      "back": "CCS (Cell Cycle Specific) = acts only on dividing cells, e.g., antimetabolites and Bleomycin. CCNS = acts on both resting and dividing cells, e.g., alkylating agents."
     },
     {
-      "front": "ما آلية عمل Methotrexate؟",
-      "back": "يثبط انزيم Dihydrofolate Reductase (DHFR) مما يوقف تحويل FH2 الى FH4 فيمنع تركيب DNA و RNA والبروتين."
+      "front": "What is the mechanism of action of Methotrexate?",
+      "back": "Inhibits the enzyme Dihydrofolate Reductase (DHFR), blocking conversion of FH2 to FH4, thereby preventing synthesis of DNA, RNA, and protein."
     },
     {
-      "front": "ما هو Leucovorin Rescue؟",
-      "back": "اعطاء Leucovorin (Folinic Acid) بعد جرعات MTX العالية لتجاوز الانزيم المثبط وانقاذ الخلايا الطبيعية من الموت."
+      "front": "What is Leucovorin Rescue?",
+      "back": "Administration of Leucovorin (Folinic Acid) after high-dose MTX to bypass the inhibited enzyme and rescue normal cells from death."
     },
     {
-      "front": "لماذا يجب تخفيض جرعة 6-MP عند اخذ Allopurinol؟",
-      "back": "Allopurinol يثبط Xanthine Oxidase الذي يحلل 6-MP، فيتراكم الدواء وتزيد سميته - خفّض الجرعة 25-75%."
+      "front": "Why must the dose of 6-MP be reduced when taking Allopurinol?",
+      "back": "Allopurinol inhibits Xanthine Oxidase, which normally breaks down 6-MP, causing the drug to accumulate and its toxicity to increase — reduce the dose by 25–75%."
     },
     {
-      "front": "ما سمية 5-FU الجلدية الخاصة؟",
-      "back": "Hand-Foot Syndrome: احمرار وتقشر راحتي اليدين وبطن القدمين بعد التسريب الطويل."
+      "front": "What is the distinctive skin toxicity of 5-FU?",
+      "back": "Hand-Foot Syndrome: redness and peeling of the palms and soles following prolonged infusion."
     },
     {
-      "front": "لماذا يُعطى Leucovorin مع 5-FU؟",
-      "back": "لان Leucovorin يثبّت ارتباط FdUMP بانزيم Thymidylate Synthase مما يزيد فاعلية 5-FU."
+      "front": "Why is Leucovorin given with 5-FU?",
+      "back": "Because Leucovorin stabilizes the binding of FdUMP to Thymidylate Synthase, enhancing the efficacy of 5-FU."
     },
     {
-      "front": "ما السمية المقيِّدة للجرعة في Bleomycin؟",
-      "back": "السمية الرئوية: من سعال حتى تليف رئوي مميت."
+      "front": "What is the dose-limiting toxicity of Bleomycin?",
+      "back": "Pulmonary toxicity: ranging from cough to fatal pulmonary fibrosis."
     },
     {
-      "front": "ما آلية عمل Doxorubicin؟",
-      "back": "يتداخل بين خيوط DNA (Intercalation) ويثبط Topoisomerase II مما يسبب كسر الخيوط وتوليد جذور حرة."
+      "front": "What is the mechanism of action of Doxorubicin?",
+      "back": "Intercalates between DNA strands and inhibits Topoisomerase II, causing strand breaks and generation of free radicals."
     },
     {
-      "front": "ما الدواء الذي يحمي من سمية Doxorubicin القلبية؟",
-      "back": "Dexrazoxane (مخلِّب للحديد) يقلل توليد الجذور الحرة. ايضا التغليف الليبوزومي يقلل السمية القلبية."
+      "front": "What drug protects against Doxorubicin cardiotoxicity?",
+      "back": "Dexrazoxane (an iron chelator) reduces free radical generation. Liposomal encapsulation also reduces cardiac toxicity."
     },
     {
-      "front": "ما لون البول مع Doxorubicin؟",
-      "back": "احمر (بسبب صبغة الدواء نفسه - لا علاقة له بالدم)."
+      "front": "What color is the urine with Doxorubicin?",
+      "back": "Red (due to the drug's own pigment — unrelated to blood)."
     },
     {
-      "front": "ما الاعراض الجانبية المشتركة لمعظم ادوية السرطان؟",
-      "back": "غثيان وقيء، اسهال، التهاب الفم (Stomatitis)، تثبيط نخاع العظم (Myelodepression)، سقوط الشعر (Alopecia)."
+      "front": "What are the common side effects shared by most anticancer drugs?",
+      "back": "Nausea and vomiting, diarrhea, stomatitis (mouth sores), bone marrow suppression (myelodepression), and hair loss (alopecia)."
     },
     {
-      "front": "ما الاستخدامات الغير سرطانية لـ MTX؟",
-      "back": "بجرعات منخفضة: علاج التهاب المفاصل الرثياني (Rheumatoid Arthritis) والصداف (Psoriasis)."
+      "front": "What are the non-oncologic uses of MTX?",
+      "back": "At low doses: treatment of Rheumatoid Arthritis and Psoriasis."
     },
     {
-      "front": "ما المقصود بـ MDR في السرطان؟",
-      "back": "Multiple Drug Resistance = مقاومة الخلايا السرطانية لاكثر من دواء في آن واحد."
+      "front": "What is MDR in cancer?",
+      "back": "Multiple Drug Resistance = resistance of cancer cells to more than one drug simultaneously."
     },
     {
-      "front": "ما هو POMP؟",
-      "back": "بروتوكول علاجي مركّب لسرطان الدم يضم: Prednisone, Oncovin (Vincristine), Methotrexate, Purinethol (6-MP)."
+      "front": "What is POMP?",
+      "back": "A combination chemotherapy protocol for leukemia comprising: Prednisone, Oncovin (Vincristine), Methotrexate, and Purinethol (6-MP)."
     },
     {
-      "front": "لماذا تُعطى الادوية السرطانية بالتناوب (Intermittently)؟",
-      "back": "للسماح للخلايا الطبيعية بالتعافي بين الجرعات مع الحفاظ على التاثير على الخلايا السرطانية."
+      "front": "Why are anticancer drugs given intermittently?",
+      "back": "To allow normal cells to recover between doses while maintaining the effect on cancer cells."
     },
     {
-      "front": "ما سمية MTX الكلوية وكيف تُمنع؟",
-      "back": "بجرعات عالية يسبب ضررا كلويا - يُمنع بالترطيب الجيد وتقلوية البول."
+      "front": "What is the renal toxicity of MTX and how is it prevented?",
+      "back": "At high doses it causes kidney damage — prevented by adequate hydration and urinary alkalinization."
     },
     {
-      "front": "ما الذي يزيد سمية Doxorubicin القلبية؟",
-      "back": "الاشعاع على الصدر (Thorax Irradiation) وعقار Trastuzumab (جسم مضاد وحيد النسيلة)."
+      "front": "What increases Doxorubicin cardiotoxicity?",
+      "back": "Thoracic irradiation (Thorax Irradiation) and the monoclonal antibody Trastuzumab."
     },
     {
-      "front": "ما فئة Bleomycin في دورة الخلية؟",
-      "back": "CCS - Cell Cycle Specific (خاص بدورة الخلية)."
+      "front": "What cell-cycle category does Bleomycin belong to?",
+      "back": "CCS — Cell Cycle Specific."
     },
     {
-      "front": "ما المقصود بنوعية دورة الخلية؟",
-      "back": "أدوية نوعية (CCS) تقتل في طور محدد (antimetabolites, vinca)؛ غير نوعية (CCNS) تقتل في أي طور (alkylating).",
+      "front": "What is meant by cell cycle specificity?",
+      "back": "Cell cycle-specific (CCS) drugs kill at a defined phase (antimetabolites, vinca alkaloids); non-specific (CCNS) drugs kill at any phase (alkylating agents).",
       "tag": "high-yield"
     },
     {
-      "front": "لماذا الأورام سريعة الانقسام أكثر حساسية للعلاج الكيميائي؟",
-      "back": "لأن معظم الأدوية تستهدف الخلايا المنقسمة؛ خلايا G0 الساكنة أكثر مقاومة."
+      "front": "Why are rapidly dividing tumors more sensitive to chemotherapy?",
+      "back": "Because most drugs target dividing cells; resting G0 cells are more resistant."
     },
     {
-      "front": "ما آلية العوامل المؤلكلة (Alkylating)؟",
-      "back": "تنقل مجموعات ألكيل إلى N7 من الغوانين → كسر/تشابك سلاسل DNA؛ ماسخة ومسرطنة (CCNS).",
+      "front": "What is the mechanism of alkylating agents?",
+      "back": "Transfer alkyl groups to the N7 position of guanine → strand breaks and cross-linking of DNA chains; mutagenic and carcinogenic (CCNS).",
       "tag": "high-yield"
     },
     {
-      "front": "ما سُمّية Cyclophosphamide المميّزة؟",
-      "back": "التهاب مثانة نزفي من acrolein → الوقاية بالـ Mesna والإماهة."
+      "front": "What is the distinctive toxicity of Cyclophosphamide?",
+      "back": "Hemorrhagic cystitis caused by acrolein → prevented by Mesna and hydration."
     },
     {
-      "front": "ما سُمّية Cisplatin؟",
-      "back": "سُمّية كلوية وسمعية وغثيان شديد (يُعطى ondansetron + إماهة)."
+      "front": "What is the toxicity of Cisplatin?",
+      "back": "Nephrotoxicity, ototoxicity, and severe nausea (give ondansetron + hydration)."
     },
     {
-      "front": "ما آلية Methotrexate وإنقاذه؟",
-      "back": "يثبّط dihydrofolate reductase؛ يُنقذ بـ Leucovorin (folinic acid)."
+      "front": "What is the mechanism of Methotrexate and its rescue?",
+      "back": "Inhibits dihydrofolate reductase; rescued with Leucovorin (folinic acid)."
     },
     {
-      "front": "ما آلية 5-Fluorouracil؟",
-      "back": "نظير بيريميدين يثبّط thymidylate synthase؛ كبت نقوي وإسهال."
+      "front": "What is the mechanism of 5-Fluorouracil?",
+      "back": "Pyrimidine analogue that inhibits thymidylate synthase; causes bone marrow suppression and diarrhea."
     },
     {
-      "front": "لماذا يُستخدم العلاج التوليفي (combination)؟",
-      "back": "لزيادة القتل وتقليل المقاومة وتوزيع السُّميّة على أعضاء مختلفة."
+      "front": "Why is combination (multi-drug) therapy used?",
+      "back": "To increase cell kill, reduce resistance, and distribute toxicity across different organs."
     }
   ],
   "mcqs": [
     {
-      "q": "أي من التالي يُستخدم لانقاذ المريض من جرعات Methotrexate العالية؟",
+      "q": "Which of the following is used to rescue a patient from high-dose Methotrexate?",
       "options": [
         "Allopurinol",
         "Leucovorin",
@@ -251,43 +251,43 @@
         "Mesna"
       ],
       "answer": 1,
-      "explanation": "Leucovorin (Folinic Acid) يتجاوز الانزيم المثبط DHFR ويستعيد تركيب الفولات في الخلايا الطبيعية."
+      "explanation": "Leucovorin (Folinic Acid) bypasses the inhibited DHFR enzyme and restores folate synthesis in normal cells."
     },
     {
-      "q": "مريض يأخذ 6-Mercaptopurine بُدئ له علاج بـ Allopurinol لنقرس. ما الذي يجب فعله؟",
+      "q": "A patient taking 6-Mercaptopurine is started on Allopurinol for gout. What should be done?",
       "options": [
-        "ايقاف Allopurinol",
-        "مضاعفة جرعة 6-MP",
-        "تخفيض جرعة 6-MP بنسبة 25-75%",
-        "لا يوجد تفاعل بينهما"
+        "Stop Allopurinol",
+        "Double the dose of 6-MP",
+        "Reduce the dose of 6-MP by 25–75%",
+        "There is no interaction between them"
       ],
       "answer": 2,
-      "explanation": "Allopurinol يثبط Xanthine Oxidase الذي يحلل 6-MP، مما يرفع مستواه وسميته. الحل تخفيض الجرعة."
+      "explanation": "Allopurinol inhibits Xanthine Oxidase, which normally metabolizes 6-MP, raising its level and toxicity. The solution is to reduce the dose."
     },
     {
-      "q": "ما السمية المقيِّدة للجرعة (Dose-Limiting Toxicity) في Bleomycin؟",
+      "q": "What is the dose-limiting toxicity of Bleomycin?",
       "options": [
-        "سمية كلوية",
-        "سمية قلبية",
-        "سمية رئوية",
-        "سمية عصبية"
+        "Nephrotoxicity",
+        "Cardiotoxicity",
+        "Pulmonary toxicity",
+        "Neurotoxicity"
       ],
       "answer": 2,
-      "explanation": "السمية الرئوية في Bleomycin تتراوح من سعال حتى تليف رئوي مميت وهي الحد الرئيسي للجرعة."
+      "explanation": "Pulmonary toxicity of Bleomycin ranges from cough to fatal pulmonary fibrosis and is the primary dose-limiting factor."
     },
     {
-      "q": "آلية عمل Doxorubicin القلبية الضارة تعتمد على:",
+      "q": "The cardiotoxic mechanism of Doxorubicin depends on:",
       "options": [
-        "تثبيط DHFR",
-        "توليد جذور حرة عبر تثبيط Topoisomerase II",
-        "تراكم في الرئة",
-        "تثبيط Thymidylate Synthase"
+        "Inhibition of DHFR",
+        "Free radical generation via Topoisomerase II inhibition",
+        "Accumulation in the lungs",
+        "Inhibition of Thymidylate Synthase"
       ],
       "answer": 1,
-      "explanation": "الجذور الحرة الناتجة عن تثبيط Topoisomerase II تسبب كسر الخيوط المفردة في DNA عضلة القلب."
+      "explanation": "Free radicals produced by Topoisomerase II inhibition cause single-strand breaks in cardiac muscle cell DNA."
     },
     {
-      "q": "أي من هذه الادوية يستخدم بجرعات منخفضة لعلاج التهاب المفاصل الرثياني؟",
+      "q": "Which of these drugs is used at low doses to treat Rheumatoid Arthritis?",
       "options": [
         "Bleomycin",
         "5-Fluorouracil",
@@ -295,21 +295,21 @@
         "Doxorubicin"
       ],
       "answer": 2,
-      "explanation": "MTX بجرعات منخفضة له تاثير مضاد للالتهاب يُستخدم في Rheumatoid Arthritis والصداف."
+      "explanation": "MTX at low doses has an anti-inflammatory effect used in Rheumatoid Arthritis and Psoriasis."
     },
     {
-      "q": "ما التفاعل بين 5-FU و Leucovorin؟",
+      "q": "What is the interaction between 5-FU and Leucovorin?",
       "options": [
-        "Leucovorin يقلل فاعلية 5-FU",
-        "Leucovorin يثبّت ارتباط 5-FU بـ Thymidylate Synthase فيزيد فاعليته",
-        "Leucovorin ينقذ من سمية 5-FU",
-        "لا يوجد تفاعل"
+        "Leucovorin reduces the efficacy of 5-FU",
+        "Leucovorin stabilizes 5-FU binding to Thymidylate Synthase, enhancing its efficacy",
+        "Leucovorin rescues from 5-FU toxicity",
+        "No interaction"
       ],
       "answer": 1,
-      "explanation": "Leucovorin كإنزيم مشارك يثبّت بنية FdUMP-Thymidylate Synthase مما يزيد من فاعلية التثبيط."
+      "explanation": "Leucovorin as a co-factor stabilizes the FdUMP–Thymidylate Synthase complex, increasing inhibition efficacy."
     },
     {
-      "q": "Hand-Foot Syndrome من الاعراض المميزة لـ:",
+      "q": "Hand-Foot Syndrome is a distinctive side effect of:",
       "options": [
         "Methotrexate",
         "Bleomycin",
@@ -317,10 +317,10 @@
         "6-Mercaptopurine"
       ],
       "answer": 2,
-      "explanation": "5-FU بعد التسريب الطويل يسبب احمرار وتقشر راحتي اليدين وبطن القدمين (Hand-Foot Syndrome)."
+      "explanation": "5-FU following prolonged infusion causes redness and peeling of the palms and soles (Hand-Foot Syndrome)."
     },
     {
-      "q": "ادوية CCS (Cell Cycle Specific) تشمل كل التالي عدا:",
+      "q": "CCS (Cell Cycle Specific) drugs include all of the following EXCEPT:",
       "options": [
         "Methotrexate",
         "Bleomycin",
@@ -328,10 +328,10 @@
         "Mechlorethamine"
       ],
       "answer": 3,
-      "explanation": "Mechlorethamine هو عامل الكيلي CCNS يعمل على الخلايا النائمة والمنقسمة. الباقية كلها CCS."
+      "explanation": "Mechlorethamine is a CCNS alkylating agent that acts on both resting and dividing cells. All the others are CCS."
     },
     {
-      "q": "ما الدواء الذي يحمي القلب من سمية Doxorubicin؟",
+      "q": "What drug protects the heart from Doxorubicin toxicity?",
       "options": [
         "Allopurinol",
         "Mesna",
@@ -339,45 +339,45 @@
         "Leucovorin"
       ],
       "answer": 2,
-      "explanation": "Dexrazoxane مخلِّب للحديد يمنع توليد الجذور الحرة المسببة للسمية القلبية."
+      "explanation": "Dexrazoxane is an iron chelator that prevents free radical generation responsible for cardiotoxicity."
     },
     {
-      "q": "مقاومة Methotrexate تحدث بسبب:",
+      "q": "Methotrexate resistance occurs due to:",
       "options": [
-        "زيادة انتاج DHFR",
-        "نقص انتاج DHFR",
-        "تحلل الدواء بسرعة",
-        "تثبيط Xanthine Oxidase"
+        "Increased DHFR production",
+        "Decreased DHFR production",
+        "Rapid drug breakdown",
+        "Inhibition of Xanthine Oxidase"
       ],
       "answer": 0,
-      "explanation": "الخلايا السرطانية تتغلب على MTX بزيادة انتاج DHFR بحيث لا تكفي جرعة الدواء لتثبيطه."
+      "explanation": "Cancer cells overcome MTX by increasing DHFR production so that the drug dose is insufficient to inhibit it."
     },
     {
-      "q": "العوامل المؤلكلة تُصنّف:",
+      "q": "Alkylating agents are classified as:",
       "options": [
-        "نوعية للطور S",
-        "غير نوعية لدورة الخلية (CCNS)",
-        "نوعية للطور M",
-        "لا تؤثر على DNA"
+        "S-phase specific",
+        "Cell-cycle non-specific (CCNS)",
+        "M-phase specific",
+        "Non-DNA acting"
       ],
       "answer": 1,
-      "explanation": "تعمل في أي طور.",
+      "explanation": "They act at any phase.",
       "difficulty": "medium"
     },
     {
-      "q": "الوقاية من التهاب المثانة النزفي بالسيكلوفوسفاميد:",
+      "q": "Prevention of hemorrhagic cystitis from Cyclophosphamide:",
       "options": [
         "Leucovorin",
-        "Mesna والإماهة",
+        "Mesna and hydration",
         "Atropine",
         "Dexrazoxane"
       ],
       "answer": 1,
-      "explanation": "Mesna يعادل الـ acrolein.",
+      "explanation": "Mesna neutralizes acrolein.",
       "difficulty": "medium"
     },
     {
-      "q": "Leucovorin يُستخدم لإنقاذ سُمّية:",
+      "q": "Leucovorin is used to rescue from toxicity of:",
       "options": [
         "Cisplatin",
         "Methotrexate",
@@ -385,7 +385,7 @@
         "Bleomycin"
       ],
       "answer": 1,
-      "explanation": "folinic acid يتجاوز حصر DHF reductase.",
+      "explanation": "Folinic acid bypasses DHF reductase inhibition.",
       "difficulty": "medium"
     }
   ],

@@ -115,113 +115,113 @@
   ],
   "flashcards": [
     {
-      "front": "ما نوعا مستقبلات الكولين الرئيسيان؟",
-      "back": "Muscarinic (M1-M3) و Nicotinic (Nn, Nm)"
+      "front": "What are the two main types of cholinergic receptors?",
+      "back": "Muscarinic (M1-M3) and Nicotinic (Nn, Nm)"
     },
     {
-      "front": "ما المستقبل المسؤول عن بطء القلب؟",
-      "back": "M2 على العقدة الجيبية والأذينية"
+      "front": "Which receptor is responsible for bradycardia?",
+      "back": "M2 on the sinoatrial and atrial nodes"
     },
     {
-      "front": "ما المستقبل المسؤول عن إفراز حمض المعدة؟",
+      "front": "Which receptor is responsible for gastric acid secretion?",
       "back": "M1"
     },
     {
-      "front": "ما المستقبل المسؤول عن تضيق الحدقة (Miosis)؟",
-      "back": "M3 على العضلة العاصرة للقزحية"
+      "front": "Which receptor is responsible for pupillary constriction (miosis)?",
+      "back": "M3 on the iris sphincter muscle"
     },
     {
-      "front": "ما الفرق بين Direct وIndirect Cholinergic Agonists؟",
-      "back": "Direct يُنشط المستقبلات مباشرة، Indirect يثبط الكولينستريز فيزيد ACh"
+      "front": "What is the difference between direct and indirect cholinergic agonists?",
+      "back": "Direct agonists activate the receptors directly; indirect agonists inhibit cholinesterase, thereby increasing ACh"
     },
     {
-      "front": "لماذا يُفضل Bethanechol لعلاج الاحتباس البولي؟",
-      "back": "انتقائي لـ M3 في المثانة، مقاوم للتحلل، لا يؤثر على القلب"
+      "front": "Why is Bethanechol preferred for treating urinary retention?",
+      "back": "It is selective for M3 in the bladder, resistant to hydrolysis, and has no effect on the heart"
     },
     {
-      "front": "ما استخدام Pilocarpine؟",
-      "back": "علاج الجلوكوما (تضييق الحدقة وتصريف السائل) وجفاف الفم (Sjogren)"
+      "front": "What is the use of Pilocarpine?",
+      "back": "Treatment of glaucoma (miosis and fluid drainage) and dry mouth (Sjogren)"
     },
     {
-      "front": "ما الفرق بين Neostigmine وEdrophonium؟",
-      "back": "Edrophonium قصير المفعول جدًا للتشخيص، Neostigmine طويل المفعول للعلاج"
+      "front": "What is the difference between Neostigmine and Edrophonium?",
+      "back": "Edrophonium is very short acting and used for diagnosis; Neostigmine is long acting and used for treatment"
     },
     {
-      "front": "ما آلية عمل Donepezil في الزهايمر؟",
-      "back": "مثبط عكوس للكولينستريز يزيد ACh في الدماغ لتحسين الذاكرة"
+      "front": "What is the mechanism of action of Donepezil in Alzheimer's disease?",
+      "back": "A reversible cholinesterase inhibitor that increases ACh in the brain to improve memory"
     },
     {
-      "front": "ما آلية الوفاة في تسمم الفوسفور العضوي؟",
-      "back": "فشل تنفسي: شلل العضلات التنفسية + تثبيط مركز التنفس + إفرازات برونشية مفرطة"
+      "front": "What is the mechanism of death in organophosphate poisoning?",
+      "back": "Respiratory failure: paralysis of respiratory muscles + depression of the respiratory center + excessive bronchial secretions"
     },
     {
-      "front": "ما أول خطوة في علاج تسمم الفوسفور العضوي؟",
-      "back": "الحفاظ على التنفس والدورة الدموية (Airway, Breathing, Circulation)"
+      "front": "What is the first step in treating organophosphate poisoning?",
+      "back": "Maintaining airway, breathing, and circulation (ABC)"
     },
     {
-      "front": "لماذا يجب إعطاء Pralidoxime بسرعة في التسمم؟",
-      "back": "لأن الفوسفور العضوي يرتبط بالإنزيم بشكل دائم (Aging) مع الوقت ولا يمكن تنشيطه"
+      "front": "Why must Pralidoxime be given quickly in poisoning?",
+      "back": "Because organophosphates bind the enzyme permanently over time (aging), after which it can no longer be reactivated"
     },
     {
-      "front": "ما الآثار الجانبية العامة لناهضات الكولين؟",
-      "back": "تعرق، تضييق حدقة، لعاب، بطء قلب، تشنج برونشي، إسهال، تبول"
+      "front": "What are the general side effects of cholinergic agonists?",
+      "back": "Sweating, miosis, salivation, bradycardia, bronchospasm, diarrhea, urination"
     },
     {
-      "front": "ما المستقبل الذي يتحكم في انقباض العضلة الهيكلية؟",
-      "back": "Nm (Nicotinic muscle) في الوصلة العصبية العضلية"
+      "front": "Which receptor controls skeletal muscle contraction?",
+      "back": "Nm (nicotinic muscle) at the neuromuscular junction"
     },
     {
-      "front": "ما مرض الوهن العضلي الشديد (Myasthenia Gravis)؟",
-      "back": "مرض مناعي ذاتي: أجسام مضادة ضد مستقبلات Nm مما يسبب ضعفًا عضليًا قابلًا للتعب"
+      "front": "What is myasthenia gravis?",
+      "back": "An autoimmune disease: antibodies against Nm receptors causing fatigable muscle weakness"
     },
     {
-      "front": "أي دواء يُستخدم للوهن العضلي كخط أول؟",
-      "back": "Pyridostigmine (مثبط ChE عكوس طويل المفعول)"
+      "front": "Which drug is used as first-line therapy for myasthenia gravis?",
+      "back": "Pyridostigmine (a long-acting reversible ChE inhibitor)"
     },
     {
-      "front": "لماذا لا يُعطى ACh جهازيًا كدواء؟",
-      "back": "غير انتقائي (M+N)، يُحلَّل سريعًا بالكولينستريز، امتصاصه الفموي ضعيف جدًا"
+      "front": "Why is ACh not given systemically as a drug?",
+      "back": "It is non-selective (M+N), rapidly hydrolyzed by cholinesterase, and has very poor oral absorption"
     },
     {
-      "front": "ما تأثير تثبيط ChE على القلب؟",
-      "back": "بطء القلب وإبطاء التوصيل الأذيني البطيني (عبر M2)"
+      "front": "What is the effect of ChE inhibition on the heart?",
+      "back": "Bradycardia and slowing of atrioventricular conduction (via M2)"
     },
     {
-      "front": "ما الفرق بين الناهضات الكولينية المباشرة وغير المباشرة؟",
-      "back": "المباشرة ترتبط بمستقبل ACh مباشرة (Bethanechol، Pilocarpine)؛ غير المباشرة تثبّط الكولينستراز فترفع ACh (Neostigmine، Physostigmine).",
+      "front": "What is the difference between direct and indirect cholinergic agonists?",
+      "back": "Direct agonists bind the ACh receptor directly (Bethanechol, Pilocarpine); indirect agonists inhibit cholinesterase, thereby raising ACh (Neostigmine, Physostigmine).",
       "tag": "high-yield"
     },
     {
-      "front": "ما الفرق بين True و Pseudo cholinesterase؟",
-      "back": "True (AChE): في النهايات العصبية، نوعية لـ ACh، أساسية للحياة. Pseudo (plasma ChE): في البلازما/الكبد، غير نوعية، تحلّل succinylcholine.",
+      "front": "What is the difference between true and pseudo cholinesterase?",
+      "back": "True (AChE): at nerve endings, specific for ACh, essential for life. Pseudo (plasma ChE): in plasma/liver, non-specific, breaks down succinylcholine.",
       "tag": "high-yield"
     },
     {
-      "front": "ما استخدام Bethanechol؟",
-      "back": "احتباس البول غير الانسدادي وارتخاء المثانة/الأمعاء بعد الجراحة."
+      "front": "What is the use of Bethanechol?",
+      "back": "Non-obstructive urinary retention and postoperative bladder/bowel atony."
     },
     {
-      "front": "ما الفرق بين Neostigmine و Physostigmine؟",
-      "back": "Physostigmine يعبر BBB (مفيد مركزياً)؛ Neostigmine لا يعبر (محيطي - الوهن العضلي).",
+      "front": "What is the difference between Neostigmine and Physostigmine?",
+      "back": "Physostigmine crosses the BBB (useful centrally); Neostigmine does not cross (peripheral - myasthenia gravis).",
       "tag": "high-yield"
     },
     {
-      "front": "ما استخدام Neostigmine؟",
-      "back": "الوهن العضلي الوبيل (myasthenia gravis) وعكس حصار العضلات اللامستقطب."
+      "front": "What is the use of Neostigmine?",
+      "back": "Myasthenia gravis and reversal of non-depolarizing neuromuscular blockade."
     },
     {
-      "front": "ما هي تأثيرات الفسفور العضوي (Organophosphates)؟",
-      "back": "تثبيط لا رجعي للكولينستراز → فرط كوليني (SLUDGE)؛ المضاد: Atropine + Pralidoxime."
+      "front": "What are the effects of organophosphates?",
+      "back": "Irreversible cholinesterase inhibition → cholinergic excess (SLUDGE); antidote: Atropine + Pralidoxime."
     },
     {
-      "front": "ما معنى SLUDGE؟",
-      "back": "Salivation, Lacrimation, Urination, Defecation, GI distress, Emesis - أعراض فرط التنبيه المسكاريني.",
+      "front": "What does SLUDGE stand for?",
+      "back": "Salivation, Lacrimation, Urination, Defecation, GI distress, Emesis - symptoms of muscarinic overstimulation.",
       "tag": "high-yield"
     }
   ],
   "mcqs": [
     {
-      "q": "مريض بعد عملية جراحية يعاني من احتباس بولي وشلل الأمعاء. ما الدواء الأنسب؟",
+      "q": "A post-operative patient has urinary retention and paralytic ileus. Which drug is most appropriate?",
       "options": [
         "Atropine",
         "Bethanechol",
@@ -229,10 +229,10 @@
         "Pilocarpine"
       ],
       "answer": 1,
-      "explanation": "Bethanechol ناهض مباشر انتقائي لـ M3 في المثانة والجهاز الهضمي، مقاوم للكولينستريز."
+      "explanation": "Bethanechol is a direct-acting M3-selective agonist in the bladder and GI tract; it is resistant to cholinesterase hydrolysis."
     },
     {
-      "q": "مريض عمره 75 سنة يعاني من تدهور معرفي وفقدان ذاكرة. ما الدواء المناسب؟",
+      "q": "A 75-year-old patient presents with progressive cognitive decline and memory loss. Which drug is appropriate?",
       "options": [
         "Edrophonium",
         "Donepezil",
@@ -240,32 +240,32 @@
         "Bethanechol"
       ],
       "answer": 1,
-      "explanation": "Donepezil مثبط عكوس للكولينستريز يزيد ACh في الدماغ، الخط الأول لعلاج الزهايمر."
+      "explanation": "Donepezil is a reversible cholinesterase inhibitor that increases ACh in the brain and is first-line treatment for Alzheimer's disease."
     },
     {
-      "q": "مزارع يعاني من لعاب مفرط وتعرق وبطء قلب وتضييق حدقة وتشنج برونشي. ما أول علاج؟",
+      "q": "A farmer presents with excessive salivation, sweating, bradycardia, miosis, and bronchospasm. What is the first-line treatment?",
       "options": [
-        "Pralidoxime فقط",
-        "Atropine وPralidoxime",
-        "Diazepam فقط",
+        "Pralidoxime alone",
+        "Atropine and Pralidoxime",
+        "Diazepam alone",
         "Neostigmine"
       ],
       "answer": 1,
-      "explanation": "تسمم بمبيدات الفوسفور العضوي يُعالج بـ Atropine (لحصار المسكارين) + Pralidoxime (لتنشيط الكولينستريز)."
+      "explanation": "Organophosphate poisoning is treated with Atropine (to block muscarinic effects) plus Pralidoxime (to reactivate cholinesterase)."
     },
     {
-      "q": "ما أعراض الفوسفور العضوي الموسكارينية (DUMBELS)؟",
+      "q": "What are the muscarinic symptoms of organophosphate toxicity (DUMBELS)?",
       "options": [
-        "إسهال، تبول، تضييق حدقة، تشنج برونشي، قيء، دموع، لعاب",
-        "رعاش، تسرع قلب، ارتفاع ضغط",
-        "غيبوبة وتشنجات فقط",
-        "جفاف الفم واحتباس البول"
+        "Defecation, urination, miosis, bronchospasm, emesis, lacrimation, salivation",
+        "Tremors, tachycardia, hypertension",
+        "Coma and seizures only",
+        "Dry mouth and urinary retention"
       ],
       "answer": 0,
       "explanation": "DUMBELS = Defecation, Urination, Miosis, Bronchospasm, Emesis, Lacrimation, Salivation."
     },
     {
-      "q": "أي مثبطات الكولينستريز يعبر BBB ويُستخدم لعكس تسمم Atropine؟",
+      "q": "Which cholinesterase inhibitor crosses the BBB and is used to reverse atropine toxicity?",
       "options": [
         "Neostigmine",
         "Pyridostigmine",
@@ -273,21 +273,21 @@
         "Edrophonium"
       ],
       "answer": 2,
-      "explanation": "Physostigmine أمين ثلاثي يعبر BBB ويُعالج تسمم Atropine المركزي."
+      "explanation": "Physostigmine is a tertiary amine that crosses the BBB and is used to treat central atropine toxicity."
     },
     {
-      "q": "أي مما يلي هو الاستخدام الوحيد لـ Edrophonium؟",
+      "q": "What is the only clinical use of Edrophonium?",
       "options": [
-        "علاج الوهن العضلي طويل الأمد",
-        "تشخيص الوهن العضلي (Tensilon Test)",
-        "علاج الزهايمر",
-        "علاج تسمم الفوسفور"
+        "Long-term treatment of myasthenia gravis",
+        "Diagnosis of myasthenia gravis (Tensilon test)",
+        "Treatment of Alzheimer's disease",
+        "Treatment of organophosphate poisoning"
       ],
       "answer": 1,
-      "explanation": "Edrophonium قصير المفعول جدًا (5 دقائق) لذا يُستخدم فقط في التشخيص (Tensilon Test)."
+      "explanation": "Edrophonium has a very short duration of action (~5 minutes) and is used only for the Tensilon diagnostic test."
     },
     {
-      "q": "ما مستقبل الكولين المسؤول عن تقلص جدار القصبات الهوائية؟",
+      "q": "Which cholinergic receptor is responsible for bronchial smooth muscle constriction?",
       "options": [
         "M1",
         "M2",
@@ -295,55 +295,55 @@
         "Nm"
       ],
       "answer": 2,
-      "explanation": "M3 على العضلات الملساء يسبب تقلص الشعب الهوائية والجهاز الهضمي والمثانة."
+      "explanation": "M3 on smooth muscle causes bronchoconstriction, GI contraction, and bladder contraction."
     },
     {
-      "q": "ما آلية عمل مثبطات ChE غير العكوسة (الفوسفور العضوي)؟",
+      "q": "What is the mechanism of irreversible ChE inhibitors (organophosphates)?",
       "options": [
-        "تحصر مستقبلات M مباشرة",
-        "ترتبط بالكولينستريز بشكل دائم فتزيد ACh",
-        "تُنشط مستقبلات N",
-        "تثبط إفراز ACh"
+        "They directly block muscarinic receptors",
+        "They bind cholinesterase permanently, increasing ACh",
+        "They activate nicotinic receptors",
+        "They inhibit ACh release"
       ],
       "answer": 1,
-      "explanation": "الفوسفور العضوي يرتبط تساهميًا بموقع الأستيل في إنزيم AChE مما يمنعه من تحليل ACh بشكل دائم."
+      "explanation": "Organophosphates form a covalent bond at the acetyl site of AChE, permanently preventing ACh hydrolysis."
     },
     {
-      "q": "في مرض الوهن العضلي، ما نوع الأجسام المضادة المسببة للمرض؟",
+      "q": "In myasthenia gravis, what type of autoantibodies cause the disease?",
       "options": [
-        "ضد مستقبلات M1",
-        "ضد مستقبلات Nm في الوصلة العصبية العضلية",
-        "ضد الكولينستريز",
-        "ضد مستقبلات Nn في العقد"
+        "Against M1 receptors",
+        "Against Nm receptors at the neuromuscular junction",
+        "Against cholinesterase",
+        "Against Nn receptors at ganglia"
       ],
       "answer": 1,
-      "explanation": "الوهن العضلي مرض مناعي ذاتي: IgG ضد مستقبلات Nm في الوصلة العصبية العضلية."
+      "explanation": "Myasthenia gravis is an autoimmune disease: IgG antibodies target Nm receptors at the neuromuscular junction."
     },
     {
-      "q": "لماذا لا يُعطى Acetylcholine فمويًا؟",
+      "q": "Why is acetylcholine not given orally?",
       "options": [
-        "لأنه يسبب ارتفاع ضغط الدم",
-        "لأنه رباعي الأمين وأمتصاصه ضعيف ويُحلَّل سريعًا",
-        "لأنه يسبب الإدمان",
-        "لأنه يثبط الكولينستريز"
+        "It causes hypertension",
+        "It is a quaternary amine with poor oral absorption and rapid hydrolysis",
+        "It causes addiction",
+        "It inhibits cholinesterase"
       ],
       "answer": 1,
-      "explanation": "ACh رباعي الأمين (quaternary) يُمتص بصعوبة من الجهاز الهضمي ويُحلَّل سريعًا بالكولينستريز."
+      "explanation": "ACh is a quaternary ammonium compound that is poorly absorbed from the GI tract and is rapidly hydrolyzed by cholinesterase."
     },
     {
-      "q": "Physostigmine يختلف عن Neostigmine بأنه:",
+      "q": "Physostigmine differs from Neostigmine in that it:",
       "options": [
-        "لا يعبر BBB",
-        "يعبر BBB",
-        "ناهض مباشر",
-        "يحصر النيكوتيني فقط"
+        "Does not cross the BBB",
+        "Crosses the BBB",
+        "Is a direct agonist",
+        "Blocks only nicotinic receptors"
       ],
       "answer": 1,
-      "explanation": "Physostigmine ثالثي يعبر الحاجز الدموي الدماغي.",
+      "explanation": "Physostigmine is a tertiary amine that crosses the blood-brain barrier.",
       "difficulty": "medium"
     },
     {
-      "q": "المضاد لتسمم الفسفور العضوي:",
+      "q": "The antidote for organophosphate poisoning is:",
       "options": [
         "Naloxone",
         "Atropine + Pralidoxime",
@@ -351,19 +351,19 @@
         "Vitamin K"
       ],
       "answer": 1,
-      "explanation": "Atropine للأعراض المسكارينية وPralidoxime يعيد تنشيط الإنزيم.",
+      "explanation": "Atropine blocks muscarinic symptoms; Pralidoxime reactivates the inhibited enzyme.",
       "difficulty": "medium"
     },
     {
-      "q": "Pilocarpine يُستخدم في:",
+      "q": "Pilocarpine is used in:",
       "options": [
-        "ارتفاع الضغط",
-        "الزرق (glaucoma)",
-        "الربو",
-        "الإمساك"
+        "Hypertension",
+        "Glaucoma",
+        "Asthma",
+        "Constipation"
       ],
       "answer": 1,
-      "explanation": "ناهض مسكاريني يخفض ضغط العين.",
+      "explanation": "Pilocarpine is a muscarinic agonist that reduces intraocular pressure.",
       "difficulty": "medium"
     }
   ]

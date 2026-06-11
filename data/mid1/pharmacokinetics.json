@@ -122,258 +122,258 @@
   ],
   "flashcards": [
     {
-      "front": "ما هي Bioavailability؟ ومتى تكون 100%؟",
-      "back": "هي نسبة الجرعة التي تصل إلى الدوران الجهازي. تكون 100% عند الإعطاء الوريدي (IV) فقط. الطريق الفموي دائماً أقل من 100% بسبب امتصاص ناقص وFirst-pass metabolism."
+      "front": "What is Bioavailability? When is it 100%?",
+      "back": "It is the fraction of a dose that reaches the systemic circulation. It is 100% only with intravenous (IV) administration. The oral route is always less than 100% due to incomplete absorption and first-pass metabolism."
     },
     {
-      "front": "ما هو First-Pass Metabolism وما أهميته السريرية؟",
-      "back": "استقلاب الدواء في الكبد وجدار الأمعاء قبل وصوله للدوران. يُقلل Bioavailability. مثال: Morphine وPropranolol. الحل: طرق بديلة مثل Sublingual (Nitroglycerin)."
+      "front": "What is First-Pass Metabolism and what is its clinical significance?",
+      "back": "Metabolism of a drug in the liver and intestinal wall before it reaches systemic circulation. It reduces bioavailability. Examples: Morphine, Propranolol. Solution: alternative routes such as sublingual (Nitroglycerin)."
     },
     {
-      "front": "ما العلاقة بين الـ Ionization والامتصاص؟",
-      "back": "فقط الشكل غير المشحون (Unionized) يُمتص لأنه ذوّاب في الدهون. الشكل المشحون (Ionized) ذوّاب في الماء ولا يخترق الغشاء الخلوي."
+      "front": "What is the relationship between ionization and absorption?",
+      "back": "Only the unionized form is absorbed because it is lipid-soluble. The ionized form is water-soluble and cannot penetrate the cell membrane."
     },
     {
-      "front": "ما هو Volume of Distribution (Vd)؟ وما معنى قيمة عالية؟",
-      "back": "حجم افتراضي يعكس توزع الدواء في الجسم. Vd = D / C. قيمة عالية = الدواء يتوزع خارج الدم (في الأنسجة). قيمة منخفضة = يبقى في البلازما."
+      "front": "What is Volume of Distribution (Vd)? What does a high value mean?",
+      "back": "A hypothetical volume that reflects the distribution of a drug throughout the body. Vd = D / C. High Vd = drug distributes extensively into tissues outside the blood. Low Vd = drug remains in plasma."
     },
     {
-      "front": "ما الفرق بين الشكل الحر والمرتبط للدواء في البلازما؟",
-      "back": "الشكل الحر (Free form): نشط، قابل للانتشار، يُستقلب ويُطرح. الشكل المرتبط (Protein-bound): غير نشط، لا ينتشر، لا يُستقلب ولا يُطرح - يعمل كخزان."
+      "front": "What is the difference between the free and protein-bound forms of a drug in plasma?",
+      "back": "Free form: pharmacologically active, diffusible, metabolized and excreted. Protein-bound form: inactive, non-diffusible, not metabolized or excreted — acts as a reservoir."
     },
     {
-      "front": "لماذا يُسبب Aspirin خطر النزيف عند إعطائه مع Warfarin؟",
-      "back": "Aspirin له قدرة أعلى على الارتباط ببروتينات البلازما، فيُزيح Warfarin من ارتباطه، مما يزيد الجزء الحر من Warfarin ويُعزز تأثيره المضاد للتخثر."
+      "front": "Why does Aspirin increase the risk of bleeding when given with Warfarin?",
+      "back": "Aspirin has a higher affinity for plasma proteins and displaces Warfarin from its binding sites, increasing the free fraction of Warfarin and enhancing its anticoagulant effect."
     },
     {
-      "front": "ما هي Phase I reactions في الاستقلاب؟",
-      "back": "تفاعلات غير تركيبية: أكسدة، اختزال، تحلل مائي (Oxidation, Reduction, Hydrolysis). تُجري بواسطة إنزيمات Cytochrome P450. تُحوّل الدواء إلى أيض أكثر قطبية."
+      "front": "What are Phase I reactions in drug metabolism?",
+      "back": "Non-synthetic reactions: oxidation, reduction, hydrolysis. Carried out by Cytochrome P450 enzymes. Convert the drug into a more polar metabolite."
     },
     {
-      "front": "ما هي Phase II reactions في الاستقلاب؟",
-      "back": "تفاعلات اقتران (Conjugation) مع جلوكورونيك، كبريتيك، أو خليك. الأكثر شيوعاً: Glucuronidation. النتيجة: مواد قابلة للذوبان في الماء وسهلة الإطراح الكلوي."
+      "front": "What are Phase II reactions in drug metabolism?",
+      "back": "Conjugation reactions with glucuronic acid, sulfate, or acetate. Most common: glucuronidation. Result: water-soluble compounds that are easily excreted by the kidneys."
     },
     {
-      "front": "ما هو Enzyme Induction وما تأثيره على مستوى الدواء؟",
-      "back": "تحريض إنزيمات الاستقلاب (مثل CYP3A4) يزيد سرعة استقلاب الأدوية المتأثرة، مما يُخفّض مستواها في الدم ويُقلل التأثير العلاجي. مثال: Rifampin يحرّض CYP → يُقلل فاعلية Oral contraceptives."
+      "front": "What is Enzyme Induction and what is its effect on drug levels?",
+      "back": "Induction of metabolic enzymes (e.g., CYP3A4) increases the metabolism rate of affected drugs, lowering their blood levels and reducing therapeutic effect. Example: Rifampin induces CYP → reduces efficacy of oral contraceptives."
     },
     {
-      "front": "ما هو Enzyme Inhibition وما تأثيره على مستوى الدواء؟",
-      "back": "تثبيط إنزيمات الاستقلاب يُبطئ استقلاب الدواء، مما يرفع تركيزه في الدم ويزيد خطر التسمم. مثال: Ketoconazole يثبط CYP → يرفع مستوى الأدوية المتأثرة."
+      "front": "What is Enzyme Inhibition and what is its effect on drug levels?",
+      "back": "Inhibition of metabolic enzymes slows drug metabolism, raising drug concentration in the blood and increasing the risk of toxicity. Example: Ketoconazole inhibits CYP → raises levels of co-administered drugs."
     },
     {
-      "front": "ما هو نصف العمر (t1/2)؟ وكيف يُحسب؟",
-      "back": "الوقت اللازم لانخفاض تركيز الدواء بنسبة 50%. t1/2 = 0.693 × Vd / CL. يحدد سرعة الوصول للحالة المستقرة (Steady State)."
+      "front": "What is the half-life (t½)? How is it calculated?",
+      "back": "The time required for the drug concentration to fall by 50%. t½ = 0.693 × Vd / CL. It determines the time to reach steady state."
     },
     {
-      "front": "كم t1/2 يلزم للوصول لـ Steady State؟",
-      "back": "4-5 نصف عمر للوصول إلى الحالة المستقرة (Steady State) وكذلك للإطراح الكامل."
+      "front": "How many t½ are required to reach Steady State?",
+      "back": "4–5 half-lives are required to reach steady state and likewise for complete elimination."
     },
     {
-      "front": "ما الفرق بين First-order و Zero-order kinetics؟",
-      "back": "First-order: سرعة الإطراح تتناسب مع التركيز - نسبة ثابتة تُطرح. t1/2 ثابت. معظم الأدوية.\nZero-order: كمية ثابتة تُطرح بصرف النظر عن التركيز. t1/2 غير ثابت. مثال: Phenytoin, Ethanol."
+      "front": "What is the difference between First-order and Zero-order kinetics?",
+      "back": "First-order: elimination rate is proportional to concentration — a constant fraction is eliminated. t½ is constant. Most drugs.\nZero-order: a constant amount is eliminated regardless of concentration. t½ is not constant. Examples: Phenytoin, Ethanol."
     },
     {
-      "front": "ما معادلة Loading Dose؟",
-      "back": "Loading Dose (LD) = Vd × Target Cp. تُعطى عند الحاجة لتحقيق تركيز علاجي سريع."
+      "front": "What is the Loading Dose equation?",
+      "back": "Loading Dose (LD) = Vd × Target Cp. Given when a rapid therapeutic concentration is needed."
     },
     {
-      "front": "ما معادلة Maintenance Dose؟",
-      "back": "Maintenance Dose = Css × CL. (Css = Steady state concentration, CL = Clearance). تضمن الحفاظ على التركيز المستقر."
+      "front": "What is the Maintenance Dose equation?",
+      "back": "Maintenance Dose = Css × CL. (Css = Steady state concentration, CL = Clearance). Maintains the steady-state concentration."
     },
     {
-      "front": "ما هي آليات الامتصاص من الجهاز الهضمي؟",
-      "back": "1. Passive diffusion (الأكثر شيوعاً)\n2. Facilitated diffusion\n3. Active transport\n4. Endocytosis"
+      "front": "What are the mechanisms of absorption from the gastrointestinal tract?",
+      "back": "1. Passive diffusion (most common)\n2. Facilitated diffusion\n3. Active transport\n4. Endocytosis"
     },
     {
-      "front": "ما تأثير أمراض الكبد على توزيع الدواء؟",
-      "back": "تشمع الكبد الشديد → نقص الألبومين → زيادة الجزء الحر من الأدوية المرتبطة ببروتينات → تأثير دوائي مفرط وآثار سلبية."
+      "front": "What is the effect of liver disease on drug distribution?",
+      "back": "Severe liver cirrhosis → decreased albumin → increased free fraction of protein-bound drugs → exaggerated pharmacological effect and adverse reactions."
     },
     {
-      "front": "ما تأثير القصور الكلوي على الدواء؟",
-      "back": "يُقلل إطراح الأدوية عبر الكلى → تراكم الدواء → زيادة خطر التسمم. مثال: Digoxin يتراكم في القصور الكلوي."
+      "front": "What is the effect of renal failure on drugs?",
+      "back": "Reduces renal elimination of drugs → drug accumulation → increased risk of toxicity. Example: Digoxin accumulates in renal failure."
     },
     {
-      "front": "ما هي مسارات إطراح الدواء من الجسم؟",
-      "back": "الكلى (الأهم)، الصفراء، الرئتان (العوامل المتطايرة)، الأمعاء، حليب الأم. الكلى تُطرح الأدوية عبر: Filtration, Active secretion, Reabsorption."
+      "front": "What are the routes of drug excretion from the body?",
+      "back": "Kidneys (most important), bile, lungs (volatile agents), intestines, breast milk. The kidneys excrete drugs via: filtration, active secretion, and reabsorption."
     },
     {
-      "front": "لماذا يحتاج Nitroglycerin إلى الإعطاء تحت اللسان؟",
-      "back": "لأنه لو أُعطي فمويًا سيخضع لـ First-pass metabolism كبير في الكبد مما يُلغي فاعليته. الإعطاء تحت اللسان يُتيح امتصاصه مباشرة في الدوران دون المرور بالكبد."
+      "front": "Why does Nitroglycerin require sublingual administration?",
+      "back": "If given orally it would undergo extensive first-pass metabolism in the liver, abolishing its efficacy. Sublingual administration allows direct absorption into systemic circulation bypassing the liver."
     },
     {
-      "front": "ما مراحل الحركية الدوائية ADME؟",
+      "front": "What are the stages of pharmacokinetics (ADME)?",
       "back": "Absorption, Distribution, Metabolism, Excretion.",
       "tag": "high-yield"
     },
     {
-      "front": "ما الآلية الأكثر شيوعاً لامتصاص الأدوية؟",
-      "back": "الانتشار السلبي (Passive diffusion) للأدوية الذائبة في الدهون وغير المتأينة."
+      "front": "What is the most common mechanism of drug absorption?",
+      "back": "Passive diffusion of lipid-soluble, unionized drugs."
     },
     {
-      "front": "أي صورة من الدواء تُمتص: المتأينة أم غير المتأينة؟",
-      "back": "غير المتأينة (unionized) لأنها ذائبة في الدهون وتعبر الأغشية.",
+      "front": "Which form of a drug is absorbed: ionized or unionized?",
+      "back": "Unionized, because it is lipid-soluble and crosses membranes.",
       "tag": "high-yield"
     },
     {
-      "front": "ما هو التوافر الحيوي (Bioavailability)؟",
-      "back": "نسبة الجرعة التي تصل الدورة الجهازية بشكل فعّال؛ IV = 100%."
+      "front": "What is Bioavailability?",
+      "back": "The fraction of a dose that effectively reaches systemic circulation; IV = 100%."
     },
     {
-      "front": "ما هو حجم التوزيع Vd؟",
-      "back": "Vd = الجرعة / التركيز البلازمي؛ حجم افتراضي يربط كمية الدواء بتركيزه في البلازما."
+      "front": "What is Volume of Distribution (Vd)?",
+      "back": "Vd = Dose / Plasma concentration; a hypothetical volume relating the amount of drug to its plasma concentration."
     },
     {
-      "front": "ما هي التصفية Clearance؟",
-      "back": "حجم البلازما المُنقّى من الدواء في وحدة الزمن؛ تحدد جرعة الصيانة."
+      "front": "What is Clearance?",
+      "back": "The volume of plasma cleared of drug per unit time; determines the maintenance dose."
     },
     {
-      "front": "ما العلاقة بين t½ و Clearance و Vd؟",
+      "front": "What is the relationship between t½, Clearance, and Vd?",
       "back": "t½ = 0.693 × Vd / CL.",
       "tag": "high-yield"
     },
     {
-      "front": "ما الفرق بين حركية الرتبة صفر والرتبة الأولى؟",
-      "back": "Zero-order: كمية ثابتة تُستقلب/الزمن (مثل الكحول، الأسبرين بجرعات عالية). First-order: نسبة ثابتة تُستقلب/الزمن (معظم الأدوية)."
+      "front": "What is the difference between zero-order and first-order kinetics?",
+      "back": "Zero-order: a constant amount is metabolized per unit time (e.g., alcohol, aspirin at high doses). First-order: a constant fraction is metabolized per unit time (most drugs)."
     },
     {
-      "front": "ما طورا استقلاب الدواء في الكبد؟",
-      "back": "Phase I (أكسدة/اختزال/حلمأة عبر CYP450) و Phase II (الاقتران - conjugation مثل glucuronidation)."
+      "front": "What are the two phases of hepatic drug metabolism?",
+      "back": "Phase I (oxidation/reduction/hydrolysis via CYP450) and Phase II (conjugation — e.g., glucuronidation)."
     },
     {
-      "front": "كيف يؤثر مرض الكبد على PK؟",
-      "back": "نقص الألبومين والتدفق الكبدي والإنزيمات → نقص الاستقلاب والارتباط البروتيني → آثار جانبية."
+      "front": "How does liver disease affect pharmacokinetics (PK)?",
+      "back": "Decreased albumin, hepatic blood flow, and enzyme activity → reduced metabolism and protein binding → adverse effects."
     }
   ],
   "mcqs": [
     {
-      "q": "ما التعريف الصحيح لـ Bioavailability؟",
+      "q": "What is the correct definition of Bioavailability?",
       "options": [
-        "نسبة الدواء المرتبط بالبروتينات",
-        "نسبة الجرعة التي تصل إلى الدوران الجهازي",
-        "سرعة امتصاص الدواء من الأمعاء",
-        "الحجم الافتراضي لتوزع الدواء"
+        "The fraction of drug bound to proteins",
+        "The fraction of the dose that reaches the systemic circulation",
+        "The rate of drug absorption from the intestine",
+        "The hypothetical volume of drug distribution"
       ],
       "answer": 1,
-      "explanation": "Bioavailability = نسبة الجرعة التي تصل إلى الدوران الجهازي. تكون 100% عند IV، وتقل عند الإعطاء الفموي بسبب امتصاص ناقص وFirst-pass metabolism."
+      "explanation": "Bioavailability = the fraction of the dose that reaches systemic circulation. It is 100% with IV administration and decreases with oral administration due to incomplete absorption and first-pass metabolism."
     },
     {
-      "q": "أي شكل الدواء يُمتص أفضل من الجهاز الهضمي؟",
+      "q": "Which form of a drug is best absorbed from the gastrointestinal tract?",
       "options": [
-        "الشكل المشحون (Ionized)",
-        "الشكل المرتبط بالبروتينات",
-        "الشكل غير المشحون (Unionized)",
-        "الشكل الذوّاب في الماء"
+        "The ionized form",
+        "The protein-bound form",
+        "The unionized form",
+        "The water-soluble form"
       ],
       "answer": 2,
-      "explanation": "الشكل غير المشحون (Unionized) ذوّاب في الدهون (Lipophilic) ويخترق الأغشية الخلوية بسهولة. الشكل المشحون (Ionized) ذوّاب في الماء ولا يُمتص جيداً."
+      "explanation": "The unionized form is lipophilic and easily penetrates cell membranes. The ionized form is water-soluble and is poorly absorbed."
     },
     {
-      "q": "ما السبب الرئيسي لإعطاء Nitroglycerin تحت اللسان وليس فمويًا؟",
+      "q": "What is the main reason Nitroglycerin is given sublingually rather than orally?",
       "options": [
-        "لزيادة سرعة الامتصاص فقط",
-        "لتجنب First-pass metabolism في الكبد",
-        "لأنه غير ذوّاب في الماء",
-        "لأن الجهاز الهضمي يُفككه"
+        "To increase speed of absorption only",
+        "To bypass first-pass metabolism in the liver",
+        "Because it is insoluble in water",
+        "Because the gastrointestinal tract degrades it"
       ],
       "answer": 1,
-      "explanation": "Nitroglycerin يخضع لـ First-pass metabolism مكثف في الكبد يُلغي فاعليته لو أُعطي فمويًا. الإعطاء تحت اللسان يتجاوز الكبد ويصل مباشرة للدوران."
+      "explanation": "Nitroglycerin undergoes extensive first-pass metabolism in the liver which abolishes its efficacy if given orally. Sublingual administration bypasses the liver and enters systemic circulation directly."
     },
     {
-      "q": "دواء Vd = 100L يعني:",
+      "q": "A drug with Vd = 100 L means:",
       "options": [
-        "الدواء محصور في البلازما فقط",
-        "الدواء يتوزع في الأنسجة خارج البلازما بنسبة كبيرة",
-        "الدواء مرتبط ببروتينات البلازما بشكل كبير",
-        "الدواء يُطرح بسرعة"
+        "The drug is confined to plasma only",
+        "The drug distributes extensively into tissues outside the plasma",
+        "The drug is highly bound to plasma proteins",
+        "The drug is rapidly eliminated"
       ],
       "answer": 1,
-      "explanation": "Vd عالٍ يعني الدواء يتوزع بشكل واسع خارج الأوعية الدموية في الأنسجة. Vd منخفض (مثل حجم البلازما ~3-5L) يعني بقاء الدواء في الدم."
+      "explanation": "A high Vd means the drug distributes widely outside the vasculature into tissues. A low Vd (e.g., plasma volume ~3–5 L) means the drug remains in the blood."
     },
     {
-      "q": "ما Phase I reactions في استقلاب الدواء؟",
+      "q": "What are Phase I reactions in drug metabolism?",
       "options": [
-        "Conjugation مع Glucuronic acid",
+        "Conjugation with glucuronic acid",
         "Oxidation, Reduction, Hydrolysis",
-        "ربط الدواء بالألبومين",
-        "ترشيح الدواء في الكلى"
+        "Binding of the drug to albumin",
+        "Filtration of the drug in the kidneys"
       ],
       "answer": 1,
-      "explanation": "Phase I = Oxidation, Reduction, Hydrolysis. تُجرى بواسطة إنزيمات Cytochrome P450. تزيد قطبية الدواء ليصبح أكثر قابلية للإطراح."
+      "explanation": "Phase I = Oxidation, Reduction, Hydrolysis. Carried out by Cytochrome P450 enzymes. They increase drug polarity to facilitate excretion."
     },
     {
-      "q": "Rifampin يُقلل فاعلية حبوب منع الحمل الفموية بسبب:",
+      "q": "Rifampin reduces the efficacy of oral contraceptives because:",
       "options": [
-        "تثبيط امتصاصها من الأمعاء",
-        "تحريض إنزيمات CYP مما يزيد استقلابها",
-        "ارتباطه بها كيميائياً",
-        "تثبيط الكلى عن إطراحها"
+        "It inhibits their absorption from the intestine",
+        "It induces CYP enzymes, increasing their metabolism",
+        "It binds to them chemically",
+        "It inhibits renal excretion of the contraceptives"
       ],
       "answer": 1,
-      "explanation": "Rifampin هو Enzyme Inducer قوي. يُحرّض إنزيمات CYP → يزيد استقلاب حبوب منع الحمل → يُخفض مستواها الدموي → فشل علاجي (حمل غير مرغوب)."
+      "explanation": "Rifampin is a potent enzyme inducer. It induces CYP enzymes → increases metabolism of oral contraceptives → lowers their blood levels → therapeutic failure (unintended pregnancy)."
     },
     {
-      "q": "دواء يسير بـ Zero-order kinetics، ما التوقع الصحيح؟",
+      "q": "A drug following zero-order kinetics — which statement is correct?",
       "options": [
-        "t1/2 ثابت بغض النظر عن الجرعة",
-        "يمكن الوصول لـ Steady State في 4-5 t1/2",
-        "نسبة ثابتة من الدواء تُطرح لكل وحدة زمن",
-        "كمية ثابتة تُطرح لكل وحدة زمن - t1/2 غير ثابت"
+        "t½ is constant regardless of dose",
+        "Steady state is reached in 4–5 t½",
+        "A constant fraction of drug is eliminated per unit time",
+        "A constant amount is eliminated per unit time — t½ is not constant"
       ],
       "answer": 3,
-      "explanation": "Zero-order kinetics: كمية ثابتة تُطرح بصرف النظر عن التركيز (Saturable process). t1/2 غير ثابت. لا يوجد Steady State. مثال: Phenytoin, Ethanol."
+      "explanation": "Zero-order kinetics: a constant amount is eliminated regardless of concentration (saturable process). t½ is not constant. There is no true steady state. Examples: Phenytoin, Ethanol."
     },
     {
-      "q": "ما معادلة Loading Dose؟",
+      "q": "What is the Loading Dose equation?",
       "options": [
         "LD = Css × CL",
         "LD = Vd × Target Cp",
-        "LD = t1/2 × CL",
+        "LD = t½ × CL",
         "LD = F × D"
       ],
       "answer": 1,
-      "explanation": "Loading Dose = Vd × Target Plasma Concentration. تُعطى لتحقيق تركيز علاجي سريع دون انتظار 4-5 t1/2."
+      "explanation": "Loading Dose = Vd × Target Plasma Concentration. Given to achieve therapeutic concentration rapidly without waiting 4–5 t½."
     },
     {
-      "q": "مريض لديه قصور كلوي، أي الأدوية الأكثر خطورة من ناحية التراكم؟",
+      "q": "A patient has renal failure — which drug is most at risk for accumulation?",
       "options": [
-        "الأدوية المستقلبة في الكبد",
-        "Digoxin الذي يُطرح أساساً عبر الكلى",
-        "الأدوية المرتبطة بالبروتينات",
-        "الأدوية التي تمر بـ Phase II"
+        "Drugs metabolized in the liver",
+        "Digoxin, which is primarily excreted via the kidneys",
+        "Drugs that are protein-bound",
+        "Drugs that undergo Phase II reactions"
       ],
       "answer": 1,
-      "explanation": "Digoxin يُطرح أساساً عبر الكلى. في القصور الكلوي ينخفض إطراحه → يتراكم → يزيد خطر التسمم. يلزم تعديل الجرعة."
+      "explanation": "Digoxin is primarily excreted by the kidneys. In renal failure its excretion decreases → accumulation → increased risk of toxicity. Dose adjustment is required."
     },
     {
-      "q": "بعد كم t1/2 يُطرح الدواء بالكامل تقريباً من الجسم؟",
+      "q": "After how many t½ is a drug essentially eliminated from the body?",
       "options": [
-        "1-2 t1/2",
-        "2-3 t1/2",
-        "4-5 t1/2",
-        "10 t1/2"
+        "1–2 t½",
+        "2–3 t½",
+        "4–5 t½",
+        "10 t½"
       ],
       "answer": 2,
-      "explanation": "بعد 4-5 نصف عمر: 1st=50%, 2nd=75%, 3rd=87.5%, 4th=93.75%, 5th=~97% تُطرح. لذلك 4-5 t1/2 تكفي للإطراح الكامل وكذلك للوصول للـ Steady State."
+      "explanation": "After 4–5 half-lives: 1st=50%, 2nd=75%, 3rd=87.5%, 4th=93.75%, 5th=~97% eliminated. Therefore 4–5 t½ is sufficient for complete elimination and to reach steady state."
     },
     {
-      "q": "معظم الأدوية تُمتص عبر:",
+      "q": "Most drugs are absorbed via:",
       "options": [
-        "النقل النشط",
-        "الانتشار السلبي",
-        "الالتقام الخلوي",
-        "الانتشار الميسّر"
+        "Active transport",
+        "Passive diffusion",
+        "Endocytosis",
+        "Facilitated diffusion"
       ],
       "answer": 1,
-      "explanation": "الانتشار السلبي هو الآلية الغالبة.",
+      "explanation": "Passive diffusion is the predominant mechanism.",
       "difficulty": "medium"
     },
     {
-      "q": "نصف العمر يُحسب بـ:",
+      "q": "Half-life is calculated by:",
       "options": [
         "CL × Vd",
         "0.693 × Vd / CL",
-        "Vd / الجرعة",
+        "Vd / Dose",
         "CL / Vd"
       ],
       "answer": 1,
@@ -381,15 +381,15 @@
       "difficulty": "medium"
     },
     {
-      "q": "الكحول يُستقلب بحركية:",
+      "q": "Alcohol is metabolized by:",
       "options": [
-        "الرتبة الأولى",
-        "الرتبة صفر",
-        "الرتبة الثانية",
-        "متغيرة عشوائياً"
+        "First-order kinetics",
+        "Zero-order kinetics",
+        "Second-order kinetics",
+        "Randomly variable kinetics"
       ],
       "answer": 1,
-      "explanation": "Zero-order: كمية ثابتة بوحدة الزمن.",
+      "explanation": "Zero-order: a constant amount per unit time.",
       "difficulty": "medium"
     }
   ]

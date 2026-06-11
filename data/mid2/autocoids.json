@@ -120,116 +120,116 @@
   ],
   "flashcards": [
     {
-      "front": "ما المستقبل المسؤول عن تضيق الشعب الهوائية بالهيستامين؟",
+      "front": "Which receptor is responsible for histamine-induced bronchoconstriction?",
       "back": "H1"
     },
     {
-      "front": "ما المستقبل المسؤول عن زيادة إفراز حمض المعدة بالهيستامين؟",
+      "front": "Which receptor is responsible for histamine-induced increase in gastric acid secretion?",
       "back": "H2"
     },
     {
-      "front": "ما الفرق الرئيسي بين H1 الجيل الأول والثاني؟",
-      "back": "الجيل الأول يعبر BBB ويسبب النعاس، الجيل الثاني لا يعبر ولا يسبب نعاسًا"
+      "front": "What is the main difference between first- and second-generation H1 blockers?",
+      "back": "First generation crosses the BBB and causes sedation; second generation does not cross and is non-sedating"
     },
     {
-      "front": "أذكر ثلاثة أدوية من H1 الجيل الأول",
+      "front": "Name three first-generation H1 drugs",
       "back": "Diphenhydramine, Chlorphenamine, Cyclizine"
     },
     {
-      "front": "أذكر ثلاثة أدوية من H1 الجيل الثاني",
+      "front": "Name three second-generation H1 drugs",
       "back": "Cetirizine, Fexofenadine, Loratadine"
     },
     {
-      "front": "ما الدواء المستخدم لدوار الحركة وقيء الحمل؟",
+      "front": "Which drug is used for motion sickness and pregnancy-related vomiting?",
       "back": "Diphenhydramine"
     },
     {
-      "front": "ما الآثار الجانبية المضادة للكولين لحاصرات H1 الجيل الأول؟",
-      "back": "جفاف الفم، احتباس البول، عدم وضوح الرؤية، تسرع القلب"
+      "front": "What are the anticholinergic side effects of first-generation H1 blockers?",
+      "back": "Dry mouth, urinary retention, blurred vision, tachycardia"
     },
     {
-      "front": "ما الآثار الجانبية الأندروجينية لـ Cimetidine؟",
-      "back": "التثدي عند الرجال، اضطراب الدورة الشهرية عند النساء"
+      "front": "What are the antiandrogenic side effects of Cimetidine?",
+      "back": "Gynecomastia in men, menstrual disturbances in women"
     },
     {
-      "front": "لماذا يُعدّ Cimetidine خطرًا مع Warfarin؟",
-      "back": "لأنه يثبط إنزيمات P450 الكبدية فيزيد تركيز Warfarin ويرفع خطر النزيف"
+      "front": "Why is Cimetidine dangerous with Warfarin?",
+      "back": "Because it inhibits hepatic P450 enzymes, increasing Warfarin levels and raising the risk of bleeding"
     },
     {
-      "front": "ما آلية عمل Sumatriptan؟",
-      "back": "ناهض انتقائي لمستقبلات 5-HT1D، يسبب تضيق الأوعية القحفية"
+      "front": "What is the mechanism of action of Sumatriptan?",
+      "back": "Selective 5-HT1D receptor agonist that causes cranial vasoconstriction"
     },
     {
-      "front": "ما الاستخدام الرئيسي لـ Ondansetron؟",
-      "back": "منع القيء الناتج عن العلاج الكيميائي (CINV) وبعد العمليات"
+      "front": "What is the main use of Ondansetron?",
+      "back": "Prevention of chemotherapy-induced nausea and vomiting (CINV) and postoperative vomiting"
     },
     {
-      "front": "ما الأثر الجانبي الخطير لـ Ondansetron؟",
-      "back": "إطالة فترة QT"
+      "front": "What is the serious side effect of Ondansetron?",
+      "back": "QT interval prolongation"
     },
     {
-      "front": "من أين يُطلق الهيستامين؟",
-      "back": "الخلايا البدينة في الأنسجة والبازوفيل في الدم"
+      "front": "Where is histamine released from?",
+      "back": "Mast cells in tissues and basophils in the blood"
     },
     {
-      "front": "ما مستقبلات السيروتونين المرتبطة بالقلق والاكتئاب؟",
+      "front": "Which serotonin receptor is associated with anxiety and depression?",
       "back": "5-HT1A"
     },
     {
-      "front": "ما دور 5-HT3 في الجسم؟",
-      "back": "يحرض القيء، خاصة الناتج عن العلاج الكيميائي"
+      "front": "What is the role of 5-HT3 in the body?",
+      "back": "It induces vomiting, especially chemotherapy-induced vomiting"
     },
     {
-      "front": "أين يتواجد معظم السيروتونين في الجسم؟",
-      "back": "في خلايا الغشاء المعوي (90%) في الجهاز الهضمي"
+      "front": "Where is most of the body's serotonin located?",
+      "back": "In the enterochromaffin cells (90%) of the GI tract"
     },
     {
-      "front": "ما أفضل جيل من حاصرات H1 لعلاج الحساسية الموسمية؟",
-      "back": "الجيل الثاني (أكثر أمانًا وأقل آثارًا جانبية)"
+      "front": "Which generation of H1 blockers is best for treating seasonal allergies?",
+      "back": "Second generation (safer with fewer side effects)"
     },
     {
-      "front": "لماذا لا يُعطى Sumatriptan لمرضى أمراض القلب التاجية؟",
-      "back": "لأنه يسبب تضيق الأوعية مما قد يُفاقم نقص التروية القلبية"
+      "front": "Why is Sumatriptan not given to patients with coronary artery disease?",
+      "back": "Because it causes vasoconstriction, which may worsen myocardial ischemia"
     },
     {
-      "front": "ما هي الأوتاكويدات (Autacoids)؟",
-      "back": "مواد طبيعية موضعية التأثير قصيرة المدى تشمل البروستاغلاندينات والهستامين والسيروتونين.",
+      "front": "What are autacoids?",
+      "back": "Naturally occurring locally acting, short-lived substances that include prostaglandins, histamine, and serotonin.",
       "tag": "high-yield"
     },
     {
-      "front": "من أين يُفرز الهستامين؟",
-      "back": "من الخلايا البدينة (mast cells) في الأنسجة والخلايا القاعدية (basophils) في الدم؛ يكثر في الرئة والجلد والقناة الهضمية."
+      "front": "Where is histamine secreted from?",
+      "back": "From mast cells in tissues and basophils in the blood; abundant in the lung, skin, and GI tract."
     },
     {
-      "front": "ما تأثيرات مستقبل H1؟",
-      "back": "تقلص العضلات الملساء (قصبات)، توسّع وعائي، زيادة النفاذية، حكة وألم - وسيط للحساسية.",
+      "front": "What are the effects of the H1 receptor?",
+      "back": "Smooth muscle contraction (bronchi), vasodilation, increased permeability, itching and pain - mediator of allergy.",
       "tag": "high-yield"
     },
     {
-      "front": "ما تأثيرات مستقبل H2؟",
-      "back": "زيادة إفراز حمض المعدة؛ يُحصر بمضادات H2 مثل Ranitidine/Famotidine."
+      "front": "What are the effects of the H2 receptor?",
+      "back": "Increased gastric acid secretion; blocked by H2 antagonists such as Ranitidine/Famotidine."
     },
     {
-      "front": "ما الفرق بين مضادات H1 من الجيل الأول والثاني؟",
-      "back": "الأول (Diphenhydramine) يعبر BBB → نعاس وتأثير مضاد كوليني؛ الثاني (Loratadine, Cetirizine) لا يعبر → أقل نعاساً.",
+      "front": "What is the difference between first- and second-generation H1 antagonists?",
+      "back": "First generation (Diphenhydramine) crosses the BBB → sedation and anticholinergic effect; second generation (Loratadine, Cetirizine) does not cross → less sedation.",
       "tag": "high-yield"
     },
     {
-      "front": "ما تأثيرات السيروتونين (5-HT)؟",
-      "back": "تنظيم المزاج، تقلص الأوعية والأمعاء، التقيؤ (5-HT3)، الصداع النصفي."
+      "front": "What are the effects of serotonin (5-HT)?",
+      "back": "Mood regulation, vascular and intestinal contraction, vomiting (5-HT3), migraine."
     },
     {
-      "front": "مثال على ناهض 5-HT لعلاج الشقيقة؟",
-      "back": "Triptans (Sumatriptan) - ناهضات 5-HT1."
+      "front": "Example of a 5-HT agonist for treating migraine?",
+      "back": "Triptans (Sumatriptan) - 5-HT1 agonists."
     },
     {
-      "front": "ما استخدام مضادات 5-HT3؟",
-      "back": "Ondansetron مضاد للغثيان والتقيؤ خاصة مع العلاج الكيميائي."
+      "front": "What is the use of 5-HT3 antagonists?",
+      "back": "Ondansetron is an antiemetic, especially with chemotherapy."
     }
   ],
   "mcqs": [
     {
-      "q": "مريض يعاني من الحساسية الموسمية ويحتاج لعلاج لا يسبب النعاس. أي الأدوية الأنسب؟",
+      "q": "A patient with seasonal allergies needs a non-sedating treatment. Which drug is most appropriate?",
       "options": [
         "Diphenhydramine",
         "Chlorphenamine",
@@ -237,10 +237,10 @@
         "Cyclizine"
       ],
       "answer": 2,
-      "explanation": "Cetirizine جيل ثاني لا يعبر BBB ولا يسبب النعاس، وهو الخيار الأفضل للحساسية الموسمية."
+      "explanation": "Cetirizine is a second-generation agent that does not cross the BBB and is non-sedating, making it the best choice for seasonal allergies."
     },
     {
-      "q": "ما الدواء المناسب لمريض يعاني من دوار الحركة في رحلة بحرية؟",
+      "q": "Which drug is suitable for a patient suffering from motion sickness on a sea voyage?",
       "options": [
         "Fexofenadine",
         "Loratadine",
@@ -248,21 +248,21 @@
         "Famotidine"
       ],
       "answer": 2,
-      "explanation": "Cyclizine من الجيل الأول يستخدم لعلاج دوار الحركة."
+      "explanation": "Cyclizine, a first-generation agent, is used to treat motion sickness."
     },
     {
-      "q": "رجل يتناول Cimetidine وWarfarin معًا. ما المتوقع حدوثه؟",
+      "q": "A man takes Cimetidine and Warfarin together. What is the expected outcome?",
       "options": [
-        "انخفاض تأثير Warfarin",
-        "زيادة خطر النزيف",
-        "لا تفاعل",
-        "تسرع القلب"
+        "Decreased effect of Warfarin",
+        "Increased risk of bleeding",
+        "No interaction",
+        "Tachycardia"
       ],
       "answer": 1,
-      "explanation": "Cimetidine يثبط P450 الكبدي فيقل تحطيم Warfarin ويرتفع تركيزه مما يزيد خطر النزيف."
+      "explanation": "Cimetidine inhibits hepatic P450, reducing Warfarin breakdown and raising its concentration, which increases the risk of bleeding."
     },
     {
-      "q": "أي الأدوية يستخدم لعلاج الصداع النصفي الحاد؟",
+      "q": "Which drug is used to treat acute migraine?",
       "options": [
         "Ondansetron",
         "Sumatriptan",
@@ -270,10 +270,10 @@
         "Famotidine"
       ],
       "answer": 1,
-      "explanation": "Sumatriptan ناهض 5-HT1D وهو الخط الأول لعلاج الصداع النصفي الحاد."
+      "explanation": "Sumatriptan is a 5-HT1D agonist and is the first-line treatment for acute migraine."
     },
     {
-      "q": "مريضة تعاني من قيء ناتج عن جلسة كيموثيرابي. أي دواء الأنسب؟",
+      "q": "A patient has vomiting caused by a chemotherapy session. Which drug is most appropriate?",
       "options": [
         "Sumatriptan",
         "Diphenhydramine",
@@ -281,21 +281,21 @@
         "Cimetidine"
       ],
       "answer": 2,
-      "explanation": "Ondansetron حاصر 5-HT3 المعتمد لمنع القيء الناتج عن العلاج الكيميائي (CINV)."
+      "explanation": "Ondansetron is a 5-HT3 blocker approved to prevent chemotherapy-induced nausea and vomiting (CINV)."
     },
     {
-      "q": "ما الآثار الجانبية المرتبطة بحاصرات H1 الجيل الأول (وليس الثاني)؟",
+      "q": "What side effects are associated with first-generation H1 blockers (but not second generation)?",
       "options": [
-        "جفاف الفم وتسرع القلب",
-        "تسرع القلب فقط",
-        "لا آثار جانبية",
-        "خفض ضغط الدم فقط"
+        "Dry mouth and tachycardia",
+        "Tachycardia only",
+        "No side effects",
+        "Lowering of blood pressure only"
       ],
       "answer": 0,
-      "explanation": "الجيل الأول غير انتقائي: يحصر مستقبلات الكولين والأدرينالين مسببًا جفاف الفم، تسرع القلب، احتباس البول."
+      "explanation": "First generation is non-selective: it blocks cholinergic and adrenergic receptors, causing dry mouth, tachycardia, and urinary retention."
     },
     {
-      "q": "ما مستقبل الهيستامين المسؤول عن الحكة والتوسع الوعائي؟",
+      "q": "Which histamine receptor is responsible for itching and vasodilation?",
       "options": [
         "H2",
         "H1",
@@ -303,75 +303,75 @@
         "H4"
       ],
       "answer": 1,
-      "explanation": "H1 مسؤول عن توسع الأوعية، تضيق الشعب، الحكة، واليقظة."
+      "explanation": "H1 is responsible for vasodilation, bronchoconstriction, itching, and wakefulness."
     },
     {
-      "q": "أي مما يلي صحيح عن Famotidine مقارنة بـ Cimetidine؟",
+      "q": "Which of the following is true about Famotidine compared to Cimetidine?",
       "options": [
-        "أضعف وأقصر مفعولًا",
-        "لا يثبط إنزيمات الكبد وأقوى مفعولًا",
-        "يسبب تثديًا",
-        "يزيد من مستوى Warfarin"
+        "Weaker and shorter acting",
+        "Does not inhibit hepatic enzymes and is more potent",
+        "Causes gynecomastia",
+        "Increases Warfarin levels"
       ],
       "answer": 1,
-      "explanation": "Famotidine أقوى وأطول مفعولًا من Cimetidine ولا يثبط P450 ولا يسبب تأثيرات أندروجينية."
+      "explanation": "Famotidine is more potent and longer acting than Cimetidine, does not inhibit P450, and does not cause androgenic effects."
     },
     {
-      "q": "أين يتواجد السيروتونين بأعلى تركيز في الجسم؟",
+      "q": "Where is serotonin found in the highest concentration in the body?",
       "options": [
-        "الدماغ",
-        "الصفائح الدموية",
-        "خلايا الغشاء المعوي في الجهاز الهضمي",
-        "الكبد"
+        "The brain",
+        "Platelets",
+        "Enterochromaffin cells of the GI tract",
+        "The liver"
       ],
       "answer": 2,
-      "explanation": "90% من سيروتونين الجسم في خلايا enterochromaffin في الجهاز الهضمي."
+      "explanation": "90% of the body's serotonin is in the enterochromaffin cells of the GI tract."
     },
     {
-      "q": "لماذا يُستخدم Diphenhydramine كحبة منومة؟",
+      "q": "Why is Diphenhydramine used as a sleeping aid?",
       "options": [
-        "يثبط الدوبامين",
-        "يعبر BBB ويسبب النعاس",
-        "ينشط السيروتونين",
-        "يحصر H2"
+        "It inhibits dopamine",
+        "It crosses the BBB and causes sedation",
+        "It activates serotonin",
+        "It blocks H2"
       ],
       "answer": 1,
-      "explanation": "Diphenhydramine يعبر الحاجز الدموي الدماغي ويسبب النعاس بسبب حصار H1 المركزي، لذا يُستخدم كمنوم."
+      "explanation": "Diphenhydramine crosses the blood-brain barrier and causes sedation due to central H1 blockade, so it is used as a hypnotic."
     },
     {
-      "q": "الخلية الرئيسية المُفرزة للهستامين في الأنسجة:",
+      "q": "The main cell that secretes histamine in tissues:",
       "options": [
-        "العدلات",
-        "الخلايا البدينة",
-        "الصفائح",
-        "اللمفاويات"
+        "Neutrophils",
+        "Mast cells",
+        "Platelets",
+        "Lymphocytes"
       ],
       "answer": 1,
-      "explanation": "Mast cells في الأنسجة.",
+      "explanation": "Mast cells in tissues.",
       "difficulty": "medium"
     },
     {
-      "q": "مضادات H1 من الجيل الأول تسبب النعاس لأنها:",
+      "q": "First-generation H1 antagonists cause sedation because they:",
       "options": [
-        "لا تعبر BBB",
-        "تعبر BBB",
-        "تحصر H2",
-        "ناهضة"
+        "Do not cross the BBB",
+        "Cross the BBB",
+        "Block H2",
+        "Are agonists"
       ],
       "answer": 1,
-      "explanation": "عبورها للحاجز الدموي الدماغي يسبب التهدئة.",
+      "explanation": "Their crossing of the blood-brain barrier causes sedation.",
       "difficulty": "medium"
     },
     {
-      "q": "Ondansetron يُستخدم كـ:",
+      "q": "Ondansetron is used as:",
       "options": [
-        "مضاد هستامين",
-        "مضاد 5-HT3 للقيء",
-        "ناهض 5-HT1",
-        "مضاد H2"
+        "An antihistamine",
+        "A 5-HT3 antagonist for vomiting",
+        "A 5-HT1 agonist",
+        "An H2 antagonist"
       ],
       "answer": 1,
-      "explanation": "حاصر 5-HT3 مضاد للقيء.",
+      "explanation": "A 5-HT3 blocker used as an antiemetic.",
       "difficulty": "medium"
     }
   ]

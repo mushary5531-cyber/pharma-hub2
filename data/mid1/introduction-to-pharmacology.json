@@ -90,104 +90,104 @@
   ],
   "flashcards": [
     {
-      "front": "ما تعريف Pharmacology؟",
-      "back": "دراسة الأدوية وكيفية تفاعلها مع الخلايا الحية"
+      "front": "What is the definition of Pharmacology?",
+      "back": "The study of drugs and how they interact with living cells"
     },
     {
-      "front": "ما الفرق بين Pharmacokinetics و Pharmacodynamics؟",
-      "back": "PK = ما يفعله الجسم بالدواء (ADME)\nPD = ما يفعله الدواء بالجسم (التأثيرات وآليات العمل)"
+      "front": "What is the difference between Pharmacokinetics and Pharmacodynamics?",
+      "back": "PK = what the body does to the drug (ADME)\nPD = what the drug does to the body (effects and mechanisms of action)"
     },
     {
-      "front": "ما هي خطوات ADME؟",
+      "front": "What are the steps of ADME?",
       "back": "Absorption - Distribution - Metabolism - Excretion"
     },
     {
-      "front": "ما الاستخدامات الرئيسية للأدوية؟",
-      "back": "1. Symptomatic (تخفيف الأعراض)\n2. Preventative (وقائي)\n3. Diagnostic (تشخيصي)\n4. Curative (علاجي)\n5. Health Maintenance (صيانة الصحة)"
+      "front": "What are the main uses of drugs?",
+      "back": "1. Symptomatic (relief of symptoms)\n2. Preventative (prophylactic)\n3. Diagnostic\n4. Curative (therapeutic)\n5. Health Maintenance"
     },
     {
-      "front": "ما الفرق بين التصنيف العلاجي والتصنيف الفارماكولوجي للأدوية؟",
-      "back": "Therapeutic: حسب التأثير السريري (مثل Anticoagulants)\nPharmacologic: أكثر تحديداً، حسب آلية العمل الجزيئية (مثل ACE inhibitors)"
+      "front": "What is the difference between the therapeutic and pharmacologic classification of drugs?",
+      "back": "Therapeutic: based on the clinical effect (e.g., Anticoagulants)\nPharmacologic: more specific, based on the molecular mechanism of action (e.g., ACE inhibitors)"
     },
     {
-      "front": "كم مرحلة للتجارب السريرية وما عدد المشاركين في كل مرحلة؟",
-      "back": "Phase I: 20-100 متطوع سليم (Safety)\nPhase II: مئات المرضى (Efficacy)\nPhase III: مئات-آلاف المرضى (Confirmatory)\nPhase IV: بعد الموافقة (Post-marketing)"
+      "front": "How many phases are there in clinical trials and how many participants are in each phase?",
+      "back": "Phase I: 20-100 healthy volunteers (Safety)\nPhase II: hundreds of patients (Efficacy)\nPhase III: hundreds to thousands of patients (Confirmatory)\nPhase IV: after approval (Post-marketing)"
     },
     {
-      "front": "ما مصادر الأدوية الثلاثة الرئيسية؟",
-      "back": "1. Natural (طبيعي): عضوي (نباتات، حيوانات، كائنات دقيقة) أو غير عضوي (معادن)\n2. Synthetic (تخليقي): كيميائي أو بيولوجي (Recombinant DNA)\n3. Semisynthetic (شبه تخليقي): مثل مشتقات Morphine"
+      "front": "What are the three main sources of drugs?",
+      "back": "1. Natural: organic (plants, animals, micro-organisms) or inorganic (minerals)\n2. Synthetic: chemical or biological (Recombinant DNA)\n3. Semisynthetic: such as Morphine derivatives"
     },
     {
-      "front": "ما أنواع أسماء الأدوية؟ أعطِ مثالاً على كل نوع.",
+      "front": "What are the types of drug names? Give an example of each.",
       "back": "1. Chemical name: Acetylsalicylic acid\n2. Generic (nonproprietary) name: Aspirin\n3. Trade/Brand name: Jusparin, Aspocid"
     },
     {
-      "front": "لماذا يُفضَّل الاسم الجنيسي (Generic) عند الوصف؟",
-      "back": "يعطي المريض خيارات أكثر ويقلل التكلفة"
+      "front": "Why is the generic name preferred when prescribing?",
+      "back": "It gives the patient more options and reduces cost"
     },
     {
-      "front": "ما تعريف Bioavailability؟",
-      "back": "القدرة الفسيولوجية للدواء للوصول إلى خلاياه المستهدفة وإنتاج تأثيره"
+      "front": "What is the definition of Bioavailability?",
+      "back": "The physiological ability of a drug to reach its target cells and produce its effect"
     },
     {
-      "front": "متى يُعتبر دوائان Bioequivalent؟",
-      "back": "عندما يُظهران توافراً حيوياً مماثلاً ووقتاً مشابهاً للوصول لذروة التركيز في الدم"
+      "front": "When are two drugs considered bioequivalent?",
+      "back": "When they show comparable bioavailability and a similar time to reach peak blood concentration"
     },
     {
-      "front": "ما تصنيف Category X في الحمل؟",
-      "back": "تشوهات مطلقة للجنين - منع مطلق للاستخدام (Absolute CONTRAINDICATION)"
+      "front": "What is Category X classification in pregnancy?",
+      "back": "Absolute fetal abnormalities - absolute contraindication for use (Absolute CONTRAINDICATION)"
     },
     {
-      "front": "ما تصنيف Category A في الحمل؟",
-      "back": "لم يُثبت أي خطر على الجنين في أي ثلاثية"
+      "front": "What is Category A classification in pregnancy?",
+      "back": "No risk to the fetus has been demonstrated in any trimester"
     },
     {
-      "front": "ما Bizarre adverse effect؟ ومثال عليه؟",
-      "back": "تأثير جانبي غير مرتبط بالجرعة - مثل تفاعلات فرط الحساسية (Hypersensitivity) والتفاعلات الخاصة بالفرد (Idiosyncratic)"
+      "front": "What is a Bizarre adverse effect? Give an example.",
+      "back": "An adverse effect that is not dose-dependent - such as hypersensitivity reactions and idiosyncratic reactions"
     },
     {
-      "front": "كم سنة يستغرق تطوير دواء جديد وكم يكلف؟",
-      "back": "12-15 سنة وتكلف مليارات الدولارات"
+      "front": "How many years does it take to develop a new drug and how much does it cost?",
+      "back": "12-15 years and costs billions of dollars"
     },
     {
-      "front": "ما الهدف العلاجي الأساسي (Therapeutic Goal) من الدواء؟",
-      "back": "تحقيق تراكيز الدواء في الموقع المستهدف تنتج التأثير المطلوب مع أدنى أو بلا آثار جانبية"
+      "front": "What is the main therapeutic goal of a drug?",
+      "back": "To achieve drug concentrations at the target site that produce the desired effect with minimal or no adverse effects"
     },
     {
-      "front": "ما Pharmacogenetics؟",
-      "back": "دراسة كيف يغير الجينوم استجابة الجسم للأدوية"
+      "front": "What is Pharmacogenetics?",
+      "back": "The study of how the genome alters the body's response to drugs"
     },
     {
-      "front": "ما Controlled Substances Category I؟",
-      "back": "أدوية بإمكانية إدمان عالية وبلا استخدام طبي معتمد"
+      "front": "What is Controlled Substances Category I?",
+      "back": "Drugs with high abuse potential and no accepted medical use"
     },
     {
-      "front": "عرّف Pharmacology",
-      "back": "علم دراسة الأدوية وكيفية تفاعلها مع الخلايا الحية."
+      "front": "Define Pharmacology",
+      "back": "The science of studying drugs and how they interact with living cells."
     },
     {
-      "front": "عرّف Drug",
-      "back": "أي مادة كيميائية تُحدث تغيّراً في الوظيفة الحيوية عبر فعلها الكيميائي."
+      "front": "Define Drug",
+      "back": "Any chemical substance that produces a change in a biological function through its chemical action."
     },
     {
-      "front": "ما هو Pharmacotherapeutics؟",
-      "back": "دراسة الاستخدام السريري للأدوية لعلاج الأمراض."
+      "front": "What is Pharmacotherapeutics?",
+      "back": "The study of the clinical use of drugs to treat diseases."
     },
     {
-      "front": "ما هو Pharmacogenetics؟",
-      "back": "دراسة كيف تُغيّر الجينات استجابة الفرد للأدوية."
+      "front": "What is Pharmacogenetics?",
+      "back": "The study of how genes alter an individual's response to drugs."
     },
     {
-      "front": "ما هو Pharmacoeconomics؟",
-      "back": "دراسة فعالية تكلفة العلاج الدوائي (cost-effectiveness)."
+      "front": "What is Pharmacoeconomics?",
+      "back": "The study of the cost-effectiveness of drug therapy."
     },
     {
-      "front": "ما هو Pharmacoepidemiology؟",
-      "back": "دراسة تأثير الأدوية على مستوى المجتمعات/السكان."
+      "front": "What is Pharmacoepidemiology?",
+      "back": "The study of the effects of drugs at the level of communities/populations."
     },
     {
-      "front": "اذكر مصادر الأدوية",
-      "back": "نباتية، حيوانية، معدنية، تخليقية (synthetic)، وهندسة حيوية (biotechnology)."
+      "front": "List the sources of drugs",
+      "back": "Plant, animal, mineral, synthetic, and biotechnology sources."
     }
   ],
   "mcqs": [
@@ -200,7 +200,7 @@
         "The study of drug interactions"
       ],
       "answer": 1,
-      "explanation": "PK = ما يفعله الجسم بالدواء، ويشمل ADME. أما PD فهو ما يفعله الدواء بالجسم."
+      "explanation": "PK = what the body does to the drug, and it includes ADME. PD is what the drug does to the body."
     },
     {
       "q": "Which phase of clinical trials involves 20-100 healthy volunteers and primarily assesses safety?",
@@ -211,7 +211,7 @@
         "Phase IV"
       ],
       "answer": 2,
-      "explanation": "Phase I يشمل 20-100 متطوع سليم ويقيّم السلامة والتحمل والحركية الدوائية الأساسية."
+      "explanation": "Phase I involves 20-100 healthy volunteers and assesses safety, tolerability, and basic pharmacokinetics."
     },
     {
       "q": "A drug classified as Category X in pregnancy means:",
@@ -222,7 +222,7 @@
         "Absolute contraindication due to fetal abnormalities"
       ],
       "answer": 3,
-      "explanation": "Category X = تشوهات جنينية مطلقة ومنع مطلق للاستخدام أثناء الحمل."
+      "explanation": "Category X = absolute fetal abnormalities and an absolute contraindication for use during pregnancy."
     },
     {
       "q": "Human insulin produced by recombinant DNA technology is an example of which drug source?",
@@ -233,7 +233,7 @@
         "Semisynthetic"
       ],
       "answer": 2,
-      "explanation": "التخليق البيولوجي باستخدام تقنية Recombinant DNA يُصنَّف ضمن Synthetic biological."
+      "explanation": "Biological synthesis using Recombinant DNA technology is classified as Synthetic biological."
     },
     {
       "q": "Post-marketing surveillance (Phase IV) is mainly conducted to:",
@@ -244,7 +244,7 @@
         "Determine the therapeutic dose range"
       ],
       "answer": 2,
-      "explanation": "Phase IV يُجرى بعد الموافقة الرسمية للكشف عن الآثار النادرة أو طويلة الأمد وتقييم الفاعلية في الواقع الفعلي."
+      "explanation": "Phase IV is conducted after official approval to detect rare or long-term adverse effects and to assess real-world effectiveness."
     },
     {
       "q": "Which adverse effect type is dose-dependent and represents an extension of the pharmacological effect?",
@@ -255,7 +255,7 @@
         "Iatrogenic"
       ],
       "answer": 1,
-      "explanation": "Augmented = تضخيم الأثر الفارماكولوجي الطبيعي وهو مرتبط بالجرعة (dose-dependent)."
+      "explanation": "Augmented = an exaggeration of the normal pharmacological effect and is dose-dependent."
     },
     {
       "q": "Two drugs are considered bioequivalent when they have:",
@@ -266,7 +266,7 @@
         "The same manufacturer"
       ],
       "answer": 1,
-      "explanation": "التكافؤ الحيوي يعني توافراً حيوياً مشابهاً وأوقاتاً مشابهة لبلوغ ذروة التركيز في الدم، مع نفس المادة الفعالة والجرعة."
+      "explanation": "Bioequivalence means comparable bioavailability and similar times to reach peak blood concentration, with the same active ingredient and dose."
     },
     {
       "q": "Pharmacogenetics studies:",
@@ -277,7 +277,7 @@
         "Long-term drug toxicity"
       ],
       "answer": 2,
-      "explanation": "Pharmacogenetics = دراسة كيف تؤثر الجينات على استجابة الجسم للأدوية."
+      "explanation": "Pharmacogenetics = the study of how genetics affects the body's response to drugs."
     },
     {
       "q": "Which of the following is a diagnostic use of drugs?",
@@ -288,7 +288,7 @@
         "Hepatitis B vaccine"
       ],
       "answer": 2,
-      "explanation": "الاستخدام التشخيصي يستهدف تحديد وجود المرض، مثل الأصباغ المشعة (Radioactive dyes). أما Aspirin = Symptomatic، المضادات الحيوية = Curative، اللقاح = Preventative."
+      "explanation": "Diagnostic use aims to determine the presence of disease, such as radioactive dyes. Aspirin = Symptomatic, antibiotics = Curative, vaccine = Preventative."
     },
     {
       "q": "Teratogenicity and carcinogenicity are classified as which type of adverse drug reaction?",
@@ -299,10 +299,10 @@
         "Delayed"
       ],
       "answer": 3,
-      "explanation": "Teratogenicity (تشوهات جنينية) و Carcinogenicity (تسرطن) كلاهما تأثيرات متأخرة = Delayed adverse effects."
+      "explanation": "Teratogenicity and carcinogenicity are both delayed effects = Delayed adverse effects."
     },
     {
-      "q": "استخدام Aspirin لتخفيف الألم يُعد استخداماً:",
+      "q": "Using Aspirin to relieve pain is considered which type of use?",
       "options": [
         "Curative",
         "Symptomatic",
@@ -310,11 +310,11 @@
         "Diagnostic"
       ],
       "answer": 1,
-      "explanation": "تخفيف العرض دون إزالة السبب = Symptomatic.",
+      "explanation": "Relieving the symptom without removing the cause = Symptomatic.",
       "difficulty": "medium"
     },
     {
-      "q": "'ما يفعله الجسم بالدواء' يصف:",
+      "q": "'What the body does to the drug' describes:",
       "options": [
         "Pharmacodynamics",
         "Pharmacokinetics",
@@ -322,11 +322,11 @@
         "Pharmacoeconomics"
       ],
       "answer": 1,
-      "explanation": "PK = ADME = ما يفعله الجسم بالدواء.",
+      "explanation": "PK = ADME = what the body does to the drug.",
       "difficulty": "medium"
     },
     {
-      "q": "لقاح التهاب الكبد B مثال على استخدام:",
+      "q": "The Hepatitis B vaccine is an example of which use?",
       "options": [
         "Symptomatic",
         "Curative",
@@ -334,7 +334,7 @@
         "Diagnostic"
       ],
       "answer": 2,
-      "explanation": "اللقاحات وقائية (Preventive).",
+      "explanation": "Vaccines are preventive (Preventive).",
       "difficulty": "medium"
     }
   ]

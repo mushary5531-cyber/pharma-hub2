@@ -113,110 +113,110 @@
   ],
   "flashcards": [
     {
-      "front": "ما معنى كلمة Eicosanoids؟",
-      "back": "Eicosa = 20 باليونانية، مشتقات الأحماض الدهنية ذات 20 كربونًا من حمض الأراكيدونيك"
+      "front": "What does the word Eicosanoids mean?",
+      "back": "Eicosa = 20 in Greek; they are 20-carbon fatty acid derivatives of arachidonic acid"
     },
     {
-      "front": "ما المسارين الرئيسيين لتحويل حمض الأراكيدونيك؟",
-      "back": "Cyclooxygenase (COX) → PG + TXA2، و5-Lipoxygenase (LOX) → Leukotrienes"
+      "front": "What are the two main pathways for converting arachidonic acid?",
+      "back": "Cyclooxygenase (COX) → PG + TXA2, and 5-Lipoxygenase (LOX) → Leukotrienes"
     },
     {
-      "front": "أي إنزيم يثبطه NSAIDs؟",
-      "back": "Cyclooxygenase (COX-1 وCOX-2)"
+      "front": "Which enzyme do NSAIDs inhibit?",
+      "back": "Cyclooxygenase (COX-1 and COX-2)"
     },
     {
-      "front": "أي دواء يثبط Phospholipase A2 ويمنع كلا المسارين؟",
-      "back": "Corticosteroids (الكورتيزون)"
+      "front": "Which drug inhibits Phospholipase A2 and blocks both pathways?",
+      "back": "Corticosteroids"
     },
     {
-      "front": "ما تأثير PGI2 على الصفائح الدموية؟",
-      "back": "يثبط تجمع الصفائح (مضاد تخثر)"
+      "front": "What is the effect of PGI2 on platelets?",
+      "back": "Inhibits platelet aggregation (anticoagulant)"
     },
     {
-      "front": "ما تأثير TXA2 على الصفائح الدموية؟",
-      "back": "يُحرض تجمع الصفائح (مُخثر)"
+      "front": "What is the effect of TXA2 on platelets?",
+      "back": "Induces platelet aggregation (procoagulant)"
     },
     {
-      "front": "ما الفرق بين PGE وPGF في الرحم؟",
-      "back": "PGF يُقلص الرحم بشكل أقوى، PGE يُقلصه بجرعات منخفضة ويُرخيه بجرعات عالية"
+      "front": "What is the difference between PGE and PGF in the uterus?",
+      "back": "PGF contracts the uterus more strongly; PGE contracts it at low doses and relaxes it at high doses"
     },
     {
-      "front": "ما استخدام Misoprostol مع NSAIDs؟",
-      "back": "حماية الغشاء المخاطي للمعدة من تأثير NSAIDs (يقلل الحمض ويزيد المخاط)"
+      "front": "What is the use of Misoprostol with NSAIDs?",
+      "back": "Protects the gastric mucosa from the effects of NSAIDs (reduces acid and increases mucus)"
     },
     {
-      "front": "ما الدواء المستخدم لعلاج ارتفاع ضغط الدم الرئوي الأولي؟",
-      "back": "Epoprostenol (PGI2) لأنه يُوسع الأوعية الرئوية"
+      "front": "Which drug is used to treat primary pulmonary hypertension?",
+      "back": "Epoprostenol (PGI2) because it dilates the pulmonary vessels"
     },
     {
-      "front": "ما اللوكوترينات المسببة للربو؟",
-      "back": "Cysteinyl leukotrienes: LTC4, LTD4, LTE4 (تُسمى SRS-A)"
+      "front": "Which leukotrienes cause asthma?",
+      "back": "Cysteinyl leukotrienes: LTC4, LTD4, LTE4 (called SRS-A)"
     },
     {
-      "front": "ما آلية عمل Montelukast؟",
-      "back": "يحصر مستقبلات اللوكوترين (CysLT1) مما يمنع تضيق الشعب الهوائية"
+      "front": "What is the mechanism of action of Montelukast?",
+      "back": "Blocks leukotriene receptors (CysLT1), preventing bronchoconstriction"
     },
     {
-      "front": "ما Bradykinin وكيف يتكون؟",
-      "back": "ببتيد مُوسِّع للأوعية يتكون من Kininogen بفعل Kallikrein، يُحللُه ACE"
+      "front": "What is Bradykinin and how is it formed?",
+      "back": "A vasodilator peptide formed from Kininogen by Kallikrein; degraded by ACE"
     },
     {
-      "front": "لماذا يسبب ACE Inhibitors سعالًا جافًا؟",
-      "back": "لأن ACE يُحلل Bradykinin عادةً، فعند تثبيطه يتراكم Bradykinin ويُهيج مستقبلات السعال"
+      "front": "Why do ACE Inhibitors cause a dry cough?",
+      "back": "Because ACE normally degrades Bradykinin; when inhibited, Bradykinin accumulates and irritates cough receptors"
     },
     {
-      "front": "ما استخدام Latanoprost؟",
-      "back": "قطرة عين لعلاج الجلوكوما (مناظير PGF2α)، يزيد تصريف السائل المائي"
+      "front": "What is the use of Latanoprost?",
+      "back": "Eye drops for treating glaucoma (a PGF2α analog); increases aqueous humor outflow"
     },
     {
-      "front": "ما دور اللوكوترين LTB4؟",
-      "back": "يجذب العدلات ويُحرض الالتهاب"
+      "front": "What is the role of leukotriene LTB4?",
+      "back": "Attracts neutrophils and induces inflammation"
     },
     {
-      "front": "ما دور Aprotinin؟",
-      "back": "مثبط Kallikrein يقلل تكوين Bradykinin، يُقلل النزيف في الجراحة الكبرى"
+      "front": "What is the role of Aprotinin?",
+      "back": "A Kallikrein inhibitor that reduces Bradykinin formation; reduces bleeding in major surgery"
     },
     {
-      "front": "ما دور البروستاجلاندين في التوليد؟",
-      "back": "يُحرض انقباضات الرحم، يُستخدم لتحريض الطلق وإنهاء الحمل"
+      "front": "What is the role of prostaglandins in obstetrics?",
+      "back": "Induce uterine contractions; used for labor induction and termination of pregnancy"
     },
     {
-      "front": "ما دور PGE2 في القناة الشريانية عند الجنين؟",
-      "back": "يحافظ على انفتاحها (Patent Ductus Arteriosus)"
+      "front": "What is the role of PGE2 in the fetal ductus arteriosus?",
+      "back": "Maintains its patency (Patent Ductus Arteriosus)"
     },
     {
-      "front": "ما مصدر الإيكوزانويدات؟",
-      "back": "حمض الأراكيدونيك من فوسفوليبيدات الغشاء عبر مسار COX (بروستاغلاندينات/ثرومبوكسان) أو LOX (لوكوترايينات).",
+      "front": "What is the source of eicosanoids?",
+      "back": "Arachidonic acid from membrane phospholipids via the COX pathway (prostaglandins/thromboxane) or the LOX pathway (leukotrienes).",
       "tag": "high-yield"
     },
     {
-      "front": "ما وظيفة Thromboxane A2؟",
-      "back": "تقبّض وعائي وتجميع الصفائح (من الصفائح عبر COX-1)."
+      "front": "What is the function of Thromboxane A2?",
+      "back": "Vasoconstriction and platelet aggregation (from platelets via COX-1)."
     },
     {
-      "front": "ما وظيفة Prostacyclin (PGI2)؟",
-      "back": "توسّع وعائي ومنع تجميع الصفائح (من البطانة الوعائية)."
+      "front": "What is the function of Prostacyclin (PGI2)?",
+      "back": "Vasodilation and inhibition of platelet aggregation (from vascular endothelium)."
     },
     {
-      "front": "ما استخدام Misoprostol؟",
-      "back": "نظير PGE1 يحمي المعدة من قرحة NSAIDs ويُستخدم في التوليد."
+      "front": "What is the use of Misoprostol?",
+      "back": "A PGE1 analog that protects the stomach from NSAID-induced ulcers and is used in obstetrics."
     },
     {
-      "front": "ما آلية Montelukast/Zafirlukast؟",
-      "back": "حاصرات مستقبل اللوكوترايين - وقاية الربو."
+      "front": "What is the mechanism of Montelukast/Zafirlukast?",
+      "back": "Leukotriene receptor antagonists - asthma prophylaxis."
     },
     {
-      "front": "ما آلية Zileuton؟",
-      "back": "مثبّط إنزيم 5-lipoxygenase → يقلل تخليق اللوكوترايينات."
+      "front": "What is the mechanism of Zileuton?",
+      "back": "5-lipoxygenase enzyme inhibitor → reduces leukotriene synthesis."
     },
     {
-      "front": "ما هي الكينينات (Bradykinin)؟",
-      "back": "ببتيدات موضعية موسّعة للأوعية تسبب الألم وزيادة النفاذية؛ يحطمها ACE (kininase II)."
+      "front": "What are the kinins (Bradykinin)?",
+      "back": "Local vasodilator peptides that cause pain and increased permeability; degraded by ACE (kininase II)."
     }
   ],
   "mcqs": [
     {
-      "q": "مريض يتناول NSAIDs بشكل مزمن لآلام المفاصل. أي دواء يُعطى لحماية معدته؟",
+      "q": "A patient chronically takes NSAIDs for joint pain. Which drug is given to protect his stomach?",
       "options": [
         "Dinoprostone",
         "Misoprostol",
@@ -224,10 +224,10 @@
         "Carboprost"
       ],
       "answer": 1,
-      "explanation": "Misoprostol (PGE1 الاصطناعي) يُقلل إفراز الحمض ويزيد المخاط الواقي للمعدة، مثالي مع NSAIDs."
+      "explanation": "Misoprostol (synthetic PGE1) reduces acid secretion and increases protective gastric mucus, making it ideal with NSAIDs."
     },
     {
-      "q": "ما الدواء المستخدم لعلاج ضعف الانتصاب من خلال توسع الأوعية الدموية المحلية؟",
+      "q": "Which drug is used to treat erectile dysfunction through local vasodilation?",
       "options": [
         "Epoprostenol",
         "Alprostadil",
@@ -235,21 +235,21 @@
         "Montelukast"
       ],
       "answer": 1,
-      "explanation": "Alprostadil (PGE1) يُوسع الأوعية الدموية في الجسم الكهفي ويُرخي العضلات الملساء."
+      "explanation": "Alprostadil (PGE1) dilates the blood vessels in the corpus cavernosum and relaxes smooth muscle."
     },
     {
-      "q": "أي المسارات تثبطه Corticosteroids؟",
+      "q": "Which pathway(s) do Corticosteroids inhibit?",
       "options": [
-        "COX فقط",
-        "LOX فقط",
-        "كلا المسارين COX وLOX",
-        "لا شيء"
+        "COX only",
+        "LOX only",
+        "Both the COX and LOX pathways",
+        "None"
       ],
       "answer": 2,
-      "explanation": "الكورتيزون يثبط Phospholipase A2 الذي ينتج حمض الأراكيدونيك الأساسي لكلا المسارين."
+      "explanation": "Corticosteroids inhibit Phospholipase A2, which produces arachidonic acid essential for both pathways."
     },
     {
-      "q": "مريضة مصابة بالربو تحتاج دواءً يثبط تضيق الشعب الهوائية الناتج عن LTC4 وLTD4. ما الدواء؟",
+      "q": "An asthmatic patient needs a drug that inhibits bronchoconstriction caused by LTC4 and LTD4. Which drug?",
       "options": [
         "Zileuton",
         "Montelukast",
@@ -257,32 +257,32 @@
         "Misoprostol"
       ],
       "answer": 1,
-      "explanation": "Montelukast يحصر مستقبلات CysLT1 ويمنع تأثير LTC4, LTD4 على الشعب الهوائية."
+      "explanation": "Montelukast blocks CysLT1 receptors and prevents the effect of LTC4 and LTD4 on the airways."
     },
     {
-      "q": "ما تأثير TXA2 على الأوعية الدموية والصفائح؟",
+      "q": "What is the effect of TXA2 on blood vessels and platelets?",
       "options": [
-        "توسع وعائي وتثبيط الصفائح",
-        "تضيق وعائي وتحريض تجمع الصفائح",
-        "توسع وعائي وتحريض الصفائح",
-        "لا تأثير"
+        "Vasodilation and platelet inhibition",
+        "Vasoconstriction and induction of platelet aggregation",
+        "Vasodilation and platelet induction",
+        "No effect"
       ],
       "answer": 1,
-      "explanation": "TXA2 يُنتج من الصفائح الدموية ويسبب تضيق الأوعية وتحريض تجمع الصفائح (مُخثر)."
+      "explanation": "TXA2 is produced by platelets and causes vasoconstriction and induction of platelet aggregation (procoagulant)."
     },
     {
-      "q": "لماذا يُسبب ACE Inhibitor سعالًا جافًا؟",
+      "q": "Why does an ACE Inhibitor cause a dry cough?",
       "options": [
-        "لأنه يزيد البروستاجلاندين",
-        "لأنه يثبط تحلل Bradykinin فيتراكم ويُهيج مستقبلات السعال",
-        "لأنه يثبط COX",
-        "لأنه يزيد Serotonin"
+        "Because it increases prostaglandins",
+        "Because it inhibits Bradykinin breakdown, so it accumulates and irritates cough receptors",
+        "Because it inhibits COX",
+        "Because it increases Serotonin"
       ],
       "answer": 1,
-      "explanation": "ACE (Kininase II) يُحلل Bradykinin عادةً. ACEIs تمنع هذا فيتراكم Bradykinin ويسبب السعال الجاف."
+      "explanation": "ACE (Kininase II) normally degrades Bradykinin. ACEIs block this, so Bradykinin accumulates and causes the dry cough."
     },
     {
-      "q": "ما الدواء المستخدم للحفاظ على انفتاح القناة الشريانية عند الأطفال المبتسرين؟",
+      "q": "Which drug is used to maintain patency of the ductus arteriosus in premature infants?",
       "options": [
         "Indomethacin",
         "Alprostadil (PGE1)",
@@ -290,10 +290,10 @@
         "Montelukast"
       ],
       "answer": 1,
-      "explanation": "Alprostadil (PGE1) يُبقي القناة الشريانية مفتوحة في الأطفال المبتسرين الذين يحتاجون لذلك."
+      "explanation": "Alprostadil (PGE1) keeps the ductus arteriosus open in premature infants who need it."
     },
     {
-      "q": "أي اللوكوترينات يجذب العدلات ويُحرض الالتهاب؟",
+      "q": "Which leukotriene attracts neutrophils and induces inflammation?",
       "options": [
         "LTC4",
         "LTD4",
@@ -301,64 +301,64 @@
         "LTB4"
       ],
       "answer": 3,
-      "explanation": "LTB4 هو الكيموتاكتيك الرئيسي للعدلات ويُحرض الاستجابة الالتهابية."
+      "explanation": "LTB4 is the main chemotactic agent for neutrophils and induces the inflammatory response."
     },
     {
-      "q": "ما الفرق بين PGF2α وPGE2 في التأثير على الرحم؟",
+      "q": "What is the difference between PGF2α and PGE2 in their effect on the uterus?",
       "options": [
-        "كلاهما يُرخي الرحم",
-        "PGF2α يُقلص الرحم، PGE2 يُقلصه بجرعة منخفضة ويُرخيه بجرعة عالية",
-        "PGE2 فقط يُقلص الرحم",
-        "لا فرق"
+        "Both relax the uterus",
+        "PGF2α contracts the uterus; PGE2 contracts it at low doses and relaxes it at high doses",
+        "Only PGE2 contracts the uterus",
+        "No difference"
       ],
       "answer": 1,
-      "explanation": "PGF2α مُقلص للرحم بشكل قوي. PGE2 له تأثير مزدوج حسب الجرعة والمستقبل."
+      "explanation": "PGF2α is a strong uterine contractor. PGE2 has a dual effect depending on dose and receptor."
     },
     {
-      "q": "ما آلية عمل Zileuton؟",
+      "q": "What is the mechanism of action of Zileuton?",
       "options": [
-        "يحصر مستقبلات اللوكوترين",
-        "يثبط إنزيم 5-Lipoxygenase فيمنع تكوين اللوكوترينات",
-        "يثبط COX-2",
-        "يُنشط PGI2"
+        "Blocks leukotriene receptors",
+        "Inhibits the 5-Lipoxygenase enzyme, preventing leukotriene formation",
+        "Inhibits COX-2",
+        "Activates PGI2"
       ],
       "answer": 1,
-      "explanation": "Zileuton مثبط لإنزيم 5-LOX، يمنع تحويل حمض الأراكيدونيك إلى لوكوترينات."
+      "explanation": "Zileuton is a 5-LOX enzyme inhibitor; it prevents conversion of arachidonic acid into leukotrienes."
     },
     {
-      "q": "Thromboxane A2 يسبب:",
+      "q": "Thromboxane A2 causes:",
       "options": [
-        "توسّع وعائي ومنع التجميع",
-        "تقبّض وعائي وتجميع الصفائح",
-        "إدرار البول",
-        "تثبيط COX"
+        "Vasodilation and inhibition of aggregation",
+        "Vasoconstriction and platelet aggregation",
+        "Diuresis",
+        "COX inhibition"
       ],
       "answer": 1,
-      "explanation": "TXA2 مقبّض وعائي ومجمّع للصفائح.",
+      "explanation": "TXA2 is a vasoconstrictor and platelet aggregator.",
       "difficulty": "medium"
     },
     {
-      "q": "Misoprostol يحمي المعدة لأنه:",
+      "q": "Misoprostol protects the stomach because it is:",
       "options": [
-        "يحصر COX",
-        "نظير PGE1",
-        "حاصر H2",
-        "مضاد لوكوترايين"
+        "A COX blocker",
+        "A PGE1 analog",
+        "An H2 blocker",
+        "A leukotriene antagonist"
       ],
       "answer": 1,
-      "explanation": "نظير بروستاغلاندين يعزز الحماية المخاطية.",
+      "explanation": "A prostaglandin analog that enhances mucosal protection.",
       "difficulty": "medium"
     },
     {
-      "q": "Montelukast يعمل بـ:",
+      "q": "Montelukast works by:",
       "options": [
-        "تثبيط COX",
-        "حصر مستقبل اللوكوترايين",
-        "تثبيط 5-LOX",
-        "حصر H1"
+        "Inhibiting COX",
+        "Blocking the leukotriene receptor",
+        "Inhibiting 5-LOX",
+        "Blocking H1"
       ],
       "answer": 1,
-      "explanation": "حاصر مستقبل اللوكوترايين للوقاية من الربو.",
+      "explanation": "A leukotriene receptor blocker for asthma prophylaxis.",
       "difficulty": "medium"
     }
   ]

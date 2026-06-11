@@ -146,149 +146,149 @@
   ],
   "flashcards": [
     {
-      "front": "كيف يعمل Oseltamivir وZanamivir؟",
-      "back": "يثبطان انزيم Neuraminidase في الانفلونزا A وB مما يمنع خروج الفيروسات الجديدة من الخلية المصابة وانتشارها."
+      "front": "How do Oseltamivir and Zanamivir work?",
+      "back": "They inhibit the Neuraminidase enzyme in influenza A and B, preventing the release of newly formed virions from the infected cell and their spread."
     },
     {
-      "front": "ما الفرق بين Amantadine وRimantadine في الـ CNS effects؟",
-      "back": "Amantadine يخترق BBB فيسبب اثارا مركزية (insomnia, ataxia, convulsions). Rimantadine لا يخترق BBB ولذا اثاره المركزية اقل."
+      "front": "What is the difference between Amantadine and Rimantadine regarding CNS effects?",
+      "back": "Amantadine crosses the BBB, causing central effects (insomnia, ataxia, convulsions). Rimantadine does not cross the BBB, so its central effects are fewer."
     },
     {
-      "front": "لماذا Ribavirin ممنوع في الحمل؟",
-      "back": "لانه ماسخ (teratogenic) وطافر (mutagenic). ايضا يسبب فقر دم انحلالي dose-dependent لانه يتراكم في كريات الدم الحمراء."
+      "front": "Why is Ribavirin contraindicated in pregnancy?",
+      "back": "Because it is teratogenic and mutagenic. It also causes dose-dependent hemolytic anemia because it accumulates in red blood cells."
     },
     {
-      "front": "ما هو DOC لـ HSV encephalitis؟",
-      "back": "Acyclovir IV هو دواء الاختيار لالتهاب دماغ الهيرباس."
+      "front": "What is the DOC for HSV encephalitis?",
+      "back": "IV Acyclovir is the drug of choice for herpes encephalitis."
     },
     {
-      "front": "كيف يعمل Acyclovir بشكل انتقائي ضد الفيروس؟",
-      "back": "يتفعّل فقط بواسطة thymidine kinase الفيروسية الموجودة في الخلايا المصابة بالهيرباس، ثم يثبط viral DNA polymerase ويوقف تمدد DNA."
+      "front": "How does Acyclovir act selectively against the virus?",
+      "back": "It is activated only by viral thymidine kinase found in herpes-infected cells, then it inhibits viral DNA polymerase and halts DNA chain elongation."
     },
     {
-      "front": "ما هي Crystalluria وكيف تمنع مع Acyclovir؟",
-      "back": "ترسب بلورات Acyclovir في الكلى مسببة خلل وظيفي. تمنع بضمان ترطيب كافي وحقن IV بطيء."
+      "front": "What is crystalluria and how is it prevented with Acyclovir?",
+      "back": "Precipitation of Acyclovir crystals in the kidney causing renal dysfunction. It is prevented by ensuring adequate hydration and slow IV infusion."
     },
     {
-      "front": "ما هو DOC لـ CMV في المرضى ذوي المناعة المنخفضة؟",
-      "back": "Ganciclovir (IV) للـ CMV pneumonia وretinitis في immunocompromised. ايضا يستخدم وقائيا في زرع الاعضاء."
+      "front": "What is the DOC for CMV in immunocompromised patients?",
+      "back": "Ganciclovir (IV) for CMV pneumonia and retinitis in the immunocompromised. It is also used prophylactically in organ transplantation."
     },
     {
-      "front": "ما هو اهم اثر جانبي لـ Ganciclovir؟",
-      "back": "Myelosuppression (خاصة neutropenia). تزداد عند الدمج مع Zidovudine او Azathioprine."
+      "front": "What is the most important side effect of Ganciclovir?",
+      "back": "Myelosuppression (especially neutropenia). It increases when combined with Zidovudine or Azathioprine."
     },
     {
-      "front": "كيف يعمل Interferon كدواء مضاد للفيروسات؟",
-      "back": "يحث على تصنيع انزيمات في الخلية المضيفة تثبط ترجمة mRNA الفيروسي الى بروتينات وتوقف تكاثر الفيروس."
+      "front": "How does Interferon work as an antiviral drug?",
+      "back": "It induces the synthesis of enzymes in the host cell that inhibit translation of viral mRNA into proteins and halt viral replication."
     },
     {
-      "front": "ما هو HAART وما تركيبته؟",
-      "back": "Highly Active Antiretroviral Therapy: يجمع عادة NRTI + NRTI مع NNRTI او Protease Inhibitor. يحقق قمعا فيروسيا عميقا واستعادة المناعة."
+      "front": "What is HAART and what is its composition?",
+      "back": "Highly Active Antiretroviral Therapy: it usually combines NRTI + NRTI with an NNRTI or a Protease Inhibitor. It achieves deep viral suppression and immune restoration."
     },
     {
-      "front": "كيف تعمل NRTIs؟",
-      "back": "تتفسفر الى triphosphate يثبط HIV reverse transcriptase تنافسيا وينهي تمدد سلسلة DNA الفيروسية."
+      "front": "How do NRTIs work?",
+      "back": "They are phosphorylated to a triphosphate that competitively inhibits HIV reverse transcriptase and terminates elongation of the viral DNA chain."
     },
     {
-      "front": "ما هي الاثار الجانبية المشتركة للـ NRTIs؟",
-      "back": "معظمها (ما عدا Lamivudine وAbacavir) قد يسبب lactic acidosis وتضخم كبد (hepatomegaly) قاتل."
+      "front": "What are the common side effects of NRTIs?",
+      "back": "Most of them (except Lamivudine and Abacavir) may cause lactic acidosis and fatal hepatomegaly."
     },
     {
-      "front": "ما هو استخدام Zidovudine في الحمل؟",
-      "back": "يعطى للام الحامل اثناء الوضع ولحديث المولود 3 ايام لمنع انتقال HIV من الام للطفل (perinatal transmission)."
+      "front": "What is the use of Zidovudine in pregnancy?",
+      "back": "It is given to the pregnant mother during labor and to the newborn for 3 days to prevent mother-to-child transmission of HIV (perinatal transmission)."
     },
     {
-      "front": "ما هو خطر Nevirapine الرئيسي؟",
-      "back": "Stevens-Johnson syndrome وToxic Epidermal Necrolysis. ينصح بزيادة الجرعة تدريجيا خلال 14 يوما. ايضا hepatotoxicity قاتل."
+      "front": "What is the main risk of Nevirapine?",
+      "back": "Stevens-Johnson syndrome and Toxic Epidermal Necrolysis. Gradual dose escalation over 14 days is advised. Also fatal hepatotoxicity."
     },
     {
-      "front": "لماذا يستخدم Ritonavir بجرعة صغيرة مع PI اخر؟",
-      "back": "Ritonavir مثبط قوي لـ CYP3A مما يرفع مستوى الـ PI الاخر ويطيل فترة فاعليته ويقلل مقاومته - يسمى pharmacokinetic booster."
+      "front": "Why is Ritonavir used in a small dose with another PI?",
+      "back": "Ritonavir is a potent inhibitor of CYP3A, which raises the level of the other PI, prolongs its duration of effect, and reduces resistance - this is called a pharmacokinetic booster."
     },
     {
-      "front": "كيف يعمل Enfuvirtide؟",
-      "back": "Fusion inhibitor يمنع HIV من الاندماج مع غشاء الخلية المضيفة ودخولها. يعطى SC."
+      "front": "How does Enfuvirtide work?",
+      "back": "A fusion inhibitor that prevents HIV from fusing with and entering the host cell membrane. It is given SC."
     },
     {
-      "front": "ما هو الاثر الجانبي المميز لـ Protease Inhibitors؟",
-      "back": "اضطرابات GI، ارتفاع Triglycerides وLDL، مقاومة الانسولين، اعادة توزيع الدهون (Cushingoid appearance). تفاعلات دوائية خطيرة عبر CYP."
+      "front": "What is the characteristic side effect of Protease Inhibitors?",
+      "back": "GI disturbances, elevated triglycerides and LDL, insulin resistance, and fat redistribution (Cushingoid appearance). Serious drug interactions via CYP."
     },
     {
-      "front": "ما الفرق بين NRTIs وNNRTIs في آلية العمل؟",
-      "back": "NRTIs تحتاج تفسفر لتفعيلها وتثبط RT تنافسيا. NNRTIs لا تحتاج تفسفر وترتبط مباشرة بموقع قريب من RT. لا مقاومة متقاطعة بينهما."
+      "front": "What is the difference between NRTIs and NNRTIs in mechanism of action?",
+      "back": "NRTIs require phosphorylation for activation and inhibit RT competitively. NNRTIs do not require phosphorylation and bind directly to a site near RT. There is no cross-resistance between them."
     },
     {
-      "front": "ما آلية Oseltamivir/Zanamivir؟",
-      "back": "مثبطات neuraminidase تمنع تحرر الفيريونات؛ فعّالة على إنفلونزا A وB.",
+      "front": "What is the mechanism of Oseltamivir/Zanamivir?",
+      "back": "Neuraminidase inhibitors prevent release of virions; effective against influenza A and B.",
       "tag": "high-yield"
     },
     {
-      "front": "متى يجب بدء Oseltamivir؟",
-      "back": "خلال 24–48 ساعة من بدء الأعراض؛ Oseltamivir طليعة دواء فموية."
+      "front": "When should Oseltamivir be started?",
+      "back": "Within 24-48 hours of symptom onset; Oseltamivir is an oral prodrug."
     },
     {
-      "front": "ما آلية Amantadine؟",
-      "back": "يثبّط نزع غلاف الفيروس (uncoating)؛ إنفلونزا A فقط؛ آثار عصبية مركزية."
+      "front": "What is the mechanism of Amantadine?",
+      "back": "It inhibits viral uncoating; influenza A only; central CNS effects."
     },
     {
-      "front": "ما آلية Acyclovir؟",
-      "back": "يُفعَّل بـ thymidine kinase الفيروسي → يثبّط DNA polymerase؛ انتقائي للخلايا المصابة.",
+      "front": "What is the mechanism of Acyclovir?",
+      "back": "Activated by viral thymidine kinase → inhibits DNA polymerase; selective for infected cells.",
       "tag": "high-yield"
     },
     {
-      "front": "ما سُمّية Acyclovir؟",
-      "back": "سُمّية كلوية (حافظ على الإماهة)."
+      "front": "What is the toxicity of Acyclovir?",
+      "back": "Nephrotoxicity (maintain hydration)."
     },
     {
-      "front": "ما آلية Ribavirin؟",
-      "back": "نظير غوانوزين يثبّط تضاعف فيروسات RNA وDNA؛ ماسخ ومسبب فقر دم انحلالي."
+      "front": "What is the mechanism of Ribavirin?",
+      "back": "A guanosine analogue that inhibits replication of RNA and DNA viruses; teratogenic and causes hemolytic anemia."
     },
     {
-      "front": "ما علاج التهاب الكبد C الحديث؟",
-      "back": "DAAs (مثبطات NS3/4A '-previr' وNS5A وNS5B) غالباً ± Ribavirin؛ الإنترفيرون صار نادراً.",
+      "front": "What is the modern treatment of hepatitis C?",
+      "back": "DAAs (NS3/4A inhibitors '-previr', NS5A and NS5B inhibitors), often ± Ribavirin; interferon has become rare.",
       "tag": "high-yield"
     },
     {
-      "front": "ما أصناف مضادات HIV؟",
-      "back": "NRTI (Zidovudine)، NNRTI، مثبطات البروتياز، مثبطات الإنتغريز."
+      "front": "What are the classes of anti-HIV drugs?",
+      "back": "NRTI (Zidovudine), NNRTI, protease inhibitors, integrase inhibitors."
     }
   ],
   "mcqs": [
     {
-      "q": "ما هو آلية عمل Oseltamivir في الانفلونزا؟",
+      "q": "What is the mechanism of action of Oseltamivir in influenza?",
       "options": [
-        "يمنع اندماج الفيروس بالخلية",
-        "يثبط Neuraminidase مانعا خروج الفيروسات الجديدة",
-        "يمنع تفكيك الغلاف الفيروسي",
-        "يثبط DNA polymerase الفيروسية"
+        "It prevents fusion of the virus with the cell",
+        "It inhibits Neuraminidase, preventing the release of newly formed virions",
+        "It prevents uncoating of the viral envelope",
+        "It inhibits viral DNA polymerase"
       ],
       "answer": 1,
-      "explanation": "Oseltamivir وZanamivir يثبطان Neuraminidase مما يمنع الفيروس من مغادرة الخلية المصابة وإصابة خلايا جديدة."
+      "explanation": "Oseltamivir and Zanamivir inhibit Neuraminidase, which prevents the virus from leaving the infected cell and infecting new cells."
     },
     {
-      "q": "مريض انفلونزا A عنده مشاكل كلوية. ايهما افضل: Amantadine ام Rimantadine؟",
+      "q": "An influenza A patient has renal problems. Which is better: Amantadine or Rimantadine?",
       "options": [
-        "Amantadine لانه يطرح عبر الكبد",
-        "Rimantadine لانه يستقلب كبديا ولا يعتمد على الكلى",
-        "كلاهما سواء",
-        "Amantadine لانه اقوى"
+        "Amantadine because it is excreted hepatically",
+        "Rimantadine because it is metabolized hepatically and does not depend on the kidney",
+        "Both are equivalent",
+        "Amantadine because it is more potent"
       ],
       "answer": 1,
-      "explanation": "Rimantadine يستقلب كبديا بشكل واسع وله t1/2 اطول، بينما Amantadine يطرح بالبول لذا يحذر مع الفشل الكلوي."
+      "explanation": "Rimantadine is extensively metabolized hepatically and has a longer t1/2, whereas Amantadine is excreted in the urine, so it must be used cautiously in renal failure."
     },
     {
-      "q": "دواء الاختيار لـ HSV encephalitis؟",
+      "q": "What is the drug of choice for HSV encephalitis?",
       "options": [
         "Ganciclovir",
         "Valacyclovir",
-        "Acyclovir IV",
+        "IV Acyclovir",
         "Ribavirin"
       ],
       "answer": 2,
-      "explanation": "Acyclovir IV هو DOC لالتهاب الدماغ بالهيرباس (HSV encephalitis). يتوزع جيدا ويعبر BBB."
+      "explanation": "IV Acyclovir is the DOC for herpes encephalitis (HSV encephalitis). It distributes well and crosses the BBB."
     },
     {
-      "q": "ما هو DOC لـ CMV retinitis في مريض AIDS؟",
+      "q": "What is the DOC for CMV retinitis in an AIDS patient?",
       "options": [
         "Acyclovir",
         "Ganciclovir",
@@ -296,21 +296,21 @@
         "Ribavirin"
       ],
       "answer": 1,
-      "explanation": "Ganciclovir هو DOC لـ CMV في المرضى ذوي المناعة المنخفضة (CMV pneumonia وretinitis)."
+      "explanation": "Ganciclovir is the DOC for CMV in immunocompromised patients (CMV pneumonia and retinitis)."
     },
     {
-      "q": "ام حامل مصابة بـ HIV. ما الدواء المستخدم لمنع انتقال الفيروس لجنينها؟",
+      "q": "A pregnant mother is infected with HIV. Which drug is used to prevent transmission of the virus to her fetus?",
       "options": [
-        "Nevirapine فقط",
-        "Zidovudine للام ثم للوليد",
+        "Nevirapine only",
+        "Zidovudine for the mother then for the newborn",
         "Ribavirin",
         "Interferon"
       ],
       "answer": 1,
-      "explanation": "Zidovudine يعطى للام اثناء الوضع وللمولود لمدة 3 ايام لمنع انتقال HIV perinatal. Nevirapine بديل."
+      "explanation": "Zidovudine is given to the mother during labor and to the newborn for 3 days to prevent perinatal HIV transmission. Nevirapine is an alternative."
     },
     {
-      "q": "ما هو الاثر الجانبي الاكثر شيوعا لـ Ganciclovir؟",
+      "q": "What is the most common side effect of Ganciclovir?",
       "options": [
         "Nephrotoxicity",
         "Myelosuppression (neutropenia)",
@@ -318,21 +318,21 @@
         "Crystalluria"
       ],
       "answer": 1,
-      "explanation": "Myelosuppression وخاصة neutropenia هي الاثر الجانبي الاهم لـ Ganciclovir وتزداد مع Zidovudine."
+      "explanation": "Myelosuppression, especially neutropenia, is the most important side effect of Ganciclovir and increases with Zidovudine."
     },
     {
-      "q": "ما الذي يميز NNRTIs عن NRTIs في العمل؟",
+      "q": "What distinguishes NNRTIs from NRTIs in their action?",
       "options": [
-        "NNRTIs تحتاج تفسفر لتفعيلها",
-        "NNRTIs ترتبط مباشرة بـ RT دون الحاجة لتفسفر",
-        "NNRTIs تثبط Protease",
-        "لا فرق بينهما"
+        "NNRTIs require phosphorylation for activation",
+        "NNRTIs bind directly to RT without the need for phosphorylation",
+        "NNRTIs inhibit Protease",
+        "There is no difference between them"
       ],
       "answer": 1,
-      "explanation": "NNRTIs ترتبط مباشرة بموقع قريب من HIV-1 reverse transcriptase دون الحاجة لتفسفر، بعكس NRTIs."
+      "explanation": "NNRTIs bind directly to a site near HIV-1 reverse transcriptase without the need for phosphorylation, unlike NRTIs."
     },
     {
-      "q": "مريض يأخذ HAART، ظهر عليه Cushingoid appearance وارتفاع TG. ما المجموعة الاكثر احتمالا؟",
+      "q": "A patient on HAART develops a Cushingoid appearance and elevated TG. Which class is most likely responsible?",
       "options": [
         "NRTIs",
         "NNRTIs",
@@ -340,32 +340,32 @@
         "Integrase inhibitors"
       ],
       "answer": 2,
-      "explanation": "Protease Inhibitors تسبب اعادة توزيع الدهون (Cushingoid) وارتفاع TG وLDL ومقاومة الانسولين."
+      "explanation": "Protease Inhibitors cause fat redistribution (Cushingoid), elevated TG and LDL, and insulin resistance."
     },
     {
-      "q": "لماذا يضاف Ritonavir بجرعة صغيرة لـ PI اخر في HAART؟",
+      "q": "Why is Ritonavir added in a small dose to another PI in HAART?",
       "options": [
-        "لتحسين نشاطه المضاد للفيروسات مباشرة",
-        "كـ pharmacokinetic booster بتثبيط CYP3A يرفع مستوى الـ PI الاخر",
-        "لتقليل السمية الكلوية",
-        "لانه الاقوى في المجموعة"
+        "To directly enhance its antiviral activity",
+        "As a pharmacokinetic booster by inhibiting CYP3A, raising the level of the other PI",
+        "To reduce nephrotoxicity",
+        "Because it is the most potent in the class"
       ],
       "answer": 1,
-      "explanation": "Ritonavir مثبط قوي لـ CYP3A4 يرفع مستوى الـ PI الاخر (pharmacokinetic booster) مما يسمح بجرعات اقل وفترات اطول ويقلل مقاومة."
+      "explanation": "Ritonavir is a potent inhibitor of CYP3A4 that raises the level of the other PI (pharmacokinetic booster), allowing lower doses and longer intervals and reducing resistance."
     },
     {
-      "q": "Ribavirin ممنوع في الحمل بسبب؟",
+      "q": "Ribavirin is contraindicated in pregnancy because of?",
       "options": [
         "Nephrotoxicity",
-        "Teratogenicity وmutagenicity",
-        "Bone marrow depression فقط",
+        "Teratogenicity and mutagenicity",
+        "Bone marrow depression only",
         "CNS toxicity"
       ],
       "answer": 1,
-      "explanation": "Ribavirin contraindicated في الحمل بسبب teratogenicity وmutagenicity الموثقة."
+      "explanation": "Ribavirin is contraindicated in pregnancy because of its documented teratogenicity and mutagenicity."
     },
     {
-      "q": "Oseltamivir يثبّط:",
+      "q": "Oseltamivir inhibits:",
       "options": [
         "DNA polymerase",
         "Neuraminidase",
@@ -373,31 +373,31 @@
         "Protease"
       ],
       "answer": 1,
-      "explanation": "يمنع تحرر الفيريونات.",
+      "explanation": "It prevents the release of virions.",
       "difficulty": "medium"
     },
     {
-      "q": "Acyclovir انتقائي لأنه يُفعَّل بـ:",
+      "q": "Acyclovir is selective because it is activated by:",
       "options": [
-        "كيناز خلوي فقط",
-        "thymidine kinase فيروسي",
-        "الكبد",
-        "الكلية"
+        "Cellular kinase only",
+        "Viral thymidine kinase",
+        "The liver",
+        "The kidney"
       ],
       "answer": 1,
-      "explanation": "الإنزيم الفيروسي يفسفره أولاً.",
+      "explanation": "The viral enzyme phosphorylates it first.",
       "difficulty": "medium"
     },
     {
-      "q": "الـ DAAs '-previr' تثبّط:",
+      "q": "The DAAs '-previr' inhibit:",
       "options": [
         "NS5A",
         "NS3/4A protease",
-        "neuraminidase",
-        "reverse transcriptase"
+        "Neuraminidase",
+        "Reverse transcriptase"
       ],
       "answer": 1,
-      "explanation": "مثبطات بروتياز NS3/4A.",
+      "explanation": "NS3/4A protease inhibitors.",
       "difficulty": "medium"
     }
   ],

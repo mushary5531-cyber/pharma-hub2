@@ -108,106 +108,106 @@
   ],
   "flashcards": [
     {
-      "front": "ما الطريق الوحيد الذي يعطي Bioavailability = 100%؟",
-      "back": "الطريق الوريدي (Intravenous - IV) لأنه يُدخل الدواء مباشرة في الدوران"
+      "front": "Which is the only route that gives Bioavailability = 100%?",
+      "back": "The intravenous (IV) route, because it delivers the drug directly into the systemic circulation."
     },
     {
-      "front": "ما الفرق بين IV Bolus و IV Infusion؟",
-      "back": "Bolus: الجرعة كاملة بسرعة = تركيز بلازما مرتفع وتأثير سريع\nInfusion: معدل ثابت مستمر = حجم غير محدود"
+      "front": "What is the difference between IV Bolus and IV Infusion?",
+      "back": "Bolus: the full dose given rapidly = high plasma concentration and rapid effect.\nInfusion: a continuous constant rate = unlimited volume."
     },
     {
-      "front": "لماذا لا يُعطى IV للمرضى على مضادات التخثر (Anticoagulants)؟",
-      "back": "الحقن العضلي IM هو الممنوع في هذه الحالة (خطر ورم دموي Hematoma)، ليس IV."
+      "front": "Why is IM injection contraindicated in patients on anticoagulants?",
+      "back": "Intramuscular (IM) injection is the one contraindicated in these patients (risk of hematoma), not IV."
     },
     {
-      "front": "ما الحجم الأقصى للحقن تحت الجلد (SC)؟",
-      "back": "حوالي 1 مل"
+      "front": "What is the maximum volume for subcutaneous (SC) injection?",
+      "back": "Approximately 1 ml."
     },
     {
-      "front": "ما الحجم الأقصى للحقن العضلي (IM)؟",
-      "back": "حوالي 2-5 مل"
+      "front": "What is the maximum volume for intramuscular (IM) injection?",
+      "back": "Approximately 2–5 ml."
     },
     {
-      "front": "ما مزايا الطريق SC عن IV؟",
-      "back": "مدة تأثير أطول بسبب إطلاق أبطأ للدوران، ومناسب للمستحلبات والمحاليل الزيتية"
+      "front": "What are the advantages of the SC route over IV?",
+      "back": "Longer duration of action due to slower release into the circulation; suitable for suspensions and oily solutions."
     },
     {
-      "front": "ما Intradermal administration؟ لماذا نادراً ما يُستخدم للتأثير الجهازي؟",
-      "back": "حقن داخل الأدمة، يُستخدم غالباً للاختبارات (مثل Mantoux لـ TB). نادر جهازياً بسبب ضعف التوزيع في الدوران"
+      "front": "What is Intradermal administration? Why is it rarely used for systemic effect?",
+      "back": "Injection into the dermis, used mainly for diagnostic tests (e.g., Mantoux test for TB). Rarely used systemically due to poor distribution into the bloodstream."
     },
     {
-      "front": "ما First-pass metabolism؟ وكيف يؤثر على الجرعة الفموية لـ Propranolol؟",
-      "back": "تحطيم الدواء في الكبد قبل وصوله للدوران الجهازي. Propranolol يحتاج 20-40 ضعفاً من الجرعة الفموية مقارنة بالوريدية"
+      "front": "What is First-pass metabolism? How does it affect the oral dose of Propranolol?",
+      "back": "Breakdown of a drug in the liver before it reaches the systemic circulation. Propranolol requires an oral dose 20–40 times higher than the IV dose."
     },
     {
-      "front": "ما مزايا الطريق تحت اللساني (Sublingual) على الفموي؟",
-      "back": "امتصاص أسرع بسبب الأوعية الدموية الغنية، يصب مباشرة في الدوران الجهازي (يتجاوز الكبد)، يتجنب إنزيمات الجهاز الهضمي وحموضته"
+      "front": "What are the advantages of the sublingual route over the oral route?",
+      "back": "Faster absorption due to rich vascularity; drains directly into the systemic circulation (bypasses the liver); avoids gastrointestinal enzymes and acidity."
     },
     {
-      "front": "ما الفرق بين Sublingual و Buccal administration؟",
-      "back": "Sublingual: تحت اللسان\nBuccal: بين الخد واللثة\nكلاهما امتصاص سريع وتجاوز للكبد"
+      "front": "What is the difference between Sublingual and Buccal administration?",
+      "back": "Sublingual: under the tongue.\nBuccal: between the cheek and gum.\nBoth provide rapid absorption and bypass the liver."
     },
     {
-      "front": "ما مزايا الطريق الشرجي (Rectal)؟",
-      "back": "معظم الدواء يتجاوز الكبد، يتجنب إنزيمات الهضم، مناسب للأحجام الكبيرة وحالات التقيؤ أو الغيبوبة والأطفال غير المتعاونين"
+      "front": "What are the advantages of the rectal (Rectal) route?",
+      "back": "Most of the drug bypasses the liver; avoids digestive enzymes; suitable for large volumes and for patients who are vomiting, unconscious, or uncooperative (e.g., children)."
     },
     {
-      "front": "ما عيب الطريق الشرجي (Rectal)؟",
-      "back": "الامتصاص بطيء وغير منتظم وغالباً غير مكتمل، وقد يُهيج المخاط الشرجي"
+      "front": "What is the disadvantage of the rectal route?",
+      "back": "Absorption is slow, irregular, and often incomplete; may irritate the rectal mucosa."
     },
     {
-      "front": "ما مزايا الاستنشاق (Inhalation)؟",
-      "back": "مناسب للمركبات المتطايرة والغازات والرذاذ، يُعطى ذاتياً، للاستخدام الموضعي أو الجهازي"
+      "front": "What are the advantages of the inhalation route?",
+      "back": "Suitable for volatile compounds, gases, and aerosols; can be self-administered; used for local or systemic effect."
     },
     {
-      "front": "ما Intrathecal injection؟ أين يُعطى؟",
-      "back": "حقن في الفضاء تحت العنكبوتية (Subarachnoid space) بين الفقرتين L2 و L3"
+      "front": "What is Intrathecal injection? Where is it administered?",
+      "back": "Injection into the subarachnoid space between vertebrae L2 and L3."
     },
     {
-      "front": "ما الفرق بين Topical و Transdermal؟",
-      "back": "Topical: تأثير موضعي بتركيز عالٍ محلياً مع تأثير جهازي قليل\nTransdermal: يُمتص عبر الجلد للدوران الجهازي للتأثير الجهازي (مثل النيتروجليسرين patch)"
+      "front": "What is the difference between Topical and Transdermal?",
+      "back": "Topical: local effect with high local concentration and minimal systemic effect.\nTransdermal: absorbed through the skin into the systemic circulation for a systemic effect (e.g., Nitroglycerin patch)."
     },
     {
-      "front": "ما Intra-articular injection؟ متى يُستخدم؟",
-      "back": "حقن داخل المفصل. يُستخدم مثلاً لحقن Corticosteroids في مفصل مصاب بالتهاب المفاصل الروماتويدي"
+      "front": "What is Intra-articular injection? When is it used?",
+      "back": "Injection directly into a joint. Used, for example, to inject Corticosteroids into a joint affected by rheumatoid arthritis."
     },
     {
-      "front": "ما مدة تأثير SC pellets؟",
-      "back": "3-6 أشهر - تُزرع كحبيبات تحت الجلد لإطلاق تدريجي طويل الأمد (مثل هرمونات الستيرويد)"
+      "front": "What is the duration of effect of SC pellets?",
+      "back": "3–6 months — implanted as subcutaneous granules for slow, long-term release (e.g., steroid hormones)."
     },
     {
-      "front": "ما التوافر الحيوي للحقن الوريدي IV؟",
-      "back": "100% (الدواء يدخل الدورة مباشرة).",
+      "front": "What is the bioavailability of intravenous (IV) injection?",
+      "back": "100% (the drug enters the circulation directly).",
       "tag": "high-yield"
     },
     {
-      "front": "ما مزايا الحقن الوريدي IV؟",
-      "back": "تأثير سريع، يناسب الطوارئ وفاقدي الوعي، تجاوز استقلاب الكبد، يناسب الأحجام الكبيرة والأدوية المهيّجة."
+      "front": "What are the advantages of IV injection?",
+      "back": "Rapid effect; suitable for emergencies and unconscious patients; bypasses hepatic metabolism; suitable for large volumes and irritant drugs."
     },
     {
-      "front": "ما عيوب الحقن الوريدي IV؟",
-      "back": "لا يناسب المعلّقات/الزيوت، صعب التراجع بعد الحقن، يحتاج تعقيماً صارماً، الأعلى خطورة على الوظائف الحيوية."
+      "front": "What are the disadvantages of IV injection?",
+      "back": "Not suitable for suspensions or oily solutions; difficult to reverse after injection; requires strict asepsis; highest risk to vital functions."
     },
     {
-      "front": "ما ميزة الحقن تحت الجلد S.C؟",
-      "back": "مدة تأثير أطول (تحرر أبطأ)؛ يناسب المعلّقات والزيوت؛ لكن بدء بطيء ولا يناسب المهيّجات أو الأحجام الكبيرة (~1 مل)."
+      "front": "What is the advantage of subcutaneous (SC) injection?",
+      "back": "Longer duration of action (slower release); suitable for suspensions and oils; but onset is slow and it is not suitable for irritants or large volumes (~1 ml)."
     },
     {
-      "front": "ما الحد الأقصى لحجم الحقن العضلي IM؟",
-      "back": "حوالي 2–5 مل؛ يناسب المعلّقات والزيوت والأدوية المهيّجة (يُتجنّب مع مضادات التخثر - خطر ورم دموي)."
+      "front": "What is the maximum volume for IM injection?",
+      "back": "Approximately 2–5 ml; suitable for suspensions, oils, and irritant drugs (avoid in patients on anticoagulants — risk of hematoma)."
     },
     {
-      "front": "ما الفرق بين الإعطاء المعوي (enteral) والحقني (parenteral)؟",
-      "back": "Enteral عبر القناة الهضمية (فموي/شرجي)؛ Parenteral خارجها (IV/IM/SC)."
+      "front": "What is the difference between enteral and parenteral administration?",
+      "back": "Enteral: via the gastrointestinal tract (oral/rectal); Parenteral: bypasses it (IV/IM/SC)."
     },
     {
-      "front": "ما ميزة الطريق تحت اللسان (Sublingual)؟",
-      "back": "امتصاص سريع وتجاوز استقلاب المرور الأول (first-pass) عبر الكبد.",
+      "front": "What is the advantage of the sublingual route?",
+      "back": "Rapid absorption and bypass of first-pass hepatic metabolism.",
       "tag": "high-yield"
     },
     {
-      "front": "ما هو الـ First-pass metabolism؟",
-      "back": "استقلاب الدواء في الكبد بعد امتصاصه من الأمعاء قبل وصوله للدورة الجهازية → يقلل التوافر الحيوي للأدوية الفموية."
+      "front": "What is First-pass metabolism?",
+      "back": "Metabolism of a drug in the liver after absorption from the intestine and before reaching the systemic circulation → reduces bioavailability of oral drugs."
     }
   ],
   "mcqs": [
@@ -220,7 +220,7 @@
         "Sublingual"
       ],
       "answer": 2,
-      "explanation": "IV هو الطريق الوحيد الذي يُدخل الدواء مباشرة في الدوران دون خسائر، لذا Bioavailability = 100%."
+      "explanation": "IV is the only route that delivers the drug directly into the circulation without losses, so Bioavailability = 100%."
     },
     {
       "q": "A drug given sublingually avoids which pharmacological process?",
@@ -231,7 +231,7 @@
         "Glomerular filtration"
       ],
       "answer": 1,
-      "explanation": "تحت اللسان يصب مباشرة في الدوران الجهازي متجاوزاً الدوران البابي والكبد، فيتجنب First-pass metabolism."
+      "explanation": "The sublingual route drains directly into the systemic circulation, bypassing the portal circulation and the liver, thus avoiding first-pass metabolism."
     },
     {
       "q": "Propranolol requires an oral dose 20-40 times larger than its IV dose because of:",
@@ -242,7 +242,7 @@
         "High plasma protein binding"
       ],
       "answer": 2,
-      "explanation": "Propranolol يتعرض لتحطيم واسع في الكبد (First-pass) قبل وصوله للدوران، مما يستدعي جرعات فموية أكبر بكثير."
+      "explanation": "Propranolol undergoes extensive first-pass metabolism in the liver before reaching the systemic circulation, requiring much higher oral doses."
     },
     {
       "q": "Which route is CONTRAINDICATED in patients on anticoagulant therapy due to risk of hematoma?",
@@ -253,7 +253,7 @@
         "Sublingual"
       ],
       "answer": 2,
-      "explanation": "IM محظور في مرضى مضادات التخثر بسبب خطر تكون ورم دموي (Hematoma) في العضلة."
+      "explanation": "IM is contraindicated in patients on anticoagulants due to the risk of hematoma formation within the muscle."
     },
     {
       "q": "The Mantoux test for TB screening uses which route?",
@@ -264,7 +264,7 @@
         "Intravenous"
       ],
       "answer": 2,
-      "explanation": "Mantoux test = حقن داخل الأدمة (Intradermal) لاختبار رد الفعل المناعي تجاه المتفطرة السلية."
+      "explanation": "The Mantoux test uses intradermal injection to test the immune reaction against Mycobacterium tuberculosis."
     },
     {
       "q": "What is the maximum injection volume for subcutaneous (SC) administration?",
@@ -275,7 +275,7 @@
         "Unlimited"
       ],
       "answer": 0,
-      "explanation": "الحجم الأقصى للحقن SC حوالي 1 مل. أما IM فحوالي 2-5 مل."
+      "explanation": "The maximum volume for SC injection is approximately 1 ml. For IM it is approximately 2–5 ml."
     },
     {
       "q": "Rectal administration is preferred in all of the following EXCEPT:",
@@ -286,7 +286,7 @@
         "Pediatric patients who are uncooperative"
       ],
       "answer": 2,
-      "explanation": "الطريق الشرجي الامتصاص فيه بطيء وغير منتظم، لذا لا يصلح للطوارئ التي تحتاج تأثيراً سريعاً. IV هو المثالي للطوارئ."
+      "explanation": "Rectal absorption is slow and irregular, making it unsuitable for emergencies requiring rapid effect. IV is ideal for emergencies."
     },
     {
       "q": "Which drug is given transdermally to facilitate smoking cessation?",
@@ -297,7 +297,7 @@
         "Desmopressin"
       ],
       "answer": 1,
-      "explanation": "Nicotine transdermal patch = لصقة النيكوتين الجلدية للمساعدة على الإقلاع عن التدخين."
+      "explanation": "The nicotine transdermal patch is used to assist in smoking cessation."
     },
     {
       "q": "Inhalation route is suitable for all of the following EXCEPT:",
@@ -308,7 +308,7 @@
         "Large-volume oily solutions"
       ],
       "answer": 3,
-      "explanation": "الاستنشاق مناسب للمركبات المتطايرة والغازات والرذاذ. المحاليل الزيتية الكبيرة الحجم غير مناسبة للاستنشاق."
+      "explanation": "Inhalation is suitable for volatile compounds, gases, and aerosols. Large-volume oily solutions are not suitable for inhalation."
     },
     {
       "q": "Intrathecal injection is administered between which vertebrae?",
@@ -319,42 +319,42 @@
         "L4 and L5"
       ],
       "answer": 1,
-      "explanation": "الحقن داخل القراب الشوكي (Intrathecal) في الفضاء تحت العنكبوتية بين الفقرتين L2 و L3."
+      "explanation": "Intrathecal injection is administered into the subarachnoid space between vertebrae L2 and L3."
     },
     {
-      "q": "الطريق ذو التوافر الحيوي 100%:",
+      "q": "The route with 100% bioavailability is:",
       "options": [
-        "فموي",
+        "Oral",
         "IM",
         "IV",
-        "تحت الجلد"
+        "Subcutaneous"
       ],
       "answer": 2,
-      "explanation": "IV يوصل الدواء كاملاً للدورة مباشرة.",
+      "explanation": "IV delivers the drug completely into the circulation directly.",
       "difficulty": "medium"
     },
     {
-      "q": "أي طريق يتجاوز استقلاب المرور الأول؟",
+      "q": "Which route bypasses first-pass metabolism?",
       "options": [
-        "فموي",
-        "تحت اللسان",
-        "شرجي كامل",
-        "داخل المعدة"
+        "Oral",
+        "Sublingual",
+        "Full rectal",
+        "Intragastric"
       ],
       "answer": 1,
-      "explanation": "تحت اللسان يمتص للوريد مباشرة متجاوزاً الكبد.",
+      "explanation": "Sublingual absorption drains directly into the systemic vein, bypassing the liver.",
       "difficulty": "medium"
     },
     {
-      "q": "الحقن العضلي IM غير مناسب في:",
+      "q": "IM injection is unsuitable in:",
       "options": [
-        "الأدوية الزيتية",
-        "المرضى على مضادات التخثر",
-        "الأدوية المهيّجة",
-        "الأحجام المتوسطة"
+        "Oily drugs",
+        "Patients on anticoagulants",
+        "Irritant drugs",
+        "Moderate volumes"
       ],
       "answer": 1,
-      "explanation": "خطر تكوّن ورم دموي (hematoma).",
+      "explanation": "Risk of hematoma formation.",
       "difficulty": "medium"
     }
   ]

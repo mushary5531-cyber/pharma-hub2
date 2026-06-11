@@ -116,115 +116,115 @@
   ],
   "flashcards": [
     {
-      "front": "ما هو آلية عمل Amphotericin B؟",
-      "back": "يرتبط بـ Ergosterol في غشاء الخلية الفطرية مما يكون مسامات (pores) تسبب تسرب الايونات والانزيمات وموت الخلية (fungicidal)."
+      "front": "What is the mechanism of action of Amphotericin B?",
+      "back": "Binds to Ergosterol in the fungal cell membrane, forming pores that cause leakage of ions and enzymes, leading to cell death (fungicidal)."
     },
     {
-      "front": "ما هو الدواء الاول في علاج cryptococcal meningitis؟",
-      "back": "Amphotericin B (بالحقن داخل القراب intrathecal)"
+      "front": "What is the drug of choice for cryptococcal meningitis?",
+      "back": "Amphotericin B (given intrathecally)"
     },
     {
-      "front": "كيف يعمل Flucytosine (5-FC)؟",
-      "back": "يتحول داخل الخلية الفطرية فقط الى 5-FU ثم يثبط thymidylate synthase مما يوقف تصنيع DNA وRNA."
+      "front": "How does Flucytosine (5-FC) work?",
+      "back": "Converted inside the fungal cell only to 5-FU, which then inhibits thymidylate synthase, blocking DNA and RNA synthesis."
     },
     {
-      "front": "لماذا يستخدم Flucytosine مع Amphotericin B؟",
-      "back": "Amphotericin B يزيد نفاذية غشاء الخلية فيسمح لكميات اكبر من 5-FC بالدخول - تأثير تضافري (synergistic)."
+      "front": "Why is Flucytosine used with Amphotericin B?",
+      "back": "Amphotericin B increases cell membrane permeability, allowing larger amounts of 5-FC to enter — synergistic effect."
     },
     {
-      "front": "ما الفرق بين Imidazoles وTriazoles؟",
-      "back": "Triazoles (Fluconazole, Voriconazole, Itraconazole) اقل سمية واقل تفاعلات دوائية من Imidazoles (Ketoconazole, Miconazole, Clotrimazole)."
+      "front": "What is the difference between Imidazoles and Triazoles?",
+      "back": "Triazoles (Fluconazole, Voriconazole, Itraconazole) have less toxicity and fewer drug interactions than Imidazoles (Ketoconazole, Miconazole, Clotrimazole)."
     },
     {
-      "front": "ما هو آلية عمل الـ Azoles؟",
-      "back": "تثبط انزيم P450-dependent C14-alpha demethylase المسؤول عن تحويل Lanosterol الى Ergosterol في غشاء الخلية الفطرية."
+      "front": "What is the mechanism of action of the Azoles?",
+      "back": "Inhibit P450-dependent C14-alpha demethylase, the enzyme responsible for converting Lanosterol to Ergosterol in the fungal cell membrane."
     },
     {
-      "front": "لماذا لا يجمع Ketoconazole مع Amphotericin B؟",
-      "back": "Ketoconazole يقلل Ergosterol في الغشاء الفطري مما يقلل من فاعلية Amphotericin B الذي يحتاج Ergosterol ليرتبط به."
+      "front": "Why should Ketoconazole not be combined with Amphotericin B?",
+      "back": "Ketoconazole reduces Ergosterol in the fungal membrane, thereby reducing the efficacy of Amphotericin B, which needs Ergosterol to bind to."
     },
     {
-      "front": "ما هي الميزة الرئيسية لـ Fluconazole عن Ketoconazole؟",
-      "back": "Fluconazole: ممتاز في CSF، لا يحتاج حموضة معدة للامتصاص، لا يؤثر على هرمونات الغدد، يطرح عبر الكلى."
+      "front": "What is the main advantage of Fluconazole over Ketoconazole?",
+      "back": "Fluconazole: excellent CSF penetration, does not require gastric acidity for absorption, does not affect glandular hormones, and is excreted renally."
     },
     {
-      "front": "ما هو الدواء الاول لـ invasive aspergillosis؟",
-      "back": "Voriconazole (حل محل Amphotericin B لهذه الحالة)."
+      "front": "What is the drug of choice for invasive aspergillosis?",
+      "back": "Voriconazole (has replaced Amphotericin B for this indication)."
     },
     {
-      "front": "ما هي اثار Ketoconazole الهرمونية؟",
-      "back": "بجرعات عالية يثبط تصنيع هرمونات الغدة الكظرية والجنسية: gynaecomastia، انخفاض الرغبة الجنسية، اضطرابات الدورة."
+      "front": "What are the hormonal effects of Ketoconazole?",
+      "back": "At high doses it inhibits synthesis of adrenal and sex hormones: gynecomastia, decreased libido, and menstrual irregularities."
     },
     {
-      "front": "ما هو آلية عمل Caspofungin؟",
-      "back": "يثبط انزيم beta-glucan synthase مما يوقف تصنيع جدار الخلية الفطرية."
+      "front": "What is the mechanism of action of Caspofungin?",
+      "back": "Inhibits beta-glucan synthase, thereby blocking synthesis of the fungal cell wall."
     },
     {
-      "front": "ما هو دواء الاختيار لـ onychomycosis (فطريات الاظافر)؟",
-      "back": "Terbinafine - يثبط squalene epoxidase، يتراكم في الجلد والاظافر، مدة العلاج 3 اشهر."
+      "front": "What is the drug of choice for onychomycosis (nail fungus)?",
+      "back": "Terbinafine — inhibits squalene epoxidase, accumulates in skin and nails, treatment duration 3 months."
     },
     {
-      "front": "ما هو اهم اثر جانبي لـ Flucytosine؟",
-      "back": "تثبيط نخاع العظم (bone marrow depression) - يحذر مع الاشعاع والعلاج الكيميائي."
+      "front": "What is the most important side effect of Flucytosine?",
+      "back": "Bone marrow depression — caution with radiation and chemotherapy."
     },
     {
-      "front": "لماذا يحتاج Ketoconazole الى بيئة حامضة للامتصاص؟",
-      "back": "لانه يذوب ويمتص فقط في وجود حموضة المعدة. حاصرات H2 وPPIs والمضادات الحامضية تقلل امتصاصه."
+      "front": "Why does Ketoconazole require an acidic environment for absorption?",
+      "back": "Because it dissolves and is absorbed only in the presence of gastric acidity. H2 blockers, PPIs, and antacids reduce its absorption."
     },
     {
-      "front": "ما هو Nystatin ولماذا يستخدم موضعيا فقط؟",
-      "back": "Polyene مشابه لـ Amphotericin B لكنه شديد السمية الجهازية. يستخدم موضعيا لعلاج oral candidiasis (thrush) ولا يمتص جهازيا."
+      "front": "What is Nystatin and why is it used topically only?",
+      "back": "A polyene similar to Amphotericin B but extremely systemically toxic. Used topically to treat oral candidiasis (thrush) and is not systemically absorbed."
     },
     {
-      "front": "ما هي الاثار الجانبية الفورية لـ Amphotericin B IV؟",
-      "back": "قشعريرة وحمى (تمنع بـ Corticosteroids/NSAIDs)، انخفاض ضغط مع نقص بوتاسيوم، حساسية وانافيلاكسيس."
+      "front": "What are the immediate side effects of Amphotericin B IV?",
+      "back": "Chills and fever (prevented with corticosteroids/NSAIDs), hypotension with hypokalemia, hypersensitivity and anaphylaxis."
     },
     {
-      "front": "ما الذي يميز Voriconazole عن باقي الـ Azoles في الاثار الجانبية؟",
-      "back": "هلاوس بصرية وسمعية (visual and auditory hallucinations) عند ارتفاع التركيز."
+      "front": "What distinguishes Voriconazole from other Azoles in terms of side effects?",
+      "back": "Visual and auditory hallucinations at elevated concentrations."
     },
     {
-      "front": "ما تأثير التحضيرات الشحمية (Liposomal) لـ Amphotericin B؟",
-      "back": "تقلل من السمية الكلوية وسمية الحقن الوريدي لكنها غالية الثمن."
+      "front": "What is the effect of liposomal formulations of Amphotericin B?",
+      "back": "They reduce nephrotoxicity and IV infusion toxicity but are expensive."
     },
     {
-      "front": "ما آلية Amphotericin B؟",
-      "back": "يرتبط بالـ ergosterol في غشاء الفطر → مسامات → تسرّب الأيونات → قتل الفطر.",
+      "front": "What is the mechanism of Amphotericin B?",
+      "back": "Binds ergosterol in the fungal membrane → pore formation → ion leakage → fungal killing.",
       "tag": "high-yield"
     },
     {
-      "front": "ما دواعي Amphotericin B؟",
-      "back": "الفطريات الجهازية المهددة للحياة كالتهاب السحايا بالمستخفيات (DOC)."
+      "front": "What are the indications for Amphotericin B?",
+      "back": "Life-threatening systemic mycoses such as cryptococcal meningitis (DOC)."
     },
     {
-      "front": "ما سُمّية Amphotericin B الأبرز؟",
-      "back": "سُمّية كلوية معتمدة على الجرعة ونقص بوتاسيوم وحمى/رعشة بالتسريب.",
+      "front": "What is the most prominent toxicity of Amphotericin B?",
+      "back": "Dose-dependent nephrotoxicity, hypokalemia, and fever/rigors during infusion.",
       "tag": "high-yield"
     },
     {
-      "front": "كيف نقلل سُمّية Amphotericin الكلوية؟",
-      "back": "الإماهة بمحلول ملحي قبل/بعد التسريب والصيغ الشحمية (liposomal)."
+      "front": "How can Amphotericin nephrotoxicity be reduced?",
+      "back": "Pre- and post-infusion hydration with normal saline and use of liposomal formulations."
     },
     {
-      "front": "ما آلية الآزولات؟",
-      "back": "تثبّط 14-α-demethylase → نقص تخليق ergosterol؛ تثبّط CYP450 (تداخلات)."
+      "front": "What is the mechanism of azoles?",
+      "back": "Inhibit 14-α-demethylase → reduced ergosterol synthesis; inhibit CYP450 (drug interactions)."
     },
     {
-      "front": "ما آلية الإيكينوكاندينات؟",
-      "back": "تثبّط β-glucan synthase → خلل جدار الخلية الفطرية (Caspofungin)."
+      "front": "What is the mechanism of echinocandins?",
+      "back": "Inhibit β-glucan synthase → disruption of fungal cell wall (Caspofungin)."
     },
     {
-      "front": "ما آلية Terbinafine؟",
-      "back": "يثبّط squalene epoxidase → تراكم سام للسكوالين؛ لفطريات الأظافر."
+      "front": "What is the mechanism of Terbinafine?",
+      "back": "Inhibits squalene epoxidase → toxic accumulation of squalene; used for nail fungus."
     },
     {
-      "front": "ما آلية Griseofulvin؟",
-      "back": "يعطّل الأنابيب الدقيقة الفطرية؛ لعدوى الجلد/الشعر الفطرية، محفّز إنزيمي."
+      "front": "What is the mechanism of Griseofulvin?",
+      "back": "Disrupts fungal microtubules; used for dermatophyte infections of skin/hair; enzyme inducer."
     }
   ],
   "mcqs": [
     {
-      "q": "دواء الاختيار في meningitis الفطرية المهددة للحياة (cryptococcal meningitis)؟",
+      "q": "Drug of choice for life-threatening fungal meningitis (cryptococcal meningitis)?",
       "options": [
         "Fluconazole",
         "Amphotericin B",
@@ -232,21 +232,21 @@
         "Caspofungin"
       ],
       "answer": 1,
-      "explanation": "Amphotericin B هو DOC للعدوى الفطرية الجهازية المهددة للحياة ويعطى intrathecal في meningitis الفطرية."
+      "explanation": "Amphotericin B is the DOC for life-threatening systemic fungal infections and is given intrathecally for fungal meningitis."
     },
     {
-      "q": "ما آلية عمل Azoles في علاج الفطريات؟",
+      "q": "What is the mechanism of action of Azoles in treating fungal infections?",
       "options": [
-        "تثبيط beta-glucan synthase",
-        "الارتباط بـ Ergosterol",
-        "تثبيط C14-alpha demethylase P450",
-        "تثبيط squalene epoxidase"
+        "Inhibition of beta-glucan synthase",
+        "Binding to Ergosterol",
+        "Inhibition of C14-alpha demethylase P450",
+        "Inhibition of squalene epoxidase"
       ],
       "answer": 2,
-      "explanation": "الـ Azoles تثبط P450-dependent C14-alpha demethylase مما يمنع تحويل Lanosterol الى Ergosterol."
+      "explanation": "Azoles inhibit P450-dependent C14-alpha demethylase, preventing the conversion of Lanosterol to Ergosterol."
     },
     {
-      "q": "دواء الاختيار لـ invasive aspergillosis؟",
+      "q": "Drug of choice for invasive aspergillosis?",
       "options": [
         "Itraconazole",
         "Amphotericin B",
@@ -254,21 +254,21 @@
         "Caspofungin"
       ],
       "answer": 2,
-      "explanation": "Voriconazole اصبح DOC لـ invasive aspergillosis وحل محل Amphotericin B لهذه الحالة."
+      "explanation": "Voriconazole has become the DOC for invasive aspergillosis, replacing Amphotericin B for this indication."
     },
     {
-      "q": "Flucytosine يعمل في الخلية الفطرية عن طريق؟",
+      "q": "Flucytosine acts inside the fungal cell by:",
       "options": [
-        "تحويله الى 5-FU مثبطا DNA وRNA",
-        "الارتباط بـ Ergosterol",
-        "تثبيط P450 fungal",
-        "تثبيط beta-glucan"
+        "Being converted to 5-FU to inhibit DNA and RNA",
+        "Binding to Ergosterol",
+        "Inhibiting fungal P450",
+        "Inhibiting beta-glucan"
       ],
       "answer": 0,
-      "explanation": "5-FC يتحول داخل الخلية الفطرية فقط الى 5-FU الذي يثبط thymidylate synthase وبالتالي DNA وRNA."
+      "explanation": "5-FC is converted inside the fungal cell only to 5-FU, which inhibits thymidylate synthase and thereby DNA and RNA."
     },
     {
-      "q": "مريض يأخذ Ketoconazole، أي الادوية التالية يجب تجنبها معه؟",
+      "q": "A patient is taking Ketoconazole. Which of the following drugs should be avoided concurrently?",
       "options": [
         "Paracetamol",
         "Amphotericin B",
@@ -276,32 +276,32 @@
         "Terbinafine"
       ],
       "answer": 1,
-      "explanation": "Ketoconazole وAmphotericin B لا يجمعان لان Ketoconazole يقلل Ergosterol في الغشاء الفطري فيقلل فاعلية Amphotericin B."
+      "explanation": "Ketoconazole and Amphotericin B should not be combined because Ketoconazole reduces Ergosterol in the fungal membrane, reducing the efficacy of Amphotericin B."
     },
     {
-      "q": "ما هو اهم اثر جانبي مؤجل (delayed) لـ Amphotericin B؟",
+      "q": "What is the most important delayed side effect of Amphotericin B?",
       "options": [
-        "Rigors وحمى",
+        "Rigors and fever",
         "Hypotension",
         "Nephrotoxicity",
         "Anaphylaxis"
       ],
       "answer": 2,
-      "explanation": "السمية الكلوية (Nephrotoxicity) هي اهم الاثار المؤجلة لـ Amphotericin B وهي dose-dependent."
+      "explanation": "Nephrotoxicity is the most important delayed effect of Amphotericin B and is dose-dependent."
     },
     {
-      "q": "ما هي ميزة Fluconazole مقارنة بـ Ketoconazole في الـ pharmacokinetics؟",
+      "q": "What is the pharmacokinetic advantage of Fluconazole compared to Ketoconazole?",
       "options": [
-        "يستلزم الحموضة للامتصاص",
-        "لا يخترق CSF",
-        "يطرح عبر الكبد فقط",
-        "امتصاصه لا يعتمد على حموضة المعدة ويخترق CSF بامتياز"
+        "Requires acidity for absorption",
+        "Does not penetrate CSF",
+        "Excreted only via the liver",
+        "Absorption is independent of gastric acidity and excellent CSF penetration"
       ],
       "answer": 3,
-      "explanation": "Fluconazole يمتص بغض النظر عن حموضة المعدة وله اختراق ممتاز للـ CSF ويطرح عبر الكلى."
+      "explanation": "Fluconazole is absorbed regardless of gastric acidity, has excellent CSF penetration, and is excreted renally."
     },
     {
-      "q": "دواء الاختيار لعلاج onychomycosis (فطريات الاظافر)؟",
+      "q": "Drug of choice for onychomycosis (nail fungus)?",
       "options": [
         "Nystatin",
         "Fluconazole",
@@ -309,10 +309,10 @@
         "Griseofulvin"
       ],
       "answer": 2,
-      "explanation": "Terbinafine هو DOC لـ onychomycosis لانه يتراكم في الجلد والاظافر ومدة علاجه اقصر (3 اشهر) وفعاليته اعلى."
+      "explanation": "Terbinafine is the DOC for onychomycosis because it accumulates in skin and nails, has a shorter treatment duration (3 months), and higher efficacy."
     },
     {
-      "q": "Caspofungin يثبط أي انزيم؟",
+      "q": "Which enzyme does Caspofungin inhibit?",
       "options": [
         "Squalene epoxidase",
         "Beta-glucan synthase",
@@ -320,53 +320,53 @@
         "Thymidylate synthase"
       ],
       "answer": 1,
-      "explanation": "Caspofungin (Echinocandin) يثبط beta-glucan synthase مما يمنع تصنيع جدار الخلية الفطرية."
+      "explanation": "Caspofungin (Echinocandin) inhibits beta-glucan synthase, preventing fungal cell wall synthesis."
     },
     {
-      "q": "اي من التالي صحيح عن Nystatin؟",
+      "q": "Which of the following is correct about Nystatin?",
       "options": [
-        "يعطى IV للعدوى الجهازية",
-        "آليته مختلفة عن Amphotericin B",
-        "يستخدم موضعيا فقط بسبب شدة سميته الجهازية",
-        "امتصاصه الجهازي جيد"
+        "Given IV for systemic infections",
+        "Its mechanism differs from Amphotericin B",
+        "Used topically only due to severe systemic toxicity",
+        "Good systemic absorption"
       ],
       "answer": 2,
-      "explanation": "Nystatin مشابه لـ Amphotericin B في آليته (يرتبط بـ Ergosterol) لكنه شديد السمية الجهازية فيستخدم موضعيا فقط لـ oral candidiasis."
+      "explanation": "Nystatin is similar to Amphotericin B in mechanism (binds Ergosterol) but is extremely systemically toxic, so it is used topically only for oral candidiasis."
     },
     {
-      "q": "Amphotericin B يستهدف:",
+      "q": "Amphotericin B targets:",
       "options": [
         "β-glucan",
-        "Ergosterol بالغشاء",
+        "Ergosterol in the membrane",
         "14-α-demethylase",
-        "DNA الفطري"
+        "Fungal DNA"
       ],
       "answer": 1,
-      "explanation": "يرتبط بالإرغوستيرول مكوّناً مسامات.",
+      "explanation": "Binds ergosterol forming pores.",
       "difficulty": "medium"
     },
     {
-      "q": "السُّميّة الأبرز للأمفوتريسين:",
+      "q": "The most prominent toxicity of Amphotericin:",
       "options": [
-        "كبدية",
-        "كلوية",
-        "قلبية",
-        "رئوية"
+        "Hepatic",
+        "Renal",
+        "Cardiac",
+        "Pulmonary"
       ],
       "answer": 1,
-      "explanation": "nephrotoxicity معتمدة على الجرعة.",
+      "explanation": "Dose-dependent nephrotoxicity.",
       "difficulty": "medium"
     },
     {
-      "q": "الإيكينوكاندينات تثبّط:",
+      "q": "Echinocandins inhibit:",
       "options": [
         "Ergosterol",
         "β-glucan synthase",
-        "الريبوسوم",
-        "squalene epoxidase"
+        "Ribosome",
+        "Squalene epoxidase"
       ],
       "answer": 1,
-      "explanation": "تعطّل بناء جدار الخلية.",
+      "explanation": "They disrupt cell wall construction.",
       "difficulty": "medium"
     }
   ],
