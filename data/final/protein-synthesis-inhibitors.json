@@ -237,48 +237,48 @@
       "back": "QT interval prolongation, which increases the risk of cardiac arrhythmias."
     },
     {
-      "front": "What is the mechanism of Clindamycin? What are its main uses?",
+      "front": "What is the mechanism of action of clindamycin? What are its main uses?",
       "back": "Binds the 50S subunit and inhibits translation (bacteriostatic). Used against: Gram-positive organisms, anaerobes (Bacteroides fragilis), and bone infections (good bone penetration)."
     },
     {
-      "front": "What is the C. difficile risk associated with Clindamycin?",
+      "front": "What is the C. difficile risk associated with clindamycin?",
       "back": "Clindamycin is among the antibiotics with the highest risk of causing C. difficile infection (CDI/pseudomembranous colitis) and carries a Boxed Warning."
     },
     {
       "front": "What is Gray Baby Syndrome? Why does it occur?",
-      "back": "Accumulation of Chloramphenicol in neonates due to deficient hepatic glucuronyl transferase → bone marrow suppression and cyanosis → 'gray' appearance. Can be fatal."
+      "back": "Accumulation of Chloramphenicol in neonates due to deficient glucuronyl transferase in the liver → bone marrow suppression and cyanosis → 'gray' appearance. Can be fatal."
     },
     {
       "front": "What is the main serious warning for Linezolid with prolonged use?",
-      "back": "Irreversible peripheral neuropathy and optic neuritis (→ blindness) with use > 28 days. Also inhibits MAO → serotonin syndrome."
+      "back": "Irreversible peripheral neuropathy and optic neuritis (→ blindness) with use >28 days. Also inhibits MAO → serotonin syndrome."
     },
     {
-      "front": "What is Demeclocycline and its distinctive use?",
-      "back": "Demeclocycline is a tetracycline used to treat SIADH (Syndrome of Inappropriate ADH Secretion) because it inhibits the renal action of ADH."
+      "front": "What is Demeclocycline and its distinctive uses?",
+      "back": "Demeclocycline is a tetracycline used to treat SIADH (syndrome of inappropriate ADH secretion) because it inhibits the action of ADH on the kidneys."
     },
     {
       "front": "What is Metronidazole and its mechanism of action?",
-      "back": "Metronidazole (Flagyl) is a nitroimidazole that breaks bacterial and parasitic DNA. Effective against Gram-negative anaerobes and parasites (Giardia, Trichomonas, Entamoeba). Most notable side effect: metallic taste."
+      "back": "Metronidazole (Flagyl) is a nitroimidazole that cleaves bacterial and parasitic DNA. Effective against Gram-negative anaerobes and parasites (Giardia, Trichomonas, Entamoeba). Main side effect: metallic taste."
     },
     {
       "front": "Why are aminoglycosides not used for meningitis?",
-      "back": "Because they do not cross the blood-brain barrier (BBB) at sufficient concentrations even during meningitis."
+      "back": "Because they do not cross the blood-brain barrier (BBB) at adequate concentrations even in the presence of meningeal inflammation."
     },
     {
       "front": "What is the distinctive use of Streptomycin?",
-      "back": "Tuberculosis, Plague, and Brucella; administered intramuscularly (IM)."
+      "back": "Tuberculosis, Plague, and Brucellosis; given intramuscularly (IM)."
     },
     {
       "front": "What foods should be avoided with tetracyclines?",
       "back": "Milk, cheese, and anything containing Ca++, Mg++, Al+++, or Iron — they form non-absorbable chelates with tetracyclines."
     },
     {
-      "front": "What is the difference between macrolides and how are they eliminated?",
-      "back": "Macrolides are eliminated via the liver (hepatic), not the kidneys. They inhibit CYP450, causing drug interactions. Azithromycin has the longest T1/2."
+      "front": "What is the difference among macrolides and how are they excreted?",
+      "back": "Macrolides are excreted hepatically, not renally. They inhibit CYP450, causing drug interactions. Azithromycin has the longest T1/2."
     },
     {
       "front": "What is the mechanism of Linezolid and how does it differ from other 50S inhibitors?",
-      "back": "Linezolid binds to 23S rRNA in the 50S subunit and inhibits formation of the 70S initiation complex. This binding site is unique and differs from Chloramphenicol and macrolides."
+      "back": "Linezolid binds to 23S rRNA in the 50S subunit and inhibits formation of the 70S initiation complex. This binding site is unique and differs from that of Chloramphenicol and macrolides."
     },
     {
       "front": "Which protein synthesis inhibitors act on 30S?",
@@ -291,12 +291,12 @@
     },
     {
       "front": "Why are aminoglycosides bactericidal and require O2?",
-      "back": "They require aerobic transport to enter cells → do not work on anaerobes; concentration-dependent killing.",
+      "back": "They require aerobic transport to enter the cell → inactive against anaerobes; concentration-dependent killing.",
       "tag": "high-yield"
     },
     {
       "front": "What are the toxicities of aminoglycosides?",
-      "back": "Nephrotoxicity, ototoxicity/vestibulotoxicity, neuromuscular blockade, teratogenicity (STAG-N → NNOT)."
+      "back": "Nephrotoxicity, ototoxicity/vestibular toxicity, neuromuscular blockade, teratogenicity (STAG-N → NNOT)."
     },
     {
       "front": "What is the toxicity of Chloramphenicol?",
@@ -304,21 +304,21 @@
       "tag": "high-yield"
     },
     {
-      "front": "What is the distinctive toxicity of tetracycline?",
+      "front": "What is the distinctive toxicity of tetracyclines?",
       "back": "Tooth discoloration and inhibition of bone growth; contraindicated in pregnancy and children."
     },
     {
       "front": "What is the mechanism of macrolides (Erythromycin)?",
-      "back": "Bind to 50S and inhibit translocation; bacteriostatic."
+      "back": "Bind 50S and inhibit translocation; bacteriostatic."
     },
     {
       "front": "What is the advantage of Linezolid?",
-      "back": "Effective against MRSA and VRE; risk of myelosuppression and serotonin syndrome."
+      "back": "Active against MRSA and VRE; risk of myelosuppression and serotonin syndrome."
     }
   ],
   "mcqs": [
     {
-      "q": "A 5-year-old child needs treatment for Chlamydia infection. Which antibiotic is contraindicated?",
+      "q": "A 5-year-old child needs treatment for a Chlamydia infection. Which antibiotic is contraindicated?",
       "options": [
         "Azithromycin",
         "Erythromycin",

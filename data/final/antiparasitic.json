@@ -113,121 +113,121 @@
   ],
   "flashcards": [
     {
-      "front": "كيف يعمل Metronidazole؟",
-      "back": "Prodrug يتفعّل في الكائنات اللاهوائية ليكوّن جذورا حرة تحطم DNA وتسبب موت الخلية."
+      "front": "How does Metronidazole work?",
+      "back": "A prodrug activated in anaerobic organisms to form free radicals that damage DNA and cause cell death."
     },
     {
-      "front": "لماذا Metronidazole لا يقضي على الاكياس اللمعية للـ Entamoeba وحده؟",
-      "back": "Metronidazole لا يقضي على cysts اللمعية (intestinal) بشكل موثوق، لذا يضاف اليه دواء لمعي مثل Paromomycin."
+      "front": "Why does Metronidazole alone not eradicate luminal Entamoeba cysts?",
+      "back": "Metronidazole does not reliably eliminate luminal (intestinal) cysts, so a luminal agent such as Paromomycin is added."
     },
     {
-      "front": "ما هو التفاعل الخطير لـ Metronidazole مع الكحول؟",
-      "back": "تفاعل مشابه لـ Disulfiram: غثيان، تقيؤ، احمرار، الم صدر عند شرب الكحول."
+      "front": "What is the dangerous interaction of Metronidazole with alcohol?",
+      "back": "Disulfiram-like reaction: nausea, vomiting, flushing, and chest pain upon alcohol consumption."
     },
     {
-      "front": "ما هو آلية عمل Artemisinin في علاج الملاريا؟",
-      "back": "الحديد الموجود داخل الطفيل يفعّل Artemisinin ليكوّن جذورا حرة تتلف بروتينات وأغشية الطفيل."
+      "front": "What is the mechanism of action of Artemisinin in treating malaria?",
+      "back": "Iron present inside the parasite activates Artemisinin to form free radicals that damage parasite proteins and membranes."
     },
     {
-      "front": "ما هو آلية عمل Chloroquine في الملاريا؟",
-      "back": "يثبط تحويل Heme السامة الى Hemozoin (غير سام) فتتراكم الـ Heme وتقتل الطفيل."
+      "front": "What is the mechanism of action of Chloroquine in malaria?",
+      "back": "Inhibits conversion of toxic Heme to Hemozoin (non-toxic), causing Heme accumulation that kills the parasite."
     },
     {
-      "front": "ما هو علاج الاختيار لـ P. falciparum؟",
+      "front": "What is the treatment of choice for P. falciparum?",
       "back": "Artemisinin-based combination therapy (ACT)."
     },
     {
-      "front": "كيف يعمل Albendazole/Mebendazole؟",
-      "back": "يثبطان تكوين الانابيب الدقيقة (microtubules) في الطفيل مما يمنع امتصاص الجلوكوز وينضب الطاقة (ATP) ويقتله."
+      "front": "How do Albendazole/Mebendazole work?",
+      "back": "They inhibit microtubule formation in the parasite, preventing glucose absorption and depleting energy (ATP), leading to its death."
     },
     {
-      "front": "ما هي الحالات التي يستخدم فيها Albendazole؟",
-      "back": "Enterobiasis (pinworm)، Ascariasis، Hookworm، Hydatid disease (Echinococcus) في الكبد والرئة."
+      "front": "What are the clinical indications for Albendazole?",
+      "back": "Enterobiasis (pinworm), Ascariasis, Hookworm, Hydatid disease (Echinococcus) in the liver and lungs."
     },
     {
-      "front": "كيف يعمل Ivermectin؟",
-      "back": "يزيد نفاذية قنوات GABA المرتبطة بـ Chloride مما يسبب شللا وموت الطفيل."
+      "front": "How does Ivermectin work?",
+      "back": "Increases permeability of GABA-gated chloride channels, causing paralysis and death of the parasite."
     },
     {
-      "front": "ما هي استخدامات Ivermectin؟",
-      "back": "Strongyloidiasis، Onchocerciasis، الجرب الشديد والقمل المقاوم للعلاج."
+      "front": "What are the uses of Ivermectin?",
+      "back": "Strongyloidiasis, Onchocerciasis, severe or treatment-resistant scabies and lice."
     },
     {
-      "front": "كيف يعمل Praziquantel؟",
-      "back": "يزيد نفاذية غشاء الطفيل للكالسيوم مما يسبب تقلصا عضليا وشللا وموت الطفيل."
+      "front": "How does Praziquantel work?",
+      "back": "Increases calcium permeability of the parasite membrane, causing muscular contraction, paralysis, and death."
     },
     {
-      "front": "ما هو علاج Schistosomiasis؟",
-      "back": "Praziquantel - لان Schistosoma يسكن الاوعية الدموية ويحتاج دواء يصل الى الانسجة."
+      "front": "What is the treatment for Schistosomiasis?",
+      "back": "Praziquantel — because Schistosoma resides in blood vessels and requires a drug that reaches the tissues."
     },
     {
-      "front": "ما هو آلية عمل Permethrin؟",
-      "back": "يعطل قنوات الصوديوم (sodium channels) في الطفيل مسببا سمية عصبية وموته."
+      "front": "What is the mechanism of action of Permethrin?",
+      "back": "Disrupts sodium channels in the parasite, causing neurotoxicity and death."
     },
     {
-      "front": "ما هو العلاج الاول للجرب (Scabies) والقمل (Lice)؟",
-      "back": "Permethrin الموضعي هو الخيار الاول. Ivermectin الفموي للحالات الشديدة او المقاومة."
+      "front": "What is the first-line treatment for Scabies and Lice?",
+      "back": "Topical Permethrin is first-line. Oral Ivermectin for severe or resistant cases."
     },
     {
-      "front": "ما الفرق بين الطفيليات الاولية اللمعية والنسيجية وعلاجها؟",
-      "back": "اللمعية (في الامعاء فقط): ادوية لمعية. النسيجية (تغزو الانسجة): Metronidazole. بعض الحالات تحتاج كليهما."
+      "front": "What is the difference between luminal and tissue protozoa and their treatment?",
+      "back": "Luminal (intestinal only): luminal agents. Tissue-invasive (invades tissues): Metronidazole. Some cases require both."
     },
     {
-      "front": "ما هي الاعراض المميزة للتفريق بين Giardia وEntamoeba وMalaria؟",
-      "back": "Giardia: براز دهني كريه الرائحة، بدون حمى. Entamoeba: براز دموي (Amoebic dysentery). Malaria: حمى دورية (cyclic)."
+      "front": "What are the distinguishing features to differentiate Giardia, Entamoeba, and Malaria?",
+      "back": "Giardia: greasy, foul-smelling stool, no fever. Entamoeba: bloody stool (amoebic dysentery). Malaria: cyclic fever."
     },
     {
-      "front": "ما يميز Albendazole في الـ pharmacokinetics عن Mebendazole؟",
-      "back": "Albendazole يتوزع في الانسجة (دماغ، كبد، رئة، عضل) بشكل افضل. امتصاصه يتحسن مع الوجبة الدسمة."
+      "front": "What distinguishes Albendazole pharmacokinetically from Mebendazole?",
+      "back": "Albendazole distributes better into tissues (brain, liver, lungs, muscle). Its absorption is enhanced by a fatty meal."
     },
     {
-      "front": "كيف تُصنّف الطفيليات؟",
-      "back": "أوليات (Protozoa: Giardia, Entamoeba, Plasmodium)، ديدان (Helminths)، طفيليات خارجية (Ectoparasites).",
+      "front": "How are parasites classified?",
+      "back": "Protozoa (Giardia, Entamoeba, Plasmodium), Helminths, Ectoparasites.",
       "tag": "high-yield"
     },
     {
-      "front": "ما الذي يحدد اختيار الدواء المضاد للطفيليات؟",
-      "back": "نوع الطفيلي وموقع العدوى (لمعي luminal مقابل نسيجي tissue)."
+      "front": "What determines the choice of antiparasitic drug?",
+      "back": "The type of parasite and the location of infection (luminal vs. tissue)."
     },
     {
-      "front": "ما استخدام Metronidazole الطفيلي؟",
-      "back": "داء الأميبا والجيارديا والمشعرات (أوليات لاهوائية)."
+      "front": "What is the antiparasitic use of Metronidazole?",
+      "back": "Amoebiasis, giardiasis, and trichomoniasis (anaerobic protozoa)."
     },
     {
-      "front": "ما استخدام Albendazole/Mebendazole؟",
-      "back": "الديدان الأسطوانية (nematodes)؛ تثبّط بلمرة الأنابيب الدقيقة للدودة."
+      "front": "What is the use of Albendazole/Mebendazole?",
+      "back": "Nematodes (roundworms); inhibit polymerization of the worm's microtubules."
     },
     {
-      "front": "ما استخدام Praziquantel؟",
-      "back": "الديدان المسطحة (cestodes/trematodes) كالبلهارسيا."
+      "front": "What is the use of Praziquantel?",
+      "back": "Flatworms (cestodes/trematodes) such as Schistosoma."
     },
     {
-      "front": "ما استخدام Ivermectin؟",
-      "back": "داء كلابية الذنب والإسكارس والجرب والقمل."
+      "front": "What is the use of Ivermectin?",
+      "back": "Onchocerciasis, Ascariasis, scabies, and lice."
     },
     {
-      "front": "ما أدوية الملاريا؟",
-      "back": "Chloroquine, Mefloquine, Primaquine (للأطوار الكبدية), Artemisinins, Quinine."
+      "front": "What are the antimalarial drugs?",
+      "back": "Chloroquine, Mefloquine, Primaquine (for hepatic stages), Artemisinins, Quinine."
     },
     {
-      "front": "ما استخدام Permethrin؟",
-      "back": "الجرب والقمل (طفيليات خارجية - موضعي)."
+      "front": "What is the use of Permethrin?",
+      "back": "Scabies and lice (ectoparasites — topical)."
     }
   ],
   "mcqs": [
     {
-      "q": "مريضة تشكو من براز دموي مع تشخيص Entamoeba histolytica invasive. ما هو العلاج الامثل؟",
+      "q": "A patient presents with bloody stool and is diagnosed with invasive Entamoeba histolytica. What is the optimal treatment?",
       "options": [
-        "Metronidazole وحده",
+        "Metronidazole alone",
         "Metronidazole + luminal agent (Paromomycin)",
         "Albendazole",
         "Praziquantel"
       ],
       "answer": 1,
-      "explanation": "Amoebiasis النسيجية تحتاج Metronidazole للطور النسيجي ودواء لمعي مثل Paromomycin للقضاء على الاكياس اللمعية."
+      "explanation": "Tissue amoebiasis requires Metronidazole for the tissue stage and a luminal agent such as Paromomycin to eliminate luminal cysts."
     },
     {
-      "q": "ما الاثر الجانبي المميز لـ Metronidazole عند شرب الكحول؟",
+      "q": "What is the characteristic side effect of Metronidazole when alcohol is consumed?",
       "options": [
         "Nephrotoxicity",
         "Disulfiram-like reaction (nausea, vomiting, flushing)",
@@ -235,10 +235,10 @@
         "Peripheral neuropathy"
       ],
       "answer": 1,
-      "explanation": "Metronidazole يسبب تفاعلا مشابها للـ Disulfiram مع الكحول يتمثل بغثيان وتقيؤ واحمرار وتسرع قلب."
+      "explanation": "Metronidazole causes a disulfiram-like reaction with alcohol manifested by nausea, vomiting, flushing, and tachycardia."
     },
     {
-      "q": "مسافر عاد من افريقيا بحمى دورية. التشخيص ملاريا P. falciparum. ما العلاج الاول؟",
+      "q": "A traveler returning from Africa presents with cyclic fever. Malaria P. falciparum is diagnosed. What is the first-line treatment?",
       "options": [
         "Chloroquine",
         "Pyrimethamine",
@@ -246,21 +246,21 @@
         "Metronidazole"
       ],
       "answer": 2,
-      "explanation": "ACT (العلاج المركب على اساس Artemisinin) هو العلاج الاول لـ P. falciparum بسبب انتشار المقاومة لـ Chloroquine."
+      "explanation": "ACT (artemisinin-based combination therapy) is the first-line treatment for P. falciparum due to widespread Chloroquine resistance."
     },
     {
-      "q": "ما هو آلية عمل Albendazole؟",
+      "q": "What is the mechanism of action of Albendazole?",
       "options": [
-        "يزيد نفاذية الكالسيوم",
-        "يثبط تكوين microtubules مانعا امتصاص الجلوكوز",
-        "يكوّن جذورا حرة تتلف DNA",
-        "يثبط GABA receptor"
+        "Increases calcium permeability",
+        "Inhibits microtubule formation preventing glucose absorption",
+        "Forms free radicals that damage DNA",
+        "Inhibits GABA receptor"
       ],
       "answer": 1,
-      "explanation": "Albendazole يثبط تكوين الانابيب الدقيقة في الطفيل مما يمنعه من امتصاص الجلوكوز وينضب طاقته."
+      "explanation": "Albendazole inhibits microtubule formation in the parasite, preventing glucose absorption and depleting its energy."
     },
     {
-      "q": "طفل عنده حكة حول الشرج ليلا. الاكثر ترجيحا؟",
+      "q": "A child has nocturnal perianal itching. What is the most likely diagnosis?",
       "options": [
         "Schistosoma",
         "Enterobius (pinworm)",
@@ -268,10 +268,10 @@
         "Strongyloides"
       ],
       "answer": 1,
-      "explanation": "الحكة الشرجية الليلية علامة مميزة لـ Enterobiasis (pinworm). العلاج: Albendazole."
+      "explanation": "Nocturnal perianal pruritus is a hallmark of Enterobiasis (pinworm). Treatment: Albendazole."
     },
     {
-      "q": "مريض عنده اكياس في الكبد تشخيصها Echinococcus (Hydatid disease). ما العلاج؟",
+      "q": "A patient has liver cysts diagnosed as Echinococcus (Hydatid disease). What is the treatment?",
       "options": [
         "Praziquantel",
         "Ivermectin",
@@ -279,10 +279,10 @@
         "Metronidazole"
       ],
       "answer": 2,
-      "explanation": "Albendazole يصل الى الانسجة بشكل جيد (كبد، رئة، دماغ) ويستخدم في Hydatid disease."
+      "explanation": "Albendazole penetrates tissues well (liver, lungs, brain) and is used for Hydatid disease."
     },
     {
-      "q": "Praziquantel دواء اختيار لأي من التالي؟",
+      "q": "Praziquantel is the drug of choice for which of the following?",
       "options": [
         "Giardia",
         "Pinworm",
@@ -290,32 +290,32 @@
         "Malaria"
       ],
       "answer": 2,
-      "explanation": "Praziquantel هو DOC لـ Schistosomiasis (التي تسكن الاوعية الدموية) ولـ tapeworms."
+      "explanation": "Praziquantel is the DOC for Schistosomiasis (which inhabits blood vessels) and for tapeworms."
     },
     {
-      "q": "ما هو العلاج الاول للجرب الشديد المقاوم؟",
+      "q": "What is the first-line treatment for severe resistant scabies?",
       "options": [
-        "Permethrin موضعي",
-        "Ivermectin فموي",
+        "Topical Permethrin",
+        "Oral Ivermectin",
         "Albendazole",
         "Praziquantel"
       ],
       "answer": 1,
-      "explanation": "Permethrin الموضعي هو الاول للجرب العادي، لكن الحالات الشديدة او المقاومة تحتاج Ivermectin فموي."
+      "explanation": "Topical Permethrin is first-line for ordinary scabies, but severe or resistant cases require oral Ivermectin."
     },
     {
-      "q": "كيف يعمل Ivermectin؟",
+      "q": "How does Ivermectin work?",
       "options": [
-        "يثبط microtubule formation",
-        "يزيد نفاذية الكالسيوم",
-        "يعزز GABA-mediated chloride influx مسببا شلل الطفيل",
-        "يكوّن جذورا حرة"
+        "Inhibits microtubule formation",
+        "Increases calcium permeability",
+        "Enhances GABA-mediated chloride influx causing parasite paralysis",
+        "Forms free radicals"
       ],
       "answer": 2,
-      "explanation": "Ivermectin يعزز نفاذية قنوات GABA المرتبطة بالـ Chloride فيسبب شلل وموت الطفيل."
+      "explanation": "Ivermectin enhances permeability of GABA-gated chloride channels, causing paralysis and death of the parasite."
     },
     {
-      "q": "مريض عنده فقر دم بنقص الحديد وكانت نتيجة فحص البراز ايجابية للديدان. ما الاكثر ترجيحا واعلاجه؟",
+      "q": "A patient has iron-deficiency anemia with a positive stool examination for worms. What is the most likely diagnosis and its treatment?",
       "options": [
         "Ascaris - Praziquantel",
         "Hookworm - Albendazole",
@@ -323,34 +323,34 @@
         "Pinworm - Metronidazole"
       ],
       "answer": 1,
-      "explanation": "فقر الدم بنقص الحديد مع ديدان يشير الى Hookworm التي تمص الدم. العلاج هو Albendazole."
+      "explanation": "Iron-deficiency anemia with worms suggests Hookworm, which sucks blood. Treatment is Albendazole."
     },
     {
-      "q": "Praziquantel فعّال ضد:",
+      "q": "Praziquantel is effective against:",
       "options": [
-        "الأوليات",
-        "الديدان المسطحة",
-        "البكتيريا",
-        "الفطريات"
+        "Protozoa",
+        "Flatworms",
+        "Bacteria",
+        "Fungi"
       ],
       "answer": 1,
-      "explanation": "cestodes/trematodes كالبلهارسيا.",
+      "explanation": "Cestodes/trematodes such as Schistosoma.",
       "difficulty": "medium"
     },
     {
-      "q": "Metronidazole يُستخدم في:",
+      "q": "Metronidazole is used in:",
       "options": [
-        "الملاريا",
-        "داء الأميبا والجيارديا",
-        "الديدان الأسطوانية",
-        "الجرب"
+        "Malaria",
+        "Amoebiasis and giardiasis",
+        "Roundworms",
+        "Scabies"
       ],
       "answer": 1,
-      "explanation": "أوليات لاهوائية.",
+      "explanation": "Anaerobic protozoa.",
       "difficulty": "medium"
     },
     {
-      "q": "الطور الكبدي للملاريا يُعالج بـ:",
+      "q": "The hepatic stage of malaria is treated with:",
       "options": [
         "Chloroquine",
         "Primaquine",
@@ -358,7 +358,7 @@
         "Artemisinin"
       ],
       "answer": 1,
-      "explanation": "Primaquine يقضي على الأطوار الكبدية النائمة.",
+      "explanation": "Primaquine eliminates dormant hepatic stages.",
       "difficulty": "medium"
     }
   ]

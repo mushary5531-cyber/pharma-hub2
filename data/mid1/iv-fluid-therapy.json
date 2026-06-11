@@ -102,111 +102,111 @@
   ],
   "flashcards": [
     {
-      "front": "ما الفرق بين الكريستالويد والكولويد؟",
-      "back": "الكريستالويد: محاليل شفافة من الماء والشوارد تعبر الغشاء الخلوي. الكولويد: يحتوي جزيئات كبيرة (بروتينات) تبقى داخل الأوعية أطول وترفع الضغط الغروي."
+      "front": "What is the difference between a crystalloid and a colloid?",
+      "back": "Crystalloid: clear solutions of water and electrolytes that cross cell membranes. Colloid: contains large molecules (proteins) that remain within blood vessels longer and raise the oncotic pressure."
     },
     {
-      "front": "ما تركيب المحلول الملحي الطبيعي (Normal Saline 0.9%)؟",
-      "back": "يحتوي فقط على الماء والصوديوم (154 mEq/L) والكلور (154 mEq/L). تركيزه مشابه لتركيز هذه الشوارد في بلازما الدم."
+      "front": "What is the composition of Normal Saline (0.9% NaCl)?",
+      "back": "Contains only water, sodium (154 mEq/L), and chloride (154 mEq/L). Its concentration matches that of these electrolytes in blood plasma."
     },
     {
-      "front": "ما مضاعفة إعطاء كميات كبيرة من Normal Saline؟",
-      "back": "حماض استقلابي فرط كلوري (Hyperchloremic metabolic acidosis) بسبب المحتوى العالي من Cl-، إضافة إلى خطر زيادة الحجم (Fluid overload)."
+      "front": "What is the complication of giving large volumes of Normal Saline?",
+      "back": "Hyperchloremic metabolic acidosis due to the high chloride content, in addition to the risk of fluid overload."
     },
     {
-      "front": "ما ميزة محلول Ringer's Lactate عن Normal Saline؟",
-      "back": "Ringer's Lactate أقرب لتركيب البلازما الطبيعية (يحتوي Na, Cl, K, Ca, Lactate) وأقل خطراً لحدوث الحماض الفرط كلوري."
+      "front": "What is the advantage of Ringer's Lactate over Normal Saline?",
+      "back": "Ringer's Lactate more closely resembles normal plasma composition (contains Na, Cl, K, Ca, and Lactate) and carries a lower risk of hyperchloremic acidosis."
     },
     {
-      "front": "لماذا يتحول D5W إلى محلول ناقص التوتر بعد الإعطاء؟",
-      "back": "لأن الجلوكوز يُستقلب سريعاً، فيتبقى الماء فقط كمحلول ناقص التوتر يدخل إلى الخلايا."
+      "front": "Why does D5W become a hypotonic solution after administration?",
+      "back": "Because glucose is rapidly metabolised, leaving only water, which acts as a hypotonic solution that enters cells."
     },
     {
-      "front": "لماذا لا يُعطى D5W للرضّع؟",
-      "back": "لأن الرضّع أكثر عرضة لنقص صوديوم الدم المُخفَّف بسبب قصور قدرتهم الكلوية على إفراز الماء الحر."
+      "front": "Why should D5W not be given to infants?",
+      "back": "Because infants are more susceptible to dilutional hyponatraemia due to their limited renal capacity to excrete free water."
     },
     {
-      "front": "ما مؤشرات استخدام المحاليل ناقصة التوتر (Hypotonic)?",
-      "back": "فرط صوديوم الدم (Hypernatremia)، الحماض الكيتوني السكري (DKA)، الحالة فرط الأسمولالية غير الكيتونية (HHS)."
+      "front": "What are the indications for hypotonic solutions?",
+      "back": "Hypernatraemia, diabetic ketoacidosis (DKA), and hyperosmolar hyperglycaemic state (HHS)."
     },
     {
-      "front": "ما تحذيرات المحاليل ناقصة التوتر (Hypotonic)؟",
-      "back": "لا تُعطى لمرضى ارتفاع الضغط داخل القحف (خطر وذمة الدماغ)، ولا لمرضى أمراض الكبد والحروق والصدمة (خطر نضوب الحجم الوعائي)."
+      "front": "What are the warnings for hypotonic solutions?",
+      "back": "Do not give to patients with raised intracranial pressure (risk of cerebral oedema), or to patients with liver disease, burns, or shock (risk of intravascular volume depletion)."
     },
     {
-      "front": "ما مؤشرات المحلول فرط التوتر (Hypertonic Saline 3%)?",
-      "back": "علاج نقص صوديوم الدم الشديد المصحوب بأعراض عصبية (غيبوبة، نوبات صرع)، والوذمة الدماغية."
+      "front": "What are the indications for hypertonic saline (3% NaCl)?",
+      "back": "Treatment of severe symptomatic hyponatraemia (coma, seizures) and cerebral oedema."
     },
     {
-      "front": "ما خطورة التصحيح السريع لنقص صوديوم الدم؟",
-      "back": "التصحيح السريع جداً قد يُسبب: وذمة دماغية، نوبات صرع، وفاة. لذلك يجب إعطاء الهيبيرتونيك سالين ببطء عبر خط وريدي مركزي."
+      "front": "What is the danger of rapid correction of hyponatraemia?",
+      "back": "Overly rapid correction may cause cerebral oedema, seizures, and death. Therefore, hypertonic saline must be infused slowly via a central venous line."
     },
     {
-      "front": "ما آلية عمل محلول الألبومين 5% في توسيع الحجم الوعائي؟",
-      "back": "الألبومين يرفع الضغط الغروي (Oncotic pressure) داخل الأوعية مما يسحب الماء من الفضاء الخلالي إلى داخل الأوعية."
+      "front": "What is the mechanism by which 5% Albumin expands intravascular volume?",
+      "back": "Albumin raises the oncotic pressure inside blood vessels, drawing water from the interstitial space into the vessels."
     },
     {
-      "front": "ما مؤشرات استخدام 5% Albumin؟",
-      "back": "توسيع الحجم الوعائي، تعويض البروتين المعتدل، تحقيق الاستقرار الديناميكي في حالات الصدمة."
+      "front": "What are the indications for 5% Albumin?",
+      "back": "Intravascular volume expansion, moderate protein replacement, and achieving haemodynamic stability in shock states."
     },
     {
-      "front": "ما احتياطات إعطاء الكولويدات (Colloids)؟",
-      "back": "استخدام إبرة 18 gauge أو أكبر، مراقبة علامات فرط الحجم (ارتفاع الضغط، ضيق التنفس، الوذمة)، الانتباه لتفاعلات الحساسية النادرة (Anaphylactoid reactions)."
+      "front": "What are the precautions for colloid administration?",
+      "back": "Use an 18-gauge needle or larger, monitor for signs of fluid overload (hypertension, dyspnoea, oedema), and watch for rare anaphylactoid reactions."
     },
     {
-      "front": "ما مؤشرات Normal Saline؟",
-      "back": "علاج نقص الحجم خارج الخلوي (نزيف، قيء، إسهال شديد)، تخفيف الأدوية، تخفيف كريات الدم الحمراء المكدسة قبل نقل الدم."
+      "front": "What are the indications for Normal Saline?",
+      "back": "Treatment of extracellular volume depletion (haemorrhage, vomiting, severe diarrhoea), drug dilution, and dilution of packed red blood cells before transfusion."
     },
     {
-      "front": "ما احتياجات السوائل في الجراحة؟",
-      "back": "تشمل: الاحتياج اليومي (Maintenance) + العجز (Deficit = صيام المريض × الاحتياج اليومي) + خسائر الفضاء الثالث + خسائر الدم."
+      "front": "What are the surgical fluid requirements?",
+      "back": "They include: maintenance requirements + deficit (fasting duration × daily requirement) + third-space losses + blood losses."
     },
     {
-      "front": "ما قيمة الأسمولالية للمحلول ناقص التوتر؟",
-      "back": "أقل من 250 mOsm/L. الأسمولالية الطبيعية للبلازما 280-295 mOsm/L."
+      "front": "What is the osmolality of a hypotonic solution?",
+      "back": "Less than 250 mOsm/L. Normal plasma osmolality is 280–295 mOsm/L."
     },
     {
-      "front": "ما الرسالة الأساسية في علاج السوائل الوريدية؟",
-      "back": "عامل السوائل الوريدية كوصفة طبية مثل أي دواء آخر - الجرعة الخاطئة أو النوع الخاطئ قد يُسبب مضاعفات خطيرة."
+      "front": "What is the fundamental principle of IV fluid therapy?",
+      "back": "Treat IV fluids like any other prescription drug — the wrong dose or wrong type can cause serious complications."
     },
     {
-      "front": "ما دواعي استخدام السوائل الوريدية؟",
-      "back": "تعويض السوائل والكهارل، توفير الجلوكوز للطاقة، إعطاء الفيتامينات والأدوية، عند عدم القدرة على البلع.",
+      "front": "What are the indications for IV fluid therapy?",
+      "back": "Replacement of fluids and electrolytes, provision of glucose for energy, delivery of vitamins and drugs, and when the patient is unable to swallow.",
       "tag": "high-yield"
     },
     {
-      "front": "ما الفرق بين Crystalloids و Colloids؟",
-      "back": "Crystalloids: ماء وكهارل تعبر الغشاء (NaCl، Ringer). Colloids: جزيئات كبيرة تبقى داخل الأوعية أطول (Albumin، Dextran)."
+      "front": "What is the difference between crystalloids and colloids?",
+      "back": "Crystalloids: water and electrolytes that cross membranes (NaCl, Ringer's). Colloids: large molecules that remain in the vessels longer (Albumin, Dextran)."
     },
     {
-      "front": "ما هو المحلول متساوي التوتر (Isotonic)؟",
-      "back": "تركيز جسيماته مماثل للبلازما فلا يدخل الخلايا ويبقى خارجها → يزيد الحجم داخل الأوعية. مثال: NaCl 0.9%.",
+      "front": "What is an isotonic solution?",
+      "back": "A solution whose particle concentration equals that of plasma, so it neither enters cells nor causes them to shrink — it stays extracellularly and increases intravascular volume. Example: 0.9% NaCl.",
       "tag": "high-yield"
     },
     {
-      "front": "ما تركيب المحلول الملحي الطبيعي 0.9% NaCl؟",
-      "back": "ماء + صوديوم 154 mEq/L + كلوريد 154 mEq/L (مماثل لتركيز البلازما)."
+      "front": "What is the composition of 0.9% NaCl (Normal Saline)?",
+      "back": "Water + sodium 154 mEq/L + chloride 154 mEq/L (equivalent to plasma concentration)."
     },
     {
-      "front": "متى يُستخدم المحلول مفرط التوتر (Hypertonic)؟",
-      "back": "نقص الصوديوم الشديد؛ يسحب الماء من الخلايا للأوعية. مثال: NaCl 3%."
+      "front": "When is a hypertonic solution used?",
+      "back": "Severe hyponatraemia; it draws water from cells into the vessels. Example: 3% NaCl."
     },
     {
-      "front": "متى يُستخدم المحلول ناقص التوتر (Hypotonic)؟",
-      "back": "الجفاف داخل الخلوي؛ يدخل الماء إلى الخلايا. مثال: NaCl 0.45%."
+      "front": "When is a hypotonic solution used?",
+      "back": "Intracellular dehydration; water moves into cells. Example: 0.45% NaCl."
     },
     {
-      "front": "ما هو محلول Ringer's lactate؟",
-      "back": "محلول بلوري متساوي التوتر يحتوي صوديوم، بوتاسيوم، كالسيوم، كلوريد ولاكتات - لتعويض الحجم."
+      "front": "What is Ringer's Lactate solution?",
+      "back": "An isotonic crystalloid solution containing sodium, potassium, calcium, chloride, and lactate — used for volume replacement."
     },
     {
-      "front": "ما مضاعفات الإفراط في السوائل الوريدية؟",
-      "back": "الوذمة (overload)، الفشل القلبي، اختلال الكهارل."
+      "front": "What are the complications of excessive IV fluids?",
+      "back": "Oedema (fluid overload), cardiac failure, and electrolyte imbalance."
     }
   ],
   "mcqs": [
     {
-      "q": "مريض مصاب بحرق شديد يحتاج إنعاشاً بالسوائل. أي محلول هو الأنسب؟",
+      "q": "A patient with severe burns requires fluid resuscitation. Which solution is most appropriate?",
       "options": [
         "Dextrose 5% (D5W)",
         "0.45% Sodium Chloride",
@@ -214,10 +214,10 @@
         "3% Sodium Chloride"
       ],
       "answer": 2,
-      "explanation": "Ringer's Lactate هو الخيار الأمثل للحروق لأنه الأقرب لتركيب البلازما ويحتوي على K+ المهم في هذه الحالات."
+      "explanation": "Ringer's Lactate is the optimal choice for burns because it most closely resembles plasma composition and contains K+, which is important in these cases."
     },
     {
-      "q": "مريض بفشل قلبي مزمن وجفاف بسبب التهاب معوي. أي سائل يُعطى بحذر لتجنب زيادة الحجم؟",
+      "q": "A patient with chronic heart failure develops dehydration from gastroenteritis. Which fluid should be used cautiously to avoid fluid overload?",
       "options": [
         "Ringer's Lactate",
         "3% NaCl",
@@ -225,10 +225,10 @@
         "0.45% NaCl (Half Normal Saline)"
       ],
       "answer": 3,
-      "explanation": "مريض الفشل القلبي محفوف بخطر زيادة الحجم. المحاليل ناقصة التوتر (0.45% NaCl) أقل استقراراً في الفضاء الوعائي لأن السائل يدخل الخلايا."
+      "explanation": "Patients with heart failure are at high risk of fluid overload. Hypotonic solutions (0.45% NaCl) are less stable in the vascular space because the fluid enters cells."
     },
     {
-      "q": "مريض بنقص صوديوم الدم الشديد مع نوبة صرع. ما أنسب سائل؟",
+      "q": "A patient presents with severe hyponatraemia and a seizure. What is the most appropriate fluid?",
       "options": [
         "5% Albumin",
         "Ringer's Lactate",
@@ -236,21 +236,21 @@
         "Dextrose 5%"
       ],
       "answer": 2,
-      "explanation": "نقص الصوديوم الشديد المصحوب بأعراض عصبية (صرع، غيبوبة) يستدعي إعطاء 3% NaCl فرط التوتر لرفع مستوى الصوديوم بسرعة مع المراقبة الدقيقة."
+      "explanation": "Severe symptomatic hyponatraemia (seizures, coma) requires 3% NaCl (hypertonic saline) to raise sodium levels rapidly, with close monitoring."
     },
     {
-      "q": "أي مما يلي صحيح بخصوص D5W؟",
+      "q": "Which of the following is true regarding D5W?",
       "options": [
-        "يُستخدم للإنعاش في الصدمة النزفية",
-        "يمكن خلطه مع كريات الدم الحمراء",
-        "يتحول إلى محلول ناقص التوتر بعد استقلاب الجلوكوز",
-        "يُعطى بأمان لمرضى ارتفاع الضغط داخل القحف"
+        "It is used for resuscitation in haemorrhagic shock",
+        "It can be mixed with red blood cells",
+        "It becomes a hypotonic solution after glucose metabolism",
+        "It is safe to give to patients with raised intracranial pressure"
       ],
       "answer": 2,
-      "explanation": "بعد استقلاب الجلوكوز يتبقى الماء فقط، فيتحول D5W إلى محلول ناقص التوتر يدخل الخلايا. لذلك لا يُستخدم للإنعاش ولا يُخلط مع الدم ولا يُعطى مع ارتفاع ICP."
+      "explanation": "After glucose is metabolised, only water remains, converting D5W into a hypotonic solution that enters cells. Therefore it should not be used for resuscitation, mixed with blood, or given with raised ICP."
     },
     {
-      "q": "ما السائل الأنسب لمريض الجفاف داخل الخلوي مع الحماض الكيتوني السكري (DKA)؟",
+      "q": "Which fluid is most appropriate for a patient with intracellular dehydration due to diabetic ketoacidosis (DKA)?",
       "options": [
         "Ringer's Lactate",
         "0.45% Sodium Chloride (Half Normal Saline)",
@@ -258,65 +258,65 @@
         "5% Albumin"
       ],
       "answer": 1,
-      "explanation": "الـ DKA يُسبب جفافاً داخل الخلوي بسبب فرط الأسمولالية. المحلول ناقص التوتر (0.45% NaCl) يدخل إلى الخلايا ويُعيد ترطيبها."
+      "explanation": "DKA causes intracellular dehydration through hyperosmolality. The hypotonic solution (0.45% NaCl) enters cells and rehydrates them."
     },
     {
-      "q": "ما الضغط الذي يجعل محلول الألبومين فعّالاً في توسيع الحجم الوعائي؟",
+      "q": "Which pressure makes Albumin solution effective at expanding intravascular volume?",
       "options": [
-        "الضغط الهيدروستاتيكي",
-        "الضغط الغروي الجرموني (Oncotic pressure)",
-        "الضغط الأسموزي الصوديومي",
-        "الضغط الشرياني الوسطي"
+        "Hydrostatic pressure",
+        "Oncotic (colloid osmotic) pressure",
+        "Sodium osmotic pressure",
+        "Mean arterial pressure"
       ],
       "answer": 1,
-      "explanation": "الألبومين يرفع الضغط الغروي (Oncotic pressure) الناتج عن الجزيئات الكبيرة (البروتينات) داخل الأوعية، مما يجذب السوائل من النسيج الخلالي."
+      "explanation": "Albumin raises the oncotic pressure generated by large molecules (proteins) inside blood vessels, drawing fluid from the interstitial tissue."
     },
     {
-      "q": "مريض أُعطي كميات كبيرة من Normal Saline لعلاج الجفاف. ما المضاعفة المتوقعة؟",
+      "q": "A patient is given large volumes of Normal Saline for dehydration. What complication is expected?",
       "options": [
-        "حماض استقلابي ناقص كلوري",
-        "حماض استقلابي فرط كلوري (Hyperchloremic metabolic acidosis)",
-        "نقص صوديوم الدم",
-        "فرط بوتاسيوم الدم"
+        "Hypochloraemic metabolic acidosis",
+        "Hyperchloraemic metabolic acidosis",
+        "Hyponatraemia",
+        "Hyperkalaemia"
       ],
       "answer": 1,
-      "explanation": "Normal Saline يحتوي على 154 mEq/L من Cl- (أعلى من البلازما). الكميات الكبيرة تُسبب تراكم Cl- وحماض استقلابي فرط كلوري."
+      "explanation": "Normal Saline contains 154 mEq/L of Cl- (higher than plasma). Large volumes cause chloride accumulation and hyperchloraemic metabolic acidosis."
     },
     {
-      "q": "أي مما يلي يُعدّ تحذيراً عند إعطاء المحاليل فرط التوتر (Hypertonic Saline)؟",
+      "q": "Which of the following is a warning when administering hypertonic saline?",
       "options": [
-        "يُعطى بسرعة عبر وريد طرفي صغير",
-        "لا يُسبب أي مضاعفات",
-        "خطر فرط حجم الدم والوذمة الرئوية، يُعطى ببطء عبر خط مركزي",
-        "يُعطى للرضّع بشكل آمن"
+        "It should be given rapidly via a small peripheral vein",
+        "It causes no complications",
+        "Risk of hypervolaemia and pulmonary oedema; must be infused slowly via a central line",
+        "It can be given safely to infants"
       ],
       "answer": 2,
-      "explanation": "الهيبيرتونيك سالين يسحب السوائل إلى الأوعية مما قد يُسبب فرط الحجم الوعائي والوذمة الرئوية. يجب إعطاؤه ببطء عبر خط وريدي مركزي مع مراقبة صوديوم الدم."
+      "explanation": "Hypertonic saline draws fluid into the vessels, which can cause hypervolaemia and pulmonary oedema. It must be infused slowly via a central venous line with monitoring of serum sodium."
     },
     {
-      "q": "مريضة تتلقى Albumin 5% في ICU لعلاج الصدمة. ما العرض الذي يستوجب وقف الإعطاء فوراً؟",
+      "q": "A female patient in the ICU is receiving 5% Albumin for shock. Which sign warrants immediate cessation of the infusion?",
       "options": [
-        "ارتفاع طفيف في ضغط الدم",
-        "ضيق تنفس حاد + طقطقة في الرئتين + وذمة",
-        "ارتفاع صوديوم الدم",
-        "انخفاض البوتاسيوم"
+        "A slight rise in blood pressure",
+        "Acute dyspnoea + pulmonary crackles + oedema",
+        "Raised serum sodium",
+        "Low potassium"
       ],
       "answer": 1,
-      "explanation": "ضيق التنفس والطقطقة والوذمة تدل على فرط الحجم (Hypervolemia) وهي مضاعفة خطيرة للكولويدات تستدعي إيقاف الإعطاء فوراً."
+      "explanation": "Dyspnoea, crackles, and oedema indicate hypervolaemia — a serious complication of colloids that requires immediate cessation of the infusion."
     },
     {
-      "q": "ما مؤشر إعطاء Dextrose 5% (D5W)؟",
+      "q": "What is the indication for Dextrose 5% (D5W)?",
       "options": [
-        "الصدمة النزفية",
-        "الإنعاش أثناء العمليات الكبرى",
-        "المرضى غير القادرين على الأكل (NPO) لتوفير سعرات حرارية",
-        "علاج نقص صوديوم الدم الشديد"
+        "Haemorrhagic shock",
+        "Resuscitation during major surgery",
+        "Patients unable to eat (NPO) to provide caloric intake",
+        "Treatment of severe hyponatraemia"
       ],
       "answer": 2,
-      "explanation": "D5W يُستخدم لتوفير سعرات حرارية للمرضى الذين لا يتناولون الطعام (NPO patients) - يُعطي 170 سعرة/لتر. لكنه لا يُعوِّض الشوارد ولا يُستخدم للإنعاش."
+      "explanation": "D5W is used to provide calories for patients who cannot eat (NPO patients) — it provides 170 kcal/L. However, it does not replace electrolytes and is not used for resuscitation."
     },
     {
-      "q": "التوافر الحيوي 100% وتركيب مماثل للبلازما يصف:",
+      "q": "100% bioavailability and a composition similar to plasma describes:",
       "options": [
         "Hypotonic",
         "Isotonic 0.9% NaCl",
@@ -324,31 +324,31 @@
         "Colloid"
       ],
       "answer": 1,
-      "explanation": "المحلول متساوي التوتر يبقى خارج الخلايا ويزيد الحجم الوعائي.",
+      "explanation": "An isotonic solution stays extracellularly and increases intravascular volume.",
       "difficulty": "medium"
     },
     {
-      "q": "لتصحيح نقص الصوديوم الشديد نستخدم:",
+      "q": "To correct severe hyponatraemia we use:",
       "options": [
         "NaCl 0.45%",
         "D5W",
         "NaCl 3% (hypertonic)",
-        "ماء نقي"
+        "Pure water"
       ],
       "answer": 2,
-      "explanation": "المفرط التوتر يرفع الصوديوم ويسحب الماء للأوعية.",
+      "explanation": "Hypertonic saline raises sodium and draws water into the vessels.",
       "difficulty": "medium"
     },
     {
-      "q": "Albumin مثال على:",
+      "q": "Albumin is an example of:",
       "options": [
         "Crystalloid",
         "Colloid",
         "Hypotonic crystalloid",
-        "كهرل"
+        "Electrolyte"
       ],
       "answer": 1,
-      "explanation": "الألبومين غرواني (colloid) يبقى داخل الأوعية.",
+      "explanation": "Albumin is a colloid that remains within blood vessels.",
       "difficulty": "medium"
     }
   ],

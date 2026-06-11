@@ -119,127 +119,127 @@
   ],
   "flashcards": [
     {
-      "front": "لماذا تُسمى DMARDs 'معدّلة للمرض'؟",
-      "back": "لأنها تُبطئ أو توقف التدمير المفصلي الهيكلي، بخلاف NSAIDs والستيرويدات التي تُعالج الأعراض فقط دون منع تقدم المرض"
+      "front": "Why are DMARDs called 'disease-modifying'?",
+      "back": "Because they slow or halt structural joint destruction, unlike NSAIDs and steroids which only treat symptoms without preventing disease progression"
     },
     {
-      "front": "ما هو الدواء المحوري (Anchor Drug) في علاج RA؟",
-      "back": "Methotrexate (MTX) - هو الدواء الأساسي الأول في RA والذي تُبنى عليه بقية خطط العلاج"
+      "front": "What is the anchor drug in the treatment of RA?",
+      "back": "Methotrexate (MTX) — the primary foundational drug in RA upon which all other treatment regimens are built"
     },
     {
-      "front": "ما جرعة Methotrexate في RA ولماذا؟",
-      "back": "مرة واحدة أسبوعياً فقط - الجرعة اليومية تسبب سمية عالية بسبب تراكم التأثير المضاد للفولات"
+      "front": "What is the dose of Methotrexate in RA and why?",
+      "back": "Once weekly only — daily dosing causes high toxicity due to cumulative antifolate effect"
     },
     {
-      "front": "ما الآلية الرئيسية لتأثير Methotrexate المضاد للالتهاب؟",
-      "back": "يزيد مستوى Adenosine (وسيط مضاد للالتهاب) - التأثير المضاد للتكاثر (antiproliferative) هو آلية ثانوية"
+      "front": "What is the main anti-inflammatory mechanism of Methotrexate?",
+      "back": "Increases adenosine levels (an anti-inflammatory mediator) — the antiproliferative effect is a secondary mechanism"
     },
     {
-      "front": "لماذا نُعطي حمض الفوليك مع Methotrexate؟",
-      "back": "MTX يثبط DHFR فيمنع تنشيط حمض الفوليك - إضافة فوليك اسيد تقلل السمية (GI، قرح الفم، نقص الكريات) دون تقليل الفاعلية"
+      "front": "Why is folic acid given with Methotrexate?",
+      "back": "MTX inhibits DHFR and blocks folate activation — adding folic acid reduces toxicity (GI side effects, mouth ulcers, cytopenias) without reducing efficacy"
     },
     {
-      "front": "ما الفحوصات الدورية اللازمة لمرضى Methotrexate؟",
-      "back": "شهرياً: CBC (كبت نقي العظم) + LFTs (تسمم كبدي) + Creatinine (MTX يُطرح كلوياً - ضعف الكلى يزيد السمية)"
+      "front": "What routine monitoring is required for patients on Methotrexate?",
+      "back": "Monthly: CBC (bone marrow suppression) + LFTs (hepatotoxicity) + creatinine (MTX is renally excreted — renal impairment increases toxicity)"
     },
     {
-      "front": "ما السمية الرئيسية لـ Hydroxychloroquine؟",
-      "back": "تسمم الشبكية (Retinal Toxicity) - يتطلب فحص عيون دورياً لاكتشافه مبكراً"
+      "front": "What is the main toxicity of Hydroxychloroquine?",
+      "back": "Retinal toxicity — requires periodic ophthalmologic examination for early detection"
     },
     {
-      "front": "ما استخدامات Hydroxychloroquine؟",
-      "back": "الروماتويد الخفيف، الذئبة الحمراء (SLE)، أمراض التهابية خفيفة-متوسطة"
+      "front": "What are the uses of Hydroxychloroquine?",
+      "back": "Mild rheumatoid arthritis, systemic lupus erythematosus (SLE), mild-to-moderate inflammatory diseases"
     },
     {
-      "front": "ما آلية عمل Leflunomide؟",
-      "back": "يثبط تخليق البيريميدين (Pyrimidine Synthesis) مما يقلل تكاثر الخلايا اللمفاوية ويقلل الالتهاب"
+      "front": "What is the mechanism of action of Leflunomide?",
+      "back": "Inhibits pyrimidine synthesis, reducing lymphocyte proliferation and inflammation"
     },
     {
-      "front": "ما موانع استخدام Leflunomide وSulfasalazine؟",
-      "back": "كلاهما ممنوعان في الحمل (Teratogenic) - Leflunomide له نصف عمر طويل جداً ويحتاج إجراء خاص قبل الحمل"
+      "front": "What are the contraindications of Leflunomide and Sulfasalazine?",
+      "back": "Both are contraindicated in pregnancy (teratogenic) — Leflunomide has a very long half-life and requires a special washout procedure before conception"
     },
     {
-      "front": "متى تُستخدم البيولوجية (Biologics) في RA؟",
-      "back": "بعد فشل DMARDs التقليدية (خاصة MTX) أو في المرض المتوسط-الشديد الذي لا يستجيب للعلاج التقليدي"
+      "front": "When are biologics used in RA?",
+      "back": "After failure of conventional DMARDs (especially MTX) or in moderate-to-severe disease not responding to conventional treatment"
     },
     {
-      "front": "ما أهم الآثار الجانبية المشتركة لجميع البيولوجية؟",
-      "back": "زيادة خطر العدوى (Infections) - يجب فحص TB والتهاب الكبد قبل البدء بأي دواء بيولوجي"
+      "front": "What are the most important shared adverse effects of all biologics?",
+      "back": "Increased risk of infections — TB and hepatitis screening must be performed before starting any biologic"
     },
     {
-      "front": "ما آلية عمل TNF Inhibitors (Adalimumab, Etanercept)؟",
-      "back": "تثبط مباشرة عامل نخر الورم (TNF-α) - وسيط التهابي رئيسي في RA"
+      "front": "What is the mechanism of action of TNF inhibitors (Adalimumab, Etanercept)?",
+      "back": "Directly inhibit tumor necrosis factor (TNF-α) — a key inflammatory mediator in RA"
     },
     {
-      "front": "ما دور Abatacept في علاج RA؟",
-      "back": "يثبط تنشيط الخلايا التائية (T-cell co-stimulation blockade) مما يقلل الاستجابة المناعية في RA"
+      "front": "What is the role of Abatacept in RA treatment?",
+      "back": "Inhibits T-cell co-stimulation (T-cell activation blockade), reducing the immune response in RA"
     },
     {
-      "front": "ما آلية عمل JAK Inhibitors (Tofacitinib, Baricitinib)؟",
-      "back": "تثبط مسار JAK-STAT داخل الخلية - وهو المسار الذي تستخدمه السيتوكينات الالتهابية للتأثير على الخلايا"
+      "front": "What is the mechanism of action of JAK inhibitors (Tofacitinib, Baricitinib)?",
+      "back": "Inhibit the intracellular JAK-STAT pathway — the pathway used by inflammatory cytokines to act on cells"
     },
     {
-      "front": "ما ميزة JAK Inhibitors على البيولوجية؟",
-      "back": "إنها فموية (Oral) - بينما البيولوجية تُعطى حقناً أو وريدياً"
+      "front": "What is the advantage of JAK inhibitors over biologics?",
+      "back": "They are oral — whereas biologics are given by injection or intravenous infusion"
     },
     {
-      "front": "ما مخاوف أمان JAK Inhibitors؟",
-      "back": "زيادة خطر الجلطات (Thrombosis)، إعادة تنشيط Herpes Zoster وTB، نقص الكريات، ارتفاع الدهون - لذلك استخدامها مقيّد"
+      "front": "What are the safety concerns of JAK inhibitors?",
+      "back": "Increased risk of thrombosis, reactivation of Herpes Zoster and TB, cytopenias, elevated lipids — therefore their use is restricted"
     },
     {
-      "front": "ما دور الستيرويدات في علاج RA مقارنة بـ DMARDs؟",
-      "back": "الستيرويدات كـ'جسر علاجي' (Bridge Therapy) - تُستخدم مؤقتاً لسرعة السيطرة على الالتهاب ريثما تبدأ DMARDs بالتأثير (تأخذ أسابيع)"
+      "front": "What is the role of steroids in RA treatment compared to DMARDs?",
+      "back": "Steroids serve as 'bridge therapy' — used temporarily for rapid inflammation control while DMARDs take effect (which takes weeks)"
     },
     {
-      "front": "ما الفرق بين NSAIDs و DMARDs في الروماتويد؟",
-      "back": "NSAIDs تخفف الأعراض فقط؛ DMARDs تعدّل سير المرض وتبطئ تلف المفصل.",
+      "front": "What is the difference between NSAIDs and DMARDs in rheumatoid arthritis?",
+      "back": "NSAIDs only relieve symptoms; DMARDs modify the disease course and slow joint damage.",
       "tag": "high-yield"
     },
     {
-      "front": "ما آلية Methotrexate في الروماتويد؟",
-      "back": "يثبّط dihydrofolate reductase ويقلل الالتهاب؛ الـ DMARD التقليدي الأول."
+      "front": "What is the mechanism of Methotrexate in rheumatoid arthritis?",
+      "back": "Inhibits dihydrofolate reductase and reduces inflammation; it is the first conventional DMARD."
     },
     {
-      "front": "ما مراقبة Methotrexate؟",
-      "back": "وظائف الكبد، تعداد الدم، والرئة (تليف)؛ يُعطى folic acid لتقليل السُّميّة.",
+      "front": "What monitoring is required for Methotrexate?",
+      "back": "Liver function tests, complete blood count, and lung function (fibrosis); folic acid is given to reduce toxicity.",
       "tag": "high-yield"
     },
     {
-      "front": "ما آلية Hydroxychloroquine ومخاطره؟",
-      "back": "مضاد ملاريا يُستخدم بالروماتويد والذئبة؛ خطر اعتلال الشبكية (فحص عيون دوري)."
+      "front": "What is the mechanism of Hydroxychloroquine and its risks?",
+      "back": "An antimalarial used in RA and lupus; risk of retinopathy (periodic eye examination required)."
     },
     {
-      "front": "ما هي مثبطات TNF-α؟",
-      "back": "Etanercept, Infliximab, Adalimumab - بيولوجية تعدّل المناعة."
+      "front": "What are the TNF-α inhibitors?",
+      "back": "Etanercept, Infliximab, Adalimumab — biologic immunomodulatory agents."
     },
     {
-      "front": "ما الخطر الأبرز لمثبطات TNF-α؟",
-      "back": "إعادة تنشيط السل والعدوى الانتهازية - افحص السل قبل البدء.",
+      "front": "What is the main risk of TNF-α inhibitors?",
+      "back": "Reactivation of tuberculosis and opportunistic infections — screen for TB before starting.",
       "tag": "high-yield"
     },
     {
-      "front": "ما آلية Rituximab؟",
-      "back": "جسم مضاد ضد CD20 يستنزف الخلايا البائية."
+      "front": "What is the mechanism of Rituximab?",
+      "back": "Anti-CD20 monoclonal antibody that depletes B cells."
     },
     {
-      "front": "ما آلية Sulfasalazine؟",
-      "back": "DMARD تقليدي مضاد التهاب يُستخدم بالروماتويد والتهاب القولون."
+      "front": "What is the mechanism of Sulfasalazine?",
+      "back": "A conventional anti-inflammatory DMARD used in rheumatoid arthritis and inflammatory bowel disease."
     }
   ],
   "mcqs": [
     {
-      "q": "مريضة 42 سنة بالتهاب مفاصل روماتويدي أُعطيت NSAIDs لسنتين وطوّرت تشوهات مفصلية. ما الدرس الرئيسي من هذه القصة؟",
+      "q": "A 42-year-old woman with rheumatoid arthritis was treated with NSAIDs for two years and developed joint deformities. What is the main lesson from this case?",
       "options": [
-        "NSAIDs تسرّع التدمير المفصلي",
-        "NSAIDs تُعالج الأعراض فقط ولا تمنع التدمير المفصلي",
-        "يجب زيادة جرعة NSAIDs",
-        "يجب إضافة كورتيزون"
+        "NSAIDs accelerate joint destruction",
+        "NSAIDs only treat symptoms and do not prevent joint destruction",
+        "The dose of NSAIDs should be increased",
+        "Corticosteroids should be added"
       ],
       "answer": 1,
-      "explanation": "NSAIDs تُريح الألم والتيبس لكنها لا تمنع التدمير المفصلي. DMARDs هي الأدوية الوحيدة التي تُعدّل مسار المرض وتمنع التدمير."
+      "explanation": "NSAIDs relieve pain and stiffness but do not prevent joint destruction. DMARDs are the only drugs that modify the disease course and prevent destruction."
     },
     {
-      "q": "ما الدواء المحوري الأول في علاج الروماتويد ما لم يكن هناك موانع؟",
+      "q": "What is the first anchor drug in the treatment of rheumatoid arthritis unless contraindicated?",
       "options": [
         "Hydroxychloroquine",
         "Sulfasalazine",
@@ -247,118 +247,118 @@
         "Leflunomide"
       ],
       "answer": 2,
-      "explanation": "Methotrexate هو الدواء المحوري (Anchor Drug) الأول في RA. يُستخدم كأساس لجميع بروتوكولات العلاج."
+      "explanation": "Methotrexate is the anchor drug in RA. It is used as the foundation for all treatment protocols."
     },
     {
-      "q": "مريض على Methotrexate. لماذا يُعطى حمض الفوليك معه؟",
+      "q": "A patient is on Methotrexate. Why is folic acid given with it?",
       "options": [
-        "لتعزيز فاعلية MTX",
-        "لتقليل الآثار الجانبية دون التأثير على الفاعلية",
-        "لتسريع امتصاص MTX",
-        "لمنع احتباس الماء"
+        "To enhance the efficacy of MTX",
+        "To reduce adverse effects without affecting efficacy",
+        "To speed up MTX absorption",
+        "To prevent water retention"
       ],
       "answer": 1,
-      "explanation": "MTX يثبط DHFR ويمنع تنشيط الفولات مما يسبب سمية (GI، قرح الفم، نقص الكريات). إعطاء Folic Acid يقلل هذه الآثار دون أي تأثير على الفاعلية العلاجية."
+      "explanation": "MTX inhibits DHFR and blocks folate activation, causing toxicity (GI effects, mouth ulcers, cytopenias). Folic acid reduces these effects without any impact on therapeutic efficacy."
     },
     {
-      "q": "ما الفحص الدوري الأهم لمريض يأخذ Hydroxychloroquine؟",
+      "q": "What is the most important routine test for a patient taking Hydroxychloroquine?",
       "options": [
-        "CBC شهرياً",
-        "LFTs كل 3 أشهر",
-        "فحص العيون دورياً",
-        "وظائف الكلى شهرياً"
+        "Monthly CBC",
+        "LFTs every 3 months",
+        "Periodic eye examination",
+        "Monthly renal function tests"
       ],
       "answer": 2,
-      "explanation": "السمية الرئيسية لـ Hydroxychloroquine هي تسمم الشبكية (Retinal Toxicity). يجب فحص العيون دورياً لاكتشافه قبل حدوث ضرر دائم."
+      "explanation": "The main toxicity of Hydroxychloroquine is retinal toxicity. Periodic eye examinations are required to detect it before permanent damage occurs."
     },
     {
-      "q": "ما آلية عمل Leflunomide في RA؟",
+      "q": "What is the mechanism of action of Leflunomide in RA?",
       "options": [
-        "يثبط TNF-α",
-        "يثبط تخليق البيريميدين ويقلل تكاثر الخلايا اللمفاوية",
-        "يثبط مسار JAK-STAT",
-        "يستنزف الخلايا البائية"
+        "Inhibits TNF-α",
+        "Inhibits pyrimidine synthesis and reduces lymphocyte proliferation",
+        "Inhibits the JAK-STAT pathway",
+        "Depletes B cells"
       ],
       "answer": 1,
-      "explanation": "Leflunomide يثبط إنزيم DHODH فيمنع تخليق البيريميدين، مما يقلل تكاثر الخلايا اللمفاوية ويضعف الاستجابة المناعية."
+      "explanation": "Leflunomide inhibits the enzyme DHODH, blocking pyrimidine synthesis and reducing lymphocyte proliferation, which weakens the immune response."
     },
     {
-      "q": "متى تُستخدم البيولوجية في علاج الروماتويد؟",
+      "q": "When are biologics used in the treatment of rheumatoid arthritis?",
       "options": [
-        "كخط أول قبل DMARDs التقليدية",
-        "بعد فشل DMARDs التقليدية كـ Methotrexate",
-        "فقط مع الستيرويدات",
-        "كوقاية فقط"
+        "As first-line before conventional DMARDs",
+        "After failure of conventional DMARDs such as Methotrexate",
+        "Only with steroids",
+        "Only as prophylaxis"
       ],
       "answer": 1,
-      "explanation": "البيولوجية تُستخدم بعد فشل DMARDs التقليدية (خاصة MTX) في المرض المتوسط-الشديد. إنها أدوية من الخط الثاني."
+      "explanation": "Biologics are used after failure of conventional DMARDs (especially MTX) in moderate-to-severe disease. They are second-line agents."
     },
     {
-      "q": "أي الآثار الجانبية مشترك بين جميع أدوية البيولوجية في RA؟",
+      "q": "Which adverse effect is shared by all biologic agents in RA?",
       "options": [
-        "تسمم الشبكية",
-        "زيادة خطر العدوى",
-        "تسمم كبدي",
-        "تسمم كلوي"
+        "Retinal toxicity",
+        "Increased risk of infections",
+        "Hepatotoxicity",
+        "Nephrotoxicity"
       ],
       "answer": 1,
-      "explanation": "جميع الأدوية البيولوجية تزيد خطر العدوى بسبب تثبيط المناعة. لذلك يجب فحص TB والتهاب الكبد B وC قبل بدء العلاج."
+      "explanation": "All biologic agents increase the risk of infections due to immunosuppression. Therefore, TB and hepatitis B and C screening must be performed before starting treatment."
     },
     {
-      "q": "ما ميزة Tofacitinib و Baricitinib على الأدوية البيولوجية؟",
+      "q": "What is the advantage of Tofacitinib and Baricitinib over biologic agents?",
       "options": [
-        "أقل تكلفة",
-        "أقل خطراً للعدوى",
-        "تُعطى فموياً",
-        "أسرع مفعولاً من MTX"
+        "Lower cost",
+        "Lower infection risk",
+        "Oral administration",
+        "Faster onset than MTX"
       ],
       "answer": 2,
-      "explanation": "JAK Inhibitors (Tofacitinib, Baricitinib) هي أدوية فموية (Oral) بينما معظم البيولوجية تُعطى حقناً أو وريدياً - هذه ميزتها الرئيسية."
+      "explanation": "JAK inhibitors (Tofacitinib, Baricitinib) are oral drugs, whereas most biologics are given by injection or IV infusion — this is their main advantage."
     },
     {
-      "q": "ما الدور الرئيسي للستيرويدات في بداية علاج RA مع DMARDs؟",
+      "q": "What is the main role of steroids at the start of RA treatment with DMARDs?",
       "options": [
-        "تحل محل DMARDs في الحالات الخفيفة",
-        "جسر علاجي مؤقت ريثما يبدأ DMARD بالتأثير",
-        "تُعطى طويلاً مع MTX",
-        "تمنع الآثار الجانبية لـ MTX"
+        "They replace DMARDs in mild cases",
+        "Temporary bridge therapy until the DMARD takes effect",
+        "Given long-term with MTX",
+        "They prevent the adverse effects of MTX"
       ],
       "answer": 1,
-      "explanation": "الستيرويدات تُستخدم كـ Bridge Therapy لسرعة السيطرة على الالتهاب بينما DMARDs تأخذ أسابيع لتبدأ بالتأثير. لا تُعوّض DMARDs في السيطرة على تقدم المرض."
+      "explanation": "Steroids are used as bridge therapy for rapid inflammation control while DMARDs take weeks to begin working. They do not replace DMARDs in controlling disease progression."
     },
     {
-      "q": "مريض سيبدأ علاجاً ببيولوجي. ما الفحص الإلزامي قبل البدء؟",
+      "q": "A patient is about to start a biologic. What is the mandatory test before starting?",
       "options": [
-        "فحص العيون",
-        "فحص TB والتهاب الكبد",
-        "فحص وظائف الدرقية",
-        "أشعة مقطعية للصدر فقط"
+        "Eye examination",
+        "TB and hepatitis screening",
+        "Thyroid function tests",
+        "Chest CT scan only"
       ],
       "answer": 1,
-      "explanation": "قبل بدء أي بيولوجي أو JAK Inhibitor يجب فحص TB والتهاب الكبد (B وC) لأن هذه الأدوية تثبط المناعة وقد تُعيد تنشيط الالتهابات الكامنة."
+      "explanation": "Before starting any biologic or JAK inhibitor, TB and hepatitis (B and C) screening is required because these drugs suppress immunity and may reactivate latent infections."
     },
     {
-      "q": "قبل بدء مثبطات TNF-α يجب فحص:",
+      "q": "Before starting TNF-α inhibitors, the following must be screened:",
       "options": [
-        "السكر",
-        "السل (TB)",
-        "العين",
-        "السمع"
+        "Blood glucose",
+        "Tuberculosis (TB)",
+        "Eyes",
+        "Hearing"
       ],
       "answer": 1,
-      "explanation": "خطر إعادة تنشيط السل.",
+      "explanation": "Risk of TB reactivation.",
       "difficulty": "medium"
     },
     {
-      "q": "يُعطى folic acid مع Methotrexate لـ:",
+      "q": "Folic acid is given with Methotrexate to:",
       "options": [
-        "زيادة الفعالية",
-        "تقليل السُّميّة",
-        "رفع الضغط",
-        "تسريع الطرح"
+        "Increase efficacy",
+        "Reduce toxicity",
+        "Raise blood pressure",
+        "Speed up excretion"
       ],
       "answer": 1,
-      "explanation": "يقلل التسمم الكبدي والنقوي.",
+      "explanation": "Reduces hepatic and bone marrow toxicity.",
       "difficulty": "medium"
     }
   ],

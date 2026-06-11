@@ -106,116 +106,116 @@
   ],
   "flashcards": [
     {
-      "front": "عرِّف LD50.",
-      "back": "الجرعة التي تُسبب وفاة 50% من حيوانات التجربة في دراسات السمية. كلما انخفضت LD50 كان المادة أشد سمية."
+      "front": "Define LD50.",
+      "back": "The dose that causes death in 50% of the experimental animals in toxicity studies. The lower the LD50, the more toxic the substance."
     },
     {
-      "front": "ما الفرق بين Toxin و Toxicant؟",
-      "back": "Toxin: سم طبيعي تنتجه كائنات حية (نباتات، حيوانات، فطريات). Toxicant: مادة كيميائية صناعية أو بيئية."
+      "front": "What is the difference between a Toxin and a Toxicant?",
+      "back": "Toxin: a naturally occurring poison produced by living organisms (plants, animals, fungi). Toxicant: a man-made or environmental chemical substance."
     },
     {
-      "front": "ما معنى NOAEL وLOAEL؟",
-      "back": "NOAEL = أعلى جرعة لا تُسبب أي تأثير ضار ملحوظ. LOAEL = أقل جرعة تُسبب أول تأثير ضار ملحوظ."
+      "front": "What do NOAEL and LOAEL mean?",
+      "back": "NOAEL = the highest dose that produces no observed adverse effect. LOAEL = the lowest dose that produces the first observed adverse effect."
     },
     {
-      "front": "ما آلية سمية أول أكسيد الكربون (CO)؟",
-      "back": "يرتبط بالهيموجلوبين بألفة أعلى من الأكسجين مما يُسبب نقص توصيل الأكسجين للأنسجة (cellular hypoxia)."
+      "front": "What is the mechanism of toxicity of carbon monoxide (CO)?",
+      "back": "It binds to haemoglobin with greater affinity than oxygen, causing impaired oxygen delivery to tissues (cellular hypoxia)."
     },
     {
-      "front": "ما آلية سمية السيانيد (Cyanide)؟",
-      "back": "يثبط إنزيم cytochrome c oxidase في السلسلة التنفسية بالميتوكوندريا مما يوقف الفسفرة التأكسدية وإنتاج ATP."
+      "front": "What is the mechanism of toxicity of cyanide?",
+      "back": "It inhibits cytochrome c oxidase in the mitochondrial respiratory chain, halting oxidative phosphorylation and ATP production."
     },
     {
-      "front": "ما آلية سمية الأورغانوفوسفات (Organophosphates)؟",
-      "back": "تثبيط لا عكسي لإنزيم acetylcholinesterase مما يُراكم أسيتيلكولين في الوصلات العصبية العضلية والمشابك العصبية."
+      "front": "What is the mechanism of toxicity of organophosphates?",
+      "back": "Irreversible inhibition of acetylcholinesterase, causing accumulation of acetylcholine at neuromuscular junctions and nerve synapses."
     },
     {
-      "front": "ما المستقل السام للباراسيتامول وما ترياقه؟",
-      "back": "المستقل السام هو NAPQI الذي يُسبب نخر الكبد. الترياق هو N-acetylcysteine الذي يُعيد تكوين الغلوتاثيون."
+      "front": "What is the toxic metabolite of paracetamol and what is the antidote?",
+      "back": "The toxic metabolite is NAPQI, which causes hepatic necrosis. The antidote is N-acetylcysteine, which replenishes glutathione."
     },
     {
-      "front": "ما المعدن الثقيل الذي يتراكم في العظام؟",
-      "back": "الرصاص (Lead) يتراكم في العظام ويحل محل الكالسيوم، مما يُسبب سمية طويلة الأمد."
+      "front": "Which heavy metal accumulates in bones?",
+      "back": "Lead accumulates in bones and teeth, replacing calcium, causing long-term toxicity."
     },
     {
-      "front": "ما Toxidrome؟",
-      "back": "مجموعة من الأعراض والعلامات المميزة التي تنتج عن نوع معين من السموم، تساعد في التشخيص السريري السريع."
+      "front": "What is a Toxidrome?",
+      "back": "A characteristic cluster of symptoms and signs produced by a specific type of poison, aiding rapid clinical diagnosis."
     },
     {
-      "front": "اذكر طرق إزالة التلوث (Decontamination) في التسمم.",
-      "back": "الفحم النشط (Activated charcoal)، غسيل المعدة (Gastric lavage - نادر)، ري الأمعاء الكاملة (Whole bowel irrigation)، غسيل الجلد والعين، إزالة المصدر."
+      "front": "List the methods of decontamination in poisoning.",
+      "back": "Activated charcoal, gastric lavage (rarely used), whole bowel irrigation, skin and eye washing, removal from the source."
     },
     {
-      "front": "ما التعريف الدقيق للعلاقة بين الجرعة والاستجابة؟",
-      "back": "مفهوم أساسي نادى به باراسيلسوس: 'الجرعة هي التي تصنع السم'. أي مادة يمكن أن تكون سامة بجرعة كافية."
+      "front": "What is the precise definition of the dose-response relationship?",
+      "back": "A core concept championed by Paracelsus: 'The dose makes the poison.' Any substance can be toxic at a sufficient dose."
     },
     {
-      "front": "ما هي فروع علم السموم الستة؟",
-      "back": "السريرية، الجنائية، البيئية، المهنية، التنظيمية، التحليلية"
+      "front": "What are the six branches of toxicology?",
+      "back": "Clinical, forensic, environmental, occupational, regulatory, analytical."
     },
     {
-      "front": "ما آلية تحقيق التخلص المعزز من السموم بتقليب البول؟",
-      "back": "تقليب البول ببيكربونات الصوديوم يزيد pH البول مما يُحوِّل الأحماض الضعيفة (أسبرين، فينوباربيتال) إلى شكلها المتأين غير القابل لإعادة الامتصاص."
+      "front": "What is the mechanism of enhanced elimination of toxins by urine alkalinisation?",
+      "back": "Alkalinising the urine with sodium bicarbonate raises urine pH, converting weak acids (aspirin, phenobarbital) to their ionised form, which cannot be reabsorbed."
     },
     {
-      "front": "لماذا يُعدّ الميثانول (Methanol) أشد سمية من الإيثانول؟",
-      "back": "الميثانول يُستقلب في الكبد إلى فورمالدهايد ثم حمض الفورميك السام الذي يُسبب حماض استقلابي وعمى ووفاة."
+      "front": "Why is Methanol more toxic than Ethanol?",
+      "back": "Methanol is metabolised in the liver to formaldehyde and then to the toxic formic acid, causing metabolic acidosis, blindness, and death."
     },
     {
-      "front": "ما التقييم المعملي الأساسي في حالات التسمم؟",
-      "back": "CBC، تحليل غازات الدم (ABG)، أسمولالية المصل، شاشة السموم، ECG، مستويات محددة (باراسيتامول، ساليسيلات، ليثيوم، ديجوكسين)"
+      "front": "What are the essential laboratory investigations in poisoning?",
+      "back": "CBC, arterial blood gas (ABG), serum osmolality, toxicology screen, ECG, specific drug levels (paracetamol, salicylates, lithium, digoxin)."
     },
     {
-      "front": "ما ترياق تسمم الحديد وآلية عمله؟",
-      "back": "ديفيروكسامين (Deferoxamine) يُخيِّل أيونات الحديد الحرة مكوِّناً معقداً يُطرح بالبول."
+      "front": "What is the antidote for iron poisoning and how does it work?",
+      "back": "Deferoxamine chelates free iron ions, forming a complex that is excreted in the urine."
     },
     {
-      "front": "ما آلية تراكم الإيثيلين غليكول في الجسم؟",
-      "back": "يُستقلب إلى حمض الأكساليك الذي يترسب في الكلى كأكسالات الكالسيوم مما يُسبب فشلاً كلوياً حاداً."
+      "front": "What is the mechanism of ethylene glycol accumulation in the body?",
+      "back": "It is metabolised to oxalic acid, which precipitates in the kidneys as calcium oxalate, causing acute renal failure."
     },
     {
-      "front": "عرّف Toxicology",
-      "back": "علم دراسة الآثار الضارة للمواد الكيميائية على الكائنات الحية (علم السموم)."
+      "front": "Define Toxicology.",
+      "back": "The science that studies the harmful effects of chemical substances on living organisms."
     },
     {
-      "front": "ما هو LD50؟",
-      "back": "الجرعة التي تقتل 50% من حيوانات الاختبار - مقياس للسُّميّة الحادة.",
+      "front": "What is LD50?",
+      "back": "The dose that kills 50% of test animals — a measure of acute toxicity.",
       "tag": "high-yield"
     },
     {
-      "front": "ما معنى مقولة 'The dose makes the poison'؟",
-      "back": "لباراسيلسوس: أي مادة قد تكون سامة حسب الجرعة؛ السُّميّة تعتمد على الجرعة."
+      "front": "What does 'The dose makes the poison' mean?",
+      "back": "Attributed to Paracelsus: any substance can be toxic depending on the dose; toxicity is dose-dependent."
     },
     {
-      "front": "ما هي NOAEL و LOAEL؟",
-      "back": "NOAEL: أعلى جرعة بلا تأثير ضار ملحوظ. LOAEL: أقل جرعة بأول تأثير ضار."
+      "front": "What are NOAEL and LOAEL?",
+      "back": "NOAEL: the highest dose with no observed adverse effect. LOAEL: the lowest dose with the first observed adverse effect."
     },
     {
-      "front": "اذكر فروع علم السموم",
-      "back": "السريري، الشرعي، البيئي، المهني، التنظيمي، التحليلي."
+      "front": "List the branches of toxicology.",
+      "back": "Clinical, forensic, environmental, occupational, regulatory, analytical."
     },
     {
-      "front": "ما العوامل المؤثرة على السُّميّة؟",
-      "back": "الجرعة والمدة والطريق، العمر والجينات والأمراض المصاحبة، الحالة الغذائية، التداخلات الدوائية."
+      "front": "What factors influence toxicity?",
+      "back": "Dose, duration, and route of exposure; age, genetics, and co-morbidities; nutritional status; drug interactions."
     },
     {
-      "front": "المضاد النوعي لتسمم الباراسيتامول؟",
-      "back": "N-acetylcysteine (يعوّض الجلوتاثيون).",
+      "front": "What is the specific antidote for paracetamol poisoning?",
+      "back": "N-acetylcysteine (replenishes glutathione).",
       "tag": "high-yield"
     },
     {
-      "front": "المضاد النوعي لتسمم الحديد؟",
+      "front": "What is the specific antidote for iron poisoning?",
       "back": "Deferoxamine."
     },
     {
-      "front": "المضاد النوعي لتسمم الفوسفات العضوية (Organophosphates)؟",
+      "front": "What is the specific antidote for organophosphate poisoning?",
       "back": "Atropine + Pralidoxime.",
       "tag": "high-yield"
     }
   ],
   "mcqs": [
     {
-      "q": "أي مما يلي هو الترياق الصحيح لتسمم الأفيونات (Opioids)؟",
+      "q": "Which of the following is the correct antidote for opioid poisoning?",
       "options": [
         "Atropine",
         "N-acetylcysteine",
@@ -223,10 +223,10 @@
         "Deferoxamine"
       ],
       "answer": 2,
-      "explanation": "النالوكسون (Naloxone) مضاد للمستقبلات الأفيونية (mu-opioid receptor antagonist) يُعكس التثبيط التنفسي والوعي المخفَّض الناجم عن الأفيونات."
+      "explanation": "Naloxone is a mu-opioid receptor antagonist that reverses the respiratory depression and reduced consciousness caused by opioids."
     },
     {
-      "q": "ما المستقل السام الذي يتشكل من الباراسيتامول في حالات الجرعة الزائدة؟",
+      "q": "What is the toxic metabolite formed from paracetamol in overdose?",
       "options": [
         "Formic acid",
         "NAPQI",
@@ -234,10 +234,10 @@
         "Free radicals only"
       ],
       "answer": 1,
-      "explanation": "NAPQI (N-acetyl-p-benzoquinone imine) هو المستقل السام للباراسيتامول الذي يُسبب نخر الكبد عند استنفاد الغلوتاثيون."
+      "explanation": "NAPQI (N-acetyl-p-benzoquinone imine) is the toxic metabolite of paracetamol that causes hepatic necrosis when glutathione stores are depleted."
     },
     {
-      "q": "مريض تعرض لرش مبيدات حشرية ويعاني من إفرازات غزيرة وتشنجات وتقبض حدقة العين. ما الترياق؟",
+      "q": "A patient exposed to pesticide spray presents with profuse secretions, convulsions, and miosis. What is the antidote?",
       "options": [
         "Naloxone",
         "Atropine + Pralidoxime",
@@ -245,99 +245,99 @@
         "Hydroxocobalamin"
       ],
       "answer": 1,
-      "explanation": "الأعراض تدل على تسمم بالأورغانوفوسفات (inhibition of AChE). العلاج: الأتروبين يحصر مستقبلات M، والبرالدوكسيم يُعيد تنشيط AChE قبل 'الشيخوخة'."
+      "explanation": "The symptoms indicate organophosphate poisoning (inhibition of AChE). Treatment: Atropine blocks muscarinic receptors; Pralidoxime reactivates AChE before 'ageing'."
     },
     {
-      "q": "أي المعادن الثقيلة يتراكم في العظام ويحل محل الكالسيوم؟",
+      "q": "Which heavy metal accumulates in bones and replaces calcium?",
       "options": [
-        "Mercury (زئبق)",
-        "Arsenic (زرنيخ)",
-        "Lead (رصاص)",
-        "Cadmium (كادميوم)"
+        "Mercury",
+        "Arsenic",
+        "Lead",
+        "Cadmium"
       ],
       "answer": 2,
-      "explanation": "الرصاص (Lead) يُشبه الكالسيوم كيميائياً فيترسب في العظام والأسنان، مما يُسبب سمية طويلة الأمد ومشاكل عصبية خاصة عند الأطفال."
+      "explanation": "Lead is chemically similar to calcium and deposits in bones and teeth, causing long-term toxicity and neurological problems especially in children."
     },
     {
-      "q": "ما الطريق الرئيسي لدخول أول أكسيد الكربون (CO) للجسم؟",
+      "q": "What is the primary route of entry of carbon monoxide (CO) into the body?",
       "options": [
-        "Dermal (الجلد)",
-        "Ingestion (البلع)",
-        "Inhalation (الاستنشاق)",
-        "Injection (الحقن)"
+        "Dermal",
+        "Ingestion",
+        "Inhalation",
+        "Injection"
       ],
       "answer": 2,
-      "explanation": "أول أكسيد الكربون غاز يدخل الجسم بالاستنشاق (Inhalation) ويرتبط بالهيموجلوبين مشكِّلاً carboxyhemoglobin."
+      "explanation": "Carbon monoxide is a gas that enters the body by inhalation and binds haemoglobin to form carboxyhaemoglobin."
     },
     {
-      "q": "ما المبدأ الأساسي في نهج ABCDE لعلاج التسمم؟",
+      "q": "What is the fundamental principle of the ABCDE approach in managing poisoning?",
       "options": [
-        "البدء بإعطاء الترياق فوراً",
-        "التركيز على تحديد نوع السم أولاً",
-        "تقييم وضمان سلامة المجرى الهوائي والتنفس والدورة الدموية أولاً",
-        "إجراء الفحوصات المعملية قبل أي تدخل"
+        "Administer the antidote immediately",
+        "Focus on identifying the poison first",
+        "Assess and secure the airway, breathing, and circulation first",
+        "Perform laboratory investigations before any intervention"
       ],
       "answer": 2,
-      "explanation": "نهج ABCDE يبدأ بضمان سلامة المريض (Airway, Breathing, Circulation) قبل أي شيء آخر، لأن هذه الوظائف حيوية ولو تأخر علاجها قد يموت المريض."
+      "explanation": "The ABCDE approach prioritises patient safety (Airway, Breathing, Circulation) before anything else, because failure to address these vital functions promptly may be fatal."
     },
     {
-      "q": "ما الاختبار الأهم لتأكيد تسمم الباراسيتامول؟",
+      "q": "What is the most important investigation to confirm paracetamol poisoning?",
       "options": [
         "CBC",
-        "مستوى الباراسيتامول في الدم",
-        "تحليل غازات الدم",
-        "مستوى الكرياتينين"
+        "Serum paracetamol level",
+        "Arterial blood gas analysis",
+        "Serum creatinine level"
       ],
       "answer": 1,
-      "explanation": "قياس مستوى الباراسيتامول في الدم مع تحديد وقت التناول يُحدد الحاجة لإعطاء N-acetylcysteine بناءً على nomogram Rumack-Matthew."
+      "explanation": "Measuring the serum paracetamol level with the time of ingestion determines the need for N-acetylcysteine based on the Rumack-Matthew nomogram."
     },
     {
-      "q": "أي مما يلي يصف بدقة مفهوم Toxidrome؟",
+      "q": "Which of the following accurately describes the concept of a Toxidrome?",
       "options": [
-        "اسم لمجموعة من الأدوية السامة",
-        "مجموعة من الأعراض والعلامات المميزة لنوع معين من التسمم",
-        "نوع من الأدوية المضادة للسموم",
-        "طريقة حساب جرعة الترياق"
+        "A name for a group of toxic drugs",
+        "A characteristic cluster of symptoms and signs associated with a specific type of poisoning",
+        "A type of antidote drug",
+        "A method for calculating the antidote dose"
       ],
       "answer": 1,
-      "explanation": "Toxidrome هو نمط مميز من الأعراض والعلامات يدل على نوع التسمم. مثلاً: تقبض الحدقة + بطء القلب + إفرازات = أفيوني أو كوليني."
+      "explanation": "A toxidrome is a characteristic pattern of symptoms and signs indicating the type of poisoning. Example: miosis + bradycardia + secretions = opioid or cholinergic toxidrome."
     },
     {
-      "q": "ما وظيفة ترياق Digoxin Fab؟",
+      "q": "What is the function of the Digoxin Fab antidote?",
       "options": [
-        "تثبيط امتصاص الديجوكسين من الأمعاء",
-        "ارتباط أجسام مضادة بالديجوكسين الحر لتعادله",
-        "تسريع إفراز الديجوكسين كلوياً",
-        "منافسة الديجوكسين على مستقبلاته"
+        "Inhibits intestinal absorption of Digoxin",
+        "Antibody fragments bind free Digoxin to neutralise it",
+        "Accelerates renal excretion of Digoxin",
+        "Competes with Digoxin at its receptor"
       ],
       "answer": 1,
-      "explanation": "Digoxin Fab عبارة عن شظايا أجسام مضادة ترتبط بالديجوكسين الحر في الدم وتُعادل تأثيره السام على القلب."
+      "explanation": "Digoxin Fab consists of antibody fragments that bind free Digoxin in the blood and neutralise its toxic effect on the heart."
     },
     {
-      "q": "ما هو الفرق الجوهري بين Toxicokinetics و Toxicodynamics؟",
+      "q": "What is the fundamental difference between Toxicokinetics and Toxicodynamics?",
       "options": [
-        "Toxicokinetics يدرس آلية السمية، Toxicodynamics يدرس حركة السم",
-        "Toxicokinetics يدرس ما يفعله الجسم بالسم (ADME)، Toxicodynamics يدرس ما يفعله السم بالجسم",
-        "لا فرق بينهما",
-        "Toxicokinetics يُطبَّق فقط على الأدوية الصيدلانية"
+        "Toxicokinetics studies the mechanism of toxicity; Toxicodynamics studies the movement of the poison",
+        "Toxicokinetics studies what the body does to the poison (ADME); Toxicodynamics studies what the poison does to the body",
+        "There is no difference between them",
+        "Toxicokinetics applies only to pharmaceutical drugs"
       ],
       "answer": 1,
-      "explanation": "Toxicokinetics = ما يفعله الجسم بالسم (امتصاص، توزيع، استقلاب، إفراز). Toxicodynamics = ما يفعله السم بالجسم (آلية التأثير على المستقبلات والخلايا)."
+      "explanation": "Toxicokinetics = what the body does to the poison (absorption, distribution, metabolism, excretion). Toxicodynamics = what the poison does to the body (mechanism of action on receptors and cells)."
     },
     {
-      "q": "LD50 هو:",
+      "q": "LD50 is:",
       "options": [
-        "الجرعة العلاجية لـ50%",
-        "الجرعة القاتلة لـ50% من الحيوانات",
-        "نصف المؤشر العلاجي",
-        "أقل جرعة سامة"
+        "The therapeutic dose for 50%",
+        "The lethal dose for 50% of animals",
+        "Half the therapeutic index",
+        "The lowest toxic dose"
       ],
       "answer": 1,
       "explanation": "Lethal Dose 50%.",
       "difficulty": "medium"
     },
     {
-      "q": "مضاد تسمم الأفيونات هو:",
+      "q": "The antidote for opioid poisoning is:",
       "options": [
         "Flumazenil",
         "Naloxone",
@@ -345,11 +345,11 @@
         "Deferoxamine"
       ],
       "answer": 1,
-      "explanation": "Naloxone مضاد مستقبلات الأفيون.",
+      "explanation": "Naloxone is an opioid receptor antagonist.",
       "difficulty": "medium"
     },
     {
-      "q": "'الجرعة هي ما يصنع السم' تنسب إلى:",
+      "q": "'The dose makes the poison' is attributed to:",
       "options": [
         "Galen",
         "Paracelsus",
@@ -357,7 +357,7 @@
         "Avicenna"
       ],
       "answer": 1,
-      "explanation": "باراسيلسوس - مبدأ أساسي في علم السموم.",
+      "explanation": "Paracelsus — a fundamental principle of toxicology.",
       "difficulty": "medium"
     }
   ],

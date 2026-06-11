@@ -211,116 +211,116 @@
   ],
   "flashcards": [
     {
-      "front": "ما هو آلية عمل الكينولونات (Quinolones)؟",
-      "back": "تثبيط (DNA Gyrase / Topoisomerase II) المسؤول عن فك لف الـ DNA في البكتيريا سالبة الجرام، وتثبيط (Topoisomerase IV) المسؤول عن انقسام الخلية في البكتيريا موجبة الجرام — bactericidal"
+      "front": "What is the mechanism of action of quinolones?",
+      "back": "Inhibit DNA Gyrase/Topoisomerase II (responsible for unwinding DNA in Gram-negative bacteria) and Topoisomerase IV (responsible for cell division in Gram-positive bacteria) — bactericidal"
     },
     {
-      "front": "أي الكينولونات هو دواء الاختيار لعلاج ووقاية (Anthrax)؟",
-      "back": "Ciprofloxacin — وهو أيضاً الأقوى ضد (Pseudomonas aeruginosa)"
+      "front": "Which quinolone is the drug of choice for treating and preventing Anthrax?",
+      "back": "Ciprofloxacin — also the most potent against Pseudomonas aeruginosa"
     },
     {
-      "front": "لماذا لا يُستخدم Norfloxacin في الإنتانات الجهازية؟",
-      "back": "لأن مستوياته في بلازما الدم منخفضة جداً (insufficient plasma levels) — لكنه فعّال في التهابات البول والبروستاتا"
+      "front": "Why is Norfloxacin not used for systemic infections?",
+      "back": "Because its plasma levels are very low (insufficient plasma levels) — but it is effective for urinary tract infections and prostatitis"
     },
     {
-      "front": "أي كينولون هو الوحيد الذي يخترق الـ CSF بشكل جيد؟",
+      "front": "Which quinolone is the only one that penetrates CSF well?",
       "back": "Ofloxacin"
     },
     {
-      "front": "أي كينولونات لا تحتاج تعديل جرعة في الفشل الكلوي ولماذا؟",
-      "back": "Moxifloxacin — لأنه يُطرح أساساً عبر الكبد (hepatic excretion) وليس الكلى"
+      "front": "Which quinolones do not require dose adjustment in renal failure and why?",
+      "back": "Moxifloxacin — because it is primarily excreted via the liver (hepatic excretion) rather than the kidneys"
     },
     {
-      "front": "ما هي الـ 'Respiratory Fluoroquinolones' وما أهميتها؟",
-      "back": "Levofloxacin, Trovafloxacin, Moxifloxacin, Gatifloxacin — تُستخدم لالتهابات الجهاز التنفسي بسبب (S. pneumoniae). ملاحظة: Ciprofloxacin ليس منها"
+      "front": "What are the 'Respiratory Fluoroquinolones' and why are they important?",
+      "back": "Levofloxacin, Trovafloxacin, Moxifloxacin, Gatifloxacin — used for respiratory tract infections due to S. pneumoniae. Note: Ciprofloxacin is NOT among them"
     },
     {
-      "front": "ما هي موانع استخدام الكينولونات؟",
-      "back": "الحمل، الرضاعة، الأطفال أقل من 18 سنة (خطر Arthropathy). أيضاً حذر في مرضى الصرع وتجنّب مع Antacids والمعادن (حديد، زنك، كالسيوم)"
+      "front": "What are the contraindications to quinolones?",
+      "back": "Pregnancy, breastfeeding, children under 18 years (risk of Arthropathy). Also use caution in epileptic patients and avoid with antacids and minerals (iron, zinc, calcium)"
     },
     {
-      "front": "أي الكينولونات تطيل فترة QT وتحتاج احتياط في مرضى اضطرابات النظم؟",
+      "front": "Which quinolones prolong QT interval and require caution in patients with arrhythmias?",
       "back": "Sparfloxacin, Gatifloxacin, Levofloxacin, Moxifloxacin"
     },
     {
-      "front": "ما هو آلية عمل السلفوناميدات (Sulfonamides)؟",
-      "back": "مناظرة هيكلية لـ (PABA) — تتنافس معه على إنزيم (Dihydropteroate Synthase) مما يثبط تركيب الفولات → يثبط تركيب DNA وRNA. Bacteriostatic"
+      "front": "What is the mechanism of action of sulfonamides?",
+      "back": "Structural analogue of PABA — competitively inhibits Dihydropteroate Synthase, thereby blocking folate synthesis → inhibits DNA and RNA synthesis. Bacteriostatic"
     },
     {
-      "front": "لماذا السلفوناميدات انتقائية للبكتيريا ولا تؤثر على خلايا الإنسان؟",
-      "back": "لأن خلايا الإنسان تستخدم (Folic acid) جاهزة من الغذاء ولا تصنعها، بينما البكتيريا تحتاج إلى تصنيعها من (PABA)"
+      "front": "Why are sulfonamides selective for bacteria and do not affect human cells?",
+      "back": "Because human cells use preformed folic acid from the diet and do not synthesize it, whereas bacteria must synthesize it from PABA"
     },
     {
-      "front": "ما هو استخدام Sulfasalazine ولماذا؟",
-      "back": "علاج التهاب القولون التقرحي (Ulcerative Colitis) — لأنه غير ممتص من الأمعاء، فيعمل موضعياً في القولون"
+      "front": "What is the use of Sulfasalazine and why?",
+      "back": "Treatment of Ulcerative Colitis — because it is not absorbed from the intestines, so it acts locally in the colon"
     },
     {
-      "front": "ما هو (Kernicterus) وكيف تسببه السلفوناميدات؟",
-      "back": "السلفوناميدات تزاحم (Bilirubin) على بروتينات البلازما → يرتفع البيليروبين الحر → يعبر الـ BBB غير الناضج عند حديثي الولادة → تلف مخي. لذلك ممنوعة في الرضع أقل من شهرين والحوامل قرب الوضع"
+      "front": "What is Kernicterus and how is it caused by sulfonamides?",
+      "back": "Sulfonamides displace Bilirubin from plasma proteins → free bilirubin rises → crosses the immature BBB in neonates → brain damage. Therefore contraindicated in infants under 2 months and in pregnant women near delivery"
     },
     {
-      "front": "ما هو آلية عمل Trimethoprim؟",
-      "back": "يثبط إنزيم (Dihydrofolate Reductase) الذي يحوّل (Dihydrofolate) إلى (Tetrahydrofolate / Folinic acid) الضروري لتركيب DNA. أقوى 20-50 مرة من السلفوناميدات"
+      "front": "What is the mechanism of action of Trimethoprim?",
+      "back": "Inhibits Dihydrofolate Reductase, which converts Dihydrofolate to Tetrahydrofolate/Folinic acid needed for DNA synthesis. 20-50 times more potent than sulfonamides"
     },
     {
-      "front": "ما هي نسبة تركيبة Co-trimoxazole وما الهدف منها؟",
-      "back": "Sulfamethoxazole 400mg + Trimethoprim 80mg (نسبة 5:1) — تعمل على خطوتين متتاليتين في نفس المسار مما يعطي تأثيراً (Synergistic) ومقاومة أبطأ"
+      "front": "What is the ratio of Co-trimoxazole and what is the rationale?",
+      "back": "Sulfamethoxazole 400 mg + Trimethoprim 80 mg (5:1 ratio) — acts on two sequential steps in the same pathway, producing a synergistic effect and slower resistance development"
     },
     {
-      "front": "ما هو أفضل علاج لـ Pneumocystis jirovecii pneumonia في مرضى الإيدز؟",
-      "back": "Co-trimoxazole (TMP-SMX) عن طريق الوريد (IVI) — هو الأكثر فاعلية"
+      "front": "What is the best treatment for Pneumocystis jirovecii pneumonia in AIDS patients?",
+      "back": "Co-trimoxazole (TMP-SMX) intravenously (IVI) — the most effective option"
     },
     {
-      "front": "ما الآثار الجانبية الرئيسية لـ Co-trimoxazole؟",
-      "back": "نفس السلفوناميدات والـ Trimethoprim: Crystalluria، Hemolytic anemia (G6PD)، Megaloblastic anemia (نقص Folate — يُعالج بـ Folinic acid)، Stevens-Johnson syndrome، Pancytopenia في مرضى الإيدز"
+      "front": "What are the main side effects of Co-trimoxazole?",
+      "back": "Same as sulfonamides and Trimethoprim: Crystalluria, Hemolytic anemia (G6PD), Megaloblastic anemia (folate deficiency — treated with Folinic acid), Stevens-Johnson syndrome, Pancytopenia in AIDS patients"
     },
     {
-      "front": "ما هو مقاومة الكينولونات وكيف تنشأ؟",
-      "back": "1. Altered target: طفرات في (DNA gyrase و Topoisomerase IV) تقلل الارتباط بالدواء. 2. Decreased accumulation: تقليل بروتينات (Porin) في الغشاء الخارجي أو زيادة ضخ الدواء للخارج (efflux)"
+      "front": "What is quinolone resistance and how does it develop?",
+      "back": "1. Altered target: mutations in DNA gyrase and Topoisomerase IV reduce drug binding. 2. Decreased accumulation: reduced outer membrane Porin proteins or increased efflux pumps"
     },
     {
-      "front": "ما التفاعل الدوائي الخطير بين Ciprofloxacin وTheophylline؟",
-      "back": "Ciprofloxacin يثبط استقلاب (Theophylline) → ارتفاع مستوياته في الدم → خطر نوبات صرع"
+      "front": "What is the dangerous drug interaction between Ciprofloxacin and Theophylline?",
+      "back": "Ciprofloxacin inhibits Theophylline metabolism → elevated plasma levels → risk of seizures"
     },
     {
-      "front": "ما آلية الفلوروكينولونات؟",
-      "back": "تثبّط DNA gyrase وtopoisomerase IV → قتل معتمد على التركيز.",
+      "front": "What is the mechanism of fluoroquinolones?",
+      "back": "Inhibit DNA gyrase and topoisomerase IV → concentration-dependent killing.",
       "tag": "high-yield"
     },
     {
-      "front": "ما موانع الفلوروكينولونات؟",
-      "back": "الحمل والأطفال (أذية الغضاريف) وخطر تمزق الوتر."
+      "front": "What are the contraindications to fluoroquinolones?",
+      "back": "Pregnancy and children (cartilage damage) and risk of tendon rupture."
     },
     {
-      "front": "ما آلية السلفوناميدات؟",
-      "back": "تثبّط dihydropteroate synthase (تنافس PABA) → نقص تخليق الفولات.",
+      "front": "What is the mechanism of sulfonamides?",
+      "back": "Inhibit dihydropteroate synthase (compete with PABA) → impaired folate synthesis.",
       "tag": "high-yield"
     },
     {
-      "front": "ما آلية Trimethoprim؟",
-      "back": "يثبّط dihydrofolate reductase؛ مع السلفا = حصار تسلسلي (Co-trimoxazole)."
+      "front": "What is the mechanism of Trimethoprim?",
+      "back": "Inhibits dihydrofolate reductase; combined with sulfonamides = sequential blockade (Co-trimoxazole)."
     },
     {
-      "front": "ما آلية Rifampicin؟",
-      "back": "يثبّط RNA polymerase الجرثومي؛ يصبغ الإفرازات برتقالياً ومحفّز إنزيمي قوي.",
+      "front": "What is the mechanism of Rifampicin?",
+      "back": "Inhibits bacterial RNA polymerase; turns secretions orange-red and is a potent enzyme inducer.",
       "tag": "high-yield"
     },
     {
-      "front": "ما آلية Metronidazole؟",
-      "back": "يتحول لمستقلب نشط يكسر DNA في اللاهوائيات والأوليات؛ تجنّب الكحول (تفاعل disulfiram)."
+      "front": "What is the mechanism of Metronidazole?",
+      "back": "Converted to an active metabolite that cleaves DNA in anaerobes and protozoa; avoid alcohol (disulfiram reaction)."
     },
     {
-      "front": "ما سُمّية السلفوناميدات؟",
-      "back": "طفح (Stevens-Johnson)، يرقان نووي عند الولدان (kernicterus)، بلورات بولية."
+      "front": "What is the toxicity of sulfonamides?",
+      "back": "Stevens-Johnson syndrome rash, kernicterus in neonates, crystalluria."
     },
     {
-      "front": "ما تداخل الفلوروكينولونات مع الكاتيونات؟",
-      "back": "الكالسيوم/الحديد/الألمنيوم تقلل امتصاصها (chelation)."
+      "front": "What is the interaction of fluoroquinolones with cations?",
+      "back": "Calcium/iron/aluminum reduce their absorption (chelation)."
     }
   ],
   "mcqs": [
     {
-      "q": "أيٌّ من الكينولونات التالية هو دواء الاختيار لعلاج والوقاية من الجمرة الخبيثة (Anthrax)؟",
+      "q": "Which of the following quinolones is the drug of choice for treating and preventing anthrax?",
       "options": [
         "Norfloxacin",
         "Ciprofloxacin",
@@ -328,10 +328,10 @@
         "Moxifloxacin"
       ],
       "answer": 1,
-      "explanation": "Ciprofloxacin هو الأقوى ضد Pseudomonas وهو دواء الاختيار الوحيد المعتمد لعلاج ووقاية Anthrax"
+      "explanation": "Ciprofloxacin is the most potent against Pseudomonas and is the only approved drug for treating and preventing Anthrax"
     },
     {
-      "q": "آلية عمل السلفوناميدات هي تثبيط:",
+      "q": "The mechanism of action of sulfonamides is inhibition of:",
       "options": [
         "Dihydrofolate reductase",
         "DNA gyrase",
@@ -339,21 +339,21 @@
         "Topoisomerase IV"
       ],
       "answer": 2,
-      "explanation": "السلفوناميدات مناظرة هيكلية لـ PABA وتتنافس معه على إنزيم Dihydropteroate synthase — أما Trimethoprim فهو الذي يثبط Dihydrofolate reductase"
+      "explanation": "Sulfonamides are structural analogues of PABA and compete with it for Dihydropteroate synthase — while Trimethoprim inhibits Dihydrofolate reductase"
     },
     {
-      "q": "طفل عمره 10 سنوات يعاني من التهاب بول حاد بـ Pseudomonas. أي العبارات التالية صحيحة بخصوص علاجه بالكينولونات؟",
+      "q": "A 10-year-old child has acute urinary tract infection with Pseudomonas. Which statement is correct regarding quinolone treatment?",
       "options": [
-        "يُعطى Ciprofloxacin بجرعة مخفضة",
-        "الكينولونات ممنوعة كلياً تحت 18 سنة إلا في حالات استثنائية",
-        "Norfloxacin آمن في الأطفال",
-        "Levofloxacin هو الأمثل لهذا العمر"
+        "Give Ciprofloxacin at a reduced dose",
+        "Quinolones are fully contraindicated under 18 years except in exceptional cases",
+        "Norfloxacin is safe in children",
+        "Levofloxacin is optimal for this age"
       ],
       "answer": 1,
-      "explanation": "الكينولونات ممنوعة عند الأطفال أقل من 18 سنة بسبب خطر Arthropathy (تلف الغضاريف) وفق التعليمات القياسية، إلا في حالات محددة جداً"
+      "explanation": "Quinolones are contraindicated in children under 18 years due to the risk of Arthropathy (cartilage damage) per standard guidelines, except in very specific situations"
     },
     {
-      "q": "أي الكينولونات التالية يُطرح أساساً عبر الكبد ولا يحتاج تعديل الجرعة في الفشل الكلوي؟",
+      "q": "Which quinolone is primarily excreted via the liver and does not require dose adjustment in renal failure?",
       "options": [
         "Ciprofloxacin",
         "Norfloxacin",
@@ -361,21 +361,21 @@
         "Levofloxacin"
       ],
       "answer": 2,
-      "explanation": "Moxifloxacin يُطرح بشكل رئيسي عبر الكبد، بينما معظم الكينولونات تُطرح كلوياً وتحتاج تعديل جرعة في الفشل الكلوي"
+      "explanation": "Moxifloxacin is primarily excreted via the liver, whereas most quinolones are renally excreted and require dose adjustment in renal failure"
     },
     {
-      "q": "مريض يتناول Theophylline لعلاج الربو. أُضيف له Ciprofloxacin. ما المضاعفة المحتملة؟",
+      "q": "A patient is taking Theophylline for asthma. Ciprofloxacin was added. What is the potential complication?",
       "options": [
         "Nephrotoxicity",
         "Crystalluria",
-        "Seizures من ارتفاع Theophylline",
+        "Seizures from elevated Theophylline",
         "Kernicterus"
       ],
       "answer": 2,
-      "explanation": "Ciprofloxacin يثبط استقلاب Theophylline → ترتفع مستوياته في الدم → خطر حدوث نوبات صرع"
+      "explanation": "Ciprofloxacin inhibits Theophylline metabolism → elevated plasma levels → risk of seizures"
     },
     {
-      "q": "أي السلفوناميدات التالية يُستخدم لعلاج حروق الجلد ويسبب اضطرابات الحموضة القلوية؟",
+      "q": "Which sulfonamide is used for burn wound treatment and causes acid-base disturbances?",
       "options": [
         "Sulfacetamide",
         "Silver Sulfadiazine",
@@ -383,32 +383,32 @@
         "Sulfasalazine"
       ],
       "answer": 2,
-      "explanation": "Mafenide (sulfamafenide) يُستخدم موضعياً للحروق لكنه يسبب ألماً واضطرابات في التوازن الحمضي القاعدي — أما Silver Sulfadiazine فهو أكثر أماناً"
+      "explanation": "Mafenide (sulfamafenide) is used topically for burns but causes pain and acid-base disturbances — while Silver Sulfadiazine is safer"
     },
     {
-      "q": "Co-trimoxazole هو أفضل علاج لـ:",
+      "q": "Co-trimoxazole is the best treatment for:",
       "options": [
-        "Syphilis عند الحامل",
-        "Pseudomonas aeruginosa في التهابات الجهاز التنفسي",
-        "Pneumocystis jirovecii pneumonia في مرضى الإيدز",
+        "Syphilis in pregnancy",
+        "Pseudomonas aeruginosa respiratory infections",
+        "Pneumocystis jirovecii pneumonia in AIDS patients",
         "MRSA"
       ],
       "answer": 2,
-      "explanation": "Co-trimoxazole هو الأكثر فاعلية وهو العلاج المعتمد لـ Pneumocystis jirovecii (PCP) في مرضى الإيدز عن طريق الوريد"
+      "explanation": "Co-trimoxazole is the most effective and approved treatment for Pneumocystis jirovecii (PCP) in AIDS patients via intravenous route"
     },
     {
-      "q": "رضيع عمره 3 أسابيع يُعاني من التهاب. لماذا تُعدّ السلفوناميدات خطيرة في هذا العمر؟",
+      "q": "A 3-week-old infant has an infection. Why are sulfonamides dangerous at this age?",
       "options": [
-        "تسبب Crystalluria شديداً عند الأطفال",
-        "تزاحم Bilirubin على البروتينات → Kernicterus",
-        "تسبب Arthropathy في المفاصل الصغيرة",
-        "ترفع ضغط الدم الرئوي"
+        "They cause severe Crystalluria in children",
+        "They displace Bilirubin from proteins → Kernicterus",
+        "They cause Arthropathy in small joints",
+        "They raise pulmonary blood pressure"
       ],
       "answer": 1,
-      "explanation": "السلفوناميدات تزاحم Bilirubin على بروتينات البلازما → يرتفع البيليروبين الحر → يعبر BBB غير الناضج → Kernicterus (تلف نوى الدماغ)"
+      "explanation": "Sulfonamides displace Bilirubin from plasma proteins → free bilirubin rises → crosses the immature BBB → Kernicterus (brainstem nuclear damage)"
     },
     {
-      "q": "أي الكينولونات التالية يُوصف بـ 'Respiratory fluoroquinolone' وفعّال ضد S. pneumoniae لكن له نشاط ضعيف جداً ضد P. aeruginosa؟",
+      "q": "Which fluoroquinolone is described as a 'Respiratory fluoroquinolone' effective against S. pneumoniae but with very poor activity against P. aeruginosa?",
       "options": [
         "Ciprofloxacin",
         "Norfloxacin",
@@ -416,53 +416,53 @@
         "Ofloxacin"
       ],
       "answer": 2,
-      "explanation": "Moxifloxacin من الجيل الرابع وهو من الكينولونات التنفسية، فعّال ضد اللاهوائيات والبكتيريا موجبة الجرام، لكنه يملك نشاطاً ضعيفاً جداً ضد P. aeruginosa"
+      "explanation": "Moxifloxacin is a 4th-generation respiratory fluoroquinolone, effective against anaerobes and Gram-positive bacteria, but has very poor activity against P. aeruginosa"
     },
     {
-      "q": "مريض يتناول Warfarin أُضيف إليه Co-trimoxazole. ما التأثير المتوقع؟",
+      "q": "A patient on Warfarin was started on Co-trimoxazole. What is the expected effect?",
       "options": [
-        "انخفاض تأثير Warfarin بسبب تحريض الإنزيمات الكبدية",
-        "ارتفاع مستوى Warfarin بسبب المزاحمة على بروتينات البلازما",
-        "لا يوجد تفاعل دوائي مهم",
-        "ارتفاع Warfarin مع انخفاض فاعليته"
+        "Decreased Warfarin effect due to hepatic enzyme induction",
+        "Increased Warfarin levels due to displacement from plasma proteins",
+        "No significant drug interaction",
+        "Increased Warfarin with decreased efficacy"
       ],
       "answer": 1,
-      "explanation": "السلفوناميدات (في Co-trimoxazole) تزاحم Warfarin على بروتينات البلازما → ارتفاع مستوى Warfarin الحر → زيادة خطر النزيف"
+      "explanation": "Sulfonamides (in Co-trimoxazole) displace Warfarin from plasma proteins → elevated free Warfarin → increased bleeding risk"
     },
     {
-      "q": "الفلوروكينولونات تثبّط:",
+      "q": "Fluoroquinolones inhibit:",
       "options": [
         "RNA polymerase",
         "DNA gyrase/topoisomerase",
-        "الريبوسوم 30S",
-        "الفولات"
+        "30S ribosome",
+        "Folate"
       ],
       "answer": 1,
-      "explanation": "تمنع التفاف وفصل الـ DNA.",
+      "explanation": "They prevent DNA unwinding and separation.",
       "difficulty": "medium"
     },
     {
-      "q": "Co-trimoxazole = سلفاميثوكسازول + تريميثوبريم يعمل بـ:",
+      "q": "Co-trimoxazole = sulfamethoxazole + trimethoprim acts by:",
       "options": [
-        "تثبيط الجدار",
-        "حصار تسلسلي لمسار الفولات",
-        "تثبيط 50S",
-        "كسر DNA"
+        "Cell wall inhibition",
+        "Sequential blockade of the folate pathway",
+        "50S inhibition",
+        "DNA cleavage"
       ],
       "answer": 1,
-      "explanation": "خطوتان متتاليتان في مسار الفولات.",
+      "explanation": "Two sequential steps in the folate pathway.",
       "difficulty": "medium"
     },
     {
-      "q": "Rifampicin يصبغ الإفرازات بلون:",
+      "q": "Rifampicin turns secretions:",
       "options": [
-        "أزرق",
-        "برتقالي/أحمر",
-        "أخضر",
-        "أصفر باهت"
+        "Blue",
+        "Orange/red",
+        "Green",
+        "Pale yellow"
       ],
       "answer": 1,
-      "explanation": "تلوّن البول والدموع برتقالي.",
+      "explanation": "Urine and tears turn orange.",
       "difficulty": "medium"
     }
   ],
