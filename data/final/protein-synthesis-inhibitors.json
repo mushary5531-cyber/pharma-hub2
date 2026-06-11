@@ -209,28 +209,28 @@
       "back": "Because it is excreted via bile into the feces rather than through the kidneys, unlike other tetracyclines."
     },
     {
-      "front": "What effect do tetracyclines have on children and the fetus?",
-      "back": "They deposit in developing bones and teeth (bind calcium) → tooth discoloration and bone deformity. Contraindicated in children < 8 years and in pregnant women."
+      "front": "What is the effect of tetracyclines on children and the fetus?",
+      "back": "They deposit in developing bones and teeth (bind calcium) → tooth discoloration and bone deformity. Contraindicated in children under 8 years and in pregnant women."
     },
     {
       "front": "What is the difference between aminoglycosides and tetracyclines in their 30S mechanism?",
-      "back": "Tetracyclines: reversible binding to 30S, bacteriostatic. Aminoglycosides: irreversible binding to 30S, cause misreading of mRNA and ribosome disruption, bactericidal."
+      "back": "Tetracyclines: reversible binding to 30S, bacteriostatic. Aminoglycosides: irreversible binding to 30S, cause misreading of mRNA and ribosome damage, bactericidal."
     },
     {
-      "front": "What is the killing pattern of aminoglycosides? What is the benefit?",
-      "back": "Concentration-dependent killing: greater concentration yields greater killing. Combined with post-antibiotic effect, this allows once-daily dosing (less toxicity + lower cost)."
+      "front": "What is the killing pattern of aminoglycosides? What is its clinical benefit?",
+      "back": "Concentration-dependent killing: greater concentration → greater killing. Combined with post-antibiotic effect, this allows once-daily dosing (less toxicity + lower cost)."
     },
     {
-      "front": "Why is Neomycin not given parenterally?",
-      "back": "It is highly nephrotoxic when used systemically. It is used topically or orally for bowel preparation before colon surgery."
+      "front": "Why is Neomycin not given by injection?",
+      "back": "Extremely nephrotoxic when used systemically. Used only topically or orally for bowel preparation before colon surgery."
     },
     {
       "front": "What is the neuromuscular complication of aminoglycosides?",
-      "back": "Neuromuscular paralysis due to rapid concentration rise or concurrent use with neuromuscular blockers. Particular risk in Myasthenia gravis. Treated with Calcium gluconate or Neostigmine."
+      "back": "Neuromuscular paralysis due to rapid concentration rise or concurrent use with neuromuscular blockers. Special risk in Myasthenia gravis. Treated with Calcium gluconate or Neostigmine."
     },
     {
       "front": "What is the difference between Erythromycin and Azithromycin?",
-      "back": "Azithromycin: longer T1/2 (once-daily dosing), better against H. influenzae and urogenital Chlamydia. Erythromycin: shorter T1/2, penicillin alternative in allergy, risk of cholestatic jaundice."
+      "back": "Azithromycin: longer T1/2 (once-daily dosing), better against H. influenzae and Chlamydia urogenital. Erythromycin: shorter T1/2, penicillin alternative in allergy, risk of cholestatic jaundice."
     },
     {
       "front": "What is the serious cardiac side effect associated with macrolides?",
