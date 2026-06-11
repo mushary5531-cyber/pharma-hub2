@@ -103,105 +103,105 @@
   "flashcards": [
     {
       "front": "What is the difference between a crystalloid and a colloid?",
-      "back": "Crystalloid: clear solutions of water and electrolytes that cross cell membranes. Colloid: contains large molecules (proteins) that remain within blood vessels longer and raise the oncotic pressure."
+      "back": "Crystalloid: clear solutions of water and electrolytes that cross cell membranes. Colloid: contains large molecules (proteins) that remain within the vasculature longer and raise oncotic pressure."
     },
     {
       "front": "What is the composition of Normal Saline (0.9% NaCl)?",
-      "back": "Contains only water, sodium (154 mEq/L), and chloride (154 mEq/L). Its concentration matches that of these electrolytes in blood plasma."
+      "back": "Contains only water, sodium (154 mEq/L), and chloride (154 mEq/L). Its concentration approximates that of these electrolytes in blood plasma."
     },
     {
-      "front": "What is the complication of giving large volumes of Normal Saline?",
-      "back": "Hyperchloremic metabolic acidosis due to the high chloride content, in addition to the risk of fluid overload."
+      "front": "What is the complication of administering large volumes of Normal Saline?",
+      "back": "Hyperchloraemic metabolic acidosis due to the high Cl- content, in addition to the risk of fluid overload."
     },
     {
       "front": "What is the advantage of Ringer's Lactate over Normal Saline?",
-      "back": "Ringer's Lactate more closely resembles normal plasma composition (contains Na, Cl, K, Ca, and Lactate) and carries a lower risk of hyperchloremic acidosis."
+      "back": "Ringer's Lactate more closely resembles normal plasma composition (contains Na, Cl, K, Ca, Lactate) and carries a lower risk of hyperchloraemic acidosis."
     },
     {
       "front": "Why does D5W become a hypotonic solution after administration?",
-      "back": "Because glucose is rapidly metabolised, leaving only water, which acts as a hypotonic solution that enters cells."
+      "back": "Because glucose is rapidly metabolised, leaving only water — an effectively hypotonic solution that enters cells."
     },
     {
-      "front": "Why should D5W not be given to infants?",
+      "front": "Why is D5W not given to infants?",
       "back": "Because infants are more susceptible to dilutional hyponatraemia due to their limited renal capacity to excrete free water."
     },
     {
       "front": "What are the indications for hypotonic solutions?",
-      "back": "Hypernatraemia, diabetic ketoacidosis (DKA), and hyperosmolar hyperglycaemic state (HHS)."
+      "back": "Hypernatraemia, diabetic ketoacidosis (DKA), hyperosmolar hyperglycaemic state (HHS)."
     },
     {
       "front": "What are the warnings for hypotonic solutions?",
-      "back": "Do not give to patients with raised intracranial pressure (risk of cerebral oedema), or to patients with liver disease, burns, or shock (risk of intravascular volume depletion)."
+      "back": "Do not give to patients with raised intracranial pressure (risk of cerebral oedema), or to patients with liver disease, burns, or shock (risk of vascular volume depletion)."
     },
     {
       "front": "What are the indications for hypertonic saline (3% NaCl)?",
       "back": "Treatment of severe symptomatic hyponatraemia (coma, seizures) and cerebral oedema."
     },
     {
-      "front": "What is the danger of rapid correction of hyponatraemia?",
-      "back": "Overly rapid correction may cause cerebral oedema, seizures, and death. Therefore, hypertonic saline must be infused slowly via a central venous line."
+      "front": "What is the danger of rapidly correcting hyponatraemia?",
+      "back": "Over-rapid correction may cause cerebral oedema, seizures, and death. Therefore hypertonic saline must be given slowly via a central venous line."
     },
     {
       "front": "What is the mechanism by which 5% Albumin expands intravascular volume?",
-      "back": "Albumin raises the oncotic pressure inside blood vessels, drawing water from the interstitial space into the vessels."
+      "back": "Albumin raises the oncotic pressure within the vasculature, drawing water from the interstitial space into the vessels."
     },
     {
       "front": "What are the indications for 5% Albumin?",
-      "back": "Intravascular volume expansion, moderate protein replacement, and achieving haemodynamic stability in shock states."
+      "back": "Intravascular volume expansion, moderate protein replacement, and haemodynamic stabilisation in shock states."
     },
     {
-      "front": "What are the precautions for colloid administration?",
-      "back": "Use an 18-gauge needle or larger, monitor for signs of fluid overload (hypertension, dyspnoea, oedema), and watch for rare anaphylactoid reactions."
+      "front": "What are the precautions for administering colloids?",
+      "back": "Use an 18-gauge needle or larger; monitor for signs of hypervolaemia (hypertension, dyspnoea, oedema); watch for rare anaphylactoid reactions."
     },
     {
       "front": "What are the indications for Normal Saline?",
-      "back": "Treatment of extracellular volume depletion (haemorrhage, vomiting, severe diarrhoea), drug dilution, and dilution of packed red blood cells before transfusion."
+      "back": "Treatment of extracellular volume depletion (haemorrhage, vomiting, severe diarrhoea); drug dilution; dilution of packed red blood cells before transfusion."
     },
     {
-      "front": "What are the surgical fluid requirements?",
-      "back": "They include: maintenance requirements + deficit (fasting duration × daily requirement) + third-space losses + blood losses."
+      "front": "What are the fluid requirements in surgery?",
+      "back": "Includes: daily maintenance + deficit (hours fasted x maintenance rate) + third-space losses + blood losses."
     },
     {
       "front": "What is the osmolality of a hypotonic solution?",
-      "back": "Less than 250 mOsm/L. Normal plasma osmolality is 280–295 mOsm/L."
+      "back": "Less than 250 mOsm/L. Normal plasma osmolality is 280-295 mOsm/L."
     },
     {
-      "front": "What is the fundamental principle of IV fluid therapy?",
-      "back": "Treat IV fluids like any other prescription drug — the wrong dose or wrong type can cause serious complications."
+      "front": "What is the key message in IV fluid therapy?",
+      "back": "Treat intravenous fluids like a prescription drug — the wrong dose or wrong type can cause serious complications."
     },
     {
       "front": "What are the indications for IV fluid therapy?",
-      "back": "Replacement of fluids and electrolytes, provision of glucose for energy, delivery of vitamins and drugs, and when the patient is unable to swallow.",
+      "back": "Replacement of fluids and electrolytes, provision of glucose for energy, drug and vitamin delivery, when oral intake is not possible.",
       "tag": "high-yield"
     },
     {
-      "front": "What is the difference between crystalloids and colloids?",
-      "back": "Crystalloids: water and electrolytes that cross membranes (NaCl, Ringer's). Colloids: large molecules that remain in the vessels longer (Albumin, Dextran)."
+      "front": "What is the difference between Crystalloids and Colloids?",
+      "back": "Crystalloids: water and electrolytes that cross membranes (NaCl, Ringer's). Colloids: large molecules that remain within vessels longer (Albumin, Dextran)."
     },
     {
       "front": "What is an isotonic solution?",
-      "back": "A solution whose particle concentration equals that of plasma, so it neither enters cells nor causes them to shrink — it stays extracellularly and increases intravascular volume. Example: 0.9% NaCl.",
+      "back": "A solution with a particle concentration equal to that of plasma; it does not enter cells and remains extracellular, increasing intravascular volume. Example: NaCl 0.9%.",
       "tag": "high-yield"
     },
     {
-      "front": "What is the composition of 0.9% NaCl (Normal Saline)?",
+      "front": "What is the composition of Normal Saline 0.9% NaCl?",
       "back": "Water + sodium 154 mEq/L + chloride 154 mEq/L (equivalent to plasma concentration)."
     },
     {
-      "front": "When is a hypertonic solution used?",
-      "back": "Severe hyponatraemia; it draws water from cells into the vessels. Example: 3% NaCl."
+      "front": "When is hypertonic solution used?",
+      "back": "Severe hyponatraemia; draws water from cells into the vasculature. Example: NaCl 3%."
     },
     {
-      "front": "When is a hypotonic solution used?",
-      "back": "Intracellular dehydration; water moves into cells. Example: 0.45% NaCl."
+      "front": "When is hypotonic solution used?",
+      "back": "Intracellular dehydration; water enters cells. Example: NaCl 0.45%."
     },
     {
       "front": "What is Ringer's Lactate solution?",
-      "back": "An isotonic crystalloid solution containing sodium, potassium, calcium, chloride, and lactate — used for volume replacement."
+      "back": "An isotonic crystalloid containing sodium, potassium, calcium, chloride, and lactate — used for volume replacement."
     },
     {
-      "front": "What are the complications of excessive IV fluids?",
-      "back": "Oedema (fluid overload), cardiac failure, and electrolyte imbalance."
+      "front": "What are the complications of excessive IV fluid administration?",
+      "back": "Oedema (fluid overload), cardiac failure, electrolyte disturbances."
     }
   ],
   "mcqs": [
@@ -214,10 +214,10 @@
         "3% Sodium Chloride"
       ],
       "answer": 2,
-      "explanation": "Ringer's Lactate is the optimal choice for burns because it most closely resembles plasma composition and contains K+, which is important in these cases."
+      "explanation": "Ringer's Lactate is the optimal choice for burns as it most closely resembles plasma composition and contains K+, which is important in this setting."
     },
     {
-      "q": "A patient with chronic heart failure develops dehydration from gastroenteritis. Which fluid should be used cautiously to avoid fluid overload?",
+      "q": "A patient with chronic heart failure develops dehydration from gastroenteritis. Which fluid must be used cautiously to avoid fluid overload?",
       "options": [
         "Ringer's Lactate",
         "3% NaCl",
@@ -225,10 +225,10 @@
         "0.45% NaCl (Half Normal Saline)"
       ],
       "answer": 3,
-      "explanation": "Patients with heart failure are at high risk of fluid overload. Hypotonic solutions (0.45% NaCl) are less stable in the vascular space because the fluid enters cells."
+      "explanation": "Patients with heart failure are at risk of fluid overload. Hypotonic solutions (0.45% NaCl) are less stable in the vascular space because the fluid enters cells."
     },
     {
-      "q": "A patient presents with severe hyponatraemia and a seizure. What is the most appropriate fluid?",
+      "q": "A patient has severe hyponatraemia with a seizure. What is the most appropriate fluid?",
       "options": [
         "5% Albumin",
         "Ringer's Lactate",
@@ -236,21 +236,21 @@
         "Dextrose 5%"
       ],
       "answer": 2,
-      "explanation": "Severe symptomatic hyponatraemia (seizures, coma) requires 3% NaCl (hypertonic saline) to raise sodium levels rapidly, with close monitoring."
+      "explanation": "Severe symptomatic hyponatraemia (seizures, coma) requires hypertonic 3% NaCl to rapidly raise serum sodium under close monitoring."
     },
     {
-      "q": "Which of the following is true regarding D5W?",
+      "q": "Which of the following is correct regarding D5W?",
       "options": [
         "It is used for resuscitation in haemorrhagic shock",
-        "It can be mixed with red blood cells",
-        "It becomes a hypotonic solution after glucose metabolism",
-        "It is safe to give to patients with raised intracranial pressure"
+        "It can be mixed with packed red blood cells",
+        "It becomes a hypotonic solution after glucose is metabolised",
+        "It can be safely given to patients with raised intracranial pressure"
       ],
       "answer": 2,
-      "explanation": "After glucose is metabolised, only water remains, converting D5W into a hypotonic solution that enters cells. Therefore it should not be used for resuscitation, mixed with blood, or given with raised ICP."
+      "explanation": "After glucose is metabolised, only water remains; D5W becomes a hypotonic solution that enters cells. Therefore it cannot be used for resuscitation, mixed with blood, or given with raised ICP."
     },
     {
-      "q": "Which fluid is most appropriate for a patient with intracellular dehydration due to diabetic ketoacidosis (DKA)?",
+      "q": "What is the most appropriate fluid for a patient with intracellular dehydration due to diabetic ketoacidosis (DKA)?",
       "options": [
         "Ringer's Lactate",
         "0.45% Sodium Chloride (Half Normal Saline)",
@@ -258,18 +258,18 @@
         "5% Albumin"
       ],
       "answer": 1,
-      "explanation": "DKA causes intracellular dehydration through hyperosmolality. The hypotonic solution (0.45% NaCl) enters cells and rehydrates them."
+      "explanation": "DKA causes intracellular dehydration due to hyperosmolality. Hypotonic solution (0.45% NaCl) enters cells and rehydrates them."
     },
     {
-      "q": "Which pressure makes Albumin solution effective at expanding intravascular volume?",
+      "q": "What pressure makes 5% Albumin solution effective in expanding intravascular volume?",
       "options": [
         "Hydrostatic pressure",
-        "Oncotic (colloid osmotic) pressure",
+        "Oncotic pressure",
         "Sodium osmotic pressure",
         "Mean arterial pressure"
       ],
       "answer": 1,
-      "explanation": "Albumin raises the oncotic pressure generated by large molecules (proteins) inside blood vessels, drawing fluid from the interstitial tissue."
+      "explanation": "Albumin raises the oncotic pressure produced by large molecules (proteins) within the vasculature, drawing fluid from the interstitial tissue."
     },
     {
       "q": "A patient is given large volumes of Normal Saline for dehydration. What complication is expected?",
@@ -280,29 +280,29 @@
         "Hyperkalaemia"
       ],
       "answer": 1,
-      "explanation": "Normal Saline contains 154 mEq/L of Cl- (higher than plasma). Large volumes cause chloride accumulation and hyperchloraemic metabolic acidosis."
+      "explanation": "Normal Saline contains 154 mEq/L of Cl- (higher than plasma). Large volumes cause Cl- accumulation and hyperchloraemic metabolic acidosis."
     },
     {
       "q": "Which of the following is a warning when administering hypertonic saline?",
       "options": [
-        "It should be given rapidly via a small peripheral vein",
+        "Administer rapidly via a small peripheral vein",
         "It causes no complications",
-        "Risk of hypervolaemia and pulmonary oedema; must be infused slowly via a central line",
-        "It can be given safely to infants"
+        "Risk of hypervolaemia and pulmonary oedema; administer slowly via a central line",
+        "Safe to give to infants"
       ],
       "answer": 2,
-      "explanation": "Hypertonic saline draws fluid into the vessels, which can cause hypervolaemia and pulmonary oedema. It must be infused slowly via a central venous line with monitoring of serum sodium."
+      "explanation": "Hypertonic saline draws fluid into the vasculature, potentially causing hypervolaemia and pulmonary oedema. It must be given slowly via a central venous line with close monitoring of serum sodium."
     },
     {
-      "q": "A female patient in the ICU is receiving 5% Albumin for shock. Which sign warrants immediate cessation of the infusion?",
+      "q": "A female patient is receiving 5% Albumin in the ICU for shock. Which sign requires immediate discontinuation?",
       "options": [
-        "A slight rise in blood pressure",
-        "Acute dyspnoea + pulmonary crackles + oedema",
-        "Raised serum sodium",
-        "Low potassium"
+        "Mild rise in blood pressure",
+        "Acute dyspnoea + lung crackles + oedema",
+        "Hypernatraemia",
+        "Hypokalaemia"
       ],
       "answer": 1,
-      "explanation": "Dyspnoea, crackles, and oedema indicate hypervolaemia — a serious complication of colloids that requires immediate cessation of the infusion."
+      "explanation": "Dyspnoea, crackles, and oedema indicate hypervolaemia — a serious complication of colloids requiring immediate cessation of the infusion."
     },
     {
       "q": "What is the indication for Dextrose 5% (D5W)?",
@@ -313,7 +313,7 @@
         "Treatment of severe hyponatraemia"
       ],
       "answer": 2,
-      "explanation": "D5W is used to provide calories for patients who cannot eat (NPO patients) — it provides 170 kcal/L. However, it does not replace electrolytes and is not used for resuscitation."
+      "explanation": "D5W is used to provide calories for patients who cannot take oral nutrition (NPO patients) — it delivers 170 kcal/L. However it does not replace electrolytes and is not used for resuscitation."
     },
     {
       "q": "100% bioavailability and a composition similar to plasma describes:",
@@ -324,7 +324,7 @@
         "Colloid"
       ],
       "answer": 1,
-      "explanation": "An isotonic solution stays extracellularly and increases intravascular volume.",
+      "explanation": "An isotonic solution remains extracellular and increases intravascular volume.",
       "difficulty": "medium"
     },
     {
@@ -336,7 +336,7 @@
         "Pure water"
       ],
       "answer": 2,
-      "explanation": "Hypertonic saline raises sodium and draws water into the vessels.",
+      "explanation": "Hypertonic saline raises sodium and draws water into the vasculature.",
       "difficulty": "medium"
     },
     {
@@ -348,7 +348,7 @@
         "Electrolyte"
       ],
       "answer": 1,
-      "explanation": "Albumin is a colloid that remains within blood vessels.",
+      "explanation": "Albumin is a colloid that remains within the vasculature.",
       "difficulty": "medium"
     }
   ],

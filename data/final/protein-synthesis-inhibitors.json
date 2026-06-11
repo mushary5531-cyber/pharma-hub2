@@ -326,10 +326,10 @@
         "Clarithromycin"
       ],
       "answer": 2,
-      "explanation": "Tetracycline is contraindicated in children under 8 years of age due to its deposition in developing bones and teeth, causing discoloration and deformities."
+      "explanation": "Tetracycline is contraindicated in children under 8 years because it deposits in developing bones and teeth, causing discoloration and deformities."
     },
     {
-      "q": "Which tetracycline is preferred in patients with renal failure?",
+      "q": "Which is the only tetracycline preferred in patients with renal failure?",
       "options": [
         "Tetracycline",
         "Minocycline",
@@ -337,7 +337,7 @@
         "Demeclocycline"
       ],
       "answer": 2,
-      "explanation": "Doxycycline is excreted via bile (feces) rather than through the kidneys, making it the only safe tetracycline in renal failure."
+      "explanation": "Doxycycline is excreted via bile (feces) rather than the kidneys, making it the only safe option in renal failure."
     },
     {
       "q": "A patient receiving an aminoglycoside develops progressive muscle paralysis. What is the correct treatment?",
@@ -348,10 +348,10 @@
         "Vitamin K"
       ],
       "answer": 2,
-      "explanation": "Calcium gluconate or Neostigmine reverse the neuromuscular blockade caused by aminoglycosides."
+      "explanation": "Calcium gluconate or Neostigmine reverses the neuromuscular blockade caused by aminoglycosides."
     },
     {
-      "q": "Which aminoglycoside is used orally for bowel preparation before surgery?",
+      "q": "Which aminoglycoside is given orally for bowel preparation before surgery?",
       "options": [
         "Gentamicin",
         "Streptomycin",
@@ -359,10 +359,10 @@
         "Neomycin"
       ],
       "answer": 3,
-      "explanation": "Neomycin is highly nephrotoxic systemically, so it is given orally (not absorbed) or topically only."
+      "explanation": "Neomycin is extremely nephrotoxic systemically, so it is given orally (not absorbed) or topically only."
     },
     {
-      "q": "A pregnant patient has Chlamydia infection. What is the most appropriate antibiotic?",
+      "q": "A pregnant woman has a Chlamydia infection. What is the most appropriate antibiotic?",
       "options": [
         "Tetracycline",
         "Doxycycline",
@@ -370,7 +370,7 @@
         "Minocycline"
       ],
       "answer": 2,
-      "explanation": "Erythromycin is the optimal choice for Chlamydia in pregnancy. Tetracyclines are contraindicated in pregnancy due to their effects on fetal bones and teeth."
+      "explanation": "Erythromycin is the drug of choice for Chlamydia in pregnancy. Tetracyclines are contraindicated in pregnancy due to their effects on fetal bones and teeth."
     },
     {
       "q": "Which of the following drugs causes Gray Baby Syndrome?",
@@ -392,7 +392,7 @@
         "QT prolongation"
       ],
       "answer": 2,
-      "explanation": "Linezolid with use > 28 days causes irreversible peripheral neuropathy and optic neuritis that may lead to blindness."
+      "explanation": "Linezolid used for >28 days can cause irreversible peripheral neuropathy and optic neuropathy that may lead to blindness."
     },
     {
       "q": "What are the 3Ps not covered by Tigecycline?",
@@ -414,10 +414,10 @@
         "Both are time-dependent"
       ],
       "answer": 1,
-      "explanation": "Aminoglycosides: concentration-dependent with post-antibiotic effect (PAE), allowing once-daily dosing. Penicillins: time-dependent with virtually no PAE."
+      "explanation": "Aminoglycosides: concentration-dependent with post-antibiotic effect (PAE) allowing once-daily dosing. Penicillins: time-dependent with minimal PAE."
     },
     {
-      "q": "Which macrolide is first-line for urogenital Chlamydia infection?",
+      "q": "Which macrolide is the first-line agent for urogenital Chlamydia infection?",
       "options": [
         "Erythromycin",
         "Clarithromycin",
@@ -425,7 +425,7 @@
         "Telithromycin"
       ],
       "answer": 2,
-      "explanation": "Azithromycin is first-line for urogenital Chlamydia due to its very long T1/2 and a single sufficient treatment dose."
+      "explanation": "Azithromycin is first-line for urogenital Chlamydia due to its very long T1/2 and the single dose sufficient for treatment."
     },
     {
       "q": "Aminoglycosides do not work against anaerobes because they:",
@@ -436,7 +436,7 @@
         "Are destroyed by acid"
       ],
       "answer": 1,
-      "explanation": "Their entry depends on oxygen.",
+      "explanation": "Their entry is oxygen-dependent.",
       "difficulty": "medium"
     },
     {

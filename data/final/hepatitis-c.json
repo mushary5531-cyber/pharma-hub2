@@ -98,110 +98,110 @@
   ],
   "flashcards": [
     {
-      "front": "ما الفرق الرئيسي بين علاج HCV القديم والحديث؟",
-      "back": "القديم: Interferon + Ribavirin (نسب شفاء اقل، اعراض جانبية شديدة). الحديث: DAAs بدون انترفيرون، نسب شفاء >95%، تحمل افضل."
+      "front": "What is the main difference between old and modern HCV treatment?",
+      "back": "Old: Interferon + Ribavirin (lower cure rates, severe side effects). Modern: DAAs without interferon, cure rates >95%, better tolerability."
     },
     {
-      "front": "ما وظيفة NS3/NS4A Protease في HCV؟",
-      "back": "انزيم اساسي يقص البوليبروتين الفيروسي الى بروتينات وظيفية ضرورية لتضاعف الفيروس."
+      "front": "What is the function of NS3/NS4A Protease in HCV?",
+      "back": "An essential enzyme that cleaves the viral polyprotein into functional proteins necessary for viral replication."
     },
     {
-      "front": "ما اللاحقة المميزة لمثبطات NS3/NS4A Protease؟",
-      "back": "-previr (مثل: Glecaprevir, Simeprevir, Grazoprevir)"
+      "front": "What is the distinctive suffix of NS3/NS4A Protease inhibitors?",
+      "back": "-previr (e.g., Glecaprevir, Simeprevir, Grazoprevir)"
     },
     {
-      "front": "ما التفاعل الدوائي الرئيسي لمثبطات NS3/NS4A (-previr)؟",
-      "back": "تثبط CYP3A مما يؤدي لتفاعلات دوائية محتملة مع الادوية التي يحللها هذا الانزيم."
+      "front": "What is the main drug interaction of NS3/NS4A inhibitors (-previr)?",
+      "back": "They inhibit CYP3A, leading to potential interactions with drugs metabolized by this enzyme."
     },
     {
-      "front": "ما وظيفة NS5A في HCV؟",
-      "back": "بروتين اساسي لتضاعف HCV RNA وتجميع الجسيمات الفيروسية."
+      "front": "What is the function of NS5A in HCV?",
+      "back": "An essential protein for HCV RNA replication and assembly of viral particles."
     },
     {
-      "front": "ما اللاحقة المميزة لمثبطات NS5A؟",
-      "back": "-asvir (مثل: Pibrentasvir, Velpatasvir, Ledipasvir)"
+      "front": "What is the distinctive suffix of NS5A inhibitors?",
+      "back": "-asvir (e.g., Pibrentasvir, Velpatasvir, Ledipasvir)"
     },
     {
-      "front": "ما التفاعل الدوائي لمثبطات NS5A (-asvir)؟",
-      "back": "تثبط P-glycoprotein (P-gp) مما يغير توزيع ادوية كثيرة ويسبب تفاعلات دوائية هامة."
+      "front": "What is the drug interaction of NS5A inhibitors (-asvir)?",
+      "back": "They inhibit P-glycoprotein (P-gp), altering the distribution of many drugs and causing significant drug interactions."
     },
     {
-      "front": "ما وظيفة NS5B في HCV؟",
-      "back": "هو الـ RNA Polymerase الوحيد للفيروس المسؤول عن نسخ الـ RNA الفيروسي."
+      "front": "What is the function of NS5B in HCV?",
+      "back": "It is the sole RNA Polymerase of the virus, responsible for copying the viral RNA."
     },
     {
-      "front": "ما اللاحقة المميزة لمثبطات NS5B Polymerase؟",
-      "back": "-buvir (مثل: Sofosbuvir, Dasabuvir)"
+      "front": "What is the distinctive suffix of NS5B Polymerase inhibitors?",
+      "back": "-buvir (e.g., Sofosbuvir, Dasabuvir)"
     },
     {
-      "front": "ما ميزة مثبطات NS5B من حيث الاثار الجانبية؟",
-      "back": "جيدة التحمل مع اعراض جانبية قليلة مقارنة بمثبطات البروتياز و NS5A."
+      "front": "What is the advantage of NS5B inhibitors regarding side effects?",
+      "back": "Well tolerated with fewer side effects compared to protease inhibitors and NS5A inhibitors."
     },
     {
-      "front": "ما البروتوكول الاول الموصى به حاليا لعلاج HCV؟",
-      "back": "Glecaprevir/Pibrentasvir لمدة 8 اسابيع - فعّال ضد كل الانماط الجينية."
+      "front": "What is the currently recommended first-line protocol for HCV treatment?",
+      "back": "Glecaprevir/Pibrentasvir for 8 weeks — effective against all genotypes."
     },
     {
-      "front": "ما البروتوكول الثاني الموصى به لعلاج HCV؟",
-      "back": "Sofosbuvir/Velpatasvir لمدة 12 اسبوعا - فعّال ضد كل الانماط الجينية."
+      "front": "What is the second recommended protocol for HCV treatment?",
+      "back": "Sofosbuvir/Velpatasvir for 12 weeks — effective against all genotypes."
     },
     {
-      "front": "ما نسبة الشفاء مع البروتوكولات الحديثة لـ HCV؟",
-      "back": "اكثر من 95% (Cure rate >95%) مع غطاء لكل الانماط الجينية (Pangenotypic)."
+      "front": "What is the cure rate with modern HCV protocols?",
+      "back": "Greater than 95% (Cure rate >95%) with coverage of all genotypes (Pangenotypic)."
     },
     {
-      "front": "هل لا يزال Ribavirin مستخدما في علاج HCV؟",
-      "back": "نعم، لازال مكونا مهما مع بعض DAAs في حالات معينة حسب النمط الجيني والحالة المرضية، لكنه غير مطلوب في البروتوكولات الاولى."
+      "front": "Is Ribavirin still used in HCV treatment?",
+      "back": "Yes, it remains an important component with some DAAs in certain cases depending on genotype and disease status, but it is not required in first-line protocols."
     },
     {
-      "front": "لماذا لم يعد الانترفيرون موصى به في علاج HCV؟",
-      "back": "بسبب توفر DAAs ذات الفاعلية العالية (>95%) والتحمل الافضل. الانترفيرون اعراضه الجانبية شديدة ونسب نجاحه اقل."
+      "front": "Why is Interferon no longer recommended for HCV treatment?",
+      "back": "Because of the availability of highly effective DAAs (>95%) with better tolerability. Interferon has severe side effects and lower success rates."
     },
     {
-      "front": "ما اعراض مثبطات NS3/NS4A الجانبية؟",
-      "back": "طفح جلدي، حكة، غثيان، تعب وانيميا."
+      "front": "What are the side effects of NS3/NS4A inhibitors?",
+      "back": "Rash, pruritus, nausea, fatigue, and anemia."
     },
     {
-      "front": "ما المقصود بـ Pangenotypic في علاج HCV؟",
-      "back": "يعني ان الدواء فعّال ضد كل الانماط الجينية للـ HCV (1-6) بدون الحاجة لتحديد النمط الجيني قبل العلاج."
+      "front": "What is meant by Pangenotypic in HCV treatment?",
+      "back": "It means the drug is effective against all HCV genotypes (1–6) without needing to identify the genotype before treatment."
     },
     {
-      "front": "ما العلاج الحديث لالتهاب الكبد C؟",
-      "back": "DAAs (مضادات الفيروس مباشرة المفعول) ± Ribavirin؛ تراجع استخدام الإنترفيرون.",
+      "front": "What is the modern treatment for Hepatitis C?",
+      "back": "DAAs (Direct-Acting Antivirals) ± Ribavirin; use of Interferon has declined.",
       "tag": "high-yield"
     },
     {
-      "front": "ما آلية مثبطات NS3/4A ('-previr')؟",
-      "back": "تثبّط بروتياز فيروسي ضروري لتضاعف RNA؛ تثبّط CYP3A (تداخلات)."
+      "front": "What is the mechanism of NS3/4A inhibitors ('-previr')?",
+      "back": "They inhibit the viral protease necessary for RNA replication; they inhibit CYP3A (drug interactions)."
     },
     {
-      "front": "ما آلية مثبطات NS5A؟",
-      "back": "تمنع بروتيناً ضرورياً لتضاعف وتجميع RNA الفيروسي؛ تثبّط P-gp."
+      "front": "What is the mechanism of NS5A inhibitors?",
+      "back": "They block a protein essential for viral RNA replication and assembly; they inhibit P-gp."
     },
     {
-      "front": "ما آلية مثبطات NS5B؟",
-      "back": "مثبطات بوليميراز RNA المعتمد على RNA ('-buvir')."
+      "front": "What is the mechanism of NS5B inhibitors?",
+      "back": "RNA-dependent RNA polymerase inhibitors ('-buvir')."
     },
     {
-      "front": "ما دور Ribavirin في علاج HCV؟",
-      "back": "يبقى مكوناً مهماً مع الإنترفيرون أو DAAs حسب النمط الجيني وحالة المرض."
+      "front": "What is the role of Ribavirin in HCV treatment?",
+      "back": "It remains an important component with Interferon or DAAs depending on genotype and disease status."
     },
     {
-      "front": "لماذا قلّ استخدام الإنترفيرون في HCV؟",
-      "back": "لتوفر DAAs الأكثر فعالية والأقل آثاراً جانبية."
+      "front": "Why has Interferon use declined in HCV?",
+      "back": "Because DAAs are more effective and have fewer side effects."
     },
     {
-      "front": "ما الأثر الجانبي لمثبطات NS3/4A؟",
-      "back": "طفح، حكة، غثيان، تعب، فقر دم."
+      "front": "What are the side effects of NS3/4A inhibitors?",
+      "back": "Rash, pruritus, nausea, fatigue, anemia."
     },
     {
-      "front": "لماذا تكثر التداخلات الدوائية مع DAAs؟",
-      "back": "لأنها تُستقلب عبر CYP450 وتثبّط CYP3A وP-glycoprotein."
+      "front": "Why are drug interactions common with DAAs?",
+      "back": "Because they are metabolized via CYP450 and inhibit CYP3A and P-glycoprotein."
     }
   ],
   "mcqs": [
     {
-      "q": "ما اللاحقة المميزة لمثبطات NS3/NS4A Protease في علاج HCV؟",
+      "q": "What is the distinctive suffix of NS3/NS4A Protease inhibitors in HCV treatment?",
       "options": [
         "-buvir",
         "-asvir",
@@ -209,65 +209,65 @@
         "-ciclovir"
       ],
       "answer": 2,
-      "explanation": "-previr هي اللاحقة الخاصة بمثبطات NS3/NS4A Protease مثل Glecaprevir و Simeprevir."
+      "explanation": "-previr is the suffix specific to NS3/NS4A Protease inhibitors such as Glecaprevir and Simeprevir."
     },
     {
-      "q": "البروتوكول الحالي الاول الموصى به لعلاج HCV هو:",
+      "q": "The currently recommended first-line protocol for HCV treatment is:",
       "options": [
-        "Interferon + Ribavirin لمدة 24 اسبوع",
-        "Sofosbuvir/Velpatasvir لمدة 12 اسبوعا",
-        "Glecaprevir/Pibrentasvir لمدة 8 اسابيع",
-        "Ribavirin وحده لمدة 6 اشهر"
+        "Interferon + Ribavirin for 24 weeks",
+        "Sofosbuvir/Velpatasvir for 12 weeks",
+        "Glecaprevir/Pibrentasvir for 8 weeks",
+        "Ribavirin alone for 6 months"
       ],
       "answer": 2,
-      "explanation": "المبادئ التوجيهية الحالية توصي بـ Glecaprevir/Pibrentasvir لمدة 8 اسابيع كخيار اول لكل الانماط الجينية."
+      "explanation": "Current guidelines recommend Glecaprevir/Pibrentasvir for 8 weeks as the first-choice option for all genotypes."
     },
     {
-      "q": "ما وظيفة NS5B في دورة حياة HCV؟",
+      "q": "What is the function of NS5B in the HCV life cycle?",
       "options": [
-        "بروتياز يقص البوليبروتين",
-        "بروتين يجمع الجسيمات الفيروسية",
-        "RNA Polymerase وحيد لنسخ RNA الفيروسي",
-        "بروتين غلافي للفيروس"
+        "A protease that cleaves the polyprotein",
+        "A protein that assembles viral particles",
+        "The sole RNA Polymerase responsible for copying the viral RNA",
+        "An envelope protein of the virus"
       ],
       "answer": 2,
-      "explanation": "NS5B هو الـ RNA-dependent RNA Polymerase الوحيد للـ HCV، مسؤول حصريا عن نسخ الجينوم الفيروسي."
+      "explanation": "NS5B is the RNA-dependent RNA Polymerase of HCV, exclusively responsible for replicating the viral genome."
     },
     {
-      "q": "التفاعل الدوائي الرئيسي لمثبطات NS3/NS4A (-previr) يحدث عبر:",
+      "q": "The main drug interaction of NS3/NS4A inhibitors (-previr) occurs via:",
       "options": [
-        "تثبيط P-glycoprotein",
-        "تثبيط CYP3A",
-        "تنشيط CYP2D6",
-        "تثبيط الكلى"
+        "Inhibition of P-glycoprotein",
+        "Inhibition of CYP3A",
+        "Activation of CYP2D6",
+        "Inhibition of the kidneys"
       ],
       "answer": 1,
-      "explanation": "مثبطات NS3/NS4A Protease تثبط CYP3A مما يزيد مستوى الادوية الاخرى التي يحللها هذا الانزيم وقد يسبب سمية."
+      "explanation": "NS3/NS4A Protease inhibitors inhibit CYP3A, raising the levels of other drugs metabolized by this enzyme and potentially causing toxicity."
     },
     {
-      "q": "ما نسبة الشفاء مع بروتوكولات DAAs الحديثة؟",
+      "q": "What is the cure rate with modern DAA protocols?",
       "options": [
-        "اقل من 50%",
-        "60-70%",
-        "80-85%",
-        "اكثر من 95%"
+        "Less than 50%",
+        "60–70%",
+        "80–85%",
+        "Greater than 95%"
       ],
       "answer": 3,
-      "explanation": "بروتوكولات DAAs الحديثة تحقق نسب شفاء >95% مع تحمل ممتاز وتغطية لكل الانماط الجينية."
+      "explanation": "Modern DAA protocols achieve cure rates >95% with excellent tolerability and coverage of all genotypes."
     },
     {
-      "q": "اللاحقة -asvir تدل على:",
+      "q": "The suffix -asvir indicates:",
       "options": [
-        "مثبطات NS5B Polymerase",
-        "مثبطات NS3/NS4A Protease",
-        "مثبطات NS5A",
-        "مضادات النيوكليوزيد"
+        "NS5B Polymerase inhibitors",
+        "NS3/NS4A Protease inhibitors",
+        "NS5A inhibitors",
+        "Nucleoside analogues"
       ],
       "answer": 2,
-      "explanation": "-asvir خاصة بمثبطات NS5A مثل Pibrentasvir و Velpatasvir و Ledipasvir."
+      "explanation": "-asvir is specific to NS5A inhibitors such as Pibrentasvir, Velpatasvir, and Ledipasvir."
     },
     {
-      "q": "Sofosbuvir ينتمي لمجموعة:",
+      "q": "Sofosbuvir belongs to the class of:",
       "options": [
         "NS3/NS4A Protease Inhibitors",
         "NS5A Inhibitors",
@@ -275,43 +275,43 @@
         "Interferons"
       ],
       "answer": 2,
-      "explanation": "Sofosbuvir (-buvir) مثبط NS5B Polymerase، يُستخدم مع Velpatasvir كبروتوكول ثاني لمدة 12 اسبوعا."
+      "explanation": "Sofosbuvir (-buvir) is an NS5B Polymerase inhibitor, used with Velpatasvir as the second-line protocol for 12 weeks."
     },
     {
-      "q": "لماذا توقف استخدام Interferon في علاج HCV؟",
+      "q": "Why was Interferon use discontinued in HCV treatment?",
       "options": [
-        "غير فعّال تماما ضد HCV",
-        "توفر DAAs بفاعلية >95% وتحمل افضل",
-        "محظور دوليا",
-        "لا يُعطى عن طريق الوريد"
+        "It is completely ineffective against HCV",
+        "DAAs are available with >95% efficacy and better tolerability",
+        "It is internationally banned",
+        "It cannot be given intravenously"
       ],
       "answer": 1,
-      "explanation": "المبادئ التوجيهية الحديثة لا توصي بالانترفيرون لان DAAs اكثر فاعلية (>95%) واقل اعراضا جانبية."
+      "explanation": "Modern guidelines do not recommend Interferon because DAAs are more effective (>95%) and have fewer side effects."
     },
     {
-      "q": "التفاعل الدوائي لـ NS5A inhibitors (-asvir) يحدث عبر:",
+      "q": "Drug interactions of NS5A inhibitors (-asvir) occur via:",
       "options": [
-        "تثبيط CYP3A",
-        "تنشيط CYP2C9",
-        "تثبيط P-glycoprotein",
-        "تنشيط P-glycoprotein"
+        "Inhibition of CYP3A",
+        "Activation of CYP2C9",
+        "Inhibition of P-glycoprotein",
+        "Activation of P-glycoprotein"
       ],
       "answer": 2,
-      "explanation": "مثبطات NS5A تثبط P-glycoprotein مما يؤثر على توزيع وامتصاص ادوية متعددة ويسبب تفاعلات دوائية هامة."
+      "explanation": "NS5A inhibitors inhibit P-glycoprotein, affecting the distribution and absorption of multiple drugs and causing significant drug interactions."
     },
     {
-      "q": "ما مدة علاج Glecaprevir/Pibrentasvir للحالات غير المعقدة؟",
+      "q": "What is the treatment duration of Glecaprevir/Pibrentasvir for uncomplicated cases?",
       "options": [
-        "4 اسابيع",
-        "8 اسابيع",
-        "12 اسبوعا",
-        "24 اسبوعا"
+        "4 weeks",
+        "8 weeks",
+        "12 weeks",
+        "24 weeks"
       ],
       "answer": 1,
-      "explanation": "Glecaprevir/Pibrentasvir يُعطى لمدة 8 اسابيع فقط للمرضى غير المعالجين سابقا بدون تشمع كبدي."
+      "explanation": "Glecaprevir/Pibrentasvir is given for 8 weeks only in treatment-naive patients without cirrhosis."
     },
     {
-      "q": "الدواء الذي ينتهي بـ '-previr' هو مثبط:",
+      "q": "A drug ending in '-previr' is an inhibitor of:",
       "options": [
         "NS5A",
         "NS3/4A protease",
@@ -319,23 +319,23 @@
         "neuraminidase"
       ],
       "answer": 1,
-      "explanation": "بروتياز NS3/4A.",
+      "explanation": "NS3/4A protease.",
       "difficulty": "medium"
     },
     {
-      "q": "العلاج الأساسي الحالي لـ HCV:",
+      "q": "The current primary treatment for HCV is:",
       "options": [
-        "إنترفيرون وحده",
+        "Interferon alone",
         "DAAs",
-        "ريبافيرين وحده",
-        "لاميفودين"
+        "Ribavirin alone",
+        "Lamivudine"
       ],
       "answer": 1,
-      "explanation": "DAAs محور العلاج الحديث.",
+      "explanation": "DAAs are the cornerstone of modern treatment.",
       "difficulty": "medium"
     },
     {
-      "q": "مثبطات NS5B تنتهي عادة بـ:",
+      "q": "NS5B inhibitors typically end in:",
       "options": [
         "-previr",
         "-asvir",
@@ -343,7 +343,7 @@
         "-vir"
       ],
       "answer": 2,
-      "explanation": "'-buvir' مثبطات البوليميراز.",
+      "explanation": "'-buvir' polymerase inhibitors.",
       "difficulty": "medium"
     }
   ]

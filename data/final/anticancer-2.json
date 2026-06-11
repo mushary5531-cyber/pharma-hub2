@@ -148,126 +148,126 @@
   ],
   "flashcards": [
     {
-      "front": "ما آلية عمل العوامل الالكيلية؟",
-      "back": "نقل مجموعات الكيل الى N7 في قواعد الغوانين في DNA مما يسبب كسر الخيوط، الترابط بين الخيطين، ومنع التضاعف الطبيعي."
+      "front": "What is the mechanism of action of alkylating agents?",
+      "back": "Transfer of alkyl groups to the N7 position of guanine bases in DNA, causing strand breaks, cross-linking between strands, and prevention of normal replication."
     },
     {
-      "front": "ما علاج انسكاب Mechlorethamine خارج الوريد؟",
-      "back": "Sodium Thiosulfate يُحقن موضعيا لتحييد الدواء المنسكب."
+      "front": "What is the treatment for Mechlorethamine extravasation?",
+      "back": "Sodium Thiosulfate is injected locally to neutralize the extravasated drug."
     },
     {
-      "front": "ما Acrolein وما علاقته بالسيكلوفوسفاميد؟",
-      "back": "Acrolein هو مستقلب سمي لـ Cyclophosphamide يسبب Hemorrhagic Cystitis (التهاب المثانة النزفي). يُمنع بـ Mesna وزيادة شرب السوائل."
+      "front": "What is Acrolein and what is its relationship to Cyclophosphamide?",
+      "back": "Acrolein is a toxic metabolite of Cyclophosphamide that causes Hemorrhagic Cystitis (bladder inflammation). Prevented by Mesna and increased fluid intake."
     },
     {
-      "front": "ما استخدام Streptozotocin وما سميته الخاصة؟",
-      "back": "يُستخدم في Insulinoma لانه يسمّ خلايا بيتا في جزر لانغرهانز بشكل انتقائي. سميته الخاصة: يسبب مرض السكري (Diabetogenic)."
+      "front": "What is the use of Streptozotocin and its distinctive toxicity?",
+      "back": "Used in Insulinoma because it selectively destroys beta cells of the islets of Langerhans. Distinctive toxicity: causes diabetes mellitus (Diabetogenic)."
     },
     {
-      "front": "ما ميزة Nitrosureas التي تجعلها مناسبة لاورام الدماغ؟",
-      "back": "Lomustine و Carmustine يعبران حاجز الدم-الدماغ (BBB) على عكس معظم ادوية السرطان."
+      "front": "What feature of Nitrosoureas makes them suitable for brain tumors?",
+      "back": "Lomustine and Carmustine cross the blood-brain barrier (BBB), unlike most anticancer drugs."
     },
     {
-      "front": "ما آلية عمل Vinca Alkaloids؟",
-      "back": "ترتبط بـ Tubulin وتمنع بلمرته (Polymerization)، فتتفكك الانابيب الدقيقة للمغزل الميتوزي ويتوقف انقسام الخلية في مرحلة M."
+      "front": "What is the mechanism of action of Vinca Alkaloids?",
+      "back": "They bind to Tubulin and inhibit its polymerization, causing dissolution of the mitotic spindle and arrest of cell division in the M phase."
     },
     {
-      "front": "ما الفرق في السمية بين Vincristine و Vinblastine؟",
-      "back": "VX: اعتلال عصبي محيطي (Neuropathy)، فقدان الانعكاسات، ضعف عضلي. VBL: تثبيط نخاع العظم اشد من VX."
+      "front": "What is the difference in toxicity between Vincristine and Vinblastine?",
+      "back": "Vincristine (VX): peripheral neuropathy, loss of reflexes, muscle weakness. Vinblastine (VBL): more severe bone marrow suppression than VX."
     },
     {
-      "front": "ما الاستخدام السريري لـ Vincristine؟",
-      "back": "في بروتوكول POMP لسرطان الدم، ورم Wilms، وغيرها من الاورام - دائما في تركيبة مع ادوية اخرى."
+      "front": "What is the clinical use of Vincristine?",
+      "back": "In the POMP protocol for leukemia, Wilms tumor, and other cancers — always used in combination with other drugs."
     },
     {
-      "front": "لماذا يُعطى بروتوكول تحضيري قبل Paclitaxel؟",
-      "back": "بسبب خطر تفاعل تحسسي شديد. البروتوكول: Dexamethasone + Diphenhydramine + H2 blocker."
+      "front": "Why is a premedication protocol given before Paclitaxel?",
+      "back": "Due to the risk of severe hypersensitivity reaction. Protocol: Dexamethasone + Diphenhydramine + H2 blocker."
     },
     {
-      "front": "ما Tamoxifen وما استخدامه؟",
-      "back": "SERM (Selective Estrogen Receptor Modulator) مضاد للاستروجين بتاثير استروجيني ضعيف. خط اول لعلاج سرطان الثدي ER Positive."
+      "front": "What is Tamoxifen and what is its use?",
+      "back": "SERM (Selective Estrogen Receptor Modulator) — an antiestrogen with weak estrogenic activity. First-line treatment for ER-positive breast cancer."
     },
     {
-      "front": "ما مشكلة الاستروجين في علاج سرطان البروستاتا؟",
-      "back": "يسبب احتشاء عضلة القلب، حوادث الجلطات، السكتة الدماغية، والعجز الجنسي."
+      "front": "What is the problem with estrogens in the treatment of prostate cancer?",
+      "back": "They cause myocardial infarction, thromboembolic events, stroke, and sexual dysfunction."
     },
     {
-      "front": "ما الفرق بين الورم الهرموني المستجيب والمعتمد؟",
-      "back": "Responsive: يتراجع بإعطاء الهرمون (تلطيفي فقط). Dependent: يتراجع بإزالة الهرمون بالجراحة او الادوية."
+      "front": "What is the difference between a hormone-responsive and a hormone-dependent tumor?",
+      "back": "Responsive: regresses when the hormone is given (palliative only). Dependent: regresses when the hormone is removed by surgery or drugs."
     },
     {
-      "front": "ما آلية سمية Cisplatin الكلوية وكيف تُمنع؟",
-      "back": "يسمّ خلايا الانابيب القريبة (Proximal Tubule). تُمنع بالترطيب المكثف والادرار القسري."
+      "front": "What is the mechanism of Cisplatin renal toxicity and how is it prevented?",
+      "back": "It damages proximal tubule cells. Prevented by aggressive hydration and forced diuresis."
     },
     {
-      "front": "ما التفاعل الدوائي الخطير مع Cisplatin؟",
-      "back": "Aminoglycosides تزيد من السمية الكلوية والسمية السمعية (Ototoxicity) عند اخذها مع Cisplatin."
+      "front": "What is the dangerous drug interaction with Cisplatin?",
+      "back": "Aminoglycosides increase both nephrotoxicity and ototoxicity when combined with Cisplatin."
     },
     {
-      "front": "ما الاثار الجانبية الخاصة بـ Interferon-alpha؟",
-      "back": "الاكتئاب هو الاهم. ايضا: حمى ورعشة في الايام الاولى، قلة الكريات والصفيحات (Dose-Limiting)، ارتفاع انزيمات الكبد."
+      "front": "What are the specific side effects of Interferon-alpha?",
+      "back": "Depression is the most important. Also: flu-like symptoms (fever, chills) in the first days, leukopenia and thrombocytopenia (dose-limiting), and elevated liver enzymes."
     },
     {
-      "front": "ما G-CSF وما استخدامه في العلاج الكيميائي؟",
-      "back": "Filgrastim (Granulocyte Colony-Stimulating Factor) يُعطى مع Paclitaxel لمنع Neutropenia الشديدة."
+      "front": "What is G-CSF and what is its use in chemotherapy?",
+      "back": "Filgrastim (Granulocyte Colony-Stimulating Factor) is given with Paclitaxel to prevent severe Neutropenia."
     },
     {
-      "front": "ما خطر الاستخدام طويل الامد للعوامل الالكيلية؟",
-      "back": "تسبب طفرات (Mutagenic) قد تؤدي لاورام ثانوية خاصة سرطان الدم الحاد بعد 10 سنوات او اكثر."
+      "front": "What is the risk of long-term use of alkylating agents?",
+      "back": "They are mutagenic and can lead to secondary malignancies, especially acute leukemia, 10 or more years later."
     },
     {
-      "front": "لماذا يُعطى Prednisone في علاج السرطان؟",
-      "back": "لتقليل الالتهاب، منع التفاعلات التحسسية للعلاج الكيميائي، قمع المناعة بعد زرع النخاع، ومباشرة في سرطانات الليمفوما والليوكيميا."
+      "front": "Why is Prednisone used in cancer treatment?",
+      "back": "To reduce inflammation, prevent hypersensitivity reactions to chemotherapy, suppress immunity after bone marrow transplant, and directly against lymphomas and leukemias."
     },
     {
-      "front": "ما سُمّية Doxorubicin/Daunorubicin المميّزة؟",
-      "back": "سُمّية قلبية تراكمية (راقب بـ Dexrazoxane).",
+      "front": "What is the distinctive toxicity of Doxorubicin/Daunorubicin?",
+      "back": "Cumulative cardiotoxicity (monitor with Dexrazoxane).",
       "tag": "high-yield"
     },
     {
-      "front": "ما سُمّية Bleomycin المميّزة؟",
-      "back": "تليف رئوي (اعمل CXR أساسي)؛ أقل كبت نقوي.",
+      "front": "What is the distinctive toxicity of Bleomycin?",
+      "back": "Pulmonary fibrosis (get baseline CXR); minimal bone marrow suppression.",
       "tag": "high-yield"
     },
     {
-      "front": "ما آلية Vinca alkaloids؟",
-      "back": "تمنع بلمرة الأنابيب الدقيقة → توقف الانقسام في الطور M."
+      "front": "What is the mechanism of Vinca alkaloids?",
+      "back": "Inhibit polymerization of microtubules → arrest cell division in M phase."
     },
     {
-      "front": "ما الفرق بين Vincristine و Vinblastine في السُّميّة؟",
-      "back": "Vincristine → اعتلال أعصاب طرفي؛ Vinblastine → كبت نقوي."
+      "front": "What is the difference in toxicity between Vincristine and Vinblastine?",
+      "back": "Vincristine → peripheral neuropathy; Vinblastine → bone marrow suppression."
     },
     {
-      "front": "ما آلية Taxanes (Paclitaxel)؟",
-      "back": "تثبّت الأنابيب الدقيقة وتمنع تفككها → توقف الانقسام؛ اعتلال أعصاب ونقص عدلات."
+      "front": "What is the mechanism of Taxanes (Paclitaxel)?",
+      "back": "Stabilize microtubules and prevent their depolymerization → arrest cell division; causes neuropathy and neutropenia."
     },
     {
-      "front": "ما آلية Mechlorethamine؟",
-      "back": "خردل نيتروجيني مؤلكِل ينقل ألكيل لـ N7-guanine؛ غثيان شديد وكبت نقوي."
+      "front": "What is the mechanism of Mechlorethamine?",
+      "back": "Nitrogen mustard alkylating agent that transfers an alkyl group to N7-guanine; causes severe nausea and bone marrow suppression."
     },
     {
-      "front": "ما آلية وسُمّية Tamoxifen؟",
-      "back": "مضاد إستروجين لسرطان الثدي؛ خطر سرطان بطانة الرحم وتغيّر الإبصار."
+      "front": "What is the mechanism and toxicity of Tamoxifen?",
+      "back": "Antiestrogen for breast cancer; risk of endometrial cancer and visual disturbances."
     },
     {
-      "front": "كيف يُعالَج الغثيان الشديد من العلاج الكيميائي؟",
-      "back": "Ondansetron (مضاد 5-HT3) + Dexamethasone قبل العلاج."
+      "front": "How is severe chemotherapy-induced nausea managed?",
+      "back": "Ondansetron (5-HT3 antagonist) + Dexamethasone before treatment."
     }
   ],
   "mcqs": [
     {
-      "q": "مريض يأخذ Cyclophosphamide ظهر عنده بول دموي. ما السبب وما العلاج الوقائي؟",
+      "q": "A patient taking Cyclophosphamide presents with hematuria. What is the cause and what is the preventive treatment?",
       "options": [
-        "السمية الكلوية - الترطيب",
-        "Acrolein يسبب Hemorrhagic Cystitis - Mesna وزيادة السوائل",
-        "تثبيط النخاع - نقل الدم",
-        "التاثير على الانابيب الكلوية - Furosemide"
+        "Nephrotoxicity — hydration",
+        "Acrolein causes Hemorrhagic Cystitis — Mesna and increased fluids",
+        "Bone marrow suppression — blood transfusion",
+        "Effect on renal tubules — Furosemide"
       ],
       "answer": 1,
-      "explanation": "Acrolein مستقلب Cyclophosphamide السمي يحرق جدار المثانة. Mesna يرتبط به ويحيّده قبل ان يلمس المثانة."
+      "explanation": "Acrolein, the toxic metabolite of Cyclophosphamide, burns the bladder wall. Mesna binds and neutralizes it before it contacts the bladder."
     },
     {
-      "q": "اي الادوية التالية يعبر حاجز الدم-الدماغ ويُستخدم في اورام الدماغ؟",
+      "q": "Which of the following drugs crosses the blood-brain barrier and is used for brain tumors?",
       "options": [
         "Mechlorethamine",
         "Cyclophosphamide",
@@ -275,32 +275,32 @@
         "Doxorubicin"
       ],
       "answer": 2,
-      "explanation": "Carmustine و Lomustine (Nitrosoureas) لهما قدرة عبور BBB مما يجعلهما مناسبين لاورام الدماغ."
+      "explanation": "Carmustine and Lomustine (Nitrosoureas) have the ability to cross the BBB, making them suitable for brain tumors."
     },
     {
-      "q": "ما الآلية التي تعمل بها Vincristine و Vinblastine؟",
+      "q": "What is the mechanism by which Vincristine and Vinblastine work?",
       "options": [
-        "تثبيط DHFR",
-        "التداخل في خيوط DNA",
-        "منع بلمرة Tubulin وتفكيك المغزل الميتوزي",
-        "تثبيط Topoisomerase"
+        "Inhibition of DHFR",
+        "Intercalation into DNA strands",
+        "Prevention of Tubulin polymerization and dissolution of the mitotic spindle",
+        "Inhibition of Topoisomerase"
       ],
       "answer": 2,
-      "explanation": "Vinca Alkaloids ترتبط بـ Tubulin تمنع بلمرته فيتفكك المغزل الميتوزي ويتوقف انقسام الخلية."
+      "explanation": "Vinca Alkaloids bind to Tubulin and inhibit its polymerization, causing dissolution of the mitotic spindle and arrest of cell division."
     },
     {
-      "q": "Vincristine يسبب اعراضا جانبية جهازية عصبية تشمل:",
+      "q": "Vincristine causes systemic neurological side effects including:",
       "options": [
-        "تثبيط نخاع العظم الشديد",
-        "فقدان الانعكاسات (Areflexia) وضعف العضلات",
-        "تليف رئوي",
-        "سمية قلبية لا رجعة فيها"
+        "Severe bone marrow suppression",
+        "Loss of reflexes (Areflexia) and muscle weakness",
+        "Pulmonary fibrosis",
+        "Irreversible cardiotoxicity"
       ],
       "answer": 1,
-      "explanation": "VX يسبب اعتلال عصبي محيطي مميز: فقدان الانعكاسات وضعف عضلات خاصة Quadriceps. الامساك من الاعتلال العصبي اللاارادي."
+      "explanation": "Vincristine causes characteristic peripheral neuropathy: loss of reflexes and muscle weakness (especially Quadriceps). Constipation results from autonomic neuropathy."
     },
     {
-      "q": "مريضة سرطان ثدي ER+، ما الدواء المناسب كخط اول؟",
+      "q": "A female patient with ER-positive breast cancer — what is the appropriate first-line drug?",
       "options": [
         "Prednisone",
         "Tamoxifen",
@@ -308,21 +308,21 @@
         "Cisplatin"
       ],
       "answer": 1,
-      "explanation": "Tamoxifen SERM يحجب مستقبلات الاستروجين في خلايا الثدي وهو خط اول لعلاج سرطان الثدي ER Positive."
+      "explanation": "Tamoxifen is a SERM that blocks estrogen receptors in breast cells and is the first-line treatment for ER-positive breast cancer."
     },
     {
-      "q": "قبل تسريب Paclitaxel يجب اعطاء تحضير مسبق يشمل:",
+      "q": "Before infusing Paclitaxel, a premedication regimen must be given including:",
       "options": [
-        "Leucovorin فقط",
+        "Leucovorin only",
         "Dexamethasone + Diphenhydramine + H2 blocker",
         "Mesna + Allopurinol",
-        "Dexrazoxane فقط"
+        "Dexrazoxane only"
       ],
       "answer": 1,
-      "explanation": "Paclitaxel يسبب تفاعلا تحسسيا شديدا يستلزم تحضيرا بـ Dexamethasone (كورتيكوستيرويد) + Diphenhydramine (مضاد هيستامين) + H2 blocker."
+      "explanation": "Paclitaxel causes severe hypersensitivity reactions requiring premedication with Dexamethasone (corticosteroid) + Diphenhydramine (antihistamine) + H2 blocker."
     },
     {
-      "q": "ما الدواء الذي يقلل سمية Paclitaxel على نخاع العظم (Neutropenia)؟",
+      "q": "Which drug reduces Paclitaxel-induced bone marrow toxicity (Neutropenia)?",
       "options": [
         "Dexrazoxane",
         "Mesna",
@@ -330,43 +330,43 @@
         "Leucovorin"
       ],
       "answer": 2,
-      "explanation": "Filgrastim (G-CSF) يحفز انتاج الخلايا البيضاء ويُعطى وقايةً من Neutropenia الناتجة عن Paclitaxel."
+      "explanation": "Filgrastim (G-CSF) stimulates white blood cell production and is given prophylactically against Paclitaxel-induced Neutropenia."
     },
     {
-      "q": "الاثر الجانبي المحدد لـ Cisplatin والمختلف عن غيره من العوامل الالكيلية هو:",
+      "q": "The distinctive side effect of Cisplatin that differs from other alkylating agents is:",
       "options": [
-        "تثبيط النخاع",
-        "السمية الرئوية",
-        "السمية الكلوية والسمية السمعية",
-        "تلوين البول باللون الاحمر"
+        "Bone marrow suppression",
+        "Pulmonary toxicity",
+        "Nephrotoxicity and ototoxicity",
+        "Red urine discoloration"
       ],
       "answer": 2,
-      "explanation": "Cisplatin مميز بسميته الكلوية (Proximal Tubule) والسمعية (Ototoxicity). تزداد بالاشتراك مع Aminoglycosides."
+      "explanation": "Cisplatin is distinctive for its nephrotoxicity (Proximal Tubule) and ototoxicity. Both are increased when combined with Aminoglycosides."
     },
     {
-      "q": "Streptozotocin دواء خاص لـ:",
+      "q": "Streptozotocin is specifically used for:",
       "options": [
-        "اورام الدماغ",
-        "Insulinoma لانه يسمّ خلايا بيتا انتقائيا",
-        "سرطان الثدي ER+",
-        "الليوكيميا الحادة"
+        "Brain tumors",
+        "Insulinoma because it selectively destroys beta cells",
+        "ER-positive breast cancer",
+        "Acute leukemia"
       ],
       "answer": 1,
-      "explanation": "Streptozotocin نيتروزيوريا ذات انتقائية لخلايا بيتا البنكرياس، مستخدم في Insulinoma (ورم مُفرِز للانسولين)."
+      "explanation": "Streptozotocin is a nitrosourea with selectivity for pancreatic beta cells, used in Insulinoma (insulin-secreting tumor)."
     },
     {
-      "q": "الاعراض الجانبية المحددة لـ Interferon-alpha تشمل:",
+      "q": "The specific side effects of Interferon-alpha include:",
       "options": [
-        "سمية قلبية + لون بول احمر",
-        "اكتئاب + حمى ورعشة في الايام الاولى",
+        "Cardiotoxicity + red urine",
+        "Depression + flu-like symptoms (fever, chills) in the first days",
         "Hemorrhagic Cystitis",
         "Hand-Foot Syndrome"
       ],
       "answer": 1,
-      "explanation": "IFN-alpha مميز بالاكتئاب (مع Alpha خاصة) والاعراض الشبيهة بالانفلونزا في الايام الاولى من العلاج."
+      "explanation": "IFN-alpha is distinctive for depression (especially with Alpha) and flu-like symptoms in the first days of treatment."
     },
     {
-      "q": "التليف الرئوي يرتبط بـ:",
+      "q": "Pulmonary fibrosis is associated with:",
       "options": [
         "Doxorubicin",
         "Bleomycin",
@@ -374,11 +374,11 @@
         "Cisplatin"
       ],
       "answer": 1,
-      "explanation": "Bleomycin سُمّية رئوية.",
+      "explanation": "Bleomycin pulmonary toxicity.",
       "difficulty": "medium"
     },
     {
-      "q": "السُّميّة القلبية التراكمية تميّز:",
+      "q": "Cumulative cardiotoxicity is characteristic of:",
       "options": [
         "Bleomycin",
         "Doxorubicin",
@@ -386,19 +386,19 @@
         "Paclitaxel"
       ],
       "answer": 1,
-      "explanation": "anthracyclines قلبية السُّميّة.",
+      "explanation": "Anthracyclines are cardiotoxic.",
       "difficulty": "medium"
     },
     {
-      "q": "Vincristine يسبب أساساً:",
+      "q": "Vincristine primarily causes:",
       "options": [
-        "كبت نقوي شديد",
-        "اعتلال أعصاب طرفي",
-        "سُمّية قلبية",
-        "تليف رئوي"
+        "Severe bone marrow suppression",
+        "Peripheral neuropathy",
+        "Cardiotoxicity",
+        "Pulmonary fibrosis"
       ],
       "answer": 1,
-      "explanation": "اعتلال عصبي طرفي مميّز.",
+      "explanation": "Characteristic peripheral neuropathy.",
       "difficulty": "medium"
     }
   ],

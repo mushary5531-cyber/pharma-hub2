@@ -136,11 +136,11 @@
   "flashcards": [
     {
       "front": "What is the difference between CCS and CCNS?",
-      "back": "CCS (Cell Cycle Specific) = acts only on dividing cells, e.g., antimetabolites and Bleomycin. CCNS = acts on both resting and dividing cells, e.g., alkylating agents."
+      "back": "CCS (Cell Cycle Specific) = acts only on dividing cells, such as antimetabolites and Bleomycin. CCNS = acts on both resting and dividing cells, such as alkylating agents."
     },
     {
       "front": "What is the mechanism of action of Methotrexate?",
-      "back": "Inhibits the enzyme Dihydrofolate Reductase (DHFR), blocking conversion of FH2 to FH4, thereby preventing synthesis of DNA, RNA, and protein."
+      "back": "Inhibits the enzyme Dihydrofolate Reductase (DHFR), blocking conversion of FH2 to FH4, thereby preventing DNA, RNA, and protein synthesis."
     },
     {
       "front": "What is Leucovorin Rescue?",
@@ -148,15 +148,15 @@
     },
     {
       "front": "Why must the dose of 6-MP be reduced when taking Allopurinol?",
-      "back": "Allopurinol inhibits Xanthine Oxidase, which normally breaks down 6-MP, causing the drug to accumulate and its toxicity to increase — reduce the dose by 25–75%."
+      "back": "Allopurinol inhibits Xanthine Oxidase, which metabolizes 6-MP, causing drug accumulation and increased toxicity — reduce dose by 25-75%."
     },
     {
-      "front": "What is the distinctive skin toxicity of 5-FU?",
-      "back": "Hand-Foot Syndrome: redness and peeling of the palms and soles following prolonged infusion."
+      "front": "What is the specific dermatological toxicity of 5-FU?",
+      "back": "Hand-Foot Syndrome: redness and peeling of the palms and soles after prolonged infusion."
     },
     {
       "front": "Why is Leucovorin given with 5-FU?",
-      "back": "Because Leucovorin stabilizes the binding of FdUMP to Thymidylate Synthase, enhancing the efficacy of 5-FU."
+      "back": "Because Leucovorin stabilizes the binding of FdUMP to Thymidylate Synthase, thereby enhancing the efficacy of 5-FU."
     },
     {
       "front": "What is the dose-limiting toxicity of Bleomycin?",
@@ -164,19 +164,19 @@
     },
     {
       "front": "What is the mechanism of action of Doxorubicin?",
-      "back": "Intercalates between DNA strands and inhibits Topoisomerase II, causing strand breaks and generation of free radicals."
+      "back": "Intercalates between DNA strands and inhibits Topoisomerase II, causing strand breaks and free radical generation."
     },
     {
-      "front": "What drug protects against Doxorubicin cardiotoxicity?",
+      "front": "What drug protects against Doxorubicin cardiac toxicity?",
       "back": "Dexrazoxane (an iron chelator) reduces free radical generation. Liposomal encapsulation also reduces cardiac toxicity."
     },
     {
-      "front": "What color is the urine with Doxorubicin?",
+      "front": "What is the color of urine with Doxorubicin?",
       "back": "Red (due to the drug's own pigment — unrelated to blood)."
     },
     {
       "front": "What are the common side effects shared by most anticancer drugs?",
-      "back": "Nausea and vomiting, diarrhea, stomatitis (mouth sores), bone marrow suppression (myelodepression), and hair loss (alopecia)."
+      "back": "Nausea and vomiting, diarrhea, stomatitis, myelodepression (bone marrow suppression), and alopecia."
     },
     {
       "front": "What are the non-oncologic uses of MTX?",
@@ -188,7 +188,7 @@
     },
     {
       "front": "What is POMP?",
-      "back": "A combination chemotherapy protocol for leukemia comprising: Prednisone, Oncovin (Vincristine), Methotrexate, and Purinethol (6-MP)."
+      "back": "A combination chemotherapy protocol for leukemia comprising: Prednisone, Oncovin (Vincristine), Methotrexate, Purinethol (6-MP)."
     },
     {
       "front": "Why are anticancer drugs given intermittently?",
@@ -196,37 +196,37 @@
     },
     {
       "front": "What is the renal toxicity of MTX and how is it prevented?",
-      "back": "At high doses it causes kidney damage — prevented by adequate hydration and urinary alkalinization."
+      "back": "At high doses it causes renal damage — prevented by adequate hydration and urine alkalinization."
     },
     {
-      "front": "What increases Doxorubicin cardiotoxicity?",
-      "back": "Thoracic irradiation (Thorax Irradiation) and the monoclonal antibody Trastuzumab."
+      "front": "What increases Doxorubicin cardiac toxicity?",
+      "back": "Thoracic irradiation and Trastuzumab (a monoclonal antibody)."
     },
     {
-      "front": "What cell-cycle category does Bleomycin belong to?",
+      "front": "What is the cell cycle classification of Bleomycin?",
       "back": "CCS — Cell Cycle Specific."
     },
     {
       "front": "What is meant by cell cycle specificity?",
-      "back": "Cell cycle-specific (CCS) drugs kill at a defined phase (antimetabolites, vinca alkaloids); non-specific (CCNS) drugs kill at any phase (alkylating agents).",
+      "back": "Phase-specific drugs (CCS) kill in a defined phase (antimetabolites, vinca); non-specific drugs (CCNS) kill in any phase (alkylating agents).",
       "tag": "high-yield"
     },
     {
       "front": "Why are rapidly dividing tumors more sensitive to chemotherapy?",
-      "back": "Because most drugs target dividing cells; resting G0 cells are more resistant."
+      "back": "Because most drugs target dividing cells; G0 resting cells are more resistant."
     },
     {
       "front": "What is the mechanism of alkylating agents?",
-      "back": "Transfer alkyl groups to the N7 position of guanine → strand breaks and cross-linking of DNA chains; mutagenic and carcinogenic (CCNS).",
+      "back": "Transfer alkyl groups to N7 of guanine → DNA strand breaks/cross-links; mutagenic and carcinogenic (CCNS).",
       "tag": "high-yield"
     },
     {
       "front": "What is the distinctive toxicity of Cyclophosphamide?",
-      "back": "Hemorrhagic cystitis caused by acrolein → prevented by Mesna and hydration."
+      "back": "Hemorrhagic cystitis from acrolein → prevention with Mesna and hydration."
     },
     {
       "front": "What is the toxicity of Cisplatin?",
-      "back": "Nephrotoxicity, ototoxicity, and severe nausea (give ondansetron + hydration)."
+      "back": "Nephrotoxicity, ototoxicity, and severe nausea/vomiting (give ondansetron + hydration)."
     },
     {
       "front": "What is the mechanism of Methotrexate and its rescue?",
@@ -234,16 +234,16 @@
     },
     {
       "front": "What is the mechanism of 5-Fluorouracil?",
-      "back": "Pyrimidine analogue that inhibits thymidylate synthase; causes bone marrow suppression and diarrhea."
+      "back": "Pyrimidine analogue that inhibits thymidylate synthase; causes myelosuppression and diarrhea."
     },
     {
-      "front": "Why is combination (multi-drug) therapy used?",
+      "front": "Why is combination (chemotherapy) therapy used?",
       "back": "To increase cell kill, reduce resistance, and distribute toxicity across different organs."
     }
   ],
   "mcqs": [
     {
-      "q": "Which of the following is used to rescue a patient from high-dose Methotrexate?",
+      "q": "Which of the following is used to rescue a patient from high-dose Methotrexate toxicity?",
       "options": [
         "Allopurinol",
         "Leucovorin",
@@ -254,18 +254,18 @@
       "explanation": "Leucovorin (Folinic Acid) bypasses the inhibited DHFR enzyme and restores folate synthesis in normal cells."
     },
     {
-      "q": "A patient taking 6-Mercaptopurine is started on Allopurinol for gout. What should be done?",
+      "q": "A patient taking 6-Mercaptopurine was started on Allopurinol for gout. What should be done?",
       "options": [
         "Stop Allopurinol",
-        "Double the dose of 6-MP",
-        "Reduce the dose of 6-MP by 25–75%",
-        "There is no interaction between them"
+        "Double the 6-MP dose",
+        "Reduce 6-MP dose by 25-75%",
+        "No interaction exists between them"
       ],
       "answer": 2,
-      "explanation": "Allopurinol inhibits Xanthine Oxidase, which normally metabolizes 6-MP, raising its level and toxicity. The solution is to reduce the dose."
+      "explanation": "Allopurinol inhibits Xanthine Oxidase which metabolizes 6-MP, raising its level and toxicity. The solution is to reduce the dose."
     },
     {
-      "q": "What is the dose-limiting toxicity of Bleomycin?",
+      "q": "What is the Dose-Limiting Toxicity of Bleomycin?",
       "options": [
         "Nephrotoxicity",
         "Cardiotoxicity",
@@ -273,18 +273,18 @@
         "Neurotoxicity"
       ],
       "answer": 2,
-      "explanation": "Pulmonary toxicity of Bleomycin ranges from cough to fatal pulmonary fibrosis and is the primary dose-limiting factor."
+      "explanation": "Pulmonary toxicity in Bleomycin ranges from cough to fatal pulmonary fibrosis and is the main dose-limiting factor."
     },
     {
       "q": "The cardiotoxic mechanism of Doxorubicin depends on:",
       "options": [
-        "Inhibition of DHFR",
+        "DHFR inhibition",
         "Free radical generation via Topoisomerase II inhibition",
-        "Accumulation in the lungs",
-        "Inhibition of Thymidylate Synthase"
+        "Pulmonary accumulation",
+        "Thymidylate Synthase inhibition"
       ],
       "answer": 1,
-      "explanation": "Free radicals produced by Topoisomerase II inhibition cause single-strand breaks in cardiac muscle cell DNA."
+      "explanation": "Free radicals generated by Topoisomerase II inhibition cause single-strand breaks in cardiac muscle DNA."
     },
     {
       "q": "Which of these drugs is used at low doses to treat Rheumatoid Arthritis?",
@@ -301,15 +301,15 @@
       "q": "What is the interaction between 5-FU and Leucovorin?",
       "options": [
         "Leucovorin reduces the efficacy of 5-FU",
-        "Leucovorin stabilizes 5-FU binding to Thymidylate Synthase, enhancing its efficacy",
+        "Leucovorin stabilizes 5-FU binding to Thymidylate Synthase, enhancing its effect",
         "Leucovorin rescues from 5-FU toxicity",
         "No interaction"
       ],
       "answer": 1,
-      "explanation": "Leucovorin as a co-factor stabilizes the FdUMP–Thymidylate Synthase complex, increasing inhibition efficacy."
+      "explanation": "Leucovorin as a cofactor stabilizes the FdUMP-Thymidylate Synthase complex, increasing the degree of inhibition."
     },
     {
-      "q": "Hand-Foot Syndrome is a distinctive side effect of:",
+      "q": "Hand-Foot Syndrome is a characteristic finding of:",
       "options": [
         "Methotrexate",
         "Bleomycin",
@@ -317,7 +317,7 @@
         "6-Mercaptopurine"
       ],
       "answer": 2,
-      "explanation": "5-FU following prolonged infusion causes redness and peeling of the palms and soles (Hand-Foot Syndrome)."
+      "explanation": "5-FU after prolonged infusion causes redness and peeling of the palms and soles (Hand-Foot Syndrome)."
     },
     {
       "q": "CCS (Cell Cycle Specific) drugs include all of the following EXCEPT:",
@@ -328,10 +328,10 @@
         "Mechlorethamine"
       ],
       "answer": 3,
-      "explanation": "Mechlorethamine is a CCNS alkylating agent that acts on both resting and dividing cells. All the others are CCS."
+      "explanation": "Mechlorethamine is a CCNS alkylating agent that works on both resting and dividing cells. The others are all CCS."
     },
     {
-      "q": "What drug protects the heart from Doxorubicin toxicity?",
+      "q": "Which drug protects the heart from Doxorubicin toxicity?",
       "options": [
         "Allopurinol",
         "Mesna",
@@ -339,18 +339,18 @@
         "Leucovorin"
       ],
       "answer": 2,
-      "explanation": "Dexrazoxane is an iron chelator that prevents free radical generation responsible for cardiotoxicity."
+      "explanation": "Dexrazoxane, an iron chelator, prevents generation of the free radicals responsible for cardiac toxicity."
     },
     {
       "q": "Methotrexate resistance occurs due to:",
       "options": [
         "Increased DHFR production",
         "Decreased DHFR production",
-        "Rapid drug breakdown",
-        "Inhibition of Xanthine Oxidase"
+        "Rapid drug degradation",
+        "Xanthine Oxidase inhibition"
       ],
       "answer": 0,
-      "explanation": "Cancer cells overcome MTX by increasing DHFR production so that the drug dose is insufficient to inhibit it."
+      "explanation": "Cancer cells overcome MTX by overproducing DHFR so that the drug dose is insufficient to inhibit it."
     },
     {
       "q": "Alkylating agents are classified as:",
@@ -358,14 +358,14 @@
         "S-phase specific",
         "Cell-cycle non-specific (CCNS)",
         "M-phase specific",
-        "Non-DNA acting"
+        "Do not affect DNA"
       ],
       "answer": 1,
-      "explanation": "They act at any phase.",
+      "explanation": "They act in any phase.",
       "difficulty": "medium"
     },
     {
-      "q": "Prevention of hemorrhagic cystitis from Cyclophosphamide:",
+      "q": "Prevention of hemorrhagic cystitis with Cyclophosphamide:",
       "options": [
         "Leucovorin",
         "Mesna and hydration",
@@ -377,7 +377,7 @@
       "difficulty": "medium"
     },
     {
-      "q": "Leucovorin is used to rescue from toxicity of:",
+      "q": "Leucovorin is used to rescue toxicity from:",
       "options": [
         "Cisplatin",
         "Methotrexate",
@@ -385,7 +385,7 @@
         "Bleomycin"
       ],
       "answer": 1,
-      "explanation": "Folinic acid bypasses DHF reductase inhibition.",
+      "explanation": "Folinic acid bypasses DHFR blockade.",
       "difficulty": "medium"
     }
   ],
